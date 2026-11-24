@@ -39,9 +39,12 @@ try {{ var s = JSON.parse(localStorage.getItem('beatlab.v1.settings') || '{{}}')
   var light = t === 'light' || (t === 'auto' && window.matchMedia && matchMedia('(prefers-color-scheme: light)').matches);
   document.documentElement.setAttribute('data-theme', light ? 'light' : 'dark'); }} catch (e) {{}}
 </script>
+<noscript><style>#splash{{display:none!important}}</style></noscript>
 </head>
 <body>
 <noscript>The Lamplighter Project needs JavaScript (and the Web Audio API) to run.</noscript>
+<div id="splash" role="status" style="position:fixed;inset:0;z-index:2;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.9rem;padding:2rem;text-align:center;background:var(--bg);color:var(--text2)"><img alt="" width="64" height="64" src="data:image/svg+xml,{favicon}" style="border-radius:16px"><div style="font:600 1.0625rem system-ui,-apple-system,sans-serif;color:var(--text)">The Lamplighter Project</div><div id="splashNote" style="font:.9375rem/1.5 system-ui,-apple-system,sans-serif;max-width:28rem;min-height:4.5em">Loading…</div></div>
+<script>setTimeout(function () {{ var s = document.getElementById('splash'), n = document.getElementById('splashNote'); if (s && n && !s.getAttribute('data-failed')) n.textContent = 'Still loading. The first visit downloads the app, so a slow connection can take a while; the next visit is much faster.'; }}, 9000);</script>
 <script>
 (function () {{
 {js}
@@ -49,6 +52,7 @@ if (document.readyState === 'loading') document.addEventListener('DOMContentLoad
 window.Beatlab = {{ AudioCore, Engine, Stats, Studio, Settings, Router, store, PRESETS, sha256, Viz, openOverlay, taskVAS, taskPVT, taskNBack, taskRAT, taskAUT, screenAudio, screenGuess, screenInfo, Exps, createExperiment, analyze, resultsHTML, runExperimentSession, seriesStats, seal, MEASURES, TEMPLATES, presetCfg, condAudio, J, LAB, RAT_ITEMS, SCENES, ZENER, Bell, Speech, buildCues, pacerAt, PACERS, PLAN, PRACTICES, runSit, openSheet, MED, medStats, quickOpts, bedCfg, PATH_STATIONS, LIB, LIB_GROUPS, THEMES, ERAS, PATH_PRACTICES, buildPathCues, PATH, YEAR_WHEEL, INT, intentionStats, intentionVerdict, sealIntention, verifyIntention, pairAssign, ECHO_LINKS, ECHO_KINDS, contemporaries, axisX, STATION_TIME, TXT }};   // handy for debugging & the test page
 }})();
 </script>
+<script>document.addEventListener('DOMContentLoaded', function () {{ var s = document.getElementById('splash'), n = document.getElementById('splashNote'); if (s && n) {{ s.setAttribute('data-failed', '1'); n.textContent = 'The app could not start in this browser, which may be too old. If you opened this page from another app, try your phone’s own browser, or a recent Safari, Chrome, Edge or Firefox.'; }} }});</script>
 </body>
 </html>
 """

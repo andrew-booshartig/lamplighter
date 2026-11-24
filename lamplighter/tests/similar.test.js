@@ -125,6 +125,11 @@ const near = (text, fromId) => { const emb = C.simEmbed(P, text); const own = fr
   const flood = Object.entries(cnt).length; ok('between 5 and 20 percent of passages carry a motif', (() => { let n = 0; for (let i = 0; i < P.N; i++) if (P.mo[i * 3] !== 255) n++; return n / P.N > 0.05 && n / P.N < 0.2; })());
   const ex = C.simEmbed(P, find('b-gen', 'He himself sent out a dove', 520)); ok('a search reports the motif a result shares with the query', ex.motifs && ex.motifs.length > 0);
 }
+/* the size the page tells a visitor on a web address that the first search downloads (SIM_INDEX_MB in 6u-similar.js, shown before the first search) is the size of the index folder to within 3 MB: change the
+   constant when the index is rebuilt (it was rebuilt on 24 November 2026: 66.3 MB, 63.3 MiB, seven files) */
+{ const mb = +(fs.readFileSync(path.join(__dirname, '../src/js/6u-similar.js'), 'utf8').match(/^const SIM_INDEX_MB = (\d+);/m) || [])[1]; const dir = path.join(ROOT, 'similar');
+  const total = fs.readdirSync(dir).filter((f) => /\.js$/.test(f)).reduce((n, f) => n + fs.statSync(path.join(dir, f)).size, 0) / 1048576;
+  ok('the size Find similar names for its first download (SIM_INDEX_MB) is the size of the index folder to within 3 MB', mb > 0 && Math.abs(mb - total) <= 3, [mb, total]); }
 warn.forEach((w) => console.log('NOTE', w));
 console.log(`similar: ${pass} passed, ${fail} failed (${P.N} passages, ${P.texts.length} texts, built ${P.built})`);
 process.exit(fail ? 1 : 0);

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Assemble the website copy of the Lamplighter Project into one folder that any static host can serve (GitHub Pages, GitLab Pages, Codeberg Pages, Netlify, Cloudflare Pages, or a Raspberry Pi):
-   index.html (the app), sw.js, manifest.webmanifest, icons/, offline-manifest.json, atlas/ texts/ bibles/ similar/ dictionary/, .nojekyll, _headers, robots.txt, 404.html, and the licence and read-me files.
+   index.html (the app), sw.js, manifest.webmanifest, icons/, offline-manifest.json, atlas/ texts/ bibles/ similar/ dictionary/, books/index.js (an empty catalogue), .nojekyll, _headers, robots.txt, 404.html, and the licence and read-me files.
 It copies (using hard links where it can, so it costs no extra disk) and refuses to run if any file is over 25 MiB (Cloudflare Pages' limit) or a folder is missing.
 Nothing is uploaded: this only builds the folder. Run: python3 -I tools/make_site.py [output folder] [options]   (default folder: <project>/site)
 Options, for a host with a size limit (GitHub Pages: a published site up to 1 GB, and a repository best under 1 GB):
@@ -84,8 +84,12 @@ for f in ('READ ME FIRST.txt', 'LICENSE-CODE.txt', 'LICENSE-CONTENT.txt'):
     if (rel / f).exists(): put(rel / f, out / f)
 (out / '.nojekyll').write_text('')
 (out / 'robots.txt').write_text('User-agent: *\nAllow: /\n')
+# the app looks once for a books/ folder beside the page (tools/add_books.js writes its catalogue, books/index.js). A website has none, and a missing file shows in the browser's console as a 404 and a
+# refused script on every first visit. This is the catalogue of an empty folder, which the app reads exactly as it reads "no folder" (nothing on the shelf), so its one look gets a plain answer.
+(out / 'books').mkdir(exist_ok=True)
+(out / 'books' / 'index.js').write_text('/* an empty books/ folder: see tools/make_site.py */\nglobalThis.BEATLAB_BOOKS = { v: 1, books: [] };\n', encoding='utf8')
 # a 404 page of its own. A site without one is taken by Cloudflare Pages for a single-page app: any path that is not a file is answered with index.html and a 200, so the optional lists the app
-# looks for (books/index.js, originals/index.js) would each come back as the whole 3 MB page, read as a script. With this file a missing file is a plain 404, as on a host that has no such rule.
+# looks for (originals/index.js; books/index.js has an empty catalogue of its own below) would each come back as the whole 3 MB page, read as a script. With this file a missing file is a plain 404, as on a host that has no such rule.
 (out / '404.html').write_text('<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Not found · The Lamplighter Project</title>'
                               '<body style="margin:0;padding:2rem;background:#070a11;color:#eee6d2;font:16px/1.5 system-ui,sans-serif"><h1 style="font-size:1.25rem;font-weight:600">There is nothing at this address</h1>'
                               '<p><a href="/" style="color:#ffd07a">Open the Lamplighter Project</a></p></body></html>\n', encoding='utf8')

@@ -10,6 +10,7 @@ const simScript = (name) => {
   });
   return SIMX._s[name];
 };
+const SIM_INDEX_MB = 66;      /* what the page tells a visitor on a web address the first search downloads (tests/similar.test.js keeps it within 3 MB of the index folder: change it when the index is rebuilt) */
 /* the index is about 66 MB (four of the seven files hold the passages: chunks-2.js and chunks-4.js the two halves of the vectors), loaded the first time it is wanted and then kept */
 async function simLoad() {
   if (SIMX.P) return SIMX.P;
@@ -159,10 +160,11 @@ function pathSimilarView(root, query) {
       <textarea class="input" id="smQ" rows="4" maxlength="900" style="width:100%;margin-top:4px" placeholder="e.g. a man is warned of a flood, builds a boat and sends out a dove">${esc(q0)}</textarea>
       <div class="row" style="margin-top:8px;gap:10px;flex-wrap:wrap"><button class="btn primary" id="smGo" type="button">${icon('search')}Find similar passages</button>
         <label class="chk"><input type="checkbox" id="smSame"><span class="small">Include ${from ? 'its own tradition' : 'every tradition'}</span></label></div>
+      ${typeof location !== 'undefined' && /^https?:$/.test(location.protocol) && !SIMX.P ? `<p class="small muted" id="smSize" style="margin:10px 0 0">The first search downloads the index, about ${SIM_INDEX_MB} MB; your browser keeps it for next time. On a mobile connection, Wi-Fi is kinder.</p>` : ''}
       <div class="row tight" style="margin-top:10px"><span class="small muted">Try</span>${SIM_EXAMPLES.map(([n, t], i) => `<button class="chip" type="button" data-ex="${i}">${esc(n)}</button>`).join('')}</div></section>
     <div id="smOut" aria-live="polite"></div>`;
   const out = $('#smOut', body); const ta = $('#smQ', body);
-  const go = () => { const t = ta.value.trim(); if (!t) { out.innerHTML = '<p class="t2 small">Type or paste something first.</p>'; return; } SIMX.lastQuery = t; simShow(out, t, { from, same: $('#smSame', body).checked }); };
+  const go = () => { const t = ta.value.trim(); if (!t) { out.innerHTML = '<p class="t2 small">Type or paste something first.</p>'; return; } const sz = $('#smSize', body); if (sz) sz.remove(); SIMX.lastQuery = t; simShow(out, t, { from, same: $('#smSame', body).checked }); };
   $('#smGo', body).addEventListener('click', go); ta.addEventListener('keydown', (e) => { if (e.key === 'Enter' && (e.metaKey || e.ctrlKey)) { e.preventDefault(); go(); } });
   body.addEventListener('click', (e) => { const ex = e.target.closest('[data-ex]'); if (ex) { ta.value = SIM_EXAMPLES[+ex.dataset.ex][1]; $('#smSame', body).checked = false; go(); } });
   simWire(out, (c) => { ta.value = psgClean(c.ps.text).slice(0, 700); location.hash = '#/path/similar?b=' + c.it.id + '&q=' + encodeURIComponent(ta.value); });

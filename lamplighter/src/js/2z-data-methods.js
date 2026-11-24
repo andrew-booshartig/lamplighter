@@ -61,6 +61,10 @@ const METH_RELEASES = [
   { stamp: null, date: null, items: [
     'Nothing yet: the changes made after the release below are listed here when the next release is built.',
   ] },
+  { stamp: '2026-11-24-a210d7', date: '2026-11-24', items: [
+    'A loading screen with the mark and the name now appears as soon as the first part of the page arrives, instead of a blank page while the app downloads; on a slow connection it says so, and a browser that cannot run the app says that too.',
+    'Find similar now says, before the first search, that the first search downloads its index (about 66 MB) and that your browser keeps it for next time.',
+  ] },
   { stamp: '2026-11-24-58a715', date: '2026-11-24', items: [
     'The feedback box now has a button that opens the project’s GitHub issue page, for people with no e-mail address to write to; you still copy or save the note yourself, and the app sends nothing.',
   ] },

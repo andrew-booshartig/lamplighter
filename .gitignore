@@ -1,0 +1,30 @@
+# Version control holds the source, tests, tools, data sources and the working documents.
+# Everything below is large or can be rebuilt from them (or from the network); back it up separately.
+
+# the Library and the data built from it
+/texts/
+/downloads/
+/originals/
+/books/
+/bibles/
+/similar/
+/dictionary/
+/atlas/
+
+# builds and release files
+/release/
+/site/
+/Lamplighter.html
+/sw.js
+/manifest.webmanifest
+/offline-manifest.json
+/lamplighter/dist/
+
+# raw downloads the text builders reuse (about 4 GB)
+/lamplighter/tools/cache/
+
+# local and system files
+/.claude/
+.DS_Store
+node_modules/
+*.log

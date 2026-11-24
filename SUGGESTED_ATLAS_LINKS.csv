@@ -1,0 +1,90 @@
+source_id,source,type,target_id,target,why
+sethianism,Sethian Gnosticism,influence,manichaeism,Manichaeism,Sethian myth and Gnostic dualism are among the sources of Mani’s system
+mandaeism,Mandaeism,influence,manichaeism,Manichaeism,Mani grew up among Elchasaite baptists; Mandaean and Manichaean imagery of light and the soul’s ascent overlap
+mandaeism,Mandaeism,influence,gnosticism,Gnosticism,Mandaeism is the one surviving Gnostic religion; it shares Gnostic myth and terminology
+zurvanism,Zurvanism,influence,zoroastrianism,Zoroastrianism,The Zurvanite doctrine of Time as father of Ahura Mazda and Ahriman shaped Sasanian Zoroastrianism
+zurvanism,Zurvanism,influence,manichaeism,Manichaeism,Zurvan appears as the Father of Greatness’s counterpart in Manichaean Middle Persian texts
+mazdakism,Mazdakism,derive,manichaeism,Manichaeism,Mazdak’s dualist community of light and darkness grew from Manichaean and Zurvanite ideas
+khurramites,Khurramites,derive,mazdakism,Mazdakism,The Khurramite revolts carried Mazdakite beliefs into early Islamic Iran
+pythagoreanism,Pythagoreanism,influence,orphism,Orphism,Pythagorean and Orphic doctrines of the soul’s transmigration overlap
+pythagoreanism,Pythagoreanism,influence,neoplatonism,Neoplatonism,"Plato took Pythagorean ideas of number, the soul and its rebirth"
+mohism,Mohism,conflict,confucianism,Confucianism,Mozi attacked Confucian ritual and partiality; Mencius and Xunzi answered
+charvaka,Chārvāka (Lokāyata),conflict,vedic,Vedic religion (Brahmanism),"The Charvakas rejected the Vedas, ritual and rebirth"
+ajivika,Ājīvika,conflict,buddhism,Buddhism,The Ajivikas were rivals of the Buddha and Mahavira; their fatalism is attacked in the Pali and Jain texts
+ajivika,Ājīvika,influence,jainism,Jainism,Mahavira was for a time a companion of the Ajivika teacher Makkhali Gosala
+sarvastivada,Sarvāstivāda,derive,mahayana,Mahāyāna Buddhism,The Mahayana grew in part from the Sarvastivada and Mahasamghika schools
+mahasanghika,Mahāsāṅghika,influence,mahayana,Mahāyāna Buddhism,The Mahasamghika view of the Buddha as supramundane prepared the Mahayana
+tiantai,Tiantai,influence,nichiren_buddhism,Nichiren Buddhism,Nichiren took the Lotus Sutra teaching of the Tiantai school as his basis
+jodo_shu,Jōdo-shū,derive,pure_land,Pure Land Buddhism,Honen founded the Japanese Pure Land school on Chinese Pure Land teaching
+shingon,Shingon,derive,vajrayana,Vajrayāna (Tantric Buddhism),Kukai brought the esoteric Buddhism of Tang China to Japan
+soka_gakkai,Sōka Gakkai,derive,nichiren_buddhism,Nichiren Buddhism,Soka Gakkai took its teaching and chant from Nichiren Buddhism
+reiyukai,Reiyūkai,derive,nichiren_buddhism,Nichiren Buddhism,Reiyukai is a lay Nichiren-based movement
+rissho_kosei_kai,Risshō Kōsei Kai,derive,reiyukai,Reiyūkai,Rissho Kosei Kai split from Reiyukai
+seicho_no_ie,Seichō-no-Ie,derive,omoto,Ōmoto,Taniguchi Masaharu was a follower of Omoto before founding Seicho-no-Ie
+sekai_kyuseikyo,Sekai Kyūseikyō,derive,omoto,Ōmoto,Okada Mokichi was a follower of Omoto before founding his movement
+mahikari,Sūkyō Mahikari,derive,sekai_kyuseikyo,Sekai Kyūseikyō,Mahikari grew out of Sekai Kyuseikyo
+tenrikyo,Tenrikyō,derive,shinto,Shinto,"Tenrikyo drew on Shinto, Buddhist and folk religion"
+konkokyo,Konkōkyō,derive,shinto,Shinto,Konkokyo is one of the Shinto-based new religions of the 19th century
+daesoon_jinrihoe,Daesoon Jinrihoe,derive,jeungsanism,Jeungsanism,Daesoon Jinrihoe grew from Jeungsan’s followers
+hoa_hao,Hòa Hảo,derive,buddhism,Buddhism,Hoa Hao is a reform Buddhism of the Mekong Delta
+obeah,Obeah,derive,akan_religion,Akan religion,Obeah draws on Akan and other West African practice
+hoodoo,Hoodoo (rootwork),syncretism,kongo_religion,Kongo religion,Hoodoo carries Kongo and other African conjure with Christian and Native American practice
+revival_zion,Revival Zion (Pocomania),syncretism,baptists,Baptists,Jamaican Revival joins Baptist worship with African practice
+alevism,Alevism,derive,shia,Shia Islam,Alevi belief centres on Ali and the Twelve Imams
+bektashi,Bektashi Order,derive,alevism,Alevism,The Bektashi order is the Sufi order closest to Alevi belief
+yazidism,Yazidism,influence,sufism,Sufism,"Sheikh Adi, a Sufi, is the central saint of the Yazidis"
+yarsanism,Yarsanism (Ahl-e Haqq),influence,shia,Shia Islam,Yarsani belief draws on Shia Islam and Sufism
+lahore_ahmadiyya,Lahore Ahmadiyya Movement,schism,ahmadiyya,Ahmadiyya,The Lahore party split from the Qadiani Ahmadiyya in 1914
+tablighi,Tablighi Jamaat,derive,deobandi,Deobandi movement,Tablighi Jamaat grew from the Deobandi school
+salafism,Salafism,derive,wahhabism,Wahhabism,Salafism took part of its method from the Wahhabi movement
+tijaniyya,Tijaniyya,derive,sufism,Sufism,The Tijaniyya is a Sufi order founded by Ahmad al-Tijani
+qadiriyya,Qadiriyya,derive,sufism,Sufism,The Qadiriyya is the oldest large Sufi order
+naqshbandiyya,Naqshbandi Order,derive,sufism,Sufism,The Naqshbandi order is a Sufi order of Central Asia
+chishtiyya,Chishti Order,derive,sufism,Sufism,The Chishti order is the Sufi order of the Indian sub-continent
+waldensians,Waldensians,influence,protestantism,Protestantism,The Waldensians joined the Reformation in 1532
+hussites,Hussites,influence,protestantism,Protestantism,The Hussite movement was the first great reform movement before Luther
+lollards,Lollardy,influence,hussites,Hussites,Wycliffe’s teaching came to Bohemia and shaped Hus
+plymouth_brethren,Plymouth Brethren,derive,anglicanism,Anglicanism,The Brethren grew out of Anglican and Irish dissent around J. N. Darby
+doukhobors,Doukhobors,derive,russian_orthodox,Russian Orthodox Church,The Doukhobors separated from the Russian Orthodox Church as “Spiritual Christians”
+molokans,Molokans,derive,doukhobors,Doukhobors,The Molokans share the Spiritual Christian background of the Doukhobors
+salvation_army,The Salvation Army,derive,methodism,Methodism,The Salvation Army grew from Methodist revivalism
+hutterites,Hutterites,derive,anabaptism,Anabaptism,The Hutterites are an Anabaptist community
+socinians,Polish Brethren (Socinians),influence,unitarianism,Unitarianism,The Socinians were the root of Unitarian thought
+frankism,Frankism,derive,sabbateanism,Sabbateanism,Frankism grew from the Sabbatian movement
+donmeh,Dönmeh,derive,sabbateanism,Sabbateanism,The Donmeh are the community of Sabbatai Zevi’s Muslim converts
+urantia,Urantia movement,influence,new_age,New Age movement,The Urantia Book is one of the New Age scriptures
+faithism,Faithism (Oahspe),influence,new_age,New Age movement,Oahspe is an early New Age scripture
+minoan,Minoan religion,influence,greek,Ancient Greek religion,Minoan religion shaped Greek religion
+sol_invictus,Cult of Sol Invictus,influence,mithraism,Roman Mithraism,Sol Invictus and Mithras were rival solar cults of the Roman army
+thracian,Thracian religion,influence,orphism,Orphism,Orphism has Thracian roots
+hopewell,Hopewell religion,influence,mississippian,Mississippian religion,Hopewell mound-building ritual preceded the Mississippian cults
+chavin_religion,Chavín religion,influence,moche_religion,Moche religion,Chavín iconography spread to later Andean cultures
+olmec,Olmec religion,influence,maya_religion,Maya religion,Olmec religion shaped later Mesoamerica
+olmec,Olmec religion,influence,zapotec_religion,Zapotec religion,Olmec religion shaped later Mesoamerica
+teotihuacan_religion,Teotihuacan religion,influence,aztec_religion,Aztec (Mexica) religion,Aztec religion looked back to Teotihuacan
+lapita_polynesian,Polynesian religion,influence,maori_religion,Māori religion,Maori religion is a Polynesian religion
+ringatu,Ringatū,derive,pai_marire,Pai Mārire,Ringatu grew from Pai Marire
+john_frum,John Frum movement,syncretism,vanuatu_kastom,Vanuatu kastom religion,John Frum is a cargo movement of Tanna
+reformed,Reformed Christianity (Calvinism),influence,waldensians,Waldensians,In 1532 the Waldensian synod of Chanforan adopted the Reformed faith and its organisation: Comba’s History of the Waldenses (x-wld)
+sufism,Sufism,influence,din_i_ilahi,Din-i Ilahi,"Akbar’s “divine religion” drew on the Sufi doctrine of the unity of all and on his debates with Hindu, Jain, Parsi and Christian learned men: Ain-i Akbari, volume III (x-aia)"
+tendai,Tendai,derive,nichiren_buddhism,Nichiren Buddhism,Nichiren trained as a Tendai monk on Mount Hiei and based his teaching on the Lotus Sutra of that school: Anesaki’s Nichiren (x-nic)
+nat_worship,Burmese nat worship,syncretism,theravada,Theravāda Buddhism,Burmese Buddhism and the nat spirits and their feasts exist side by side in one popular religion: Shway Yoe’s The Burman (a-shy)
+satsana_phi,Satsana Phi (Tai spirit religion),syncretism,theravada,Theravāda Buddhism,Siamese Buddhism and the worship of the phi (spirits) exist side by side: Young’s Kingdom of the Yellow Robe (a-yel)
+tahitian_religion,Society Islands religion,convert,congregationalism,Congregationalism (Puritan),"The London Missionary Society (Congregational) won Tahiti in 1815–19, and Pomare II broke the old temples: Ellis’s Polynesian Researches (a-ell)"
+hawaiian_religion,Hawaiian religion,convert,congregationalism,Congregationalism (Puritan),The kapu system was ended in 1819 and the American Congregational mission arrived in 1820: Ellis’s Polynesian Researches (a-ell)
+fijian_religion,Fijian religion,convert,methodism,Methodism,"Wesleyan Methodist missionaries from 1835 and the conversion of Cakobau in 1854: Williams’s Fiji and the Fijians (a-fiji), Brewster’s Hill Tribes of Fiji (a-brw)"
+hausa_bori,Bori (Hausa spirit religion),syncretism,sunni,Sunni Islam,"The Bori spirit cult lives beside, and has taken in, Hausa Islam: Tremearne’s Ban of the Bori (a-tre)"
+wahhabism,Wahhabism,conflict,sufism,Sufism,Wahhabi reformers condemned the Sufi cult of saints and shrines and destroyed the tombs
+kabbalah,Kabbalah,derive,hasidism,Hasidic Judaism,"Hasidism popularised the Kabbalah of Luria and its sparks and its worship: Graetz’s History of the Jews, volume V (x-gtz)"
+sikhism,Sikhism,influence,sufism,Sufism,"Baba Farid of the Chishti order is in the Guru Granth Sahib, and Guru Nanak’s teaching shares the language of the Sufi poets: the Bhagat Bani (x-bhagat)"
+brahmo_samaj,Brahmo Samaj,influence,arya_samaj,Arya Samaj,"Dayananda’s Arya Samaj took its form of a reforming society from the Brahmo Samaj, though it rejected its Christian and Western leanings: Farquhar’s Modern Religious Movements in India (x-fmr)"
+lutheranism,Lutheranism,derive,pietism,Pietism,Arndt’s True Christianity (x-art) and Spener led Lutheran Germans from doctrine to the inward life: the roots of Pietism
+bogomils,Bogomilism,derive,cathars,Catharism,The Cathars of the West learned their dualism from the Bogomils of the Balkans: Lea’s History of the Inquisition (x-lea)
+sant_mat,Sant Mat,derive,radha_soami,Radha Soami,"Radhasoami teaches the Sant Mat, the way of the saints and the sound current: the Radhasoami Discourses (x-rsd)"
+korean_shamanism,Korean shamanism (Muism),syncretism,korean_buddhism,Korean Buddhism,"The mudang’s spirit worship and the Buddhist temples and mountain shrines share the same sites and the same households: Hulbert (a-hul), Gale (a-gal)"
+korean_shamanism,Korean shamanism (Muism),syncretism,korean_confucianism,Korean Neo-Confucianism,"The Confucian ancestor rites and the shaman’s rites run side by side in the Korean household: Hulbert (a-hul), Underwood (x-und)"
+kejawen,Kejawen (Javanese mysticism),syncretism,sunni,Sunni Islam,"Javanese Islam keeps the Hindu-Buddhist inheritance and the spirits of the older religion: Raffles, History of Java (a-raf); Crawfurd (a-crw)"
+neak_ta,Khmer neak ta religion,syncretism,theravada,Theravāda Buddhism,"The Khmer village spirits (neak ta) and the Buddhist monks and temples exist together: Mouhot, Travels in Indo-China (a-mou)"
+tengrism,Tengrism,syncretism,sunni,Sunni Islam,"The Turkic nomads’ old sky-god and shamanism remained beneath their Islam: Czaplicka, The Turks of Central Asia (a-trk); Vámbéry (a-vam)"
+shingon,Shingon,syncretism,shinto,Shinto,"Ryobu (“dual”) Shinto read the kami as Buddhas’ manifestations, until their separation in 1868: Anesaki, History of Japanese Religion (x-ajr); Reischauer (x-rjb)"
+tendai,Tendai,syncretism,shinto,Shinto,Sanno Ichijitsu Shinto of the Tendai school joined the kami of Mount Hiei to the Buddhas: Anesaki (x-ajr); Reischauer (x-rjb)

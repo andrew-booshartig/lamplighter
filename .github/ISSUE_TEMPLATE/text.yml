@@ -1,0 +1,33 @@
+name: A text to add
+description: A scripture, source or study of religion that is in the public domain or openly licensed.
+title: "[Text] "
+labels: ["library"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title, author or translator, and year of this edition
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where can it be read in full, in English?
+      description: A link to a page or scan that opens (Project Gutenberg, the Internet Archive, Wikisource, a library).
+    validations:
+      required: true
+  - type: dropdown
+    id: rights
+    attributes:
+      label: Its rights
+      options:
+        - Published in the United States before 1931 (public domain)
+        - Openly licensed (name the licence below)
+        - I am not sure
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs
+      description: Which tradition it is from, what it adds, and whether another translation of it is already in the Library.

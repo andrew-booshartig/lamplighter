@@ -1,0 +1,106 @@
+{
+ "about": "Starting configuration for the Atlas (timeline + map). These are recommended defaults, not data: change them freely to fit the app's design. Every id used here exists in the database.",
+ "time_range": {"min_year": -340000, "max_year": 2026, "note": "Signed years, negative = BCE. There is no year 0: when a computed year rounds to 0, snap to 1 (or -1 when moving backwards)."},
+ "slider_scale": {
+  "note": "Piecewise-linear map from year to slider position (0 = left edge, 1 = right edge). Deep time is compressed so that the last 5,000 years, where most of the data sits, get most of the track. Interpolate linearly between neighbouring stops.",
+  "stops": [
+   {"year": -340000, "pos": 0.00},
+   {"year": -100000, "pos": 0.04},
+   {"year": -40000, "pos": 0.09},
+   {"year": -10000, "pos": 0.16},
+   {"year": -3500, "pos": 0.26},
+   {"year": -1000, "pos": 0.38},
+   {"year": 1, "pos": 0.50},
+   {"year": 600, "pos": 0.60},
+   {"year": 1500, "pos": 0.76},
+   {"year": 1800, "pos": 0.86},
+   {"year": 1945, "pos": 0.94},
+   {"year": 2026, "pos": 1.00}
+  ]
+ },
+ "eras": {
+  "note": "Global bands for labelling the slider. They are a convenience: regional chronologies differ, so never use them to filter data.",
+  "bands": [
+   {"id": "first_symbols", "label": "First burials and symbols", "start": -340000, "end": -50000, "blurb": "The earliest signs of care for the dead and of symbolic thought. Evidence older than about 120,000 years is contested."},
+   {"id": "ice_age", "label": "Ice Age art and ritual", "start": -50000, "end": -10000, "blurb": "Painted caves, carved figures, music and rich burials across Eurasia, Southeast Asia and Australia."},
+   {"id": "first_sanctuaries", "label": "Sanctuaries and first farmers", "start": -10000, "end": -3500, "blurb": "Göbekli Tepe, ancestor skulls, house shrines and the first monuments."},
+   {"id": "temples_and_kings", "label": "Temples, kings and writing", "start": -3500, "end": -1200, "blurb": "Writing records the gods of Sumer, Egypt, the Indus and China; megaliths rise in Europe."},
+   {"id": "axial_age", "label": "Iron Age and the Axial Age", "start": -1200, "end": -200, "blurb": "Prophets, sages and teachers: Zoroaster, the Hebrew prophets, the Buddha, Mahavira, Confucius, Laozi and the Greek philosophers."},
+   {"id": "world_religions", "label": "Empires and world religions", "start": -200, "end": 600, "blurb": "Buddhism, Christianity and Hinduism spread along roads and sea lanes; the old gods of Rome and Egypt fade."},
+   {"id": "faiths_across_continents", "label": "Faiths across continents", "start": 600, "end": 1500, "blurb": "Islam rises and spreads; Buddhism reaches Tibet, Japan and Southeast Asia; Christianity reaches Scandinavia and the steppe."},
+   {"id": "reformations_encounters", "label": "Reformations and encounters", "start": 1500, "end": 1800, "blurb": "Protestant Reformation, Sikhism, conquest and conversion in the Americas, Afro-diasporic religions born in the Atlantic world."},
+   {"id": "revivals_new_movements", "label": "Missions, revivals and new movements", "start": 1800, "end": 1945, "blurb": "Global missions, African-initiated churches, the Bahá'í Faith, Spiritism, Theosophy and many new religions."},
+   {"id": "global_spirituality", "label": "Global spirituality and a secular age", "start": 1945, "end": 2026, "blurb": "Pentecostal growth, new religious movements, revived pagan traditions, meditation going global and the rise of the non-religious."}
+  ]
+ },
+ "event_density": {
+  "note": "How many timeline_events to show for the visible time window. Pick the first rule whose span_at_least the window meets.",
+  "rules": [
+   {"span_at_least": 5000, "min_importance": 4},
+   {"span_at_least": 500, "min_importance": 3},
+   {"span_at_least": 100, "min_importance": 2},
+   {"span_at_least": 0, "min_importance": 1}
+  ]
+ },
+ "presence_rendering": {
+  "rule": "A presence row is visible at year Y when year_start <= Y and (year_end is null or year_end >= Y).",
+  "fade_in": "Fade in across the row's start window, from year_start to year_start_latest, so uncertain beginnings look soft.",
+  "fade_out": "Fade out after year_end over a short span (about 2% of the visible window).",
+  "size": "Scale area by prominence (1-5). Prominence is an approximate share of the local population, not a headcount; say so in the legend.",
+  "country_rows": "Rows with no place_id sit at a country centroid and stand for diffuse presence across a region. Draw them as large soft blobs, not pins. Avoid filling modern country outlines for pre-modern years: those borders did not exist.",
+  "place_rows": "Rows with a place_id are a specific city or site: draw them as smaller, sharper points.",
+  "auto_origin": "Rows with auto = 1 are generated origin points; a gentle pulse at the tradition's start works well."
+ },
+ "presence_event_hints": {
+  "origin": "pulse", "arrive": "grow in", "expand": "grow", "state": "emphasise (adopted by rulers)",
+  "major": "full strength", "decline": "fade or shrink", "suppress": "dashed or dimmed", "extinct": "fade out",
+  "revive": "re-grow", "diaspora": "small scattered dots", "mission": "grow in from outside", "persist": "steady"
+ },
+ "family_groups": {
+  "note": "Twenty families are too many separate colours for a map. Give each group one hue and each family within it a shade.",
+  "groups": [
+   {"id": "deep_past", "label": "Deep past", "families": ["prehistoric"]},
+   {"id": "ancient_worlds", "label": "Ancient Near East and Mediterranean", "families": ["ane", "egypt", "hellenistic", "european"]},
+   {"id": "abrahamic", "label": "Abrahamic", "families": ["abrahamic"]},
+   {"id": "iranian", "label": "Iranian", "families": ["iranian"]},
+   {"id": "indian", "label": "Indian and Himalayan", "families": ["dharmic", "south_asian_indigenous"]},
+   {"id": "east_inner_asia", "label": "East, Inner and Southeast Asian", "families": ["east_asian", "inner_asian", "southeast_asian"]},
+   {"id": "africa", "label": "African and Afro-diasporic", "families": ["african", "afro_diasporic"]},
+   {"id": "americas_oceania", "label": "Americas and Oceania", "families": ["americas", "oceania"]},
+   {"id": "modern_currents", "label": "Esoteric, new and secular", "families": ["esoteric", "modern_pagan", "nrm", "secular"]}
+  ]
+ },
+ "interaction_groups": {
+  "note": "Group the 14 interaction types into three arc styles.",
+  "lineage": {"types": ["derive", "schism", "reform", "revive"], "meaning": "one tradition grows out of, splits from, reforms or revives another"},
+  "exchange": {"types": ["influence", "syncretism", "transmission", "dialogue", "coexist"], "meaning": "ideas and practices flow between traditions"},
+  "pressure": {"types": ["conflict", "persecution", "suppress", "convert", "absorb"], "meaning": "power, force or conversion"},
+  "drawing": "Draw arcs from the source tradition's origin point (traditions.origin_lat/lon) to the interaction's lat/lon. year_end null = still ongoing; year_end = year_start = a single moment."
+ },
+ "text_category_groups": {
+  "note": "Library filters built from texts.category.",
+  "groups": [
+   {"id": "scripture", "label": "Scripture and revelation", "categories": ["scr"]},
+   {"id": "oral", "label": "Oral traditions", "categories": ["ora"]},
+   {"id": "worship", "label": "Prayer, song and liturgy", "categories": ["hym", "rit", "dev"]},
+   {"id": "story", "label": "Myth and sacred history", "categories": ["myth", "his"]},
+   {"id": "law_wisdom", "label": "Law, ethics and wisdom", "categories": ["law", "wis"]},
+   {"id": "thought", "label": "Mysticism, philosophy and commentary", "categories": ["mys", "phi", "com"]},
+   {"id": "signs", "label": "Divination, magic and sacred calendars", "categories": ["div", "mag", "cal"]},
+   {"id": "inscriptions", "label": "Inscriptions", "categories": ["ins"]},
+   {"id": "outsider", "label": "Outsider records", "categories": ["eth"], "caution": "Accounts written by missionaries, officials or anthropologists; some are contested by the communities described."}
+  ],
+  "status_labels": {"ext": "", "lost": "Lost", "frag": "Fragments only", "oral": "Oral tradition", "und": "Not yet deciphered", "rec": "Reconstructed", "dis": "Authenticity disputed"}
+ },
+ "practice_links": {
+  "note": "Bridges between the Atlas and the app's existing sections. Every practice is also an Atlas filter.",
+  "meditation_section": ["meditation", "yoga", "mysticism", "chant_mantra", "prayer"],
+  "sound_library": ["chant_mantra", "hymn", "drum_dance"],
+  "sound_caution": "Binaural beats are a modern technique. Present them as a modern way of working with sound and rhythm, alongside the ancient practices, never as something ancient peoples used."
+ },
+ "labels": {
+  "use_data_labels": "Prefer the date_label strings stored in every table.",
+  "year_format": "Negative years: 'N BCE' (thousands separator from 10,000 BCE). 1-999: 'N CE'. 1000 onwards: plain 'N'. Prefix 'c. ' when circa = 1.",
+  "confidence": {"H": "Well documented", "M": "Scholarly consensus", "L": "Rough estimate", "C": "Contested"}
+ }
+}

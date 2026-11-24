@@ -1,0 +1,2262 @@
+{
+ "_note": "Library id -> the Atlas traditions the book is ABOUT (a field record, a study, or a history), not the tradition's own scriptures (those are in atlas_text_aliases.json). Used by tools/assess_coverage.py to count a tradition as having a readable example of the second kind: an observer's record or a scholar's account. Made 16 Nov 2026; the Atlas catalogue itself does not list these books, so this file is also the list to give the Atlas owner for an 'Read about it in the Library' link.",
+ "a-spen": [
+  "aboriginal_australian"
+ ],
+ "a-nnca": [
+  "aboriginal_australian"
+ ],
+ "a-howi": [
+  "aboriginal_australian"
+ ],
+ "a-euah": [
+  "aboriginal_australian"
+ ],
+ "a-maus": [
+  "aboriginal_australian"
+ ],
+ "a-codr": [
+  "vanuatu_kastom",
+  "kwaio_religion",
+  "cargo_cults"
+ ],
+ "a-call": [
+  "zulu_religion"
+ ],
+ "a-ghos": [
+  "ghost_dance",
+  "washat",
+  "neolin",
+  "tenskwatawa",
+  "bole_maru",
+  "indian_shaker"
+ ],
+ "a-cher": [
+  "cherokee_religion"
+ ],
+ "a-chsf": [
+  "cherokee_religion"
+ ],
+ "a-navl": [
+  "navajo_religion"
+ ],
+ "a-nchn": [
+  "navajo_religion"
+ ],
+ "a-phil": [
+  "anitism"
+ ],
+ "a-maor": [
+  "maori_religion"
+ ],
+ "a-shor": [
+  "maori_religion"
+ ],
+ "a-hula": [
+  "hawaiian_religion"
+ ],
+ "a-forn": [
+  "hawaiian_religion",
+  "lapita_polynesian"
+ ],
+ "a-fcol": [
+  "hawaiian_religion"
+ ],
+ "a-grey": [
+  "maori_religion",
+  "lapita_polynesian"
+ ],
+ "a-nass": [
+  "fang_religion"
+ ],
+ "a-yoru": [
+  "yoruba_religion",
+  "ifa"
+ ],
+ "a-dent": [
+  "kongo_religion"
+ ],
+ "a-balo": [
+  "papuan_religions"
+ ],
+ "a-ocea": [
+  "lapita_polynesian",
+  "micronesian_religions",
+  "papuan_religions",
+  "aboriginal_australian"
+ ],
+ "a-talb": [
+  "efik_ekpe",
+  "ibibio_religion"
+ ],
+ "a-asht": [
+  "akan_religion"
+ ],
+ "a-rapr": [
+  "akan_religion"
+ ],
+ "a-tshi": [
+  "akan_religion"
+ ],
+ "a-ewe": [
+  "fon_vodun"
+ ],
+ "a-gele": [
+  "fon_vodun"
+ ],
+ "a-tsim": [
+  "pacific_northwest"
+ ],
+ "a-hdt": [
+  "pacific_northwest"
+ ],
+ "a-tlm": [
+  "pacific_northwest"
+ ],
+ "a-siou": [
+  "lakota_religion",
+  "sun_dance"
+ ],
+ "a-mide": [
+  "midewiwin",
+  "anishinaabe_religion"
+ ],
+ "a-gill": [
+  "lapita_polynesian"
+ ],
+ "a-fiji": [
+  "fijian_religion"
+ ],
+ "a-seab": [
+  "haitian_vodou"
+ ],
+ "a-bag": [
+  "baganda_religion",
+  "kubandwa"
+ ],
+ "a-nbn": [
+  "baganda_religion",
+  "kubandwa"
+ ],
+ "a-hmd": [
+  "kaharingan"
+ ],
+ "a-pmp": [
+  "orang_asli"
+ ],
+ "a-smb": [
+  "papuan_religions",
+  "cargo_cults"
+ ],
+ "a-tod": [
+  "toda"
+ ],
+ "a-mas": [
+  "maasai_religion"
+ ],
+ "a-ain": [
+  "ainu_religion"
+ ],
+ "a-hob": [
+  "kikuyu_religion",
+  "kamba_religion"
+ ],
+ "a-rou": [
+  "kikuyu_religion"
+ ],
+ "a-tal": [
+  "efik_ekpe",
+  "ibibio_religion"
+ ],
+ "a-bas": [
+  "igbo_odinani"
+ ],
+ "a-cas": [
+  "sotho_tswana"
+ ],
+ "a-hah": [
+  "khoikhoi_religion"
+ ],
+ "a-she": [
+  "shilluk_religion"
+ ],
+ "a-sbr": [
+  "mende_religion"
+ ],
+ "a-ske": [
+  "fon_vodun"
+ ],
+ "a-wee": [
+  "kongo_religion"
+ ],
+ "a-sib": [
+  "malagasy_religion"
+ ],
+ "a-gua": [
+  "guanche"
+ ],
+ "a-cdv": [
+  "bagobo_religion",
+  "manobo_religion"
+ ],
+ "a-bgb": [
+  "bagobo_religion"
+ ],
+ "a-evb": [
+  "orang_asli"
+ ],
+ "a-had": [
+  "torres_strait"
+ ],
+ "a-mar": [
+  "tongan_religion"
+ ],
+ "a-tur": [
+  "samoan_religion"
+ ],
+ "a-hnh": [
+  "vanuatu_kastom"
+ ],
+ "a-squ": [
+  "hopewell",
+  "mississippian"
+ ],
+ "a-tec": [
+  "tenskwatawa"
+ ],
+ "a-kro": [
+  "kuksu",
+  "chumash_religion"
+ ],
+ "a-pow": [
+  "kuksu",
+  "chumash_religion"
+ ],
+ "a-ccr": [
+  "muscogee_religion"
+ ],
+ "a-god": [
+  "apache_religion"
+ ],
+ "a-puk": [
+  "hoodoo",
+  "louisiana_voodoo"
+ ],
+ "a-mun": [
+  "sarnaism"
+ ],
+ "a-kac": [
+  "bathouism"
+ ],
+ "a-khs": [
+  "niam_khasi"
+ ],
+ "a-mei": [
+  "sanamahism"
+ ],
+ "a-rus": [
+  "gondi",
+  "satnami"
+ ],
+ "a-kaf": [
+  "kalash"
+ ],
+ "a-dal": [
+  "santal_religion",
+  "sarnaism"
+ ],
+ "x-lea": [
+  "cathars",
+  "waldensians",
+  "bogomils",
+  "franciscans",
+  "beguines",
+  "free_spirit",
+  "fraticelli"
+ ],
+ "x-wld": [
+  "waldensians"
+ ],
+ "x-wyc": [
+  "lollards"
+ ],
+ "x-hus": [
+  "hussites"
+ ],
+ "x-rud": [
+  "doukhobors",
+  "old_believers",
+  "molokans",
+  "khlysty",
+  "skoptsy"
+ ],
+ "x-dkh": [
+  "doukhobors"
+ ],
+ "x-pbr": [
+  "plymouth_brethren"
+ ],
+ "x-bdk": [
+  "salvation_army"
+ ],
+ "x-wcf": [
+  "presbyterianism"
+ ],
+ "x-rcc": [
+  "socinians",
+  "unitarianism"
+ ],
+ "x-art": [
+  "pietism",
+  "lutheranism"
+ ],
+ "x-hph": [
+  "pharisees"
+ ],
+ "x-gtz": [
+  "judaism",
+  "karaite",
+  "pharisees",
+  "sabbateanism",
+  "frankism",
+  "khazar_judaism"
+ ],
+ "x-dzt": [
+  "zoroastrianism",
+  "zurvanism"
+ ],
+ "x-blp": [
+  "sufism",
+  "zoroastrianism",
+  "khurramites",
+  "mazdakism",
+  "shia",
+  "hurufism"
+ ],
+ "x-bbr": [
+  "babism",
+  "bahai",
+  "azali",
+  "shaykhism"
+ ],
+ "x-hdr": [
+  "druze"
+ ],
+ "x-bdv": [
+  "mevlevi",
+  "bektashi",
+  "qadiriyya",
+  "naqshbandiyya",
+  "qalandar_malamati"
+ ],
+ "x-aia": [
+  "din_i_ilahi"
+ ],
+ "x-awf": [
+  "suhrawardiyya"
+ ],
+ "x-fmr": [
+  "brahmo_samaj",
+  "arya_samaj",
+  "ramakrishna_mission",
+  "theosophy"
+ ],
+ "x-bvs": [
+  "vaishnavism",
+  "shaivism",
+  "kapalika"
+ ],
+ "x-wad": [
+  "tibetan_buddhism",
+  "nyingma",
+  "kagyu",
+  "sakya",
+  "gelug",
+  "kalachakra",
+  "dzogchen"
+ ],
+ "x-fai": [
+  "tibetan_buddhism",
+  "bon"
+ ],
+ "x-bpl": [
+  "tibetan_buddhism"
+ ],
+ "x-smo": [
+  "mahayana"
+ ],
+ "x-slk": [
+  "yogacara",
+  "mahayana"
+ ],
+ "x-sze": [
+  "rinzai",
+  "soto"
+ ],
+ "x-nic": [
+  "nichiren_buddhism"
+ ],
+ "x-oah": [
+  "faithism"
+ ],
+ "x-aqg": [
+  "new_thought"
+ ],
+ "x-hgo": [
+  "jehovahs_witnesses"
+ ],
+ "x-elp": [
+  "christadelphians"
+ ],
+ "x-ing": [
+  "humanism"
+ ],
+ "x-hly": [
+  "humanism"
+ ],
+ "x-hae": [
+  "humanism"
+ ],
+ "x-gmg": [
+  "cybele",
+  "phrygian"
+ ],
+ "x-nmm": [
+  "minoan"
+ ],
+ "x-pom": [
+  "minoan"
+ ],
+ "x-ger": [
+  "germanic"
+ ],
+ "x-hrd": [
+  "greek",
+  "dacian",
+  "lydian",
+  "lycian"
+ ],
+ "x-cns": [
+  "moabite",
+  "phoenician",
+  "aramean",
+  "nabataean"
+ ],
+ "x-syg": [
+  "canaanite"
+ ],
+ "x-lar": [
+  "mesopotamian"
+ ],
+ "x-aap": [
+  "arabian"
+ ],
+ "x-clo": [
+  "arabian"
+ ],
+ "x-phr": [
+  "phoenician"
+ ],
+ "x-gez": [
+  "canaanite"
+ ],
+ "x-cap": [
+  "canaanite"
+ ],
+ "x-aab": [
+  "canaanite"
+ ],
+ "x-sso": [
+  "canaanite",
+  "arabian"
+ ],
+ "x-mst": [
+  "phoenician"
+ ],
+ "a-kin": [
+  "fang_religion"
+ ],
+ "a-joh": [
+  "yoruba_religion"
+ ],
+ "a-dns": [
+  "yoruba_religion",
+  "ifa"
+ ],
+ "a-tre": [
+  "hausa_bori"
+ ],
+ "a-mee": [
+  "hausa_bori",
+  "fulbe_traditional"
+ ],
+ "a-ben": [
+  "kongo_religion"
+ ],
+ "a-kid": [
+  "xhosa_religion",
+  "zulu_religion"
+ ],
+ "a-sto": [
+  "san_religion",
+  "khoikhoi_religion",
+  "xhosa_religion"
+ ],
+ "a-ell": [
+  "tahitian_religion",
+  "hawaiian_religion"
+ ],
+ "a-riv": [
+  "vanuatu_kastom",
+  "kwaio_religion"
+ ],
+ "a-esi": [
+  "rapa_nui_religion"
+ ],
+ "a-brw": [
+  "fijian_religion"
+ ],
+ "a-shy": [
+  "nat_worship"
+ ],
+ "a-yel": [
+  "satsana_phi"
+ ],
+ "a-lrb": [
+  "kaharingan"
+ ],
+ "a-orn": [
+  "sarnaism"
+ ],
+ "a-sel": [
+  "vedda"
+ ],
+ "a-rin": [
+  "inuit_religion"
+ ],
+ "a-raa": [
+  "inuit_religion"
+ ],
+ "a-bnc": [
+  "pacific_northwest",
+  "kuksu",
+  "chumash_religion",
+  "toltec"
+ ],
+ "a-hbk": [
+  "cherokee_religion",
+  "muscogee_religion",
+  "lakota_religion",
+  "navajo_religion",
+  "apache_religion",
+  "pueblo_religion",
+  "haudenosaunee_religion",
+  "anishinaabe_religion",
+  "lenape_religion",
+  "inuit_religion",
+  "pacific_northwest",
+  "sun_dance",
+  "huichol",
+  "native_american_church",
+  "zuni_religion",
+  "hopi_religion",
+  "keres_pueblo_religion",
+  "tanoan_pueblo_religion"
+ ],
+ "a-bogo": [
+  "chukchi"
+ ],
+ "a-bogf": [
+  "chukchi"
+ ],
+ "a-czap": [
+  "evenki_shamanism",
+  "buryat_shamanism",
+  "sakha_religion",
+  "khanty_mansi",
+  "nenets_religion",
+  "chukchi",
+  "manchu_shamanism",
+  "burkhanism",
+  "koryak_religion",
+  "yukaghir_religion"
+ ],
+ "a-rasm": [
+  "inuit_religion"
+ ],
+ "a-nels": [
+  "inuit_religion"
+ ],
+ "a-boas": [
+  "inuit_religion"
+ ],
+ "a-sche": [
+  "sami"
+ ],
+ "x-haw": [
+  "hawaiian_religion"
+ ],
+ "a-blee": [
+  "san_religion"
+ ],
+ "t-bomp": [
+  "santal_religion"
+ ],
+ "t-sanf": [
+  "santal_religion"
+ ],
+ "k-old": [
+  "freemasonry"
+ ],
+ "k-ande": [
+  "freemasonry"
+ ],
+ "k-pres": [
+  "freemasonry"
+ ],
+ "k-msym": [
+  "freemasonry"
+ ],
+ "k-menc": [
+  "freemasonry",
+  "illuminati"
+ ],
+ "k-ward": [
+  "freemasonry"
+ ],
+ "k-wilm": [
+  "freemasonry"
+ ],
+ "k-keys": [
+  "freemasonry"
+ ],
+ "k-vail": [
+  "freemasonry"
+ ],
+ "k-glim": [
+  "freemasonry"
+ ],
+ "k-armi": [
+  "freemasonry"
+ ],
+ "k-apoc": [
+  "freemasonry"
+ ],
+ "k-buil": [
+  "freemasonry"
+ ],
+ "x-man": [
+  "manichaeism"
+ ],
+ "e-gjb": [
+  "mandaeism"
+ ],
+ "x-yzd": [
+  "yazidism"
+ ],
+ "x-hpb": [
+  "rastafari"
+ ],
+ "x-keb": [
+  "rastafari"
+ ],
+ "x-kab": [
+  "kabir_panth"
+ ],
+ "x-sht": [
+  "shakers"
+ ],
+ "x-mns": [
+  "anabaptism",
+  "mennonites"
+ ],
+ "v-heav": [
+  "swedenborgian"
+ ],
+ "v-divl": [
+  "swedenborgian"
+ ],
+ "x-hte": [
+  "hittite",
+  "hurrian"
+ ],
+ "x-mr03": [
+  "slavic",
+  "celtic",
+  "gaulish"
+ ],
+ "x-mr04": [
+  "finnic",
+  "sami",
+  "khanty_mansi",
+  "mari_religion",
+  "udmurt_religion"
+ ],
+ "x-mr11": [
+  "aztec_religion",
+  "maya_religion",
+  "inca_religion",
+  "taino",
+  "muisca_religion",
+  "guarani_religion",
+  "mapuche_religion"
+ ],
+ "x-hud": [
+  "ifugao_religion"
+ ],
+ "a-msd": [
+  "batak_religion",
+  "kejawen"
+ ],
+ "a-raf": [
+  "kejawen",
+  "balinese_hinduism"
+ ],
+ "a-crw": [
+  "kejawen",
+  "batak_religion",
+  "bugis_religion",
+  "balinese_hinduism",
+  "anitism"
+ ],
+ "a-kph": [
+  "anitism",
+  "ifugao_religion",
+  "kalinga_religion",
+  "mangyan_religion"
+ ],
+ "a-wor": [
+  "anitism",
+  "tagbanwa_religion",
+  "mangyan_religion"
+ ],
+ "a-sjf": [
+  "kaharingan"
+ ],
+ "a-hcg": [
+  "tibetan_buddhism",
+  "mongolian_shamanism",
+  "mongolian_buddhism",
+  "gelug"
+ ],
+ "a-trk": [
+  "tengrism",
+  "sakha_religion",
+  "chuvash_religion"
+ ],
+ "a-das": [
+  "tibetan_buddhism",
+  "bon",
+  "gelug"
+ ],
+ "a-clk": [
+  "hmong_religion",
+  "yi_bimo"
+ ],
+ "a-hul": [
+  "korean_shamanism",
+  "korean_confucianism",
+  "korean_buddhism"
+ ],
+ "a-gal": [
+  "korean_shamanism",
+  "korean_buddhism"
+ ],
+ "a-dny": [
+  "chinese_folk"
+ ],
+ "a-dlt": [
+  "chinese_folk",
+  "chinese_buddhism"
+ ],
+ "a-sjh": [
+  "haitian_vodou"
+ ],
+ "a-leg": [
+  "haitian_vodou"
+ ],
+ "a-bkr": [
+  "obeah",
+  "kumina",
+  "revival_zion"
+ ],
+ "a-edw": [
+  "obeah",
+  "akan_religion"
+ ],
+ "a-rgi": [
+  "amazonian_shamanism"
+ ],
+ "x-wil": [
+  "vaishnavism",
+  "shaivism",
+  "shaktism",
+  "sikhism",
+  "dadu_panth",
+  "kabir_panth",
+  "ramanandi",
+  "pushtimarg",
+  "udasi"
+ ],
+ "x-wkb": [
+  "kabir_panth"
+ ],
+ "x-kmm": [
+  "pushtimarg"
+ ],
+ "x-hjn": [
+  "jainism",
+  "svetambara",
+  "digambara",
+  "sthanakvasi",
+  "ajivika"
+ ],
+ "x-ojn": [
+  "jainism",
+  "svetambara",
+  "digambara"
+ ],
+ "x-cai": [
+  "gaudiya"
+ ],
+ "x-und": [
+  "korean_shamanism",
+  "shinto",
+  "chinese_folk"
+ ],
+ "x-rjb": [
+  "tendai",
+  "shingon",
+  "jodo_shu",
+  "jodo_shinshu",
+  "soto",
+  "rinzai",
+  "nichiren_buddhism"
+ ],
+ "x-ajr": [
+  "shinto",
+  "state_shinto",
+  "tendai",
+  "shingon",
+  "jodo_shinshu",
+  "nichiren_buddhism"
+ ],
+ "x-ldj": [
+  "shingon",
+  "tendai",
+  "jodo_shinshu",
+  "nichiren_buddhism"
+ ],
+ "x-hol": [
+  "state_shinto"
+ ],
+ "x-rsd": [
+  "radha_soami",
+  "sant_mat"
+ ],
+ "a-mou": [
+  "neak_ta",
+  "satsana_phi"
+ ],
+ "a-fhs": [
+  "nat_worship"
+ ],
+ "a-shn": [
+  "satsana_phi",
+  "shan_religion"
+ ],
+ "a-rkh": [
+  "tibetan_buddhism",
+  "bon",
+  "mongolian_buddhism"
+ ],
+ "a-oss": [
+  "mongolian_buddhism",
+  "mongolian_shamanism"
+ ],
+ "a-car": [
+  "mongolian_shamanism",
+  "tuvan_shamanism",
+  "mongolian_buddhism"
+ ],
+ "a-ste": [
+  "winti",
+  "obeah"
+ ],
+ "a-whf": [
+  "tukanoan",
+  "amazonian_shamanism"
+ ],
+ "a-wal": [
+  "tukanoan",
+  "amazonian_shamanism"
+ ],
+ "a-spr": [
+  "amazonian_shamanism",
+  "tukanoan"
+ ],
+ "a-imt": [
+  "amazonian_shamanism"
+ ],
+ "a-brt": [
+  "amazonian_shamanism"
+ ],
+ "a-smt": [
+  "mapuche_religion"
+ ],
+ "a-mol": [
+  "mapuche_religion"
+ ],
+ "a-cie": [
+  "inca_religion",
+  "andean_religion"
+ ],
+ "a-sqr": [
+  "inca_religion",
+  "andean_religion",
+  "tiwanaku_religion"
+ ],
+ "a-bin": [
+  "inca_religion"
+ ],
+ "a-bnd": [
+  "inca_religion",
+  "tiwanaku_religion",
+  "andean_religion"
+ ],
+ "a-jyc": [
+  "andean_religion",
+  "inca_religion",
+  "nazca_religion",
+  "moche_religion",
+  "chavin_religion",
+  "tiwanaku_religion",
+  "muisca_religion"
+ ],
+ "a-jy2": [
+  "maya_religion",
+  "aztec_religion",
+  "taino"
+ ],
+ "a-str": [
+  "zapotec_religion",
+  "mixtec_religion",
+  "mazatec_religion"
+ ],
+ "a-bn1": [
+  "pacific_northwest",
+  "kuksu",
+  "chumash_religion",
+  "pueblo_religion",
+  "apache_religion",
+  "inuit_religion"
+ ],
+ "a-bn2": [
+  "aztec_religion",
+  "maya_religion",
+  "mixtec_religion",
+  "zapotec_religion",
+  "purepecha_religion"
+ ],
+ "a-swf": [
+  "dinka_religion",
+  "mbuti_religion"
+ ],
+ "a-rch": [
+  "chewa_nyau"
+ ],
+ "a-duc": [
+  "fang_religion",
+  "bwiti"
+ ],
+ "a-gbn": [
+  "edo_religion"
+ ],
+ "a-tsb": [
+  "efik_ekpe",
+  "ekoi_religion"
+ ],
+ "a-rbk": [
+  "kubandwa"
+ ],
+ "a-rby": [
+  "kubandwa",
+  "nyabingi"
+ ],
+ "a-rsc": [
+  "baganda_religion",
+  "kubandwa"
+ ],
+ "a-tbs": [
+  "kuba_religion"
+ ],
+ "a-wmk": [
+  "berber"
+ ],
+ "a-bts": [
+  "berber"
+ ],
+ "a-prk": [
+  "bambara_religion"
+ ],
+ "a-cll": [
+  "bambara_religion",
+  "songhai_religion"
+ ],
+ "a-hrs": [
+  "oromo_waaqeffannaa"
+ ],
+ "a-hbe": [
+  "luo_religion"
+ ],
+ "a-lld": [
+  "mbuti_religion"
+ ],
+ "x-ftc": [
+  "coptic_orthodox",
+  "syriac_orthodox",
+  "oriental_orthodox",
+  "church_of_east",
+  "church_of_east",
+  "saint_thomas_christians",
+  "malankara_orthodox",
+  "syro_malabar",
+  "chaldean_catholic",
+  "nubian_christianity",
+  "maronite",
+  "melkite"
+ ],
+ "x-ftd": [
+  "russian_orthodox",
+  "serbian_orthodox",
+  "bulgarian_orthodox",
+  "romanian_orthodox",
+  "eastern_orthodox",
+  "georgian_orthodox"
+ ],
+ "x-adn": [
+  "coptic_orthodox",
+  "eastern_orthodox",
+  "russian_orthodox",
+  "old_believers",
+  "mar_thoma"
+ ],
+ "x-but": [
+  "coptic_orthodox"
+ ],
+ "x-eth": [
+  "syriac_orthodox",
+  "church_of_east",
+  "saint_thomas_christians"
+ ],
+ "x-bcr": [
+  "saint_thomas_christians",
+  "cochin_jews",
+  "malankara_orthodox",
+  "mar_thoma"
+ ],
+ "x-arm": [
+  "baptists"
+ ],
+ "x-wlk": [
+  "congregationalism"
+ ],
+ "x-smm": [
+  "mennonites",
+  "amish",
+  "hutterites"
+ ],
+ "x-hm1": [
+  "unitas_fratrum"
+ ],
+ "x-hm2": [
+  "unitas_fratrum"
+ ],
+ "x-irv": [
+  "catholic_apostolic",
+  "new_apostolic"
+ ],
+ "x-fro": [
+  "transcendentalism"
+ ],
+ "x-nor": [
+  "harmony_society",
+  "amana",
+  "oneida",
+  "shakers"
+ ],
+ "x-shm": [
+  "amana"
+ ],
+ "x-noy": [
+  "oneida",
+  "harmony_society",
+  "shakers",
+  "amana"
+ ],
+ "a-pnt": [
+  "neolin"
+ ],
+ "x-phl": [
+  "reform_judaism"
+ ],
+ "x-koh": [
+  "reform_judaism"
+ ],
+ "x-scs": [
+  "conservative_judaism",
+  "hasidism"
+ ],
+ "x-hir": [
+  "orthodox_judaism"
+ ],
+ "x-fld": [
+  "beta_israel"
+ ],
+ "x-fin": [
+  "kaifeng_jews"
+ ],
+ "x-hun": [
+  "wahhabism",
+  "deobandi",
+  "salafism"
+ ],
+ "x-bur": [
+  "wahhabism"
+ ],
+ "x-pal": [
+  "wahhabism"
+ ],
+ "x-win": [
+  "mahdiyya",
+  "sanusiyya"
+ ],
+ "x-sla": [
+  "mahdiyya"
+ ],
+ "x-ohr": [
+  "mahdiyya"
+ ],
+ "x-bdg": [
+  "ibadi",
+  "kharijites"
+ ],
+ "x-hma": [
+  "nizari",
+  "ismaili"
+ ],
+ "x-ply": [
+  "zaydi",
+  "himyar_judaism",
+  "sabaean"
+ ],
+ "x-ric": [
+  "yarsanism",
+  "yazidism"
+ ],
+ "x-cnn": [
+  "sikhism",
+  "nihang",
+  "nirmala",
+  "udasi",
+  "khalsa"
+ ],
+ "x-brg": [
+  "ravidassia",
+  "satnami"
+ ],
+ "x-hbn": [
+  "newar_buddhism",
+  "tibetan_buddhism",
+  "kirat_mundhum"
+ ],
+ "x-old": [
+  "newar_buddhism"
+ ],
+ "x-gai": [
+  "ekasarana"
+ ],
+ "a-mel": [
+  "marquesan"
+ ],
+ "a-hdy": [
+  "marquesan"
+ ],
+ "a-tho": [
+  "tuka",
+  "fijian_religion"
+ ],
+ "a-trn": [
+  "samoan_religion"
+ ],
+ "a-chr": [
+  "micronesian_religions"
+ ],
+ "a-cow": [
+  "pai_marire"
+ ],
+ "x-den": [
+  "etruscan"
+ ],
+ "x-lel": [
+  "etruscan"
+ ],
+ "x-zam": [
+  "maltese_temple"
+ ],
+ "h-wsm": [
+  "martinism"
+ ],
+ "v-fil": [
+  "unity"
+ ],
+ "x-adl": [
+  "ethical_culture"
+ ],
+ "x-oma": [
+  "baul",
+  "nath",
+  "aghori"
+ ],
+ "x-bht": [
+  "nimbarka",
+  "madhva",
+  "lingayatism",
+  "pushtimarg",
+  "swaminarayan"
+ ],
+ "x-omc": [
+  "shaktism"
+ ],
+ "x-whd": [
+  "shaktism"
+ ],
+ "x-elm": [
+  "shaktism"
+ ],
+ "x-sti": [
+  "svetambara",
+  "digambara"
+ ],
+ "x-heb": [
+  "swaminarayan"
+ ],
+ "x-prt": [
+  "theravada",
+  "tibetan_buddhism",
+  "chinese_buddhism",
+  "japanese_buddhism"
+ ],
+ "x-gty": [
+  "vajrayana",
+  "tibetan_buddhism"
+ ],
+ "x-jbc": [
+  "chinese_buddhism",
+  "tiantai",
+  "huayan",
+  "chan",
+  "pure_land"
+ ],
+ "x-sth": [
+  "chinese_folk",
+  "daoism",
+  "confucianism"
+ ],
+ "x-hck": [
+  "japanese_buddhism",
+  "jodo_shinshu",
+  "soto",
+  "nichiren_buddhism",
+  "shingon"
+ ],
+ "x-sau": [
+  "theravada",
+  "chinese_buddhism",
+  "japanese_buddhism"
+ ],
+ "x-nnj": [
+  "tendai",
+  "shingon",
+  "jodo_shu",
+  "jodo_shinshu",
+  "soto",
+  "rinzai",
+  "nichiren_buddhism",
+  "japanese_buddhism"
+ ],
+ "x-cpl": [
+  "theravada"
+ ],
+ "a-bcr": [
+  "circassian"
+ ],
+ "x-ral": [
+  "slavic"
+ ],
+ "a-mrg": [
+  "haudenosaunee_religion"
+ ],
+ "a-wfr": [
+  "guna_religion"
+ ],
+ "x-spi": [
+  "olmec",
+  "teotihuacan_religion",
+  "zapotec_religion",
+  "mixtec_religion"
+ ],
+ "x-jmx": [
+  "teotihuacan_religion",
+  "zapotec_religion",
+  "mixtec_religion",
+  "purepecha_religion"
+ ],
+ "x-tmd": [
+  "hopewell",
+  "mississippian"
+ ],
+ "x-shr": [
+  "hopewell",
+  "mississippian"
+ ],
+ "x-thr": [
+  "mississippian"
+ ],
+ "x-sds": [
+  "charvaka"
+ ],
+ "x-hhp": [
+  "twelver"
+ ],
+ "e-mms": [
+  "anabaptism",
+  "hutterites",
+  "mennonites"
+ ],
+ "e-kab": [
+  "christian_kabbalah",
+  "lurianic"
+ ],
+ "x-cmo": [
+  "mithraism",
+  "isis_cult",
+  "serapis",
+  "cybele"
+ ],
+ "e-ffg": [
+  "sethianism",
+  "basilideans",
+  "valentinianism",
+  "gnosticism"
+ ],
+ "x-mr07": [
+  "armenian_pagan"
+ ],
+ "a-hrit": [
+  "haudenosaunee_religion",
+  "longhouse_religion"
+ ],
+ "x-tpg": [
+  "taiping"
+ ],
+ "x-mdw": [
+  "taiping",
+  "chinese_folk"
+ ],
+ "x-dgs": [
+  "white_lotus",
+  "xiantiandao",
+  "luojiao"
+ ],
+ "x-mck": [
+  "donghak"
+ ],
+ "x-grf": [
+  "korean_shamanism",
+  "korean_buddhism",
+  "korean_confucianism"
+ ],
+ "a-mln": [
+  "papuan_religions"
+ ],
+ "a-chs": [
+  "subanen_religion"
+ ],
+ "a-liv": [
+  "sotho_tswana"
+ ],
+ "a-mof": [
+  "sotho_tswana"
+ ],
+ "a-arb": [
+  "sotho_tswana"
+ ],
+ "a-grt": [
+  "zulu_religion"
+ ],
+ "a-sht": [
+  "zulu_religion",
+  "xhosa_religion"
+ ],
+ "a-glt": [
+  "herero_religion"
+ ],
+ "a-ang": [
+  "herero_religion",
+  "khoikhoi_religion"
+ ],
+ "a-kpf": [
+  "mijikenda",
+  "oromo_waaqeffannaa"
+ ],
+ "a-cam": [
+  "luba_religion"
+ ],
+ "a-bnr": [
+  "shona_religion"
+ ],
+ "x-kdr": [
+  "ancestral_puebloan",
+  "pueblo_religion"
+ ],
+ "v-hlm": [
+  "religious_science",
+  "new_thought"
+ ],
+ "e-m04": [
+  "arianism"
+ ],
+ "e-m02": [
+  "arianism"
+ ],
+ "x-sch3": [
+  "arianism",
+  "pelagianism"
+ ],
+ "x-sch1": [
+  "christianity"
+ ],
+ "x-sch2": [
+  "christianity"
+ ],
+ "x-sch4": [
+  "christianity"
+ ],
+ "x-sch6": [
+  "christianity"
+ ],
+ "x-sch7": [
+  "christianity"
+ ],
+ "x-sch8": [
+  "christianity"
+ ],
+ "x-hdg": [
+  "arianism",
+  "marcionism",
+  "montanism",
+  "pelagianism"
+ ],
+ "e-ter": [
+  "marcionism"
+ ],
+ "x-lfr": [
+  "marcionism",
+  "manichaeism"
+ ],
+ "x-db3": [
+  "marcionism",
+  "montanism"
+ ],
+ "e-m01": [
+  "montanism"
+ ],
+ "e-n04": [
+  "donatism",
+  "manichaeism"
+ ],
+ "x-db1": [
+  "donatism"
+ ],
+ "x-ce06": [
+  "franciscans"
+ ],
+ "x-ce14": [
+  "franciscans"
+ ],
+ "x-shj": [
+  "sadducees"
+ ],
+ "x-elj": [
+  "sadducees"
+ ],
+ "x-dg2": [
+  "sadducees"
+ ],
+ "x-je11": [
+  "sabbateanism"
+ ],
+ "x-er01": [
+  "ajivika"
+ ],
+ "x-er05": [
+  "druidism"
+ ],
+ "x-fcg": [
+  "greek"
+ ],
+ "x-rps": [
+  "thracian"
+ ],
+ "x-goe": [
+  "atenism"
+ ],
+ "x-are": [
+  "atenism",
+  "kushite"
+ ],
+ "x-bdr": [
+  "atenism"
+ ],
+ "x-sch5": [
+  "cluniacs"
+ ],
+ "e-ber": [
+  "cluniacs"
+ ],
+ "x-nlh": [
+  "himyar_judaism"
+ ],
+ "e-cch": [
+  "old_catholic"
+ ],
+ "x-ce11": [
+  "old_catholic"
+ ],
+ "x-ehb": [
+  "sarvastivada",
+  "mahasanghika",
+  "sthavira",
+  "cham_hinduism"
+ ],
+ "x-pcn": [
+  "mahasanghika",
+  "sthavira"
+ ],
+ "x-kmb": [
+  "mahasanghika",
+  "sthavira"
+ ],
+ "a-vaf": [
+  "mossi_religion"
+ ],
+ "x-zca": [
+  "sabaean"
+ ],
+ "x-orl": [
+  "kashmir_shaivism"
+ ],
+ "x-gct": [
+  "adventism"
+ ],
+ "t-wern": [
+  "tianshi"
+ ],
+ "x-mr08": [
+  "tianshi"
+ ],
+ "e-kuz": [
+  "khazar_judaism"
+ ],
+ "x-je04": [
+  "khazar_judaism"
+ ],
+ "x-btn": [
+  "azali"
+ ],
+ "x-mdt": [
+  "shia",
+  "kharijites"
+ ],
+ "x-dis": [
+  "shia"
+ ],
+ "x-er09": [
+  "alawite",
+  "maronite"
+ ],
+ "x-er02": [
+  "bene_israel"
+ ],
+ "x-dbn": [
+  "chabad",
+  "breslov",
+  "sabbateanism",
+  "frankism",
+  "khazar_judaism"
+ ],
+ "x-wmi": [
+  "adventism"
+ ],
+ "x-bls": [
+  "adventism"
+ ],
+ "x-phh": [
+  "holiness_movement"
+ ],
+ "x-cmw": [
+  "restoration_movement"
+ ],
+ "x-blu": [
+  "unitarian_universalism"
+ ],
+ "x-nel": [
+  "old_catholic"
+ ],
+ "x-rae": [
+  "mar_thoma"
+ ],
+ "x-lbc": [
+  "aglipayan"
+ ],
+ "x-sbt": [
+  "franciscans"
+ ],
+ "x-mjp": [
+  "jomon_ritual"
+ ],
+ "x-frg": [
+  "megalithic_europe"
+ ],
+ "x-ink": [
+  "universal_sufism"
+ ],
+ "x-ahq": [
+  "ahmadiyya"
+ ],
+ "x-kam": [
+  "lahore_ahmadiyya",
+  "ahmadiyya"
+ ],
+ "x-maz": [
+  "mazdaznan"
+ ],
+ "x-bai": [
+  "lucis_trust"
+ ],
+ "a-lum": [
+  "huichol"
+ ],
+ "a-hsy": [
+  "huichol"
+ ],
+ "a-spd": [
+  "sun_dance"
+ ],
+ "x-bre": [
+  "quanzhen"
+ ],
+ "x-scd": [
+  "proto_indo_european"
+ ],
+ "x-hrh": [
+  "shang_religion"
+ ],
+ "x-msk": [
+  "moorish_science"
+ ],
+ "x-aul": [
+  "cult_of_reason",
+  "cult_supreme_being",
+  "theophilanthropy"
+ ],
+ "x-hsl": [
+  "alevism",
+  "hurufism",
+  "shia"
+ ],
+ "x-lyd": [
+  "alawite"
+ ],
+ "x-er08": [
+  "baltic"
+ ],
+ "x-bch": [
+  "harranian"
+ ],
+ "x-ajm": [
+  "chishtiyya"
+ ],
+ "x-phi": [
+  "philistine"
+ ],
+ "x-kvu": [
+  "shrauta"
+ ],
+ "x-jrb": [
+  "astrology"
+ ],
+ "x-rma": [
+  "astrology"
+ ],
+ "h-lives": [
+  "alchemy"
+ ],
+ "a-jen": [
+  "bontoc_igorot"
+ ],
+ "a-tin": [
+  "tinguian"
+ ],
+ "a-tit": [
+  "tinguian"
+ ],
+ "a-kar": [
+  "karen_religion"
+ ],
+ "a-hut": [
+  "naga_religions"
+ ],
+ "a-hus": [
+  "naga_religions"
+ ],
+ "a-mil": [
+  "naga_religions"
+ ],
+ "a-hod": [
+  "naga_religions"
+ ],
+ "a-and": [
+  "andamanese_religion"
+ ],
+ "a-lin": [
+  "kamba_religion"
+ ],
+ "a-dri": [
+  "lango_religion"
+ ],
+ "a-joch": [
+  "koryak_religion"
+ ],
+ "a-ykt": [
+  "yukaghir_religion"
+ ],
+ "a-hako": [
+  "pawnee_religion",
+  "omaha_religion"
+ ],
+ "a-omah": [
+  "omaha_religion"
+ ],
+ "a-junod": [
+  "thonga_religion"
+ ],
+ "a-ila": [
+  "ila_religion"
+ ],
+ "l-webs": [
+  "basque_pagan"
+ ],
+ "e-n05": [
+  "pelagianism"
+ ],
+ "x-db4": [
+  "pelagianism",
+  "priscillianism"
+ ],
+ "x-er10": [
+  "pictish"
+ ],
+ "x-vds": [
+  "advaita_vedanta"
+ ],
+ "x-vcd": [
+  "advaita_vedanta"
+ ],
+ "x-mdk": [
+  "advaita_vedanta"
+ ],
+ "x-eb2": [
+  "edomite"
+ ],
+ "x-ce09": [
+  "maronite"
+ ],
+ "x-ce10": [
+  "melkite"
+ ],
+ "e-m11": [
+  "priscillianism"
+ ],
+ "v-quim": [
+  "mesmerism"
+ ],
+ "a-zuni": [
+  "zuni_religion"
+ ],
+ "t-lumm": [
+  "tanoan_pueblo_religion",
+  "pueblo_religion"
+ ],
+ "x-brah": [
+  "shrauta"
+ ],
+ "x-aib": [
+  "shrauta"
+ ],
+ "x-rvb": [
+  "shrauta"
+ ],
+ "a-fkt": [
+  "pueblo_religion",
+  "hopi_religion"
+ ],
+ "a-stz": [
+  "pueblo_religion",
+  "zuni_religion"
+ ],
+ "a-sia": [
+  "pueblo_religion",
+  "keres_pueblo_religion"
+ ],
+ "a-fws": [
+  "pueblo_religion",
+  "hopi_religion",
+  "tanoan_pueblo_religion"
+ ],
+ "a-fft": [
+  "pueblo_religion",
+  "hopi_religion"
+ ],
+ "a-vpw": [
+  "pueblo_religion",
+  "hopi_religion"
+ ],
+ "a-vso": [
+  "pueblo_religion",
+  "hopi_religion"
+ ],
+ "a-vmr": [
+  "pueblo_religion",
+  "hopi_religion"
+ ],
+ "a-dsd": [
+  "sun_dance"
+ ],
+ "a-dch": [
+  "sun_dance"
+ ],
+ "a-wsb": [
+  "sun_dance"
+ ],
+ "a-wcb": [
+  "sun_dance"
+ ],
+ "a-lsc": [
+  "sun_dance"
+ ],
+ "a-lsh": [
+  "sun_dance"
+ ],
+ "a-skm": [
+  "midewiwin"
+ ],
+ "a-skb": [
+  "midewiwin"
+ ],
+ "a-dc1": [
+  "anishinaabe_religion",
+  "midewiwin"
+ ],
+ "a-dc2": [
+  "anishinaabe_religion",
+  "midewiwin"
+ ],
+ "a-dtn": [
+  "lakota_religion",
+  "sun_dance"
+ ],
+ "a-dpw": [
+  "pawnee_religion"
+ ],
+ "a-mch": [
+  "navajo_religion"
+ ],
+ "a-bks": [
+  "pacific_northwest"
+ ],
+ "a-roq": [
+  "aboriginal_australian"
+ ],
+ "a-ork": [
+  "papuan_religions"
+ ],
+ "x-mug": [
+  "muggletonians"
+ ],
+ "x-rz1": [
+  "rizalista"
+ ],
+ "x-rz2": [
+  "rizalista"
+ ],
+ "x-ust": [
+  "melkite"
+ ],
+ "x-amm": [
+  "sarmatian_alan"
+ ],
+ "x-cae": [
+  "druidism",
+  "gaulish"
+ ],
+ "x-evi": [
+  "illyrian"
+ ],
+ "x-str": [
+  "celtiberian_lusitanian",
+  "dacian",
+  "druidism",
+  "gaulish",
+  "iberian",
+  "illyrian",
+  "sarmatian_alan",
+  "thracian"
+ ],
+ "k-prc": [
+  "freemasonry"
+ ],
+ "k-jab": [
+  "freemasonry"
+ ],
+ "k-tdk": [
+  "freemasonry"
+ ],
+ "k-mor": [
+  "freemasonry"
+ ],
+ "k-ber": [
+  "freemasonry"
+ ],
+ "k-aly": [
+  "freemasonry"
+ ],
+ "k-dun": [
+  "freemasonry"
+ ],
+ "x-vdu": [
+  "lds",
+  "lds_church"
+ ],
+ "x-mgr": [
+  "lds",
+  "lds_church"
+ ],
+ "x-nsr": [
+  "alawite"
+ ],
+ "a-hti": [
+  "haitian_vodou"
+ ],
+ "a-ovd": [
+  "hoodoo"
+ ],
+ "m-67m": [
+  "hoodoo"
+ ],
+ "m-alb": [
+  "hoodoo"
+ ],
+ "x-elb": [
+  "dionysian",
+  "eleusinian"
+ ],
+ "v-hrc": [
+  "rosicrucianism"
+ ],
+ "v-sos": [
+  "theosophy"
+ ],
+ "x-ibn": [
+  "sufism"
+ ],
+ "x-dre": [
+  "maya_religion"
+ ],
+ "a-mor": [
+  "sunni"
+ ],
+ "x-skt": [
+  "shaktism"
+ ],
+ "x-pcr": [
+  "vaishnavism"
+ ],
+ "x-lmh": [
+  "islam"
+ ],
+ "a-loy": [
+  "kanak_religion"
+ ],
+ "x-wur": [
+  "unitarian_universalism"
+ ],
+ "x-mls": [
+  "unitarian_universalism"
+ ],
+ "x-cmh": [
+  "unitarian_universalism"
+ ],
+ "x-bfr": [
+  "unitarian_universalism"
+ ],
+ "x-edd": [
+  "unitarian_universalism"
+ ],
+ "x-wpb": [
+  "unitarian_universalism"
+ ],
+ "x-mrl": [
+  "unitarian_universalism"
+ ],
+ "x-bnp": [
+  "unitarian_universalism"
+ ],
+ "x-ahu": [
+  "unitarian_universalism"
+ ],
+ "x-wmh": [
+  "unitarian_universalism"
+ ],
+ "x-aeh": [
+  "unitarian_universalism",
+  "unitarianism"
+ ],
+ "x-ski": [
+  "unitarian_universalism"
+ ],
+ "x-bsh": [
+  "unitarian_universalism"
+ ],
+ "x-hci": [
+  "unitarian_universalism"
+ ],
+ "x-gdb": [
+  "unitarian_universalism"
+ ],
+ "x-sie": [
+  "unitarian_universalism"
+ ],
+ "x-bsl": [
+  "unitarian_universalism"
+ ],
+ "x-wlb": [
+  "unitarian_universalism"
+ ],
+ "x-gle": [
+  "unitarian_universalism"
+ ],
+ "x-obr": [
+  "unitarian_universalism"
+ ],
+ "x-prc": [
+  "unitarianism"
+ ],
+ "x-pdt": [
+  "unitarianism"
+ ],
+ "x-chw": [
+  "unitarianism"
+ ],
+ "x-cuk": [
+  "unitarianism"
+ ],
+ "x-wst": [
+  "diggers"
+ ],
+ "x-gas": [
+  "samaritanism"
+ ],
+ "x-smt": [
+  "samaritanism"
+ ],
+ "x-sbr": [
+  "mesopotamian",
+  "sumerian"
+ ],
+ "x-sae": [
+  "egyptian",
+  "mesopotamian"
+ ],
+ "x-syh": [
+  "hittite"
+ ],
+ "x-scu": [
+  "mesopotamian"
+ ],
+ "x-igo": [
+  "slavic"
+ ],
+ "x-dns": [
+  "irish_celtic"
+ ],
+ "x-tuk": [
+  "warkari"
+ ],
+ "x-ekn": [
+  "warkari"
+ ],
+ "x-mmy": [
+  "theravada"
+ ],
+ "x-tat": [
+  "jainism"
+ ],
+ "x-jn1": [
+  "jainism",
+  "digambara"
+ ],
+ "x-osc": [
+  "italic"
+ ],
+ "x-emn": [
+  "transcendentalism"
+ ],
+ "x-wal": [
+  "transcendentalism"
+ ],
+ "x-cpp": [
+  "ranters"
+ ],
+ "e-bn2": [
+  "benedictines"
+ ],
+ "h-her3": [
+  "hermeticism"
+ ],
+ "h-chd": [
+  "hermeticism",
+  "neoplatonism"
+ ],
+ "h-pym": [
+  "hermeticism"
+ ],
+ "e-ini": [
+  "church_of_east"
+ ],
+ "a-raf1": [
+  "kejawen"
+ ],
+ "a-saf": [
+  "chamorro_religion"
+ ],
+ "a-ori": [
+  "keres_pueblo_religion",
+  "pueblo_religion"
+ ],
+ "x-jd01": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd02": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd03": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd04": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd05": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd06": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd07": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd08": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd09": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd10": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd11": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd12": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd13": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd14": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd15": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd16": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd17": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd18": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd19": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd20": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd21": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd22": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd23": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd24": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd25": [
+  "lds",
+  "lds_church"
+ ],
+ "x-jd26": [
+  "lds",
+  "lds_church"
+ ]
+}

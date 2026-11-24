@@ -1,0 +1,5570 @@
+[
+ {
+  "tradition_id": "abakua",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "abakua",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "abakua",
+  "practice_id": "masks"
+ },
+ {
+  "tradition_id": "aboriginal_australian",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "aboriginal_australian",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "aboriginal_australian",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "aboriginal_australian",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "aboriginal_australian",
+  "practice_id": "rock_art"
+ },
+ {
+  "tradition_id": "aboriginal_australian",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "aboriginal_australian",
+  "practice_id": "totemism"
+ },
+ {
+  "tradition_id": "ahmadiyya",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "ahmadiyya",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "ahmadiyya",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "ainu_religion",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "ainu_religion",
+  "practice_id": "animism"
+ },
+ {
+  "tradition_id": "ainu_religion",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "akan_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "akan_religion",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "akan_religion",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "akan_religion",
+  "practice_id": "libation"
+ },
+ {
+  "tradition_id": "akan_religion",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "akan_religion",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "aladura",
+  "practice_id": "dreams"
+ },
+ {
+  "tradition_id": "aladura",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "aladura",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "aladura",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "aladura",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "aladura",
+  "practice_id": "prophecy"
+ },
+ {
+  "tradition_id": "alawite",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "alawite",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "alawite",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "alevism",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "alevism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "alevism",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "alevism",
+  "practice_id": "sacred_meal"
+ },
+ {
+  "tradition_id": "aluk_todolo",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "aluk_todolo",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "aluk_todolo",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "amazonian_shamanism",
+  "practice_id": "animism"
+ },
+ {
+  "tradition_id": "amazonian_shamanism",
+  "practice_id": "entheogen"
+ },
+ {
+  "tradition_id": "amazonian_shamanism",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "amazonian_shamanism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "amazonian_shamanism",
+  "practice_id": "shamanic_journey"
+ },
+ {
+  "tradition_id": "amish",
+  "practice_id": "baptism"
+ },
+ {
+  "tradition_id": "amish",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "amish",
+  "practice_id": "nonviolence"
+ },
+ {
+  "tradition_id": "amish",
+  "practice_id": "sabbath"
+ },
+ {
+  "tradition_id": "anabaptism",
+  "practice_id": "baptism"
+ },
+ {
+  "tradition_id": "anabaptism",
+  "practice_id": "nonviolence"
+ },
+ {
+  "tradition_id": "anabaptism",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "ancestral_puebloan",
+  "practice_id": "monument_building"
+ },
+ {
+  "tradition_id": "ancestral_puebloan",
+  "practice_id": "sky_observation"
+ },
+ {
+  "tradition_id": "ancestral_puebloan",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "andean_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "andean_religion",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "andean_religion",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "andean_religion",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "andean_religion",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "anglicanism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "anglicanism",
+  "practice_id": "liturgy"
+ },
+ {
+  "tradition_id": "anglicanism",
+  "practice_id": "sacrament"
+ },
+ {
+  "tradition_id": "anglicanism",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "anglo_saxon",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "anglo_saxon",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "anglo_saxon",
+  "practice_id": "magic_amulets"
+ },
+ {
+  "tradition_id": "anglo_saxon",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "anishinaabe_religion",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "anishinaabe_religion",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "anishinaabe_religion",
+  "practice_id": "vision_quest"
+ },
+ {
+  "tradition_id": "anitism",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "anitism",
+  "practice_id": "animism"
+ },
+ {
+  "tradition_id": "anitism",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "anitism",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "anthroposophy",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "anthroposophy",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "anthroposophy",
+  "practice_id": "theology_debate"
+ },
+ {
+  "tradition_id": "arabian",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "arabian",
+  "practice_id": "circumambulation"
+ },
+ {
+  "tradition_id": "arabian",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "arabian",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "arabian",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "armenian_apostolic",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "armenian_apostolic",
+  "practice_id": "liturgy"
+ },
+ {
+  "tradition_id": "armenian_apostolic",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "armenian_apostolic",
+  "practice_id": "sacrament"
+ },
+ {
+  "tradition_id": "armenian_apostolic",
+  "practice_id": "sacred_language"
+ },
+ {
+  "tradition_id": "arya_samaj",
+  "practice_id": "aniconism"
+ },
+ {
+  "tradition_id": "arya_samaj",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "arya_samaj",
+  "practice_id": "fire_ritual"
+ },
+ {
+  "tradition_id": "arya_samaj",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "atenism",
+  "practice_id": "aniconism"
+ },
+ {
+  "tradition_id": "atenism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "atenism",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "atenism",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "aztec_religion",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "aztec_religion",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "aztec_religion",
+  "practice_id": "human_sacrifice"
+ },
+ {
+  "tradition_id": "aztec_religion",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "aztec_religion",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "aztec_religion",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "aztec_religion",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "aztec_religion",
+  "practice_id": "sky_observation"
+ },
+ {
+  "tradition_id": "aztec_religion",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "baganda_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "baganda_religion",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "baganda_religion",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "baganda_religion",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "baganda_religion",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "bahai",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "bahai",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "bahai",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "bahai",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "bahai",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "bahai",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "balinese_hinduism",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "balinese_hinduism",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "balinese_hinduism",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "balinese_hinduism",
+  "practice_id": "masks"
+ },
+ {
+  "tradition_id": "balinese_hinduism",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "balinese_hinduism",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "balinese_hinduism",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "baltic",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "baltic",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "baltic",
+  "practice_id": "fire_ritual"
+ },
+ {
+  "tradition_id": "baltic",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "baltic",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "bambara_religion",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "bambara_religion",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "bambara_religion",
+  "practice_id": "masks"
+ },
+ {
+  "tradition_id": "bambara_religion",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "baptists",
+  "practice_id": "baptism"
+ },
+ {
+  "tradition_id": "baptists",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "baptists",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "baptists",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "bektashi",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "bektashi",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "bektashi",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "bektashi",
+  "practice_id": "sacred_meal"
+ },
+ {
+  "tradition_id": "beta_israel",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "beta_israel",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "beta_israel",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "beta_israel",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "beta_israel",
+  "practice_id": "purification"
+ },
+ {
+  "tradition_id": "beta_israel",
+  "practice_id": "sabbath"
+ },
+ {
+  "tradition_id": "bon",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "bon",
+  "practice_id": "circumambulation"
+ },
+ {
+  "tradition_id": "bon",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "bon",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "bon",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "bon",
+  "practice_id": "ritual_magic"
+ },
+ {
+  "tradition_id": "brahma_kumaris",
+  "practice_id": "asceticism"
+ },
+ {
+  "tradition_id": "brahma_kumaris",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "brahma_kumaris",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "brahmo_samaj",
+  "practice_id": "aniconism"
+ },
+ {
+  "tradition_id": "brahmo_samaj",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "brahmo_samaj",
+  "practice_id": "theology_debate"
+ },
+ {
+  "tradition_id": "buddhism",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "buddhism",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "buddhism",
+  "practice_id": "circumambulation"
+ },
+ {
+  "tradition_id": "buddhism",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "buddhism",
+  "practice_id": "icons_images"
+ },
+ {
+  "tradition_id": "buddhism",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "buddhism",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "buddhism",
+  "practice_id": "nonviolence"
+ },
+ {
+  "tradition_id": "buddhism",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "buddhism",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "buryat_shamanism",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "buryat_shamanism",
+  "practice_id": "libation"
+ },
+ {
+  "tradition_id": "buryat_shamanism",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "buryat_shamanism",
+  "practice_id": "shamanic_journey"
+ },
+ {
+  "tradition_id": "bwiti",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "bwiti",
+  "practice_id": "entheogen"
+ },
+ {
+  "tradition_id": "bwiti",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "bwiti",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "canaanite",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "canaanite",
+  "practice_id": "libation"
+ },
+ {
+  "tradition_id": "canaanite",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "canaanite",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "canaanite",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "canaanite",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "candomble",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "candomble",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "candomble",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "candomble",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "candomble",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "candomble",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "caodaism",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "caodaism",
+  "practice_id": "mediumship"
+ },
+ {
+  "tradition_id": "caodaism",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "caodaism",
+  "practice_id": "spirit_writing"
+ },
+ {
+  "tradition_id": "catholicism",
+  "practice_id": "baptism"
+ },
+ {
+  "tradition_id": "catholicism",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "catholicism",
+  "practice_id": "confession"
+ },
+ {
+  "tradition_id": "catholicism",
+  "practice_id": "exorcism"
+ },
+ {
+  "tradition_id": "catholicism",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "catholicism",
+  "practice_id": "icons_images"
+ },
+ {
+  "tradition_id": "catholicism",
+  "practice_id": "liturgy"
+ },
+ {
+  "tradition_id": "catholicism",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "catholicism",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "catholicism",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "catholicism",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "catholicism",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "catholicism",
+  "practice_id": "sacrament"
+ },
+ {
+  "tradition_id": "catholicism",
+  "practice_id": "sacred_language"
+ },
+ {
+  "tradition_id": "celestial_church",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "celestial_church",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "celestial_church",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "celestial_church",
+  "practice_id": "prophecy"
+ },
+ {
+  "tradition_id": "celestial_church",
+  "practice_id": "purification"
+ },
+ {
+  "tradition_id": "celtic",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "celtic",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "celtic",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "celtic",
+  "practice_id": "human_sacrifice"
+ },
+ {
+  "tradition_id": "celtic",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "celtic",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "celtic",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "celtic",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "chan",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "chan",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "chavin_religion",
+  "practice_id": "entheogen"
+ },
+ {
+  "tradition_id": "chavin_religion",
+  "practice_id": "oracle"
+ },
+ {
+  "tradition_id": "chavin_religion",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "cherokee_religion",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "cherokee_religion",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "cherokee_religion",
+  "practice_id": "purification"
+ },
+ {
+  "tradition_id": "cherubim_seraphim",
+  "practice_id": "dreams"
+ },
+ {
+  "tradition_id": "cherubim_seraphim",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "cherubim_seraphim",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "cherubim_seraphim",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "cherubim_seraphim",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "cherubim_seraphim",
+  "practice_id": "prophecy"
+ },
+ {
+  "tradition_id": "chewa_nyau",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "chewa_nyau",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "chewa_nyau",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "chewa_nyau",
+  "practice_id": "masks"
+ },
+ {
+  "tradition_id": "chinese_folk",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "chinese_folk",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "chinese_folk",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "chinese_folk",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "chinese_folk",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "chinese_folk",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "chinese_folk",
+  "practice_id": "spirit_writing"
+ },
+ {
+  "tradition_id": "chinese_folk",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "chishtiyya",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "chishtiyya",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "chishtiyya",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "chishtiyya",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "chishtiyya",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "christian_kabbalah",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "christian_kabbalah",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "christian_monasticism",
+  "practice_id": "asceticism"
+ },
+ {
+  "tradition_id": "christian_monasticism",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "christian_monasticism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "christian_monasticism",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "christian_monasticism",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "christian_science",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "christian_science",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "christian_science",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "christianity",
+  "practice_id": "baptism"
+ },
+ {
+  "tradition_id": "christianity",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "christianity",
+  "practice_id": "confession"
+ },
+ {
+  "tradition_id": "christianity",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "christianity",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "christianity",
+  "practice_id": "liturgy"
+ },
+ {
+  "tradition_id": "christianity",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "christianity",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "christianity",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "christianity",
+  "practice_id": "sabbath"
+ },
+ {
+  "tradition_id": "christianity",
+  "practice_id": "sacrament"
+ },
+ {
+  "tradition_id": "christianity",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "church_of_east",
+  "practice_id": "liturgy"
+ },
+ {
+  "tradition_id": "church_of_east",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "church_of_east",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "church_of_east",
+  "practice_id": "sacred_language"
+ },
+ {
+  "tradition_id": "confucianism",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "confucianism",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "confucianism",
+  "practice_id": "rites_of_passage"
+ },
+ {
+  "tradition_id": "confucianism",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "confucianism",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "confucianism",
+  "practice_id": "theology_debate"
+ },
+ {
+  "tradition_id": "coptic_orthodox",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "coptic_orthodox",
+  "practice_id": "liturgy"
+ },
+ {
+  "tradition_id": "coptic_orthodox",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "coptic_orthodox",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "coptic_orthodox",
+  "practice_id": "sacred_language"
+ },
+ {
+  "tradition_id": "cybele",
+  "practice_id": "asceticism"
+ },
+ {
+  "tradition_id": "cybele",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "cybele",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "cybele",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "dao_mau",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "dao_mau",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "dao_mau",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "dao_mau",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "daoism",
+  "practice_id": "alchemy"
+ },
+ {
+  "tradition_id": "daoism",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "daoism",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "daoism",
+  "practice_id": "exorcism"
+ },
+ {
+  "tradition_id": "daoism",
+  "practice_id": "magic_amulets"
+ },
+ {
+  "tradition_id": "daoism",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "daoism",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "daoism",
+  "practice_id": "ritual_magic"
+ },
+ {
+  "tradition_id": "daoism",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "daoism",
+  "practice_id": "yoga"
+ },
+ {
+  "tradition_id": "digambara",
+  "practice_id": "asceticism"
+ },
+ {
+  "tradition_id": "digambara",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "digambara",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "digambara",
+  "practice_id": "nonviolence"
+ },
+ {
+  "tradition_id": "dinka_religion",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "dinka_religion",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "dinka_religion",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "dionysian",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "dionysian",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "dionysian",
+  "practice_id": "sacred_meal"
+ },
+ {
+  "tradition_id": "dionysian",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "dogon_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "dogon_religion",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "dogon_religion",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "dogon_religion",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "dogon_religion",
+  "practice_id": "masks"
+ },
+ {
+  "tradition_id": "dogon_religion",
+  "practice_id": "sky_observation"
+ },
+ {
+  "tradition_id": "donghak",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "donghak",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "druidism",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "druidism",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "druidism",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "druidism",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "druidism",
+  "practice_id": "sky_observation"
+ },
+ {
+  "tradition_id": "druidry_modern",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "druidry_modern",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "druidry_modern",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "druze",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "druze",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "druze",
+  "practice_id": "theology_debate"
+ },
+ {
+  "tradition_id": "eastern_orthodox",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "eastern_orthodox",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "eastern_orthodox",
+  "practice_id": "icons_images"
+ },
+ {
+  "tradition_id": "eastern_orthodox",
+  "practice_id": "liturgy"
+ },
+ {
+  "tradition_id": "eastern_orthodox",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "eastern_orthodox",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "eastern_orthodox",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "eastern_orthodox",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "eastern_orthodox",
+  "practice_id": "sacrament"
+ },
+ {
+  "tradition_id": "edo_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "edo_religion",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "edo_religion",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "efik_ekpe",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "efik_ekpe",
+  "practice_id": "masks"
+ },
+ {
+  "tradition_id": "egyptian",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "egyptian",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "egyptian",
+  "practice_id": "magic_amulets"
+ },
+ {
+  "tradition_id": "egyptian",
+  "practice_id": "monument_building"
+ },
+ {
+  "tradition_id": "egyptian",
+  "practice_id": "mummification"
+ },
+ {
+  "tradition_id": "egyptian",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "egyptian",
+  "practice_id": "oracle"
+ },
+ {
+  "tradition_id": "egyptian",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "egyptian",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "egyptian",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "egyptian",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "eleusinian",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "eleusinian",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "eleusinian",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "eleusinian",
+  "practice_id": "sacred_meal"
+ },
+ {
+  "tradition_id": "essenes",
+  "practice_id": "asceticism"
+ },
+ {
+  "tradition_id": "essenes",
+  "practice_id": "purification"
+ },
+ {
+  "tradition_id": "essenes",
+  "practice_id": "sacred_meal"
+ },
+ {
+  "tradition_id": "essenes",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "ethiopian_orthodox",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "ethiopian_orthodox",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "ethiopian_orthodox",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "ethiopian_orthodox",
+  "practice_id": "liturgy"
+ },
+ {
+  "tradition_id": "ethiopian_orthodox",
+  "practice_id": "magic_amulets"
+ },
+ {
+  "tradition_id": "ethiopian_orthodox",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "ethiopian_orthodox",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "ethiopian_orthodox",
+  "practice_id": "sabbath"
+ },
+ {
+  "tradition_id": "ethiopian_orthodox",
+  "practice_id": "sacred_language"
+ },
+ {
+  "tradition_id": "etruscan",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "etruscan",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "etruscan",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "etruscan",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "evangelicalism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "evangelicalism",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "evangelicalism",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "evangelicalism",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "falun_gong",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "falun_gong",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "falun_gong",
+  "practice_id": "yoga"
+ },
+ {
+  "tradition_id": "fang_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "fang_religion",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "fang_religion",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "fijian_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "fijian_religion",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "fijian_religion",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "finnic",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "finnic",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "finnic",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "finnic",
+  "practice_id": "shamanic_journey"
+ },
+ {
+  "tradition_id": "fon_vodun",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "fon_vodun",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "fon_vodun",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "fon_vodun",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "fon_vodun",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "fon_vodun",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "freemasonry",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "freemasonry",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "freemasonry",
+  "practice_id": "ritual_magic"
+ },
+ {
+  "tradition_id": "gaudiya",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "gaudiya",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "gaudiya",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "gaudiya",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "germanic",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "germanic",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "germanic",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "germanic",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "ghost_dance",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "ghost_dance",
+  "practice_id": "prophecy"
+ },
+ {
+  "tradition_id": "ghost_dance",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "gnosticism",
+  "practice_id": "asceticism"
+ },
+ {
+  "tradition_id": "gnosticism",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "gnosticism",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "gnosticism",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "golden_dawn",
+  "practice_id": "astrology"
+ },
+ {
+  "tradition_id": "golden_dawn",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "golden_dawn",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "golden_dawn",
+  "practice_id": "ritual_magic"
+ },
+ {
+  "tradition_id": "greek",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "greek",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "greek",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "greek",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "greek",
+  "practice_id": "icons_images"
+ },
+ {
+  "tradition_id": "greek",
+  "practice_id": "libation"
+ },
+ {
+  "tradition_id": "greek",
+  "practice_id": "oracle"
+ },
+ {
+  "tradition_id": "greek",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "greek",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "guarani_religion",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "guarani_religion",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "guarani_religion",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "guarani_religion",
+  "practice_id": "prophecy"
+ },
+ {
+  "tradition_id": "haitian_vodou",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "haitian_vodou",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "haitian_vodou",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "haitian_vodou",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "haitian_vodou",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "haitian_vodou",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "haitian_vodou",
+  "practice_id": "sand_painting"
+ },
+ {
+  "tradition_id": "haitian_vodou",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "harranian",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "harranian",
+  "practice_id": "astrology"
+ },
+ {
+  "tradition_id": "harranian",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "harrist",
+  "practice_id": "aniconism"
+ },
+ {
+  "tradition_id": "harrist",
+  "practice_id": "baptism"
+ },
+ {
+  "tradition_id": "harrist",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "harrist",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "hasidism",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "hasidism",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "hasidism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "hasidism",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "hasidism",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "haudenosaunee_religion",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "haudenosaunee_religion",
+  "practice_id": "masks"
+ },
+ {
+  "tradition_id": "haudenosaunee_religion",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "haudenosaunee_religion",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "hausa_bori",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "hausa_bori",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "hausa_bori",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "hawaiian_religion",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "hawaiian_religion",
+  "practice_id": "human_sacrifice"
+ },
+ {
+  "tradition_id": "hawaiian_religion",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "hawaiian_religion",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "hawaiian_religion",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "hawaiian_religion",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "heathenry",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "heathenry",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "heathenry",
+  "practice_id": "libation"
+ },
+ {
+  "tradition_id": "heathenry",
+  "practice_id": "sacred_meal"
+ },
+ {
+  "tradition_id": "hermeticism",
+  "practice_id": "alchemy"
+ },
+ {
+  "tradition_id": "hermeticism",
+  "practice_id": "astrology"
+ },
+ {
+  "tradition_id": "hermeticism",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "hermeticism",
+  "practice_id": "ritual_magic"
+ },
+ {
+  "tradition_id": "hermeticism",
+  "practice_id": "theology_debate"
+ },
+ {
+  "tradition_id": "hinduism",
+  "practice_id": "astrology"
+ },
+ {
+  "tradition_id": "hinduism",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "hinduism",
+  "practice_id": "circumambulation"
+ },
+ {
+  "tradition_id": "hinduism",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "hinduism",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "hinduism",
+  "practice_id": "fire_ritual"
+ },
+ {
+  "tradition_id": "hinduism",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "hinduism",
+  "practice_id": "icons_images"
+ },
+ {
+  "tradition_id": "hinduism",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "hinduism",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "hinduism",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "hinduism",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "hinduism",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "hinduism",
+  "practice_id": "purification"
+ },
+ {
+  "tradition_id": "hinduism",
+  "practice_id": "rites_of_passage"
+ },
+ {
+  "tradition_id": "hinduism",
+  "practice_id": "sacred_language"
+ },
+ {
+  "tradition_id": "hinduism",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "hinduism",
+  "practice_id": "yoga"
+ },
+ {
+  "tradition_id": "hittite",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "hittite",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "hittite",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "hittite",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "hittite",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "hittite",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "hoodoo",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "hoodoo",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "hoodoo",
+  "practice_id": "magic_amulets"
+ },
+ {
+  "tradition_id": "hopewell",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "hopewell",
+  "practice_id": "monument_building"
+ },
+ {
+  "tradition_id": "hopewell",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "huichol",
+  "practice_id": "entheogen"
+ },
+ {
+  "tradition_id": "huichol",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "huichol",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "huichol",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "humanism",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "humanism",
+  "practice_id": "rites_of_passage"
+ },
+ {
+  "tradition_id": "humanism",
+  "practice_id": "theology_debate"
+ },
+ {
+  "tradition_id": "ibadi",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "ibadi",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "ibadi",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "ifa",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "ifa",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "ifa",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "ifa",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "ifa",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "ifa",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "ifugao_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "ifugao_religion",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "ifugao_religion",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "igbo_odinani",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "igbo_odinani",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "igbo_odinani",
+  "practice_id": "masks"
+ },
+ {
+  "tradition_id": "igbo_odinani",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "igbo_odinani",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "imperial_cult",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "imperial_cult",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "imperial_cult",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "imperial_cult",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "inca_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "inca_religion",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "inca_religion",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "inca_religion",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "inca_religion",
+  "practice_id": "human_sacrifice"
+ },
+ {
+  "tradition_id": "inca_religion",
+  "practice_id": "mummification"
+ },
+ {
+  "tradition_id": "inca_religion",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "inca_religion",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "inca_religion",
+  "practice_id": "sky_observation"
+ },
+ {
+  "tradition_id": "inca_religion",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "inuit_religion",
+  "practice_id": "animism"
+ },
+ {
+  "tradition_id": "inuit_religion",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "inuit_religion",
+  "practice_id": "shamanic_journey"
+ },
+ {
+  "tradition_id": "irish_celtic",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "irish_celtic",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "irish_celtic",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "irish_celtic",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "isis_cult",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "isis_cult",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "isis_cult",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "isis_cult",
+  "practice_id": "purification"
+ },
+ {
+  "tradition_id": "isis_cult",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "iskcon",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "iskcon",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "iskcon",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "iskcon",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "iskcon",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "iskcon",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "islam",
+  "practice_id": "aniconism"
+ },
+ {
+  "tradition_id": "islam",
+  "practice_id": "calligraphy"
+ },
+ {
+  "tradition_id": "islam",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "islam",
+  "practice_id": "circumambulation"
+ },
+ {
+  "tradition_id": "islam",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "islam",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "islam",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "islam",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "islam",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "islam",
+  "practice_id": "rites_of_passage"
+ },
+ {
+  "tradition_id": "islam",
+  "practice_id": "sacred_language"
+ },
+ {
+  "tradition_id": "islam",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "ismaili",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "ismaili",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "ismaili",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "ismaili",
+  "practice_id": "theology_debate"
+ },
+ {
+  "tradition_id": "israelite",
+  "practice_id": "aniconism"
+ },
+ {
+  "tradition_id": "israelite",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "israelite",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "israelite",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "israelite",
+  "practice_id": "prophecy"
+ },
+ {
+  "tradition_id": "israelite",
+  "practice_id": "sabbath"
+ },
+ {
+  "tradition_id": "israelite",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "jainism",
+  "practice_id": "asceticism"
+ },
+ {
+  "tradition_id": "jainism",
+  "practice_id": "confession"
+ },
+ {
+  "tradition_id": "jainism",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "jainism",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "jainism",
+  "practice_id": "icons_images"
+ },
+ {
+  "tradition_id": "jainism",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "jainism",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "jainism",
+  "practice_id": "nonviolence"
+ },
+ {
+  "tradition_id": "jainism",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "jainism",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "japanese_buddhism",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "japanese_buddhism",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "japanese_buddhism",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "japanese_buddhism",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "japanese_buddhism",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "jehovahs_witnesses",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "jehovahs_witnesses",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "jehovahs_witnesses",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "jodo_shinshu",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "jodo_shinshu",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "john_frum",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "john_frum",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "john_frum",
+  "practice_id": "prophecy"
+ },
+ {
+  "tradition_id": "jomon_ritual",
+  "practice_id": "animism"
+ },
+ {
+  "tradition_id": "jomon_ritual",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "jomon_ritual",
+  "practice_id": "icons_images"
+ },
+ {
+  "tradition_id": "jomon_ritual",
+  "practice_id": "monument_building"
+ },
+ {
+  "tradition_id": "judaism",
+  "practice_id": "aniconism"
+ },
+ {
+  "tradition_id": "judaism",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "judaism",
+  "practice_id": "circumambulation"
+ },
+ {
+  "tradition_id": "judaism",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "judaism",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "judaism",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "judaism",
+  "practice_id": "rites_of_passage"
+ },
+ {
+  "tradition_id": "judaism",
+  "practice_id": "sabbath"
+ },
+ {
+  "tradition_id": "judaism",
+  "practice_id": "sacred_language"
+ },
+ {
+  "tradition_id": "judaism",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "kabbalah",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "kabbalah",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "kabbalah",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "kabbalah",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "kaharingan",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "kaharingan",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "kaharingan",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "karaite",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "karaite",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "karaite",
+  "practice_id": "sabbath"
+ },
+ {
+  "tradition_id": "karaite",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "kashmir_shaivism",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "kashmir_shaivism",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "kashmir_shaivism",
+  "practice_id": "tantra"
+ },
+ {
+  "tradition_id": "kashmir_shaivism",
+  "practice_id": "yoga"
+ },
+ {
+  "tradition_id": "kejawen",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "kejawen",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "kejawen",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "kejawen",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "khalsa",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "khalsa",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "khalsa",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "kikuyu_religion",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "kikuyu_religion",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "kikuyu_religion",
+  "practice_id": "rites_of_passage"
+ },
+ {
+  "tradition_id": "kikuyu_religion",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "kimbanguism",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "kimbanguism",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "kimbanguism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "kimbanguism",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "kimbanguism",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "kogi_religion",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "kogi_religion",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "kogi_religion",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "kogi_religion",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "kongo_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "kongo_religion",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "kongo_religion",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "kongo_religion",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "kongo_religion",
+  "practice_id": "magic_amulets"
+ },
+ {
+  "tradition_id": "korean_buddhism",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "korean_buddhism",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "korean_buddhism",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "korean_buddhism",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "korean_shamanism",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "korean_shamanism",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "korean_shamanism",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "korean_shamanism",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "korean_shamanism",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "korean_shamanism",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "kubandwa",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "kubandwa",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "kushite",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "kushite",
+  "practice_id": "monument_building"
+ },
+ {
+  "tradition_id": "kushite",
+  "practice_id": "oracle"
+ },
+ {
+  "tradition_id": "kushite",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "kushite",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "lakota_religion",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "lakota_religion",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "lakota_religion",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "lakota_religion",
+  "practice_id": "sweat_lodge"
+ },
+ {
+  "tradition_id": "lakota_religion",
+  "practice_id": "vision_quest"
+ },
+ {
+  "tradition_id": "lds",
+  "practice_id": "baptism"
+ },
+ {
+  "tradition_id": "lds",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "lds",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "lds",
+  "practice_id": "prophecy"
+ },
+ {
+  "tradition_id": "lds",
+  "practice_id": "rites_of_passage"
+ },
+ {
+  "tradition_id": "lds",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "lds",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "lds_church",
+  "practice_id": "baptism"
+ },
+ {
+  "tradition_id": "lds_church",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "lds_church",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "lds_church",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "lds_church",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "lds_church",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "lingayatism",
+  "practice_id": "aniconism"
+ },
+ {
+  "tradition_id": "lingayatism",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "lingayatism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "lingayatism",
+  "practice_id": "rites_of_passage"
+ },
+ {
+  "tradition_id": "longhouse_religion",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "longhouse_religion",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "longhouse_religion",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "louisiana_voodoo",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "louisiana_voodoo",
+  "practice_id": "magic_amulets"
+ },
+ {
+  "tradition_id": "louisiana_voodoo",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "lumpa",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "lumpa",
+  "practice_id": "prophecy"
+ },
+ {
+  "tradition_id": "lumpa",
+  "practice_id": "purification"
+ },
+ {
+  "tradition_id": "lutheranism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "lutheranism",
+  "practice_id": "liturgy"
+ },
+ {
+  "tradition_id": "lutheranism",
+  "practice_id": "sacrament"
+ },
+ {
+  "tradition_id": "lutheranism",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "maasai_religion",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "maasai_religion",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "maasai_religion",
+  "practice_id": "rites_of_passage"
+ },
+ {
+  "tradition_id": "mahayana",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "mahayana",
+  "practice_id": "icons_images"
+ },
+ {
+  "tradition_id": "mahayana",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "mahayana",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "mahayana",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "malagasy_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "malagasy_religion",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "malagasy_religion",
+  "practice_id": "astrology"
+ },
+ {
+  "tradition_id": "malagasy_religion",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "malagasy_religion",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "maltese_temple",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "maltese_temple",
+  "practice_id": "icons_images"
+ },
+ {
+  "tradition_id": "maltese_temple",
+  "practice_id": "monument_building"
+ },
+ {
+  "tradition_id": "mandaeism",
+  "practice_id": "baptism"
+ },
+ {
+  "tradition_id": "mandaeism",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "mandaeism",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "mandaeism",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "mandaeism",
+  "practice_id": "purification"
+ },
+ {
+  "tradition_id": "mandaeism",
+  "practice_id": "sacred_language"
+ },
+ {
+  "tradition_id": "manichaeism",
+  "practice_id": "asceticism"
+ },
+ {
+  "tradition_id": "manichaeism",
+  "practice_id": "confession"
+ },
+ {
+  "tradition_id": "manichaeism",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "manichaeism",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "manichaeism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "manichaeism",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "manichaeism",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "maori_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "maori_religion",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "maori_religion",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "maori_religion",
+  "practice_id": "purification"
+ },
+ {
+  "tradition_id": "maori_religion",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "mapuche_religion",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "mapuche_religion",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "mapuche_religion",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "mapuche_religion",
+  "practice_id": "shamanic_journey"
+ },
+ {
+  "tradition_id": "marange_apostolic",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "marange_apostolic",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "marange_apostolic",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "marange_apostolic",
+  "practice_id": "prophecy"
+ },
+ {
+  "tradition_id": "marange_apostolic",
+  "practice_id": "sabbath"
+ },
+ {
+  "tradition_id": "marapu",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "marapu",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "marapu",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "martinism",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "martinism",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "maya_religion",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "maya_religion",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "maya_religion",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "maya_religion",
+  "practice_id": "human_sacrifice"
+ },
+ {
+  "tradition_id": "maya_religion",
+  "practice_id": "monument_building"
+ },
+ {
+  "tradition_id": "maya_religion",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "maya_religion",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "maya_religion",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "maya_religion",
+  "practice_id": "sky_observation"
+ },
+ {
+  "tradition_id": "maya_religion",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "mazatec_religion",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "mazatec_religion",
+  "practice_id": "entheogen"
+ },
+ {
+  "tradition_id": "mazatec_religion",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "mazu",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "mazu",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "mazu",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "mbuti_religion",
+  "practice_id": "animism"
+ },
+ {
+  "tradition_id": "mbuti_religion",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "mbuti_religion",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "megalithic_europe",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "megalithic_europe",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "megalithic_europe",
+  "practice_id": "monument_building"
+ },
+ {
+  "tradition_id": "megalithic_europe",
+  "practice_id": "sky_observation"
+ },
+ {
+  "tradition_id": "mennonites",
+  "practice_id": "baptism"
+ },
+ {
+  "tradition_id": "mennonites",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "mennonites",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "mennonites",
+  "practice_id": "nonviolence"
+ },
+ {
+  "tradition_id": "mesopotamian",
+  "practice_id": "astrology"
+ },
+ {
+  "tradition_id": "mesopotamian",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "mesopotamian",
+  "practice_id": "exorcism"
+ },
+ {
+  "tradition_id": "mesopotamian",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "mesopotamian",
+  "practice_id": "magic_amulets"
+ },
+ {
+  "tradition_id": "mesopotamian",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "mesopotamian",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "mesopotamian",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "mesopotamian",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "methodism",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "methodism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "methodism",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "methodism",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "mevlevi",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "mevlevi",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "mevlevi",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "mevlevi",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "micronesian_religions",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "micronesian_religions",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "micronesian_religions",
+  "practice_id": "sky_observation"
+ },
+ {
+  "tradition_id": "middle_palaeolithic_ritual",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "middle_palaeolithic_ritual",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "midewiwin",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "midewiwin",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "midewiwin",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "minoan",
+  "practice_id": "icons_images"
+ },
+ {
+  "tradition_id": "minoan",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "minoan",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "minoan",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "mississippian",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "mississippian",
+  "practice_id": "monument_building"
+ },
+ {
+  "tradition_id": "mississippian",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "mithraism",
+  "practice_id": "astrology"
+ },
+ {
+  "tradition_id": "mithraism",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "mithraism",
+  "practice_id": "sacred_meal"
+ },
+ {
+  "tradition_id": "mixtec_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "mixtec_religion",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "mixtec_religion",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "moche_religion",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "moche_religion",
+  "practice_id": "human_sacrifice"
+ },
+ {
+  "tradition_id": "moche_religion",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "mongolian_shamanism",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "mongolian_shamanism",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "mongolian_shamanism",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "mongolian_shamanism",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "mongolian_shamanism",
+  "practice_id": "shamanic_journey"
+ },
+ {
+  "tradition_id": "mouride",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "mouride",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "mouride",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "mouride",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "muisca_religion",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "muisca_religion",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "muisca_religion",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "nabataean",
+  "practice_id": "aniconism"
+ },
+ {
+  "tradition_id": "nabataean",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "nabataean",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "naqshbandiyya",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "naqshbandiyya",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "naqshbandiyya",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "nat_worship",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "nat_worship",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "nat_worship",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "nath",
+  "practice_id": "asceticism"
+ },
+ {
+  "tradition_id": "nath",
+  "practice_id": "tantra"
+ },
+ {
+  "tradition_id": "nath",
+  "practice_id": "yoga"
+ },
+ {
+  "tradition_id": "nation_of_islam",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "nation_of_islam",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "nation_of_islam",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "native_american_church",
+  "practice_id": "entheogen"
+ },
+ {
+  "tradition_id": "native_american_church",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "native_american_church",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "native_american_church",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "natufian_ritual",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "natufian_ritual",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "natufian_ritual",
+  "practice_id": "sacred_meal"
+ },
+ {
+  "tradition_id": "natufian_ritual",
+  "practice_id": "shamanic_journey"
+ },
+ {
+  "tradition_id": "navajo_religion",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "navajo_religion",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "navajo_religion",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "navajo_religion",
+  "practice_id": "sand_painting"
+ },
+ {
+  "tradition_id": "navayana",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "navayana",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "navayana",
+  "practice_id": "theology_debate"
+ },
+ {
+  "tradition_id": "nazareth_baptist",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "nazareth_baptist",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "nazareth_baptist",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "nazareth_baptist",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "nazareth_baptist",
+  "practice_id": "sabbath"
+ },
+ {
+  "tradition_id": "nazca_religion",
+  "practice_id": "monument_building"
+ },
+ {
+  "tradition_id": "nazca_religion",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "nazca_religion",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "neo_confucianism",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "neo_confucianism",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "neo_confucianism",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "neolithic_china_ritual",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "neolithic_china_ritual",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "neolithic_china_ritual",
+  "practice_id": "monument_building"
+ },
+ {
+  "tradition_id": "neolithic_china_ritual",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "neolithic_near_east_cults",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "neolithic_near_east_cults",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "neolithic_near_east_cults",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "neolithic_near_east_cults",
+  "practice_id": "monument_building"
+ },
+ {
+  "tradition_id": "neolithic_near_east_cults",
+  "practice_id": "sacred_meal"
+ },
+ {
+  "tradition_id": "neoplatonism",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "neoplatonism",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "neoplatonism",
+  "practice_id": "ritual_magic"
+ },
+ {
+  "tradition_id": "neoplatonism",
+  "practice_id": "theology_debate"
+ },
+ {
+  "tradition_id": "new_age",
+  "practice_id": "astrology"
+ },
+ {
+  "tradition_id": "new_age",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "new_age",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "new_age",
+  "practice_id": "mediumship"
+ },
+ {
+  "tradition_id": "new_age",
+  "practice_id": "yoga"
+ },
+ {
+  "tradition_id": "new_thought",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "new_thought",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "new_thought",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "nichiren_buddhism",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "nichiren_buddhism",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "nichiren_buddhism",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "norse",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "norse",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "norse",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "norse",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "norse",
+  "practice_id": "sacred_meal"
+ },
+ {
+  "tradition_id": "norse",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "norse",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "nuer_religion",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "nuer_religion",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "nuer_religion",
+  "practice_id": "prophecy"
+ },
+ {
+  "tradition_id": "obeah",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "obeah",
+  "practice_id": "magic_amulets"
+ },
+ {
+  "tradition_id": "old_europe_neolithic",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "old_europe_neolithic",
+  "practice_id": "icons_images"
+ },
+ {
+  "tradition_id": "old_europe_neolithic",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "olmec",
+  "practice_id": "monument_building"
+ },
+ {
+  "tradition_id": "olmec",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "olmec",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "oriental_orthodox",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "oriental_orthodox",
+  "practice_id": "liturgy"
+ },
+ {
+  "tradition_id": "oriental_orthodox",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "oriental_orthodox",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "oriental_orthodox",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "oriental_orthodox",
+  "practice_id": "sacrament"
+ },
+ {
+  "tradition_id": "oriental_orthodox",
+  "practice_id": "sacred_language"
+ },
+ {
+  "tradition_id": "oromo_waaqeffannaa",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "oromo_waaqeffannaa",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "oromo_waaqeffannaa",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "oromo_waaqeffannaa",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "orphism",
+  "practice_id": "asceticism"
+ },
+ {
+  "tradition_id": "orphism",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "orphism",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "orphism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "orphism",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "pacific_northwest",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "pacific_northwest",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "pacific_northwest",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "pacific_northwest",
+  "practice_id": "masks"
+ },
+ {
+  "tradition_id": "pacific_northwest",
+  "practice_id": "totemism"
+ },
+ {
+  "tradition_id": "palo",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "palo",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "palo",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "palo",
+  "practice_id": "magic_amulets"
+ },
+ {
+  "tradition_id": "palo",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "papuan_religions",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "papuan_religions",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "papuan_religions",
+  "practice_id": "magic_amulets"
+ },
+ {
+  "tradition_id": "papuan_religions",
+  "practice_id": "masks"
+ },
+ {
+  "tradition_id": "pentecostalism",
+  "practice_id": "baptism"
+ },
+ {
+  "tradition_id": "pentecostalism",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "pentecostalism",
+  "practice_id": "exorcism"
+ },
+ {
+  "tradition_id": "pentecostalism",
+  "practice_id": "glossolalia"
+ },
+ {
+  "tradition_id": "pentecostalism",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "pentecostalism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "pentecostalism",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "pentecostalism",
+  "practice_id": "prophecy"
+ },
+ {
+  "tradition_id": "phoenician",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "phoenician",
+  "practice_id": "human_sacrifice"
+ },
+ {
+  "tradition_id": "phoenician",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "phoenician",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "phoenician",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "protestantism",
+  "practice_id": "baptism"
+ },
+ {
+  "tradition_id": "protestantism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "protestantism",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "protestantism",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "protestantism",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "proto_indo_european",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "proto_indo_european",
+  "practice_id": "fire_ritual"
+ },
+ {
+  "tradition_id": "proto_indo_european",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "proto_indo_european",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "proto_indo_european",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "proto_indo_european",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "pueblo_religion",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "pueblo_religion",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "pueblo_religion",
+  "practice_id": "masks"
+ },
+ {
+  "tradition_id": "pueblo_religion",
+  "practice_id": "sky_observation"
+ },
+ {
+  "tradition_id": "pure_land",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "pure_land",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "pythagoreanism",
+  "practice_id": "asceticism"
+ },
+ {
+  "tradition_id": "pythagoreanism",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "pythagoreanism",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "pythagoreanism",
+  "practice_id": "theology_debate"
+ },
+ {
+  "tradition_id": "qadiriyya",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "qadiriyya",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "qadiriyya",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "qadiriyya",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "quakers",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "quakers",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "quakers",
+  "practice_id": "nonviolence"
+ },
+ {
+  "tradition_id": "quakers",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "quanzhen",
+  "practice_id": "alchemy"
+ },
+ {
+  "tradition_id": "quanzhen",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "quanzhen",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "rabbinic",
+  "practice_id": "aniconism"
+ },
+ {
+  "tradition_id": "rabbinic",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "rabbinic",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "rabbinic",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "rabbinic",
+  "practice_id": "liturgy"
+ },
+ {
+  "tradition_id": "rabbinic",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "rabbinic",
+  "practice_id": "rites_of_passage"
+ },
+ {
+  "tradition_id": "rabbinic",
+  "practice_id": "sabbath"
+ },
+ {
+  "tradition_id": "rabbinic",
+  "practice_id": "sacred_language"
+ },
+ {
+  "tradition_id": "rabbinic",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "rabbinic",
+  "practice_id": "theology_debate"
+ },
+ {
+  "tradition_id": "rapa_nui_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "rapa_nui_religion",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "rapa_nui_religion",
+  "practice_id": "monument_building"
+ },
+ {
+  "tradition_id": "rastafari",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "rastafari",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "rastafari",
+  "practice_id": "entheogen"
+ },
+ {
+  "tradition_id": "rastafari",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "rastafari",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "reformed",
+  "practice_id": "aniconism"
+ },
+ {
+  "tradition_id": "reformed",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "reformed",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "reformed",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "rinzai",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "rinzai",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "rodnovery",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "rodnovery",
+  "practice_id": "fire_ritual"
+ },
+ {
+  "tradition_id": "rodnovery",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "roman",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "roman",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "roman",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "roman",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "roman",
+  "practice_id": "icons_images"
+ },
+ {
+  "tradition_id": "roman",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "roman",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "rosicrucianism",
+  "practice_id": "alchemy"
+ },
+ {
+  "tradition_id": "rosicrucianism",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "rosicrucianism",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "rwandan_religion",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "rwandan_religion",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "rwandan_religion",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "saharan_neolithic",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "saharan_neolithic",
+  "practice_id": "monument_building"
+ },
+ {
+  "tradition_id": "saharan_neolithic",
+  "practice_id": "rock_art"
+ },
+ {
+  "tradition_id": "saharan_neolithic",
+  "practice_id": "sky_observation"
+ },
+ {
+  "tradition_id": "sakha_religion",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "sakha_religion",
+  "practice_id": "libation"
+ },
+ {
+  "tradition_id": "sakha_religion",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "sakha_religion",
+  "practice_id": "shamanic_journey"
+ },
+ {
+  "tradition_id": "samaritanism",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "samaritanism",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "samaritanism",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "samaritanism",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "samaritanism",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "samaritanism",
+  "practice_id": "sabbath"
+ },
+ {
+  "tradition_id": "sami",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "sami",
+  "practice_id": "animism"
+ },
+ {
+  "tradition_id": "sami",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "sami",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "sami",
+  "practice_id": "shamanic_journey"
+ },
+ {
+  "tradition_id": "samoan_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "samoan_religion",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "san_religion",
+  "practice_id": "animism"
+ },
+ {
+  "tradition_id": "san_religion",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "san_religion",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "san_religion",
+  "practice_id": "rock_art"
+ },
+ {
+  "tradition_id": "san_religion",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "santeria",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "santeria",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "santeria",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "santeria",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "santeria",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "santeria",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "santeria",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "santo_daime",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "santo_daime",
+  "practice_id": "entheogen"
+ },
+ {
+  "tradition_id": "santo_daime",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "santo_daime",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "satsana_phi",
+  "practice_id": "animism"
+ },
+ {
+  "tradition_id": "satsana_phi",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "satsana_phi",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "scientology",
+  "practice_id": "confession"
+ },
+ {
+  "tradition_id": "scientology",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "scientology",
+  "practice_id": "theology_debate"
+ },
+ {
+  "tradition_id": "sda",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "sda",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "sda",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "sda",
+  "practice_id": "sabbath"
+ },
+ {
+  "tradition_id": "sda",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "serer_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "serer_religion",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "serer_religion",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "serer_religion",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "shaivism",
+  "practice_id": "asceticism"
+ },
+ {
+  "tradition_id": "shaivism",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "shaivism",
+  "practice_id": "icons_images"
+ },
+ {
+  "tradition_id": "shaivism",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "shaivism",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "shaivism",
+  "practice_id": "yoga"
+ },
+ {
+  "tradition_id": "shakers",
+  "practice_id": "asceticism"
+ },
+ {
+  "tradition_id": "shakers",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "shakers",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "shakers",
+  "practice_id": "prophecy"
+ },
+ {
+  "tradition_id": "shaktism",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "shaktism",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "shaktism",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "shaktism",
+  "practice_id": "tantra"
+ },
+ {
+  "tradition_id": "shaktism",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "shang_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "shang_religion",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "shang_religion",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "shang_religion",
+  "practice_id": "human_sacrifice"
+ },
+ {
+  "tradition_id": "shang_religion",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "shia",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "shia",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "shia",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "shia",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "shia",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "shia",
+  "practice_id": "theology_debate"
+ },
+ {
+  "tradition_id": "shingon",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "shingon",
+  "practice_id": "fire_ritual"
+ },
+ {
+  "tradition_id": "shingon",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "shingon",
+  "practice_id": "tantra"
+ },
+ {
+  "tradition_id": "shinto",
+  "practice_id": "animism"
+ },
+ {
+  "tradition_id": "shinto",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "shinto",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "shinto",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "shinto",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "shinto",
+  "practice_id": "purification"
+ },
+ {
+  "tradition_id": "shinto",
+  "practice_id": "rites_of_passage"
+ },
+ {
+  "tradition_id": "shinto",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "shinto",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "shona_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "shona_religion",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "shona_religion",
+  "practice_id": "oracle"
+ },
+ {
+  "tradition_id": "shona_religion",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "shona_religion",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "shugendo",
+  "practice_id": "asceticism"
+ },
+ {
+  "tradition_id": "shugendo",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "shugendo",
+  "practice_id": "ritual_magic"
+ },
+ {
+  "tradition_id": "shugendo",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "sikhism",
+  "practice_id": "aniconism"
+ },
+ {
+  "tradition_id": "sikhism",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "sikhism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "sikhism",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "sikhism",
+  "practice_id": "rites_of_passage"
+ },
+ {
+  "tradition_id": "sikhism",
+  "practice_id": "sacred_meal"
+ },
+ {
+  "tradition_id": "sikhism",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "slavic",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "slavic",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "slavic",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "slavic",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "slavic",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "soka_gakkai",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "soka_gakkai",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "soka_gakkai",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "soto",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "soto",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "spiritism",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "spiritism",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "spiritism",
+  "practice_id": "mediumship"
+ },
+ {
+  "tradition_id": "spiritism",
+  "practice_id": "spirit_writing"
+ },
+ {
+  "tradition_id": "spiritualism",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "spiritualism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "spiritualism",
+  "practice_id": "mediumship"
+ },
+ {
+  "tradition_id": "srf",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "srf",
+  "practice_id": "yoga"
+ },
+ {
+  "tradition_id": "state_shinto",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "state_shinto",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "state_shinto",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "sufism",
+  "practice_id": "asceticism"
+ },
+ {
+  "tradition_id": "sufism",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "sufism",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "sufism",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "sufism",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "sufism",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "sufism",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "sumerian",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "sumerian",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "sumerian",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "sumerian",
+  "practice_id": "libation"
+ },
+ {
+  "tradition_id": "sumerian",
+  "practice_id": "monument_building"
+ },
+ {
+  "tradition_id": "sumerian",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "sumerian",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "sumerian",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "sumerian",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "sun_dance",
+  "practice_id": "asceticism"
+ },
+ {
+  "tradition_id": "sun_dance",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "sun_dance",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "sun_dance",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "sunni",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "sunni",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "sunni",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "sunni",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "sunni",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "sunni",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "sunni",
+  "practice_id": "theology_debate"
+ },
+ {
+  "tradition_id": "svetambara",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "svetambara",
+  "practice_id": "nonviolence"
+ },
+ {
+  "tradition_id": "svetambara",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "svetambara",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "swaminarayan",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "swaminarayan",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "swaminarayan",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "swaminarayan",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "tahitian_religion",
+  "practice_id": "human_sacrifice"
+ },
+ {
+  "tradition_id": "tahitian_religion",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "tahitian_religion",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "tahitian_religion",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "taino",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "taino",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "taino",
+  "practice_id": "entheogen"
+ },
+ {
+  "tradition_id": "taino",
+  "practice_id": "icons_images"
+ },
+ {
+  "tradition_id": "tendai",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "tendai",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "tendai",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "tengrism",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "tengrism",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "tengrism",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "tengrism",
+  "practice_id": "shamanic_journey"
+ },
+ {
+  "tradition_id": "tengrism",
+  "practice_id": "sky_observation"
+ },
+ {
+  "tradition_id": "tenrikyo",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "tenrikyo",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "tenrikyo",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "thelema",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "thelema",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "thelema",
+  "practice_id": "ritual_magic"
+ },
+ {
+  "tradition_id": "thelema",
+  "practice_id": "yoga"
+ },
+ {
+  "tradition_id": "theosophy",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "theosophy",
+  "practice_id": "mysticism"
+ },
+ {
+  "tradition_id": "theosophy",
+  "practice_id": "theology_debate"
+ },
+ {
+  "tradition_id": "theravada",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "theravada",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "theravada",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "theravada",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "theravada",
+  "practice_id": "rites_of_passage"
+ },
+ {
+  "tradition_id": "theravada",
+  "practice_id": "sacred_language"
+ },
+ {
+  "tradition_id": "thracian",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "thracian",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "thracian",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "tianshi",
+  "practice_id": "confession"
+ },
+ {
+  "tradition_id": "tianshi",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "tianshi",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "tianshi",
+  "practice_id": "ritual_magic"
+ },
+ {
+  "tradition_id": "tibetan_buddhism",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "tibetan_buddhism",
+  "practice_id": "circumambulation"
+ },
+ {
+  "tradition_id": "tibetan_buddhism",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "tibetan_buddhism",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "tibetan_buddhism",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "tibetan_buddhism",
+  "practice_id": "masks"
+ },
+ {
+  "tradition_id": "tibetan_buddhism",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "tibetan_buddhism",
+  "practice_id": "monasticism"
+ },
+ {
+  "tradition_id": "tibetan_buddhism",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "tibetan_buddhism",
+  "practice_id": "tantra"
+ },
+ {
+  "tradition_id": "tijaniyya",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "tijaniyya",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "tijaniyya",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "tiwanaku_religion",
+  "practice_id": "entheogen"
+ },
+ {
+  "tradition_id": "tiwanaku_religion",
+  "practice_id": "monument_building"
+ },
+ {
+  "tradition_id": "tiwanaku_religion",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "tongan_religion",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "tongan_religion",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "tongan_religion",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "torres_strait",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "torres_strait",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "torres_strait",
+  "practice_id": "masks"
+ },
+ {
+  "tradition_id": "transcendental_meditation",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "transcendental_meditation",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "tukanoan",
+  "practice_id": "entheogen"
+ },
+ {
+  "tradition_id": "tukanoan",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "tukanoan",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "twelver",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "twelver",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "twelver",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "twelver",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "twelver",
+  "practice_id": "theology_debate"
+ },
+ {
+  "tradition_id": "umbanda",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "umbanda",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "umbanda",
+  "practice_id": "mediumship"
+ },
+ {
+  "tradition_id": "umbanda",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "umbanda",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "uniao_vegetal",
+  "practice_id": "entheogen"
+ },
+ {
+  "tradition_id": "uniao_vegetal",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "unitarian_universalism",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "unitarian_universalism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "unitarian_universalism",
+  "practice_id": "theology_debate"
+ },
+ {
+  "tradition_id": "upper_palaeolithic_ritual",
+  "practice_id": "animism"
+ },
+ {
+  "tradition_id": "upper_palaeolithic_ritual",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "upper_palaeolithic_ritual",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "upper_palaeolithic_ritual",
+  "practice_id": "rock_art"
+ },
+ {
+  "tradition_id": "upper_palaeolithic_ritual",
+  "practice_id": "shamanic_journey"
+ },
+ {
+  "tradition_id": "vaishnavism",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "vaishnavism",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "vaishnavism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "vaishnavism",
+  "practice_id": "icons_images"
+ },
+ {
+  "tradition_id": "vaishnavism",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "vaishnavism",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "vajrayana",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "vajrayana",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "vajrayana",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "vajrayana",
+  "practice_id": "ritual_magic"
+ },
+ {
+  "tradition_id": "vajrayana",
+  "practice_id": "tantra"
+ },
+ {
+  "tradition_id": "vanuatu_kastom",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "vanuatu_kastom",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "vanuatu_kastom",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "vedic",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "vedic",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "vedic",
+  "practice_id": "fire_ritual"
+ },
+ {
+  "tradition_id": "vedic",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "vedic",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "vedic",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "vedic",
+  "practice_id": "sacred_language"
+ },
+ {
+  "tradition_id": "vedic",
+  "practice_id": "sky_observation"
+ },
+ {
+  "tradition_id": "vietnamese_buddhism",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "vietnamese_buddhism",
+  "practice_id": "chant_mantra"
+ },
+ {
+  "tradition_id": "vietnamese_buddhism",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "vietnamese_folk",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "vietnamese_folk",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "vietnamese_folk",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "vipassana",
+  "practice_id": "meditation"
+ },
+ {
+  "tradition_id": "wahhabism",
+  "practice_id": "aniconism"
+ },
+ {
+  "tradition_id": "wahhabism",
+  "practice_id": "mission"
+ },
+ {
+  "tradition_id": "wahhabism",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "wahhabism",
+  "practice_id": "scripture_study"
+ },
+ {
+  "tradition_id": "warkari",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "warkari",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "warkari",
+  "practice_id": "procession"
+ },
+ {
+  "tradition_id": "wicca",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "wicca",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "wicca",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "wicca",
+  "practice_id": "ritual_magic"
+ },
+ {
+  "tradition_id": "wicca",
+  "practice_id": "sacred_nature"
+ },
+ {
+  "tradition_id": "winti",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "winti",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "winti",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "winti",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "xhosa_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "xhosa_religion",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "xhosa_religion",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "xhosa_religion",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "yanomami_religion",
+  "practice_id": "entheogen"
+ },
+ {
+  "tradition_id": "yanomami_religion",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "yanomami_religion",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "yanomami_religion",
+  "practice_id": "shamanic_journey"
+ },
+ {
+  "tradition_id": "yarsanism",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "yarsanism",
+  "practice_id": "hymn"
+ },
+ {
+  "tradition_id": "yarsanism",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "yarsanism",
+  "practice_id": "sacred_meal"
+ },
+ {
+  "tradition_id": "yazidism",
+  "practice_id": "fasting"
+ },
+ {
+  "tradition_id": "yazidism",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "yazidism",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "yazidism",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "yazidism",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "yiguandao",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "yiguandao",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "yiguandao",
+  "practice_id": "spirit_writing"
+ },
+ {
+  "tradition_id": "yoruba_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "yoruba_religion",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "yoruba_religion",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "yoruba_religion",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "yoruba_religion",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "yoruba_religion",
+  "practice_id": "initiation"
+ },
+ {
+  "tradition_id": "yoruba_religion",
+  "practice_id": "masks"
+ },
+ {
+  "tradition_id": "yoruba_religion",
+  "practice_id": "offering"
+ },
+ {
+  "tradition_id": "yoruba_religion",
+  "practice_id": "oral_tradition"
+ },
+ {
+  "tradition_id": "yoruba_religion",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "yoruba_religion",
+  "practice_id": "sacred_kingship"
+ },
+ {
+  "tradition_id": "yoruba_religion",
+  "practice_id": "trance_possession"
+ },
+ {
+  "tradition_id": "zapotec_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "zapotec_religion",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "zapotec_religion",
+  "practice_id": "temple_worship"
+ },
+ {
+  "tradition_id": "zcc",
+  "practice_id": "dietary_law"
+ },
+ {
+  "tradition_id": "zcc",
+  "practice_id": "drum_dance"
+ },
+ {
+  "tradition_id": "zcc",
+  "practice_id": "healing"
+ },
+ {
+  "tradition_id": "zcc",
+  "practice_id": "pilgrimage"
+ },
+ {
+  "tradition_id": "zcc",
+  "practice_id": "prophecy"
+ },
+ {
+  "tradition_id": "zoroastrianism",
+  "practice_id": "charity"
+ },
+ {
+  "tradition_id": "zoroastrianism",
+  "practice_id": "festival_calendar"
+ },
+ {
+  "tradition_id": "zoroastrianism",
+  "practice_id": "fire_ritual"
+ },
+ {
+  "tradition_id": "zoroastrianism",
+  "practice_id": "funerary"
+ },
+ {
+  "tradition_id": "zoroastrianism",
+  "practice_id": "liturgy"
+ },
+ {
+  "tradition_id": "zoroastrianism",
+  "practice_id": "prayer"
+ },
+ {
+  "tradition_id": "zoroastrianism",
+  "practice_id": "priesthood"
+ },
+ {
+  "tradition_id": "zoroastrianism",
+  "practice_id": "purification"
+ },
+ {
+  "tradition_id": "zoroastrianism",
+  "practice_id": "sacred_language"
+ },
+ {
+  "tradition_id": "zulu_religion",
+  "practice_id": "ancestor_veneration"
+ },
+ {
+  "tradition_id": "zulu_religion",
+  "practice_id": "animal_sacrifice"
+ },
+ {
+  "tradition_id": "zulu_religion",
+  "practice_id": "divination"
+ },
+ {
+  "tradition_id": "zulu_religion",
+  "practice_id": "healing"
+ }
+]

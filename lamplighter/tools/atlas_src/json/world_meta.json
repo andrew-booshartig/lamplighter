@@ -1,0 +1,86 @@
+{
+ "title": "World history, with religion woven in",
+ "window": {
+  "from": -3500,
+  "to": 1900
+ },
+ "review": "unchecked",
+ "review_note": "Dates, places and wording were written by hand from reference accounts and from the pages and works named in each entry. A second reading on 18 November 2026 checked every event against reference works (the 86 events then in the list) and corrected the entries listed in the corrections log on Methods and standards (Setup, then More). The 207 events added since were first read by the person who wrote them; on 22 November 2026 a second reader checked all of them against the pages they cite (99 in the strands of states and of trade, and 108 in ideas and arts, science and technology, and disease and disaster); none has yet been re-read by a specialist in its field, and no date has been checked against Wikidata. Found a mistake? Setup, then Tell the maker what to change.",
+ "selection_note": "This is a selection chosen by the author, not a ranking of what mattered most. Regions and periods are not yet evenly covered, and the list will grow. No specialist has checked the entries yet.",
+ "licence": "The event texts were written for the Lamplighter Project in its own words. Wikipedia pages named as sources are CC BY-SA and are cited, not copied; Wikidata (CC0) is the intended source for a later check of dates and places.",
+ "statuses": {
+  "documented": [
+   "Documented",
+   "A record anyone can check fixes it: an inscription, a chronicle, a treaty, an excavated site, a measured date."
+  ],
+  "reported": [
+   "Reported",
+   "Said by someone and not fixed by a record: later accounts, oral tradition, or a reconstruction from them. Many scholars take it as probable."
+  ],
+  "disputed": [
+   "Disputed",
+   "Sources or scholars disagree about whether it happened, when, or why. The entry says where they differ."
+  ]
+ },
+ "grades": {
+  "A": [
+   "A record from the time",
+   "An inscription, treaty, chronicle or eyewitness account."
+  ],
+  "B": [
+   "A scholarly work or database",
+   "Built from such records: a university-press book, a survey, a research database."
+  ],
+  "C": [
+   "A reference summary",
+   "An open encyclopedia article that summarises the scholarship. Good for finding the topic; check it against a scholarly source where it matters."
+  ],
+  "D": [
+   "A later tradition or report",
+   "Kept because people have long told it; labelled as reported."
+  ]
+ },
+ "confidence": {
+  "H": "well documented",
+  "M": "scholarly consensus",
+  "L": "rough estimate",
+  "C": "contested"
+ },
+ "relations": {
+  "part_of": [
+   "is part of",
+   "includes"
+  ],
+  "led_to": [
+   "led to",
+   "followed from"
+  ],
+  "carried": [
+   "carried",
+   "was carried by"
+  ],
+  "shaped": [
+   "shaped",
+   "was shaped by"
+  ],
+  "during": [
+   "happened during",
+   "had this happen within it"
+  ],
+  "compare": [
+   "compare with",
+   "compare with"
+  ],
+  "ended": [
+   "brought to an end",
+   "was ended by"
+  ]
+ },
+ "causes": {
+  "religious": "Beliefs, worship or the rights of a church were at issue.",
+  "political": "Power, territory, succession or the rights of a state.",
+  "economic": "Land, trade, tribute or plunder.",
+  "mixed": "Historians do not separate them, or disagree about which mattered most."
+ },
+ "cause_note": "Historians seldom agree on a single cause of a war, and “wars of religion” is a label scholars dispute. Each cause below says how well it is documented; none is the tool’s own verdict."
+}

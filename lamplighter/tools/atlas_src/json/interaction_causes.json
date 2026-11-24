@@ -1,0 +1,4760 @@
+[
+ {
+  "link_id": "ix0008",
+  "summary": "Linguists compare the daughter languages of Proto-Indo-European and, from matching names and phrases for gods and rites, reconstruct some features of a common religion, among them a sky father (*Dyēus), whose name is in Sanskrit Dyaus Pita. The religion is an inference from language, not a record.",
+  "causes": [
+   {
+    "cause": "shared_origin",
+    "status": "reported",
+    "note": "A reconstruction by comparative linguists."
+   }
+  ],
+  "route": "Punjab",
+  "sources": [
+   {
+    "title": "J. P. Mallory and D. Q. Adams, The Oxford Introduction to Proto-Indo-European and the Proto-Indo-European World (2006)",
+    "kind": "scholarly",
+    "grade": "B"
+   },
+   {
+    "title": "Wikipedia: Proto-Indo-European mythology",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Proto-Indo-European_mythology"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0010",
+  "summary": "Greek Zeus, Latin Jupiter and Sanskrit Dyaus share a name that linguists trace to a Proto-Indo-European sky father, *Dyēus; the common religion is an inference from language, not a record.",
+  "causes": [
+   {
+    "cause": "shared_origin",
+    "status": "reported",
+    "note": "A reconstruction by comparative linguists."
+   }
+  ],
+  "route": "Mycenae",
+  "sources": [
+   {
+    "title": "J. P. Mallory and D. Q. Adams, The Oxford Introduction to Proto-Indo-European and the Proto-Indo-European World (2006)",
+    "kind": "scholarly",
+    "grade": "B"
+   },
+   {
+    "title": "Wikipedia: Proto-Indo-European mythology",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Proto-Indo-European_mythology"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0021",
+  "summary": "The Hebrew Bible names gods and uses ideas found at Ugarit and other Canaanite sites, among them El, Baal and Asherah. Scholars argue whether Israelite religion grew out of Canaanite society or came partly from elsewhere.",
+  "causes": [
+   {
+    "cause": "shared_origin",
+    "status": "disputed",
+    "note": "How far Israel was of Canaanite origin is argued."
+   }
+  ],
+  "route": "Jerusalem",
+  "sources": [
+   {
+    "title": "Mark S. Smith, The Early History of God: Yahweh and the Other Deities in Ancient Israel (1990)",
+    "kind": "scholarly",
+    "grade": "B",
+    "note": "not opened; the page below was"
+   },
+   {
+    "title": "Wikipedia: Canaanite religion",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Canaanite_religion"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0023",
+  "summary": "Babylon took Jerusalem in 597 BCE and again in 586 and moved part of the population to Babylonia; the exiles lived among Babylonian temples and literature, and some scholars see Babylonian influence on biblical writings of the time.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "The deportations are recorded by the Babylonian Chronicle and the Hebrew Bible."
+   },
+   {
+    "cause": "travel",
+    "status": "disputed",
+    "note": "The exiles lived among Babylonian temples and literature; how far Babylonian stories shaped the biblical ones, and when, is argued."
+   }
+  ],
+  "route": "Babylon",
+  "sources": [
+   {
+    "title": "The Babylonian Chronicle of Nebuchadnezzar II’s early years (Chronicle 5, tablet BM 21946), on the capture of Jerusalem in 597 BCE",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Wikipedia: Babylonian captivity",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Babylonian_captivity"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "No page read says that Babylonian stories shaped biblical ones, so this is left as an argued claim; the Chronicle’s own translation was not opened. Smith’s book, which is about Israel’s gods, was dropped as a second source."
+ },
+ {
+  "link_id": "ix0024",
+  "summary": "The Judeans lived under Persian rule from 539 BCE; some scholars hold that Persian ideas about angels, demons, the last things and resurrection left a mark on Jewish thought, and others disagree and hold that these grew within Judaism.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "Persian rule over the Judeans, from 539 BCE."
+   },
+   {
+    "cause": "court",
+    "status": "disputed",
+    "note": "Whether Persian ideas reached Jewish thought through the Persian empire or grew inside Judaism is argued; the page read says some scholars believe the influence and others disagree."
+   }
+  ],
+  "route": "Babylon and Judea",
+  "sources": [
+   {
+    "title": "Wikipedia: Zoroastrianism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Zoroastrianism"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "The page read (its section on the Abrahamic religions) says that Jews under Achaemenid rule are believed to have been influenced by Zoroastrian ideas of angels, demons, the last things, predestination and resurrection, and that other scholars disagree. It does not mention Cyrus or 539 BCE in the text read: the year is the one the Conflicts page gives for the Persian conquest of Babylon, and was not set against this page."
+ },
+ {
+  "link_id": "ix0025",
+  "summary": "Cyrus’s own cylinder says he returned the gods and peoples taken to Babylon to their sanctuaries, and the Hebrew Bible (Ezra 1) says he allowed the Judeans to go home and rebuild their Temple, which was dedicated in 516 BCE.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "A policy of the Persian king; the Cylinder and Ezra 1 are the two main records."
+   }
+  ],
+  "route": "Babylon and Jerusalem",
+  "sources": [
+   {
+    "title": "The Cyrus Cylinder (Rogers’s 1912 translation)",
+    "kind": "primary",
+    "grade": "A",
+    "note": "in the Library",
+    "lib": "f-cyr"
+   },
+   {
+    "title": "The Hebrew Bible, Ezra 1",
+    "kind": "primary",
+    "grade": "A"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0026",
+  "summary": "The Samaritans and the Jews each hold that the other separated. The Samaritans say theirs is the older worship at Mount Gerizim; Jewish tradition makes them a people brought in by Assyria; historians differ on when and how the two communities parted.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "disputed",
+    "note": "Whether it was one split or a long drifting apart, and when, is argued; the map data gives a wide range."
+   }
+  ],
+  "route": "Mount Gerizim",
+  "sources": [
+   {
+    "title": "Wikipedia: Samaritans",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Samaritans"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0029",
+  "summary": "Phoenician traders were active around the Aegean from the 9th century BCE; the Greeks took the Phoenician letters as their alphabet in the 8th century, and Herodotus says Phoenicians brought letters to Greece.",
+  "causes": [
+   {
+    "cause": "trade",
+    "status": "documented",
+    "note": "Phoenician traders and the alphabet."
+   }
+  ],
+  "route": "the Aegean",
+  "sources": [
+   {
+    "title": "Herodotus, Histories, book 5, chapter 58 (in the Library)",
+    "kind": "primary",
+    "grade": "A",
+    "lib": "x-hrd"
+   },
+   {
+    "title": "Wikipedia: Phoenician alphabet",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Phoenician_alphabet"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0032",
+  "summary": "The pharaoh Akhenaten, who reigned from about 1353 BCE (some give 1351), raised the sun’s disk, the Aten, above the other gods and moved the court to a new city at Amarna.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "A ruler’s decision, shown in his inscriptions and the new city."
+   },
+   {
+    "cause": "reform",
+    "status": "documented",
+    "note": "A change in worship, led from the throne."
+   }
+  ],
+  "route": "Amarna",
+  "sources": [
+   {
+    "title": "Wikipedia: Akhenaten",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Akhenaten"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0033",
+  "summary": "Under Tutankhamun, a few years later, the court left Amarna for Memphis, Thebes became the capital again and the older gods were restored; the king’s Restoration Stela says the temples had fallen into ruin.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "A ruler’s decree, recorded on the king’s own stela."
+   }
+  ],
+  "route": "Thebes",
+  "sources": [
+   {
+    "title": "Wikipedia: Tutankhamun",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Tutankhamun"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0034",
+  "summary": "Greek traders settled at Naucratis in the Nile Delta; Herodotus says in book 2 that the pharaoh Amasis (reigned from 570 BCE) gave them the city, and that the names of almost all the gods came to Greece from Egypt. Modern scholars date the Greek settlement earlier, from about 620 BCE, agree on the contact and doubt how much of the debt there was.",
+  "causes": [
+   {
+    "cause": "trade",
+    "status": "documented",
+    "note": "The Greek trading post at Naucratis."
+   },
+   {
+    "cause": "travel",
+    "status": "documented",
+    "note": "Greek visits to Egypt, described by Herodotus."
+   }
+  ],
+  "route": "Naucratis",
+  "sources": [
+   {
+    "title": "Herodotus, Histories, book 2 (in the Library)",
+    "kind": "primary",
+    "grade": "A",
+    "lib": "x-hrd"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0035",
+  "summary": "Isis, worshipped in Egypt’s cities, was promoted by the Ptolemaic kings; Delos became an early centre of her worship outside Egypt, and merchants and other travellers are often given as those who carried it.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "The Ptolemaic kings promoted the worship."
+   },
+   {
+    "cause": "trade",
+    "status": "reported",
+    "note": "Merchants and other travellers are often given as those who carried it; the evidence is inscriptions and the places."
+   }
+  ],
+  "route": "Alexandria and Delos",
+  "sources": [
+   {
+    "title": "Wikipedia: Isis",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Isis"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "The page read calls Delos an early centre of the worship but gives no date or founder and does not mention Piraeus; the dates of the first shrines were not confirmed and were taken out of the entry."
+ },
+ {
+  "link_id": "ix0036",
+  "summary": "Ptolemy I, who ruled Egypt from 305 BCE, set up the worship of Serapis, joining the Egyptian Osiris-Apis with Greek forms; Plutarch and Tacitus, writing centuries later, tell the story of a statue brought from Sinope, and scholars debate how much of it is history.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "reported",
+    "note": "A king’s decision to join the two worships, as the later writers tell it; the page read notes that Plutarch may be wrong about Sinope."
+   }
+  ],
+  "route": "Alexandria",
+  "sources": [
+   {
+    "title": "Wikipedia: Serapis",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Serapis"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0045",
+  "summary": "After Alexander’s campaigns (327–325 BCE) Greek rulers held Bactria and north-west India; in Gandhara, from about the 1st century CE, Buddhist sculpture shows Greek and Roman forms, among them the human image of the Buddha. How much the image owes to Greek models is debated.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "The Greek kingdoms in the north-west of India, after Alexander."
+   },
+   {
+    "cause": "trade",
+    "status": "reported",
+    "note": "Trade through Gandhara under Kushan rule is the usual explanation given for how Greek and Roman models reached the sculptors."
+   }
+  ],
+  "route": "Gandhara",
+  "sources": [
+   {
+    "title": "Wikipedia: Greco-Buddhism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Greco-Buddhism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0047",
+  "summary": "In 204 BCE, in the Second Punic War, the Senate had the sacred stone of the Great Mother brought from Pessinus to Rome after the Sibylline books were consulted; Showerman, retelling Livy, says it was carried to the temple of Victory on the Palatine, inside the city’s sacred boundary, which was not the usual place for a foreign god.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "A decision of the Senate, reported by Livy."
+   }
+  ],
+  "route": "Rome",
+  "sources": [
+   {
+    "title": "Livy, History of Rome, book 29 (the bringing of the Magna Mater)",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Showerman, The Great Mother of the Gods (1901)",
+    "kind": "primary",
+    "grade": "A",
+    "note": "in the Library",
+    "lib": "x-gmg"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0050",
+  "summary": "After the fire of 64 the emperor Nero blamed the Christians in Rome and had many of them put to death, according to the Roman historian Tacitus, who wrote some fifty years later. His is the only account that links the Christians with the fire; some historians doubt that it describes a persecution of Christians as such (the historian Brent Shaw is one), and others answer them.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "reported",
+    "note": "An action of the emperor, told by Tacitus some fifty years later; whether it was a persecution of Christians as such is debated."
+   }
+  ],
+  "route": "Rome",
+  "sources": [
+   {
+    "title": "Tacitus, Annals, book 15, chapter 44",
+    "kind": "primary",
+    "grade": "A",
+    "note": "not in the Library; not opened"
+   },
+   {
+    "title": "Wikipedia: Persecution of Christians in the Roman Empire",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Persecution_of_Christians_in_the_Roman_Empire"
+   },
+   {
+    "title": "Brent D. Shaw, “The Myth of the Neronian Persecution”, Journal of Roman Studies 105 (2015)",
+    "kind": "scholarly",
+    "grade": "B",
+    "note": "not opened; seen in search results"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0051",
+  "summary": "The emperor Decius (250) ordered all inhabitants to offer sacrifice; those who refused were punished, and the church was left divided over how to treat those who had given way.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "An imperial edict and the persecution that followed, told by Eusebius."
+   }
+  ],
+  "route": "Rome and the provinces",
+  "sources": [
+   {
+    "title": "Eusebius, Church History, book 6 (in the Library)",
+    "kind": "primary",
+    "grade": "A",
+    "lib": "e-eus"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0052",
+  "summary": "From 303 the emperor Diocletian and his co-rulers issued edicts to destroy church buildings and scriptures, remove Christians from office and compel sacrifice. The persecution was longest in the east: Galerius ended it with an edict in 311, but Maximin, who held the east, held the edict back and the persecution went on there until Licinius defeated him in 313.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "A series of imperial edicts, described by Eusebius; his book 9 tells of the “pretended relaxation” in the east and the persecution that followed it."
+   }
+  ],
+  "route": "Rome",
+  "sources": [
+   {
+    "title": "Eusebius, Church History, books 8 and 9 (in the Library)",
+    "kind": "primary",
+    "grade": "A",
+    "lib": "e-eus"
+   },
+   {
+    "title": "Wikipedia: Diocletianic Persecution",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Diocletianic_Persecution"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0053",
+  "summary": "A revolt against Roman rule broke out in Judea in 66; Roman armies took Galilee and then besieged Jerusalem, and the Temple was destroyed in 70. The last fortress, Masada, fell in 73 or 74. Our fullest account is by Josephus, who was there.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "A war of revolt and reconquest, told by Josephus."
+   }
+  ],
+  "route": "Jerusalem",
+  "sources": [
+   {
+    "title": "Josephus, The Jewish War (c. 75)",
+    "kind": "primary",
+    "grade": "A",
+    "lib": "p-jos"
+   },
+   {
+    "title": "Wikipedia: First Jewish–Roman War",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/First_Jewish%E2%80%93Roman_War"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0054",
+  "summary": "A second revolt led by Simon bar Kokhba (132–136) ended with great loss of life and Jews were barred from Jerusalem, now the Roman city of Aelia Capitolina; the main ancient account is by Cassius Dio, and Eusebius, quoting Aristo of Pella, tells of the ban on entering the country about Jerusalem.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "A war of revolt and reconquest, told by Cassius Dio and, for its end, by Eusebius."
+   }
+  ],
+  "route": "Judea",
+  "sources": [
+   {
+    "title": "Cassius Dio, Roman History, book 69",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Eusebius, Church History, book 4, chapter 6 (in the Library)",
+    "kind": "primary",
+    "grade": "A",
+    "lib": "e-eus"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "Dio’s book 69 (its number, and the name of the city) was not opened; the ban on entering the country about Jerusalem is in the Library’s Eusebius."
+ },
+ {
+  "link_id": "ix0055",
+  "summary": "In 60 or 61 the Roman governor Suetonius Paulinus led a campaign against the island of Mona (Anglesey), a refuge for British rebels and a stronghold of the druids, as Tacitus describes it; the Iceni and their neighbours rose under Boudica while he was there.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "A military campaign, described by Tacitus."
+   }
+  ],
+  "route": "Anglesey",
+  "sources": [
+   {
+    "title": "Tacitus, Annals, book 14, chapters 29 and 30",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Wikipedia: Boudican revolt",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Boudican_revolt"
+   },
+   {
+    "title": "Wikipedia: Druid",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Druid"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0056",
+  "summary": "In 186 BCE the Senate issued a decree on the Bacchanalia, the worship of Bacchus (Dionysus) in Italy, after a scandal told by Livy; the decree did not ban the worship but set limits on its size, organisation and priesthoods, under threat of death. It survives as an inscription, and Livy, writing some two hundred years later, gives a colourful account of the affair.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "A decree of the Senate, which survives."
+   }
+  ],
+  "route": "Rome",
+  "sources": [
+   {
+    "title": "Livy, History of Rome, book 39, and the Senate’s decree (an inscription)",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Wikipedia: Bacchanalia",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Bacchanalia"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0058",
+  "summary": "In 274 the emperor Aurelian dedicated a great temple to the Unconquered Sun in Rome and set up a college of priests for it.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "A decision of the emperor."
+   }
+  ],
+  "route": "Rome",
+  "sources": [
+   {
+    "title": "Wikipedia: Sol Invictus",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Sol_Invictus"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0059",
+  "summary": "Theodosius I issued edicts in 380 (the Edict of Thessalonica, of 27 February) and in 391 and 392 that made the Nicene faith the religion of the empire and forbade sacrifice and the worship of the old gods.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "Imperial edicts, preserved in the Theodosian Code."
+   }
+  ],
+  "route": "Constantinople",
+  "sources": [
+   {
+    "title": "The Theodosian Code, book 16",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Wikipedia: Edict of Thessalonica",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Edict_of_Thessalonica"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0060",
+  "summary": "Imperial laws of the 390s forbade sacrifice and entry to the temples; the Platonic Academy at Athens is said to have been closed by Justinian in 529, though the page read notes speculation that the school did not wholly disappear.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "Imperial laws, recorded in the codes."
+   }
+  ],
+  "route": "Athens",
+  "sources": [
+   {
+    "title": "Wikipedia: Theodosius I",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Theodosius_I"
+   },
+   {
+    "title": "Wikipedia: Platonic Academy",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Platonic_Academy"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "What Justinian’s law of 529 ordered about pagan teachers was not found on the pages read and was taken out of the entry; the Theodosius I page was not read."
+ },
+ {
+  "link_id": "ix0064",
+  "summary": "The orator Marius Victorinus put “books of the Platonists” into Latin in the middle of the 4th century (Augustine names him in book 8 of the Confessions); Augustine says in book 7 that he read them in Latin at Milan about 386, and that they helped him towards the faith.",
+  "causes": [
+   {
+    "cause": "translation",
+    "status": "documented",
+    "note": "Platonist writings in Latin, and Augustine’s own account of reading them."
+   }
+  ],
+  "route": "Milan",
+  "sources": [
+   {
+    "title": "Augustine, Confessions, books 7 and 8 (NPNF I, vol. 1, in the Library)",
+    "kind": "primary",
+    "grade": "A",
+    "lib": "e-n01"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0067",
+  "summary": "The movement around Jesus of Nazareth began among Jews in the 1st century CE and came to include many non-Jews, whose place in it, and whether they must keep the Jewish Law, is the subject of Paul’s letters and of the meeting described in Acts 15. When Christianity became a religion apart from Judaism, and by what steps, is debated.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "Paul’s own letters, written between the late 40s and the 50s CE, record the mission to non-Jews."
+   },
+   {
+    "cause": "schism",
+    "status": "disputed",
+    "note": "Whether it was one split or a long drifting apart, and when, is argued (the “parting of the ways”)."
+   }
+  ],
+  "route": "Judaea and the eastern Mediterranean",
+  "sources": [
+   {
+    "title": "Paul, Letter to the Galatians (late 40s or 50s CE)",
+    "kind": "primary",
+    "grade": "A",
+    "note": "among the earliest Christian writings",
+    "lib": "n-gal"
+   },
+   {
+    "title": "Wikipedia: Early Christianity",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Early_Christianity"
+   },
+   {
+    "title": "Wikipedia: Split of Christianity and Judaism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Split_of_Christianity_and_Judaism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0071",
+  "summary": "In 70 CE Roman forces destroyed the Second Temple in Jerusalem, ending its sacrifices. Teachers whom the rabbinic sources trace to the Pharisees gathered at Yavneh and elsewhere, and their teaching, set down in the Mishnah (c. 200 CE) and the Talmuds, became the centre of Jewish life. The later rabbinic accounts of Yavneh are the main source for how this was done.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "The Roman destruction of the Temple in 70 CE is recorded by Josephus."
+   },
+   {
+    "cause": "reform",
+    "status": "reported",
+    "note": "The rabbinic accounts tell of a school at Yavneh that took over the teaching; how far they are later retellings is argued."
+   }
+  ],
+  "route": "Judaea",
+  "sources": [
+   {
+    "title": "Josephus, The Jewish War (c. 75 CE)",
+    "kind": "primary",
+    "grade": "A",
+    "note": "the destruction of the Temple",
+    "lib": "p-jos"
+   },
+   {
+    "title": "Wikipedia: Rabbinic Judaism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Rabbinic_Judaism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0073",
+  "summary": "Marcion, from Sinope, whom Tertullian calls a ship’s master, came to Rome between 135 and 140 and taught that the God of the Hebrew scriptures was not the Father of Jesus; the Roman church rejected his teaching and he was excluded in 144, after which he founded churches of his own.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "Excluded over his rejection of the Hebrew scriptures and the God they describe; the Church’s own writers report it."
+   }
+  ],
+  "route": "Rome",
+  "sources": [
+   {
+    "title": "Tertullian, Against Marcion (early 3rd century)",
+    "kind": "primary",
+    "grade": "A",
+    "note": "a hostile account, and the main one"
+   },
+   {
+    "title": "Wikipedia: Marcion of Sinope",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Marcion_of_Sinope"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0079",
+  "summary": "Mani, the founder of Manichaeism, was supported by the Persian king Shapur I but fell out of favour under Bahram I, was imprisoned and died in custody at Gundeshapur in 274 (277 in another reckoning).",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "reported",
+    "note": "A royal decision by Bahram I; the Manichaean accounts of Mani’s last days are their own."
+   }
+  ],
+  "route": "Ctesiphon",
+  "sources": [
+   {
+    "title": "Wikipedia: Mani (prophet)",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Mani_(prophet)"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0082",
+  "summary": "The election of Caecilian as bishop of Carthage was disputed by a party that said one of the bishops who consecrated him had surrendered the scriptures under persecution; they chose a rival bishop and their followers, the Donatists, formed a separate church in North Africa.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "A dispute over who could validly consecrate a bishop after the persecution; both sides’ writings survive."
+   }
+  ],
+  "route": "Carthage",
+  "sources": [
+   {
+    "title": "Augustine, writings against the Donatists (c. 400–420)",
+    "kind": "primary",
+    "grade": "A",
+    "note": "in the Library",
+    "lib": "e-n04"
+   },
+   {
+    "title": "W. H. C. Frend, The Donatist Church: A Movement of Protest in Roman North Africa (1952)",
+    "kind": "scholarly",
+    "grade": "B"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0083",
+  "summary": "A presbyter of Alexandria, Arius, taught that the Son was created and not eternal with the Father; the bishop Alexander opposed him, the quarrel spread across the eastern churches, and the Council of Nicaea (325) condemned his teaching and set out a creed.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "A dispute over the nature of the Son, settled for most churches at Nicaea and reopened for decades after."
+   }
+  ],
+  "route": "Alexandria and Nicaea",
+  "sources": [
+   {
+    "title": "The Seven Ecumenical Councils (NPNF II, vol. 14): the Council of Nicaea",
+    "kind": "primary",
+    "grade": "A",
+    "note": "in the Library",
+    "lib": "e-m14"
+   },
+   {
+    "title": "Wikipedia: Arianism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Arianism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0084",
+  "summary": "Ulfilas, a 4th-century Gothic bishop and preacher, worked among the Goths north of the Danube and is credited with the Bible in Gothic, a work the page says analysis suggests was done by a team. The Goths he reached held the Arian form of Christianity; the Library’s Sozomen calls him the bishop of the Goths and tells how the Goths received Arianism.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "A bishop’s mission among the Goths, told by Sozomen."
+   },
+   {
+    "cause": "translation",
+    "status": "documented",
+    "note": "The Bible in Gothic, which survives in part; traditionally ascribed to Ulfilas."
+   }
+  ],
+  "route": "Danube",
+  "sources": [
+   {
+    "title": "Wikipedia: Ulfilas",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Ulfilas"
+   },
+   {
+    "title": "Socrates and Sozomenus, Church Histories (NPNF II, vol. 2): Sozomen, book 6, chapter 37 (in the Library)",
+    "kind": "primary",
+    "grade": "A",
+    "lib": "e-m02"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0085",
+  "summary": "The Visigothic king Reccared renounced Arianism for Catholic Christianity in 587; with his bishops he took the Catholic creed formally at the Third Council of Toledo in 589, the Visigoths having until then held Arian Christianity.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "A decision of the king in 587, confirmed at the Council of Toledo in 589."
+   }
+  ],
+  "route": "Toledo",
+  "sources": [
+   {
+    "title": "Wikipedia: Reccared I",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Reccared_I"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0086",
+  "summary": "Under Shapur II (309–379) Christians in the Persian Empire were punished, after wars with Rome that made them suspect; accounts of the martyrs survive in Syriac.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "Orders of the king; the main accounts are the Syriac Acts of the Persian martyrs."
+   }
+  ],
+  "route": "Persia",
+  "sources": [
+   {
+    "title": "Wikipedia: Shapur II",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Shapur_II"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "The page read gives the reason (a reaction to Constantine’s Christianisation of Rome) but not the years 340 to 379, which were not confirmed; the Syriac Acts were not opened."
+ },
+ {
+  "link_id": "ix0087",
+  "summary": "The king of Armenia, Tiridates III, was baptised by Gregory the Illuminator and made Christianity the religion of his kingdom; the traditional date is 301, and the story comes from a history written in the fifth century.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "reported",
+    "note": "A decision of the king, told in Armenian tradition and in a fifth-century history; the date is traditional."
+   }
+  ],
+  "route": "Vagharshapat",
+  "sources": [
+   {
+    "title": "Wikipedia: Tiridates III of Armenia",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Tiridates_III_of_Armenia"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "Historians who put the date a little later than 301 are not named on the page read, so that was taken out of the entry."
+ },
+ {
+  "link_id": "ix0088",
+  "summary": "The bishops of the church in the Persian Empire met at Seleucia-Ctesiphon in 410 and organised themselves under one bishop as their head. After the Council of Ephesus (431) condemned Nestorius, the church in Persia, which had come to follow Theodore of Mopsuestia and so, by extension, Nestorius, stayed apart from the Roman and Byzantine churches; it is known as the Church of the East.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "A separate organisation in a different empire, and then the teaching that Ephesus had condemned; the dates of the Persian church’s later formal steps were not read."
+   }
+  ],
+  "route": "Seleucia-Ctesiphon",
+  "sources": [
+   {
+    "title": "The Seven Ecumenical Councils (NPNF II, vol. 14): the Council of Ephesus",
+    "kind": "primary",
+    "grade": "A",
+    "note": "in the Library",
+    "lib": "e-m14"
+   },
+   {
+    "title": "Samuel Hugh Moffett, A History of Christianity in Asia, volume 1 (1992)",
+    "kind": "scholarly",
+    "grade": "B"
+   },
+   {
+    "title": "Wikipedia: Council of Seleucia-Ctesiphon",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Council_of_Seleucia-Ctesiphon"
+   },
+   {
+    "title": "Wikipedia: Nestorian schism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Nestorian_schism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0089",
+  "summary": "The Council of Chalcedon (451) defined Christ as one person in two natures. The churches of Egypt, Syria and Armenia, among others, rejected the definition and kept their own leaders; their descendants are the Oriental Orthodox churches.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "A dispute over how to state the union of the divine and human in Christ; councils and letters on both sides survive."
+   }
+  ],
+  "route": "Chalcedon and Alexandria",
+  "sources": [
+   {
+    "title": "The Seven Ecumenical Councils (NPNF II, vol. 14): the Council of Chalcedon",
+    "kind": "primary",
+    "grade": "A",
+    "note": "in the Library",
+    "lib": "e-m14"
+   },
+   {
+    "title": "Wikipedia: Council of Chalcedon",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Council_of_Chalcedon"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0090",
+  "summary": "According to the historians Rufinus and Socrates, Frumentius, a young man of Tyre, was taken to the king of Aksum with his companion Aedesius when his uncle’s ship was seized, rose at court, and was consecrated bishop at Alexandria; King Ezana later adopted Christianity, which his coins and inscriptions show.",
+  "causes": [
+   {
+    "cause": "travel",
+    "status": "reported",
+    "note": "The story of Frumentius comes from Rufinus, the earliest account, which Socrates, Sozomen and Theodoret follow."
+   },
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "Ezana’s inscriptions and coins show the court’s change."
+   }
+  ],
+  "route": "Aksum",
+  "sources": [
+   {
+    "title": "Rufinus, Ecclesiastical History (c. 402), the account of Frumentius",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Wikipedia: Ezana of Axum",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Ezana_of_Axum"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0093",
+  "summary": "From the 5th century the Greek East and the Latin West drifted apart in language, rite and in how far the bishop of Rome’s authority reached. In 1054 the pope’s legates and the patriarch of Constantinople excommunicated one another, and the break was later treated as final. The two sides name different reasons, among them the addition of “and from the Son” to the Latin Creed and the extent of the pope’s authority.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "disputed",
+    "note": "The excommunications of 1054 are documented; whether they were the break or one step in a longer drifting apart is argued."
+   }
+  ],
+  "route": "Constantinople and Rome",
+  "sources": [
+   {
+    "title": "Wikipedia: East–West Schism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/East%E2%80%93West_Schism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0094",
+  "summary": "From the 5th century the Latin West and the Greek East drifted apart in language, rite and in how far the bishop of Rome’s authority reached. In 1054 the pope’s legates and the patriarch of Constantinople excommunicated one another, and the break was later treated as final. The two sides name different reasons, among them the addition of “and from the Son” to the Latin Creed and the extent of the pope’s authority.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "disputed",
+    "note": "The excommunications of 1054 are documented; whether they were the break or one step in a longer drifting apart is argued."
+   }
+  ],
+  "route": "Constantinople and Rome",
+  "sources": [
+   {
+    "title": "Wikipedia: East–West Schism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/East%E2%80%93West_Schism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0095",
+  "summary": "In 1054 a papal legate laid a bull of excommunication on the altar of the Hagia Sophia and the patriarch of Constantinople excommunicated him in return. The quarrel was over papal authority and the wording of the creed, and the two churches did not restore communion.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "Authority of the pope and the added word filioque in the creed, among other disputes."
+   }
+  ],
+  "route": "Constantinople",
+  "sources": [
+   {
+    "title": "Steven Runciman, The Eastern Schism (1955)",
+    "kind": "scholarly",
+    "grade": "B"
+   },
+   {
+    "title": "Wikipedia: East–West Schism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/East%E2%80%93West_Schism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0097",
+  "summary": "Prince Vladimir of Kyiv had his people baptised about 988 (the page read says the year is disputed), after he was baptised at Chersonesus; the Russian Primary Chronicle tells how he chose among faiths and took Christianity from Constantinople, and it connects this with his marriage to the emperor’s sister.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "reported",
+    "note": "A prince’s decision; the Chronicle is a later account, and the year is disputed."
+   }
+  ],
+  "route": "Kyiv",
+  "sources": [
+   {
+    "title": "The Russian Primary Chronicle, the account of Vladimir’s baptism",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Wikipedia: Christianization of Kievan Rus'",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Christianization_of_Kievan_Rus%27"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0098",
+  "summary": "Boris I, khan of Bulgaria, was baptised in 864 or 865 and made Christianity the religion of his realm, after negotiating with both Constantinople and Rome.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "A ruler’s decision, taken after negotiating with both churches."
+   }
+  ],
+  "route": "Preslav",
+  "sources": [
+   {
+    "title": "Wikipedia: Boris I of Bulgaria",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Boris_I_of_Bulgaria"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0099",
+  "summary": "In 862 Rastislav, prince of Moravia, asked the emperor and the patriarch at Constantinople for missionaries; in 863 two brothers from Thessaloniki, Cyril and Methodius, went. They are credited with the Glagolitic alphabet and translated the Gospels and liturgical books into Slavic; their pupils carried the work to the Bulgarians, and the Slavonic script later spread to the Rus.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "Sent by the emperor and the patriarch."
+   },
+   {
+    "cause": "translation",
+    "status": "documented",
+    "note": "The alphabet and the Slavic liturgy."
+   }
+  ],
+  "route": "Moravia",
+  "sources": [
+   {
+    "title": "Wikipedia: Saints Cyril and Methodius",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Saints_Cyril_and_Methodius"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0101",
+  "summary": "Patriarch Nikon corrected the Russian service books and rites against Greek models in the 1650s; those who held to the older forms were condemned by the councils of 1666 and 1667 and became the Old Believers.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "A dispute over the correct form of rites and texts, enforced by the church and the tsar."
+   }
+  ],
+  "route": "Moscow",
+  "sources": [
+   {
+    "title": "Wikipedia: Old Believers",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Old_Believers"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0102",
+  "summary": "The monk Alopen of the Church of the East reached Chang’an in 635 and was received by the emperor Taizong; the Xi’an stele of 781 records the welcome and the church’s history in China.",
+  "causes": [
+   {
+    "cause": "travel",
+    "status": "documented",
+    "note": "A monk travelled from the west: the stele says from Ta-ch’in (Saeki reads Syria), and a Chinese record Saeki quotes calls the temple Persian."
+   },
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "The emperor’s welcome, on the stele."
+   }
+  ],
+  "route": "Chang’an",
+  "sources": [
+   {
+    "title": "The Nestorian Monument in China (Saeki, 1916), the Xi’an stele of 781",
+    "kind": "primary",
+    "grade": "A",
+    "note": "in the Library",
+    "lib": "e-nes"
+   },
+   {
+    "title": "Samuel Hugh Moffett, A History of Christianity in Asia, volume 1 (1992)",
+    "kind": "scholarly",
+    "grade": "B"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0105",
+  "summary": "Pope Celestine sent Palladius to the Irish “who believe in Christ” in 431 (Prosper of Aquitaine’s Chronicle); Patrick, a Briton who had been taken as a slave to Ireland, came back as a missionary in the 5th century and wrote about it in his Confession.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "A bishop sent by the pope, and Patrick’s own mission, told in his writings."
+   }
+  ],
+  "route": "Ireland",
+  "sources": [
+   {
+    "title": "Patrick, Confessio (5th century)",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Wikipedia: Saint Patrick",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Saint_Patrick"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0106",
+  "summary": "The Frankish king Clovis was baptised, the page read says, between 498 and 506 (the map data dates the link from about 496) and his people followed; Charlemagne’s wars against the Saxons (772–804) were accompanied by the Capitulary on Saxony, traditionally dated 782 (785 and 795 have also been proposed), which set death as the penalty for a Saxon who chose to stay unbaptised and pagan.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "A king’s decision, dated between 498 and 506 on the page read."
+   },
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "The Saxon wars and the Capitulary on Saxony, traditionally dated 782."
+   }
+  ],
+  "route": "Gaul and Saxony",
+  "sources": [
+   {
+    "title": "Wikipedia: Saxon Wars",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Saxon_Wars"
+   },
+   {
+    "title": "Wikipedia: Clovis I",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Clovis_I"
+   },
+   {
+    "title": "Wikipedia: Capitulatio de partibus Saxoniae",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Capitulatio_de_partibus_Saxoniae"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0107",
+  "summary": "Pope Gregory the Great sent a group of monks under Augustine, who came to Kent in 597 (Bede dates the sending to 596); King Æthelberht, whose wife was already Christian, received them and was baptised, as the monk Bede tells it.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "A mission sent from Rome, told by Bede."
+   }
+  ],
+  "route": "Canterbury",
+  "sources": [
+   {
+    "title": "Bede, Ecclesiastical History of the English People (731)",
+    "kind": "primary",
+    "grade": "A"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0108",
+  "summary": "King Oswald of Northumbria, who had spent years in exile at Iona, asked the monastery for a bishop; Aidan came in 635 and founded the monastery of Lindisfarne, from which monks preached through Northumbria.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "A mission sent from the monastery of Iona."
+   },
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "Asked for and supported by the king."
+   }
+  ],
+  "route": "Lindisfarne",
+  "sources": [
+   {
+    "title": "Bede, Ecclesiastical History of the English People (731)",
+    "kind": "primary",
+    "grade": "A"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0109",
+  "summary": "Boniface, an English monk, went to the Continent in 716, was made missionary bishop for Germania by Pope Gregory II, organised the church in Germany, felled the Donar Oak near Fritzlar according to his early biographer Willibald, and was killed in Frisia in 754.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "A mission with the pope’s blessing and the Frankish rulers’ protection."
+   }
+  ],
+  "route": "Germany",
+  "sources": [
+   {
+    "title": "Wikipedia: Saint Boniface",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Saint_Boniface"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0110",
+  "summary": "Ansgar began a mission to Denmark and Sweden in the 820s and 830s; the rulers of Scandinavia took Christianity in the 10th and 11th centuries (Harald Bluetooth in Denmark, Olaf Tryggvason and Olaf Haraldsson in Norway) and the sagas tell how they pressed it on their people. One historian, Anders Winroth, holds that the kings took it up of their own will and that foreign states and missionaries did not force it on them.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "Ansgar’s mission and those that followed."
+   },
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "The kings’ own decisions, told in the sagas."
+   }
+  ],
+  "route": "Scandinavia",
+  "sources": [
+   {
+    "title": "Adam of Bremen, Gesta Hammaburgensis ecclesiae pontificum (c. 1075)",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Snorri Sturluson, Heimskringla (the Sagas of the Norse Kings)",
+    "kind": "primary",
+    "grade": "A",
+    "note": "in the Library",
+    "lib": "x-hsk"
+   },
+   {
+    "title": "Wikipedia: Christianization of Scandinavia",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Christianization_of_Scandinavia"
+   },
+   {
+    "title": "Wikipedia: Ansgar",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Ansgar"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0111",
+  "summary": "At the Althing in 1000 the Icelanders were pressed to accept one law; the lawspeaker Thorgeir, himself still a pagan, decided that all should be baptised, while private sacrifice and the eating of horse meat were allowed for a time. Ari the Learned wrote the account between 1122 and 1133.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "A decision of the Althing, reported by Ari."
+   }
+  ],
+  "route": "Þingvellir",
+  "sources": [
+   {
+    "title": "Ari Þorgilsson, Íslendingabók (c. 1125)",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Wikipedia: Christianization of Iceland",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Christianization_of_Iceland"
+   },
+   {
+    "title": "Wikipedia: Íslendingabók",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/%C3%8Dslendingab%C3%B3k"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0112",
+  "summary": "German crusaders campaigned along the Baltic coast from 1198; Bishop Albert founded Riga in 1201 and, with the Sword Brethren, conquered the Livonian and Estonian lands.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "Crusading campaigns under the bishop of Riga and the Sword Brethren."
+   },
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "The stated aim was conversion."
+   }
+  ],
+  "route": "Livonia",
+  "sources": [
+   {
+    "title": "Wikipedia: Livonian Crusade",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Livonian_Crusade"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0113",
+  "summary": "Jogaila, grand duke of Lithuania, was baptised in 1386 when he married Jadwiga of Poland and became king; he then had Lithuania baptised, beginning in 1387.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "A ruler’s decision, tied to a marriage and a crown."
+   }
+  ],
+  "route": "Vilnius and Kraków",
+  "sources": [
+   {
+    "title": "Wikipedia: Christianization of Lithuania",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Christianization_of_Lithuania"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0115",
+  "summary": "After his legate was murdered in 1208, Pope Innocent III called a crusade against the Cathars of Languedoc; northern French lords marched in 1209 and took much of the south, and the Treaty of Paris (1229) ended the war.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "A crusade called by the pope and led by northern French nobles."
+   },
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "The crown of France took over the region."
+   }
+  ],
+  "route": "Languedoc",
+  "sources": [
+   {
+    "title": "Wikipedia: Albigensian Crusade",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Albigensian_Crusade"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0117",
+  "summary": "The Council of Constance condemned the Czech preacher Jan Hus as a heretic and he was burned on 6 July 1415; his death was a cause of the Hussite revolt.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "A sentence of the council, carried out by the secular authority."
+   }
+  ],
+  "route": "Constance",
+  "sources": [
+   {
+    "title": "Wikipedia: Jan Hus",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Jan_Hus"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0120",
+  "summary": "Edward I expelled the Jews of England in 1290, Philip IV those of France in 1306, and the Catholic Monarchs those of Spain in 1492 by the Alhambra Decree; each was a royal decree.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "Royal edicts, which survive."
+   }
+  ],
+  "route": "England, France and Spain",
+  "sources": [
+   {
+    "title": "The Alhambra Decree (31 March 1492)",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Wikipedia: Edict of Expulsion",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Edict_of_Expulsion"
+   },
+   {
+    "title": "Wikipedia: Alhambra Decree",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Alhambra_Decree"
+   },
+   {
+    "title": "Wikipedia: Philip IV of France",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Philip_IV_of_France"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0121",
+  "summary": "Ferdinand and Isabella asked the pope for an Inquisition under royal control and received a bull in 1478; it examined converts from Judaism and Islam and was abolished in 1834.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "Set up at the monarchs’ request, and staffed under the crown."
+   }
+  ],
+  "route": "Spain",
+  "sources": [
+   {
+    "title": "Wikipedia: Spanish Inquisition",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0122",
+  "summary": "Pope Urban II called for an armed expedition to the Near East at Clermont in 1095; Crusader states were set up in Syria and Palestine, and wars between the Latin and Muslim states continued until the fall of Acre in 1291.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "Armies from western Europe took cities and set up states in the Levant."
+   },
+   {
+    "cause": "court",
+    "status": "reported",
+    "note": "Urban’s call at Clermont in 1095 survives in several accounts that differ in detail (reduced penance or full remission of sin); most have him urge help for eastern Christians. Fulcher of Chartres, who was there, is taken as most reliable."
+   }
+  ],
+  "route": "Jerusalem",
+  "sources": [
+   {
+    "title": "Wikipedia: Crusades",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Crusades"
+   },
+   {
+    "title": "Wikipedia: Council of Clermont",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Council_of_Clermont"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0123",
+  "summary": "From the Muslim conquest of Visigothic Spain in 711, Christian kingdoms in the north took territory southward over several centuries; the page dates the Reconquista traditionally from the battle of Covadonga (about 718 or 722) to the fall of Granada, the last Muslim kingdom, to Castile and Aragon in January 1492. It adds that the name belongs to a traditional history tied to Spanish nationalism in the 19th century, and that recent scholarship treats it as a process of several episodes.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "A series of military campaigns, ending in 1492; whether to call them one “reconquest” is argued."
+   }
+  ],
+  "route": "Iberia",
+  "sources": [
+   {
+    "title": "Wikipedia: Reconquista",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Reconquista"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0124",
+  "summary": "In 1502 the Catholic Monarchs outlawed the practice of Islam and gave Muslims the choice of baptism or exile; the converts (Moriscos) were watched, and by order of Philip III they were expelled from Spain in the years 1609 to 1614.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "Royal edicts of 1502 and 1609 to 1614."
+   }
+  ],
+  "route": "Spain",
+  "sources": [
+   {
+    "title": "Wikipedia: Expulsion of the Moriscos",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Expulsion_of_the_Moriscos"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0125",
+  "summary": "In the 12th century, under Archbishop Raymond of Toledo and after him, scholars at Toledo translated Arabic works on astronomy, medicine, mathematics and philosophy into Latin; the most productive was Gerard of Cremona (d. 1187). The page dates the translating to the 12th and 13th centuries and says that in the 13th it turned to Old Spanish.",
+  "causes": [
+   {
+    "cause": "translation",
+    "status": "documented",
+    "note": "Arabic works put into Latin at Toledo."
+   }
+  ],
+  "route": "Toledo",
+  "sources": [
+   {
+    "title": "Wikipedia: Toledo School of Translators",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Toledo_School_of_Translators"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0126",
+  "summary": "Maimonides’ Guide of the Perplexed (written between 1185 and 1190 in Judaeo-Arabic) was put into Hebrew in 1204 and later into Latin; Thomas Aquinas made extensive use of it.",
+  "causes": [
+   {
+    "cause": "translation",
+    "status": "documented",
+    "note": "A work put into Hebrew and then Latin."
+   }
+  ],
+  "route": "Paris",
+  "sources": [
+   {
+    "title": "Wikipedia: Guide for the Perplexed",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Guide_for_the_Perplexed"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0127",
+  "summary": "Martin Luther’s Ninety-five Theses against the sale of indulgences (1517) spread quickly in print; the dispute grew into a break with Rome over authority, scripture and salvation, and into separate churches.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "documented",
+    "note": "A call to reform practice and teaching, begun by Luther."
+   },
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "The break with Rome followed within a few years."
+   }
+  ],
+  "route": "Wittenberg",
+  "sources": [
+   {
+    "title": "Diarmaid MacCulloch, Reformation: Europe’s House Divided, 1490–1700 (2003)",
+    "kind": "scholarly",
+    "grade": "B",
+    "note": "not opened; the page below was"
+   },
+   {
+    "title": "Wikipedia: Ninety-five Theses",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Ninety-five_Theses"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0128",
+  "summary": "Martin Luther’s Ninety-five Theses (1517) began a public dispute over indulgences, and his later writings led to his excommunication in January 1521. At the Diet of Worms that April he refused to recant and the emperor put him under the ban. German princes and cities took up his cause, he put the New Testament into German (1522), and the Augsburg Confession (1530) set out the Lutheran faith for the emperor.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "documented",
+    "note": "The Ninety-five Theses (1517) and Luther’s later writings."
+   },
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "German princes and cities adopted the reform; the Augsburg Confession (1530) was presented on their behalf."
+   },
+   {
+    "cause": "translation",
+    "status": "documented",
+    "note": "Luther’s German New Testament (1522) took the reform to readers in their own language."
+   }
+  ],
+  "route": "Wittenberg",
+  "sources": [
+   {
+    "title": "Luther, Ninety-five Theses (1517)",
+    "kind": "primary",
+    "grade": "A",
+    "note": "in the Library with his three main works of 1520",
+    "lib": "e-fpr"
+   },
+   {
+    "title": "The Augsburg Confession (1530)",
+    "kind": "primary",
+    "grade": "A",
+    "note": "in the Book of Concord",
+    "lib": "e-bco"
+   },
+   {
+    "title": "Wikipedia: Lutheranism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Lutheranism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0129",
+  "summary": "Huldrych Zwingli began to preach a reform of the church at Zurich in 1519, and the city council adopted it in the 1520s. John Calvin, a French exile, set out the same faith in his Institutes (first published in 1536) and shaped the church of Geneva, from which it spread to France, the Netherlands, Scotland and beyond.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "documented",
+    "note": "Zwingli’s preaching at Zurich from 1519 and Calvin’s Institutes (1536 and later)."
+   },
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "The councils of Zurich, Bern and Geneva adopted the reform for their cities."
+   }
+  ],
+  "route": "Zurich and Geneva",
+  "sources": [
+   {
+    "title": "Zwingli, Selected Works (1901 edition)",
+    "kind": "primary",
+    "grade": "A",
+    "note": "in the Library",
+    "lib": "e-zwi"
+   },
+   {
+    "title": "Calvin, Institutes of the Christian Religion",
+    "kind": "primary",
+    "grade": "A",
+    "note": "in the Library",
+    "lib": "e-cal"
+   },
+   {
+    "title": "Wikipedia: Reformed Christianity",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Reformed_Christianity"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0130",
+  "summary": "On 21 January 1525, the date most widely accepted for the start of the movement, after a dispute with Zwingli over infant baptism, a group of his followers in Zurich, among them Conrad Grebel and George Blaurock, baptised one another as adults. They held that baptism belongs to believers, and the movement spread through Switzerland, southern Germany and the Netherlands, against the opposition of Catholic and Protestant authorities alike.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "The first adult baptisms at Zurich, in January 1525, followed the council’s order that infants be baptised."
+   }
+  ],
+  "route": "Zurich",
+  "sources": [
+   {
+    "title": "Wikipedia: Anabaptism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Anabaptism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0131",
+  "summary": "Parliament’s Act of Supremacy (1534) made Henry VIII head of the Church of England. The king had sought an annulment of his marriage that the pope did not grant; the act separated the English church from papal authority.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "Passed by Parliament at the king’s wish."
+   },
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "The separation from Rome."
+   }
+  ],
+  "route": "London",
+  "sources": [
+   {
+    "title": "Act of Supremacy 1534 (26 Hen. VIII c. 1)",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Wikipedia: Act of Supremacy 1534",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Act_of_Supremacy_1534"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0134",
+  "summary": "Louis XIV’s Edict of Fontainebleau (1685) revoked the Edict of Nantes, closed Protestant churches and forbade Protestant worship; estimates of the Huguenots who left France over the next two decades run from about 210,000 to 900,000. Louis XVI’s Edict of Versailles (1787) gave Protestants civil and legal recognition.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "A royal edict, which is public and dated."
+   }
+  ],
+  "route": "France",
+  "sources": [
+   {
+    "title": "The Edict of Fontainebleau (1685)",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Wikipedia: Edict of Fontainebleau",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Edict_of_Fontainebleau"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0136",
+  "summary": "In 1560 the Scottish Parliament abolished the pope’s authority in Scotland and adopted a reformed confession written by a group of ministers that included John Knox (the legislation was formally ratified by James VI in 1567). The Church of Scotland that followed was ruled by assemblies of ministers and elders (presbyters), which gave Presbyterianism its name.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "The Scottish Parliament of 1560 adopted the confession and abolished the pope’s authority."
+   },
+   {
+    "cause": "reform",
+    "status": "documented",
+    "note": "John Knox and the other ministers who wrote the confession and the church’s order."
+   }
+  ],
+  "route": "Edinburgh",
+  "sources": [
+   {
+    "title": "Wikipedia: Scottish Reformation",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Scottish_Reformation"
+   },
+   {
+    "title": "Wikipedia: Presbyterianism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Presbyterianism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0138",
+  "summary": "Jakob Ammann, a Swiss Anabaptist minister, argued for stricter discipline, including the shunning of those under the ban; those who followed him in 1693 became the Amish.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "A dispute over discipline and shunning."
+   }
+  ],
+  "route": "Switzerland",
+  "sources": [
+   {
+    "title": "Wikipedia: Amish",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Amish"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0139",
+  "summary": "John and Charles Wesley, Church of England clergymen, led a revival from the late 1730s that stressed personal faith and holiness, with open-air preaching and small societies for prayer and study. The movement stayed within the Church of England during John Wesley’s life and became a separate church after his death in 1791.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "documented",
+    "note": "A revival within the Church of England led by John and Charles Wesley."
+   },
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "The separation of the Methodist societies from the Church of England followed John Wesley’s death in 1791."
+   }
+  ],
+  "route": "England",
+  "sources": [
+   {
+    "title": "Wesley’s Standard Sermons (ed. Sugden, 1920)",
+    "kind": "primary",
+    "grade": "A",
+    "note": "the movement’s own teaching",
+    "lib": "e-wss"
+   },
+   {
+    "title": "Wikipedia: Methodism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Methodism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0141",
+  "summary": "English separatists who had left the Church of England for Amsterdam, led by John Smyth, came to hold that only believers should be baptised and formed a congregation on that basis in 1609. Historians still argue whether the Baptists grew from these English Dissenters alone or partly from the Anabaptists; most now hold the first.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "Separatists leaving the established church; the believers’-baptism view came after."
+   }
+  ],
+  "route": "Amsterdam",
+  "sources": [
+   {
+    "title": "Wikipedia: Baptists",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Baptists"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0142",
+  "summary": "George Fox, a young man from Leicestershire, taught from about 1647 that a person could know God directly, without clergy or ceremonies, and in 1652 his preaching at Pendle Hill and in Westmorland drew the first large following. His followers, called Quakers, were often fined and imprisoned for refusing oaths and tithes. His own journal, written years afterwards, is the chief source for the early years.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "reported",
+    "note": "George Fox’s own journal, written some years later, is the chief account of 1652."
+   }
+  ],
+  "route": "Westmorland and Lancashire",
+  "sources": [
+   {
+    "title": "George Fox, Journal",
+    "kind": "primary",
+    "grade": "A",
+    "note": "the chief account, written years later",
+    "lib": "x-fox"
+   },
+   {
+    "title": "Wikipedia: Quakers",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Quakers"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0148",
+  "summary": "After Joseph Smith’s death in 1844 the Latter Day Saints divided over who should lead them. Brigham Young led the largest group west and the first company reached the Salt Lake Valley in July 1847; the church that gathered there is the one now called The Church of Jesus Christ of Latter-day Saints, which Joseph Smith had organised in 1830. Other groups followed other claimants.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "The 1844 succession dispute, in which several leaders claimed the right to lead."
+   },
+   {
+    "cause": "travel",
+    "status": "documented",
+    "note": "The westward migration of 1846 and 1847, which the pioneers recorded in journals."
+   }
+  ],
+  "route": "Nauvoo and Salt Lake Valley",
+  "sources": [
+   {
+    "title": "Wikipedia: Latter Day Saint movement",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+   },
+   {
+    "title": "Wikipedia: Succession crisis (Latter Day Saints)",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Succession_crisis_(Latter_Day_Saints)"
+   },
+   {
+    "title": "Wikipedia: Brigham Young",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Brigham_Young"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0149",
+  "summary": "After Joseph Smith’s death (1844) several men claimed the leadership. One group refused to follow Brigham Young and, in 1860, accepted Joseph Smith III as president of a “reorganized” church, now the Community of Christ.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "A dispute over who should succeed the founder."
+   }
+  ],
+  "route": "Independence, Missouri",
+  "sources": [
+   {
+    "title": "Wikipedia: Community of Christ",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Community_of_Christ"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0150",
+  "summary": "The 1890 Manifesto prohibited new plural marriages in the Church of Jesus Christ of Latter-day Saints in the United States, and after a second one in 1904 the church excommunicated members who entered or performed them; the practice continued underground and in colonies in Mexico and Canada, and groups that keep it are now called Mormon fundamentalist.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "A disagreement over the church’s prohibition of new plural marriages, which its presidents announced in 1890 and 1904."
+   }
+  ],
+  "route": "Salt Lake City",
+  "sources": [
+   {
+    "title": "Wikipedia: Mormon fundamentalism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Mormon_fundamentalism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0155",
+  "summary": "After the Spanish and their Indigenous allies took Tenochtitlan in 1521 the great temple was almost wholly destroyed; Franciscan friars arrived in 1524 and ran missions that taught Christianity and worked against the old worship.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "The conquest of 1519 to 1521 and the demolition of the temple."
+   },
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "The friars’ missions from 1524."
+   }
+  ],
+  "route": "Tenochtitlan (Mexico City)",
+  "sources": [
+   {
+    "title": "Robert Ricard, The Spiritual Conquest of Mexico (1933; English translation 1966)",
+    "kind": "scholarly",
+    "grade": "B"
+   },
+   {
+    "title": "Wikipedia: Spanish conquest of the Aztec Empire",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire"
+   },
+   {
+    "title": "Wikipedia: Templo Mayor",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Templo_Mayor"
+   },
+   {
+    "title": "Wikipedia: Twelve Apostles of Mexico",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Twelve_Apostles_of_Mexico"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0156",
+  "summary": "Francisco Pizarro captured the Inca ruler Atahualpa at Cajamarca in 1532 and the Spanish took Cusco in 1533; resistance in the mountains went on until 1572, and the church’s missions followed.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "The Spanish campaigns of 1532 to 1572."
+   }
+  ],
+  "route": "Cusco",
+  "sources": [
+   {
+    "title": "Wikipedia: Spanish conquest of the Inca Empire",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0157",
+  "summary": "Spanish forces began to conquer the Maya of Guatemala in 1523 to 1524 and those of Yucatán in 1527 and 1528; the conquest is generally taken to have ended in 1697 with the fall of the last independent Maya kingdom, Nojpetén.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "Long campaigns of conquest, ending in 1697."
+   }
+  ],
+  "route": "Yucatán and Petén",
+  "sources": [
+   {
+    "title": "Wikipedia: Spanish conquest of the Maya",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Maya"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0158",
+  "summary": "On 12 July 1562, after he heard that Maya Christians still worshipped idols, the Franciscan Diego de Landa held an inquiry at Maní in Yucatán that ended in an auto de fe in which Maya books (27, by his own count) and about 5,000 images were burned; he went back to Spain and wrote there, about 1566, his account of Maya customs.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "A friar acting against the old worship; Landa’s own account gives the number of books burned (27), which others dispute."
+   }
+  ],
+  "route": "Maní, Yucatán",
+  "sources": [
+   {
+    "title": "Diego de Landa, Relación de las cosas de Yucatán (c. 1566)",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Wikipedia: Diego de Landa",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Diego_de_Landa"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0159",
+  "summary": "Bartolomé Lobo Guerrero, archbishop of Lima from 1609, is regarded as the initiator of the first systematic, centrally organised campaign for the extirpation of idolatry in his archdiocese; the Jesuit Pablo José de Arriaga wrote a handbook for it, completed in 1620 and printed at Lima in 1621.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "Campaigns of the church to remove the old worship."
+   }
+  ],
+  "route": "Lima and the Andes",
+  "sources": [
+   {
+    "title": "Pablo José de Arriaga, Extirpación de la idolatría del Pirú (1621)",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Wikipedia: Bartolomé Lobo Guerrero",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Bartolom%C3%A9_Lobo_Guerrero"
+   },
+   {
+    "title": "Wikipedia: Pablo José Arriaga",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Pablo_Jos%C3%A9_Arriaga"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0163",
+  "summary": "After Columbus’s second voyage (1493) the Spanish settled Hispaniola and put the Taíno to forced labour; violence, hunger and imported disease cut the population sharply within a few decades.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "Colonisation by force, and forced labour under the encomienda."
+   }
+  ],
+  "route": "Hispaniola",
+  "sources": [
+   {
+    "title": "Wikipedia: Taíno",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Ta%C3%ADno"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0164",
+  "summary": "Portuguese ships reached the Kongo coast in 1483 and exchanged envoys and goods with the king; the king, Nzinga a Nkuwu, decided to become a Christian and was baptised as João I about 1491, and his son Afonso I (reigned 1509 to 1542 or 1543), who won the succession in 1509 against his half-brother Mpanzu a Kitima, made Catholicism the religion of the state.",
+  "causes": [
+   {
+    "cause": "trade",
+    "status": "documented",
+    "note": "Portuguese trade and diplomacy opened the contact."
+   },
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "Priests baptised the king and his court about 1491."
+   },
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "Afonso’s victory in 1509 made Catholicism the religion of the state."
+   }
+  ],
+  "route": "Mbanza Kongo",
+  "sources": [
+   {
+    "title": "Anne Hilton, The Kingdom of Kongo (1985)",
+    "kind": "scholarly",
+    "grade": "B"
+   },
+   {
+    "title": "Wikipedia: Kingdom of Kongo",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Kingdom_of_Kongo"
+   },
+   {
+    "title": "Wikipedia: Afonso I of Kongo",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Afonso_I_of_Kongo"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0166",
+  "summary": "The Tokugawa shogunate banned Christianity in 1614 and expelled the missionaries; the persecution that followed, and the Shimabara revolt of 1637 and 1638, drove the remaining believers into secrecy as “hidden Christians”; the ban was lifted in 1873, and the name is used today for those who still keep the traditions of the years in hiding.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "Edicts of the shogunate and their enforcement."
+   }
+  ],
+  "route": "Nagasaki",
+  "sources": [
+   {
+    "title": "Wikipedia: Kakure Kirishitan",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Kakure_Kirishitan"
+   },
+   {
+    "title": "Wikipedia: Kirishitan",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Kirishitan"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0167",
+  "summary": "Enslaved West Africans, the majority of them Yoruba according to the page read, were taken to Cuba as labourers between the 16th and 19th centuries (the map data dates this link c. 1800–1850); they kept the worship of the orishas and, setting them beside Catholic saints, formed Santería, which the page says emerged as a distinct religion in western Cuba in the late 19th century.",
+  "causes": [
+   {
+    "cause": "trade",
+    "status": "documented",
+    "note": "The Atlantic slave trade."
+   },
+   {
+    "cause": "travel",
+    "status": "documented",
+    "note": "The forced migration of the enslaved."
+   }
+  ],
+  "route": "Havana",
+  "sources": [
+   {
+    "title": "Voyages: The Trans-Atlantic Slave Trade Database",
+    "kind": "scholarly",
+    "grade": "B",
+    "note": "ship records; estimates"
+   },
+   {
+    "title": "Joseph M. Murphy, Santería: An African Religion in America (1988)",
+    "kind": "scholarly",
+    "grade": "B"
+   },
+   {
+    "title": "Wikipedia: Santería",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Santer%C3%ADa"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "Open Library lists Murphy’s book as “Santeria: An African religion in America”, first published in 1988, so the title is now confirmed (the book was not opened). The Santería page read gives the 16th to 19th centuries for the whole trade, no decade for Yoruba arrivals, and the late 19th century for the first houses, so “above all in the first half of the 19th century” and the mutual-aid societies the entry first named were taken out; the Voyages database was not opened."
+ },
+ {
+  "link_id": "ix0171",
+  "summary": "Enslaved people from West and Central Africa, among them Kongo, Fon and Yoruba, were brought to Saint-Domingue; their religions blended with Catholic and other European elements to form Haitian Vodou, which the page says took the form of Vodou around the middle of the 18th century.",
+  "causes": [
+   {
+    "cause": "trade",
+    "status": "documented",
+    "note": "The Atlantic slave trade."
+   },
+   {
+    "cause": "travel",
+    "status": "documented",
+    "note": "The forced migration of the enslaved."
+   }
+  ],
+  "route": "Saint-Domingue",
+  "sources": [
+   {
+    "title": "Voyages: The Trans-Atlantic Slave Trade Database",
+    "kind": "scholarly",
+    "grade": "B",
+    "note": "not opened"
+   },
+   {
+    "title": "Wikipedia: Haitian Vodou",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Haitian_Vodou"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0173",
+  "summary": "The Code Noir of 1685 ordered that enslaved people in the French islands be baptised and taught the Catholic religion, and forbade the public practice of any other religion.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "A royal ordinance, the Code Noir (1685)."
+   }
+  ],
+  "route": "Saint-Domingue",
+  "sources": [
+   {
+    "title": "The Code Noir (1685), articles 2 and 3",
+    "kind": "primary",
+    "grade": "A",
+    "note": "as the page on the Code noir gives them; the text not opened"
+   },
+   {
+    "title": "Wikipedia: Code noir",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Code_noir"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0174",
+  "summary": "In 1941 and 1942 a campaign against Vodou, called “anti-superstition” by those who ran it, destroyed Vodou temples and sacred objects in Haiti. The page read names it Operation Nettoyage (Operation Cleanup) and calls it Church-backed; other accounts, read through a search summary, say the Catholic Church led it, the government of President Élie Lescot and the National Guard backed it, and it ended in 1942; they differ on how far Lescot himself drove it.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "reported",
+    "note": "The page read says Haiti’s government launched a Church-backed campaign in 1941; other accounts put the Church first with the state’s force behind it, and differ on Lescot’s own part."
+   }
+  ],
+  "route": "Haiti",
+  "sources": [
+   {
+    "title": "Wikipedia: Haitian Vodou",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Haitian_Vodou"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "The page read gives 1941 and the name Operation Nettoyage but names neither Lescot nor the army and gives no year for the end; the Church’s lead, the National Guard, the end in 1942 and the difference over Lescot come from a search summary of articles that were not opened (one site failed its certificate, one refused the reader)."
+ },
+ {
+  "link_id": "ix0176",
+  "summary": "Yoruba, Fon and Bantu-speaking people were brought to Bahia as enslaved labourers, above all from the late 18th century; the first Candomblé houses were founded in Salvador in the early 19th, and the best known, Casa Branca, is by tradition dated to 1830.",
+  "causes": [
+   {
+    "cause": "trade",
+    "status": "documented",
+    "note": "The Atlantic slave trade."
+   },
+   {
+    "cause": "travel",
+    "status": "documented",
+    "note": "The forced migration of the enslaved."
+   }
+  ],
+  "route": "Salvador",
+  "sources": [
+   {
+    "title": "Voyages: The Trans-Atlantic Slave Trade Database",
+    "kind": "scholarly",
+    "grade": "B",
+    "note": "ship records; estimates"
+   },
+   {
+    "title": "Wikipedia: Candomblé",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Candombl%C3%A9"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0187",
+  "summary": "In Mecca and Medina Muhammad’s community lived beside Jewish tribes and Christian communities. The page read says his views of the Jews were shaped by his contact with the Jewish tribes of Arabia and that Islam was “strongly influenced by Judaism”; it also quotes a historian who calls his message foreign to Judaism. Muslim tradition holds that the Qur’an confirms the revelations before it; historians argue how much it drew on Jewish sources and by what means.",
+  "causes": [
+   {
+    "cause": "shared_origin",
+    "status": "disputed",
+    "note": "The Qur’an presents itself as confirming earlier scripture, the tradition’s own account; the page read describes contact and influence, and how much the Qur’an drew on Jewish sources is argued."
+   }
+  ],
+  "route": "Arabia",
+  "sources": [
+   {
+    "title": "Wikipedia: Islamic–Jewish relations",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Islamic%E2%80%93Jewish_relations"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "The cause is labelled “shared origin”, which fits the Qur’an’s own account, while the page read describes contact between neighbours; the fixed list of causes has no label for that, so the note gives both. Whether to add one is for the maker. The Wikipedia address exists and was read."
+ },
+ {
+  "link_id": "ix0188",
+  "summary": "The Qur’an calls Jesus a prophet, not the Son of God, born of the virgin Mary, and speaks of Christians; Christian communities lived in Arabia and Syria, and the page read names Waraqah ibn Nawfal, a Christian ascetic of Arabia, among the first Christians to meet Muhammad. Muslim tradition holds that the Qur’an confirms the revelations before it; historians argue how much it drew on Christian sources and by what means.",
+  "causes": [
+   {
+    "cause": "shared_origin",
+    "status": "disputed",
+    "note": "The Qur’an presents itself as confirming earlier scripture, the tradition’s own account; how much it drew on Christian sources is argued (the page read does not take this up)."
+   }
+  ],
+  "route": "Arabia",
+  "sources": [
+   {
+    "title": "Wikipedia: Christianity and Islam",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Christianity_and_Islam"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "The page read does not call the Qur’an’s debt to Christian sources argued and does not mention Ethiopia (taken out of the entry); the scholarly argument behind “disputed” was not opened. “Shared origin” fits the Qur’an’s own account, as in the entry on Judaism."
+ },
+ {
+  "link_id": "ix0189",
+  "summary": "Muhammad entered Mecca with an army in December 629 or January 630 (the early sources give different dates); the images were removed from the Kaaba, around which one hadith counts 360 idols.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "The capture of Mecca, told in the early Muslim sources."
+   }
+  ],
+  "route": "Mecca",
+  "sources": [
+   {
+    "title": "Wikipedia: Conquest of Mecca",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Conquest_of_Mecca"
+   },
+   {
+    "title": "Wikipedia: Kaaba",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Kaaba"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0191",
+  "summary": "When Muhammad died in 632 the community had to decide who should lead it. A group of the Muslims of Medina and Mecca accepted Abu Bakr as the first caliph; those who held that Muhammad had chosen his cousin and son-in-law Ali are the root of the Shia. The accounts of the meeting at the Saqifa come from later histories, and each side tells it differently.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "reported",
+    "note": "Told in histories written one to three centuries later (Ibn Ishaq, d. 761 or 767, as kept in the recensions of Ibn Hisham, d. 833, and al-Tabari); Sunni and Shia accounts differ."
+   }
+  ],
+  "route": "Medina",
+  "sources": [
+   {
+    "title": "Wikipedia: Succession to Muhammad",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Succession_to_Muhammad"
+   },
+   {
+    "title": "Wikipedia: Sunni Islam",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Sunni_Islam"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0192",
+  "summary": "The question of who should lead the community after Muhammad’s death in 632 divided those who accepted Abu Bakr and the caliphs after him from those who held that Ali and his descendants should lead. The killing of Ali’s son Husayn at Karbala in 680 fixed the division.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "A dispute over succession to Muhammad; the early sources agree there was a dispute and differ on its details."
+   }
+  ],
+  "route": "Medina and Karbala",
+  "sources": [
+   {
+    "title": "Wilferd Madelung, The Succession to Muhammad: A Study of the Early Caliphate (1997)",
+    "kind": "scholarly",
+    "grade": "B"
+   },
+   {
+    "title": "Wikipedia: Succession to Muhammad",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Succession_to_Muhammad"
+   },
+   {
+    "title": "Wikipedia: Battle of Karbala",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Karbala"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0193",
+  "summary": "After the arbitration between Ali and Mu‘awiya following the battle of Siffin (657), a group left Ali’s army, saying that judgment belongs to God alone; they were called the Khawarij, “those who went out”.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "A split in Ali’s army over accepting the arbitration."
+   }
+  ],
+  "route": "Siffin and Kufa",
+  "sources": [
+   {
+    "title": "Wikipedia: Kharijites",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Kharijites"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0195",
+  "summary": "When the sixth imam, Ja‘far al-Sadiq, died in 765, one group followed his son Isma‘il (who had died before him) and his line, and another followed his son Musa al-Kazim; the first became the Isma‘ilis.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "A dispute over which son should be the next imam."
+   }
+  ],
+  "route": "Medina",
+  "sources": [
+   {
+    "title": "Wikipedia: Isma‘ilism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Isma%27ilism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0199",
+  "summary": "When the Fatimid caliph al-Mustansir died in 1094, his son Nizar was passed over for another son, al-Musta‘li; Isma‘ilis in Iran and Syria followed Nizar, and the Nizari imams are the line of the present Aga Khans.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "A dispute over succession to the caliph and imam."
+   }
+  ],
+  "route": "Cairo and Alamut",
+  "sources": [
+   {
+    "title": "Wikipedia: Nizari Isma‘ilism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Nizari_Isma%27ilism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0200",
+  "summary": "The same succession of 1094 (see Nizari) gave the other party the imam al-Musta‘li, who was supported by the Fatimid court in Cairo; his line is the Musta‘li Isma‘ili tradition.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "A dispute over succession to the caliph and imam."
+   }
+  ],
+  "route": "Cairo",
+  "sources": [
+   {
+    "title": "Wikipedia: Isma‘ilism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Isma%27ilism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0201",
+  "summary": "In 1588 to 1592 (the sources give different years) the Tayyibi Isma‘ili community divided over who should succeed as its head (the dai); the party of Dawud bin Qutb Shah became the Dawoodi Bohra, and the party of Sulayman bin Hasan, who also claimed the office, the Sulaymani.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "A dispute over who should succeed as dai."
+   }
+  ],
+  "route": "Ahmedabad",
+  "sources": [
+   {
+    "title": "Wikipedia: Dawoodi Bohra",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Dawoodi_Bohra"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "The page read gives 1588 and a dispute taken to Akbar in 1597, not 1592 (the map data’s year); it does not name the Sulaymani."
+ },
+ {
+  "link_id": "ix0202",
+  "summary": "From the 8th century, ascetics such as Hasan of Basra (d. 728) taught a life of renunciation and inner devotion; groups of such teachers later took the name Sufi, and orders formed in later centuries. Whether Sufism began as a turning away from the wealth of the early caliphate, or grew from the Qur’an and Muhammad’s example as Sufis hold, is argued.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "disputed",
+    "note": "How far it began as a turning away from the worldliness of the early caliphate is argued."
+   }
+  ],
+  "route": "Basra and Baghdad",
+  "sources": [
+   {
+    "title": "Wikipedia: Sufism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Sufism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0203",
+  "summary": "From the 8th to the 10th centuries works of Greek philosophy and science were put into Arabic in the Graeco-Arabic translation movement; the Arabic “Theology of Aristotle” in fact paraphrases parts of Plotinus’s Enneads, with Porphyry’s commentary.",
+  "causes": [
+   {
+    "cause": "translation",
+    "status": "documented",
+    "note": "The Graeco-Arabic translation movement."
+   }
+  ],
+  "route": "Baghdad",
+  "sources": [
+   {
+    "title": "Dimitri Gutas, Greek Thought, Arabic Culture (1998)",
+    "kind": "scholarly",
+    "grade": "B"
+   },
+   {
+    "title": "Wikipedia: Theology of Aristotle",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Theology_of_Aristotle"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0204",
+  "summary": "After the Arab victories at Qadisiyya and Nihavand (636, 642) the Sasanian lands fell by 651; Zoroastrians became a protected community paying a tax, and over the following centuries most Iranians became Muslim.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "The Arab conquest of the Sasanian empire."
+   },
+   {
+    "cause": "court",
+    "status": "reported",
+    "note": "The tax and the advantages of joining the ruling faith are often given as reasons for later conversion; historians weigh these."
+   }
+  ],
+  "route": "Iran",
+  "sources": [
+   {
+    "title": "Richard W. Bulliet, Conversion to Islam in the Medieval Period: An Essay in Quantitative History (1979)",
+    "kind": "scholarly",
+    "grade": "B"
+   },
+   {
+    "title": "Wikipedia: Muslim conquest of Persia",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Muslim_conquest_of_Persia"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0205",
+  "summary": "Arab armies took Syria and Egypt in the 630s and 640s; most people were Christian and kept their churches, paying a tax, and the shift to Islam was gradual, over centuries.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "The Arab conquest of Syria and Egypt."
+   }
+  ],
+  "route": "Egypt and Syria",
+  "sources": [
+   {
+    "title": "Richard W. Bulliet, Conversion to Islam in the Medieval Period (1979)",
+    "kind": "scholarly",
+    "grade": "B"
+   },
+   {
+    "title": "Wikipedia: Muslim conquest of Egypt",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Muslim_conquest_of_Egypt"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0207",
+  "summary": "The Muslim Karakhanids conquered the Buddhist kingdom of Khotan in 1006.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "A military conquest by the Kara-Khanids; the page read dates it to 1006 and cites a modern history of Xinjiang."
+   }
+  ],
+  "route": "Khotan",
+  "sources": [
+   {
+    "title": "Wikipedia: Kingdom of Khotan",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Kingdom_of_Khotan"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0208",
+  "summary": "The Persian chronicler Minhaj-i-Siraj, writing some sixty years later, says that Muhammad Bakhtiyar Khalji’s raiders took a fortified place in Bihar about 1200, killed many shaven-headed “Brahmans” (the monks) and found many books there. He does not name Nalanda: the page read says his passage describes Odantapura, and that Nalanda, though damaged, went on for some decades after.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "A military raid, described by a chronicler writing some sixty years later; which monastery he describes is argued."
+   }
+  ],
+  "route": "Bihar",
+  "sources": [
+   {
+    "title": "Minhaj-i-Siraj, Tabaqat-i-Nasiri (c. 1260)",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Wikipedia: Nalanda mahavihara",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Nalanda_mahavihara"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "What the page says about which monastery Minhaj describes, and about the visit of about 1235, was read through a summary."
+ },
+ {
+  "link_id": "ix0209",
+  "summary": "Mahmud of Ghazna raided India many times; his raid on Gujarat and the temple of Somnath is dated to January 1026, after the march began in October 1025. Al-Biruni, a scholar at his court, wrote that Mahmud “utterly ruined the prosperity of the country”.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "A military raid; al-Biruni describes the ruin of the country, and the page read dates the sack to January 1026."
+   }
+  ],
+  "route": "Somnath",
+  "sources": [
+   {
+    "title": "Alberuni’s India (Sachau’s translation, 1888)",
+    "kind": "primary",
+    "grade": "A",
+    "note": "in the Library",
+    "lib": "x-abi"
+   },
+   {
+    "title": "Wikipedia: Sack of Somnath",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Sack_of_Somnath"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0210",
+  "summary": "Islam became the majority religion of the Bengal delta between the 13th and 18th centuries. Historians have given conquest, the preaching of Sufi teachers and the bringing of the delta’s forest land under cultivation as causes, and disagree on their weight.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "disputed",
+    "note": "The Muslim rule of Bengal from 1204 is documented; its weight as a cause is argued."
+   },
+   {
+    "cause": "mission",
+    "status": "disputed",
+    "note": "The work of Sufi teachers is one of the causes historians give; how much weight it carries is argued."
+   }
+  ],
+  "route": "Bengal",
+  "sources": [
+   {
+    "title": "Richard M. Eaton, The Rise of Islam and the Bengal Frontier, 1204–1760 (1993)",
+    "kind": "scholarly",
+    "grade": "B",
+    "note": "not opened; the page below was"
+   },
+   {
+    "title": "Wikipedia: Islam in Bangladesh",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Islam_in_Bangladesh"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0214",
+  "summary": "The preacher Muhammad ibn Abd al-Wahhab called for a return to the practice of the first Muslims and the removal of what he held to be later additions; in 1744 he allied himself with Muhammad ibn Saud, the ruler of Diriyah, who protected him and spread his teaching.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "documented",
+    "note": "A call to return to the early practice."
+   },
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "The alliance with the ruler of Diriyah."
+   }
+  ],
+  "route": "Diriyah",
+  "sources": [
+   {
+    "title": "Wikipedia: Wahhabism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Wahhabism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0222",
+  "summary": "The Second Amendment to the Constitution of Pakistan (1974) added a definition of a Muslim that excludes the Ahmadis; later ordinances limited their practice.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "A constitutional amendment, which is public."
+   }
+  ],
+  "route": "Pakistan",
+  "sources": [
+   {
+    "title": "The Constitution of Pakistan, Second Amendment (1974)",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Wikipedia: Persecution of Ahmadis",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Persecution_of_Ahmadis"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0225",
+  "summary": "The fifth Sikh guru, Guru Arjan, died in Mughal custody in Lahore in 1606 on the order of Jahangir. The emperor’s memoir links the punishment to Arjan’s support for Jahangir’s rebel son Khusrau; Sikh tradition tells instead of a fine and an order to remove hymns from the scripture, which Arjan refused.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "An order of the emperor."
+   }
+  ],
+  "route": "Lahore",
+  "sources": [
+   {
+    "title": "Wikipedia: Guru Arjan",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Guru_Arjan"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0226",
+  "summary": "The ninth Sikh guru, Guru Tegh Bahadur, was beheaded in Delhi on 11 November 1675 on the order of Aurangzeb. Sikh accounts say he defended the rights of non-Muslims, among them Kashmiri Pandits; Persian and Mughal accounts present him as a plunderer whose raids led to the order.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "An order of the emperor."
+   }
+  ],
+  "route": "Delhi",
+  "sources": [
+   {
+    "title": "Wikipedia: Guru Tegh Bahadur",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Guru_Tegh_Bahadur"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0234",
+  "summary": "Buddhism arose among the shramana teachers of the Ganges basin in the 5th century BCE. Some scholars describe it as a reaction against Vedic ritual and the authority of the Brahmins, and others as a parallel tradition with sources of its own.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "disputed",
+    "note": "Whether it was a reform of the Vedic tradition or a separate current is argued."
+   }
+  ],
+  "route": "Bodh Gaya",
+  "sources": [
+   {
+    "title": "Wikipedia: Śramaṇa",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/%C5%9Arama%E1%B9%87a"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0245",
+  "summary": "Ram Mohan Roy founded the Brahmo Sabha at Calcutta in 1828 to worship one God without images and to reform Hindu practice, such as the burning of widows.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "documented",
+    "note": "A reform society, founded by Ram Mohan Roy."
+   }
+  ],
+  "route": "Kolkata",
+  "sources": [
+   {
+    "title": "Wikipedia: Brahmo Samaj",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Brahmo_Samaj"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0246",
+  "summary": "Ram Mohan Roy of Calcutta knew the Baptist missionaries of Serampore from about 1816, later argued with them, and worked with Unitarians; he published The Precepts of Jesus (1820), taken from the New Testament without its miracles and doctrines, and was a founder of the Brahmo Sabha in 1828 on the worship of one God.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "His dealings with the Baptist missionaries of Serampore and with Unitarians."
+   },
+   {
+    "cause": "translation",
+    "status": "documented",
+    "note": "The Precepts of Jesus, which he published in English with Sanskrit and Bengali translations."
+   }
+  ],
+  "route": "Calcutta",
+  "sources": [
+   {
+    "title": "Wikipedia: Ram Mohan Roy",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Ram_Mohan_Roy"
+   },
+   {
+    "title": "J. C. Ghose, introduction to The English Works of Raja Rammohun Roy (1901)",
+    "kind": "scholarly",
+    "grade": "B",
+    "lib": "x-rmr",
+    "note": "in the Library; the introduction was read"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0247",
+  "summary": "Dayananda Saraswati founded the Arya Samaj at Bombay in 1875 to bring Hindus back to the Vedas as he read them, against the worship of images and caste by birth.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "documented",
+    "note": "A reform society, founded by Dayananda."
+   }
+  ],
+  "route": "Mumbai",
+  "sources": [
+   {
+    "title": "Wikipedia: Arya Samaj",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Arya_Samaj"
+   },
+   {
+    "title": "Dayananda Sarasvati, Satyarth Prakash (trans. 1908)",
+    "kind": "primary",
+    "grade": "A",
+    "lib": "x-sat",
+    "note": "in the Library; the passage on caste by merit was read"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0249",
+  "summary": "Swami Vivekananda travelled to Chicago and spoke at the World’s Parliament of Religions on 11 September 1893, and stayed to found Vedanta societies in the United States.",
+  "causes": [
+   {
+    "cause": "travel",
+    "status": "documented",
+    "note": "A journey to the Parliament."
+   }
+  ],
+  "route": "Chicago",
+  "sources": [
+   {
+    "title": "Wikipedia: Swami Vivekananda",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Swami_Vivekananda"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0250",
+  "summary": "Charles Wilkins’s Bhagavad Gita, published in London in 1785, was the first English translation of the Gita; the New England Transcendentalists, whose journal The Dial appeared from 1840, drew on Hindu thought in English translation.",
+  "causes": [
+   {
+    "cause": "translation",
+    "status": "documented",
+    "note": "Translations made by Europeans and read in New England."
+   }
+  ],
+  "route": "Concord, Massachusetts",
+  "sources": [
+   {
+    "title": "Arthur Versluis, American Transcendentalism and Asian Religions (1993)",
+    "kind": "scholarly",
+    "grade": "B"
+   },
+   {
+    "title": "Wikipedia: Transcendentalism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Transcendentalism"
+   },
+   {
+    "title": "Wikipedia: Charles Wilkins",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Charles_Wilkins"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0251",
+  "summary": "In 1844 The Dial, the journal of the New England Transcendentalists, published Elizabeth Palmer Peabody’s English version, made from a French translation, of a chapter of the Lotus Sutra; it was the first English version of any Buddhist scripture.",
+  "causes": [
+   {
+    "cause": "translation",
+    "status": "documented",
+    "note": "A chapter put from French into English and printed in The Dial."
+   }
+  ],
+  "route": "Boston",
+  "sources": [
+   {
+    "title": "Arthur Versluis, American Transcendentalism and Asian Religions (1993)",
+    "kind": "scholarly",
+    "grade": "B"
+   },
+   {
+    "title": "Wikipedia: Elizabeth Palmer Peabody",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Elizabeth_Palmer_Peabody"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "The pages read name Peabody as the translator and a French translation as her source; who made the French text, its date and the month of the issue were not confirmed."
+ },
+ {
+  "link_id": "ix0252",
+  "summary": "Guru Nanak (1469–1539), born in the Punjab, taught of one God and of a way of devotion beyond the divisions of Hindu and Muslim; his hymns, and those of later gurus and of saints such as Kabir, Ravidas and Farid, make up the Guru Granth Sahib. Whether Sikhism is a reform within the devotional currents of its time or a new revelation is argued; Sikhs hold that it is a revelation of its own.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "disputed",
+    "note": "Whether it began as a reform within the devotional currents of its time or as a new revelation is argued."
+   },
+   {
+    "cause": "travel",
+    "status": "reported",
+    "note": "Guru Nanak’s journeys, told in later accounts, the Janamsakhis."
+   }
+  ],
+  "route": "Punjab",
+  "sources": [
+   {
+    "title": "Japji Sahib (Guru Nanak)",
+    "kind": "primary",
+    "grade": "A",
+    "note": "in the Library",
+    "lib": "x-jap"
+   },
+   {
+    "title": "Wikipedia: Sikhism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Sikhism"
+   },
+   {
+    "title": "Wikipedia: Guru Nanak",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Guru_Nanak"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0256",
+  "summary": "At the spring festival of Vaisakhi in 1699 the tenth Guru, Gobind Singh, founded the Khalsa order at Anandpur, with its discipline and its five signs.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "documented",
+    "note": "A change of discipline and community made by the Guru."
+   }
+  ],
+  "route": "Anandpur Sahib",
+  "sources": [
+   {
+    "title": "Wikipedia: Khalsa",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Khalsa"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0257",
+  "summary": "Digambara tradition tells that in a twelve-year famine the teacher Bhadrabahu led a group south, which became the Digambara (monks who go without clothes), while the group of Sthulabhadra in the north became the Śvetāmbara (monks who wear white). Śvetāmbara tradition tells instead that the Digambara began in 82 CE with the rebellion of Sivabhuti. The map data gives a wide range for the parting, c. 80 to 500 CE.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "reported",
+    "note": "Each side gives its own date and account; the map data gives a wide range."
+   }
+  ],
+  "route": "Shravanabelagola",
+  "sources": [
+   {
+    "title": "Wikipedia: Digambara",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Digambara"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0258",
+  "summary": "The same division of the Jain community, seen from the Śvetāmbara side, which tells that the Digambara began in 82 CE with the rebellion of Sivabhuti (as told in a fifth-century commentary) and whose canon was fixed at a council at Valabhi, dated 454 CE on the page read.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "reported",
+    "note": "Each side gives its own account of the division."
+   }
+  ],
+  "route": "Valabhi",
+  "sources": [
+   {
+    "title": "Wikipedia: Śvetāmbara",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0261",
+  "summary": "The Sthaviravāda, or Elders, are one side of an early division of the Buddhist monks, which tradition places a century or two after the Buddha’s death. Their later branches include the Theravāda of Sri Lanka and South-East Asia. The schools tell the cause of the division differently, as a dispute over monastic rules or over doctrine.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "disputed",
+    "note": "The accounts of the council and its cause differ between schools, and historians date and explain the division in different ways."
+   }
+  ],
+  "route": "Vaishali and Pataliputra",
+  "sources": [
+   {
+    "title": "Wikipedia: Early Buddhist schools",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Early_Buddhist_schools"
+   },
+   {
+    "title": "Wikipedia: Second Buddhist council",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Second_Buddhist_council"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0262",
+  "summary": "Buddhist tradition tells of a division of the monks, about a century or two after the Buddha’s death, into the Sthavira (Elders) and the Mahāsāṅghika (Great Assembly). The schools tell the cause differently, as a dispute over monastic rules or over doctrine, and scholars place the division between about 350 and 250 BCE.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "disputed",
+    "note": "The accounts of the council and its cause differ between schools, and historians date and explain the division in different ways."
+   }
+  ],
+  "route": "Vaishali and Pataliputra",
+  "sources": [
+   {
+    "title": "Wikipedia: Early Buddhist schools",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Early_Buddhist_schools"
+   },
+   {
+    "title": "Wikipedia: Second Buddhist council",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Second_Buddhist_council"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0263",
+  "summary": "The chronicles of Sri Lanka say that Ashoka’s son Mahinda came to the island about 247 BCE and converted King Devanampiya Tissa; Ashoka’s own Rock Edict XIII names Tambapaṇṇi, Sri Lanka, among the lands to which his “conquest by the Dhamma” reached.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "reported",
+    "note": "The Mahavamsa tells of Mahinda’s mission, which is written some seven centuries later."
+   },
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "Ashoka’s support for the Dhamma, in his own edicts."
+   }
+  ],
+  "route": "Anuradhapura",
+  "sources": [
+   {
+    "title": "Ashoka’s Rock Edict XIII (Smith’s translation, in the Library)",
+    "kind": "primary",
+    "grade": "A",
+    "lib": "f-ash"
+   },
+   {
+    "title": "The Mahavamsa (5th century CE)",
+    "kind": "primary",
+    "grade": "A"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0265",
+  "summary": "The Mahāyāna, the “great vehicle”, appears in texts and inscriptions from about the 1st century BCE to the 2nd century CE; some of the earliest known Mahāyāna texts are those translated into Chinese by Lokakṣema in the 2nd century CE. Where, when and among whom it began, whether in the monasteries, among forest monks or among lay people, is argued.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "disputed",
+    "note": "Where and when it began, and whether as a movement within the monasteries, is argued."
+   }
+  ],
+  "route": "India and Central Asia",
+  "sources": [
+   {
+    "title": "Paul Williams, Mahāyāna Buddhism: The Doctrinal Foundations (1989)",
+    "kind": "scholarly",
+    "grade": "B",
+    "note": "a standard survey"
+   },
+   {
+    "title": "Wikipedia: Mahayana",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Mahayana"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0267",
+  "summary": "On 14 October 1956 B. R. Ambedkar and, by one count, about 365,000 of his followers became Buddhists at Nagpur; Ambedkar rejected the caste order and read Buddhism as a path of social equality.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "documented",
+    "note": "A mass conversion led by Ambedkar, who left a written account of his reasons."
+   }
+  ],
+  "route": "Nagpur",
+  "sources": [
+   {
+    "title": "Wikipedia: Navayana",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Navayana"
+   },
+   {
+    "title": "Wikipedia: Dalit Buddhist movement",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Dalit_Buddhist_movement"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0269",
+  "summary": "In 1880 Henry Steel Olcott and Helena Blavatsky became the first Westerners to receive the Three Refuges and Five Precepts, the ceremony by which one traditionally becomes a Buddhist; in Ceylon Olcott wrote a Buddhist Catechism (1881), the Theosophical Society built Buddhist schools, and he advised the committee that designed a Buddhist flag in 1885.",
+  "causes": [
+   {
+    "cause": "travel",
+    "status": "documented",
+    "note": "The two took the Three Refuges and Five Precepts in 1880, as the page on Olcott records."
+   },
+   {
+    "cause": "reform",
+    "status": "documented",
+    "note": "Olcott’s work for the Buddhist revival there: the Catechism, the schools and the flag."
+   }
+  ],
+  "route": "Ceylon",
+  "sources": [
+   {
+    "title": "Wikipedia: Henry Steel Olcott",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Henry_Steel_Olcott"
+   },
+   {
+    "title": "Henry Steel Olcott, The Buddhist Catechism (1881)",
+    "kind": "primary",
+    "grade": "A",
+    "lib": "x-bkc",
+    "note": "in the Library; the title and preface were not read for dates"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0270",
+  "summary": "Blavatsky and Olcott sailed from Liverpool and reached Bombay in February 1879, where they took a house and the Theosophical Society made its centre (the opening of the page dates their move to India to 1880); there they met Hindu teachers, and the Society sought an alliance with the Arya Samaj.",
+  "causes": [
+   {
+    "cause": "travel",
+    "status": "documented",
+    "note": "The two founders moved from New York to India."
+   }
+  ],
+  "route": "Bombay",
+  "sources": [
+   {
+    "title": "Wikipedia: Helena Blavatsky",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Helena_Blavatsky"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0272",
+  "summary": "Buddhism came to China from India and Central Asia by the trade routes at about the time of the Han dynasty, though no definitive answer exists for when it first arrived; the first translators known by name, such as the Parthian An Shigao (active about 148 to 180), worked at Luoyang.",
+  "causes": [
+   {
+    "cause": "trade",
+    "status": "documented",
+    "note": "Merchants and travellers on the overland routes."
+   },
+   {
+    "cause": "travel",
+    "status": "documented",
+    "note": "Monks and missionaries from Central Asia."
+   },
+   {
+    "cause": "translation",
+    "status": "documented",
+    "note": "Sutras put into Chinese from the 2nd century."
+   }
+  ],
+  "route": "Luoyang",
+  "sources": [
+   {
+    "title": "Erik Zürcher, The Buddhist Conquest of China (1959)",
+    "kind": "scholarly",
+    "grade": "B"
+   },
+   {
+    "title": "Wikipedia: An Shigao",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/An_Shigao"
+   },
+   {
+    "title": "Wikipedia: Buddhism in China",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Buddhism_in_China"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0273",
+  "summary": "In 372 the king of Goguryeo, Sosurim, received a monk, Sundo, with images and scriptures from the ruler of the Former Qin state.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "A gift from one royal court to another, recorded in the Korean chronicles."
+   }
+  ],
+  "route": "Goguryeo",
+  "sources": [
+   {
+    "title": "Wikipedia: Buddhism in Korea",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Buddhism_in_Korea"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0274",
+  "summary": "The king of Baekje sent a Buddha image and scriptures to the Japanese court, in 552 by the Nihon Shoki and in 538 by other sources, and the Yamato court argued over whether to accept the new worship.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "reported",
+    "note": "A royal gift, told in the Nihon Shoki (552); other sources give 538."
+   }
+  ],
+  "route": "Nara",
+  "sources": [
+   {
+    "title": "Nihon Shoki (720)",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Wikipedia: Buddhism in Japan",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Buddhism_in_Japan"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "The page read names no source for 538; the Gangō-ji temple record and the life of Shōtoku, which the entry first named, are from memory."
+ },
+ {
+  "link_id": "ix0276",
+  "summary": "King Trisong Detsen invited the Indian scholar Shantarakshita and the teacher Padmasambhava to Tibet, and the first monastery, Samye, was founded about 779; the accounts are later Tibetan histories that disagree on the years (the Testament of Ba: begun 763 or 775, finished 767 or 779; the Blue Annals of 1476: 787 and 791), and the inscription at Samye is undated.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "reported",
+    "note": "A king’s invitation, told in later Tibetan sources."
+   }
+  ],
+  "route": "Samye",
+  "sources": [
+   {
+    "title": "Wikipedia: Samye",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Samye"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0277",
+  "summary": "In early 1247 the Sakya master Sakya Pandita met the Mongol prince Godan, who held an appanage at Liangzhou; he gave the prince religious instruction and impressed his court.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "A meeting between a Tibetan master and a Mongol prince, as the page on Sakya Pandita dates it."
+   }
+  ],
+  "route": "Liangzhou",
+  "sources": [
+   {
+    "title": "Wikipedia: Sakya Pandita",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Sakya_Pandita"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0278",
+  "summary": "In 1578 the Mongol leader Altan Khan met the Gelug master Sonam Gyatso and designated him “Dalai” (the Mongolian rendering of Gyatso, “ocean”), the title that became Dalai Lama; the khan, who had sworn allegiance to the Ming, became a patron of the Gelug school.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "An alliance between a Mongol khan and a Tibetan master."
+   }
+  ],
+  "route": "Qinghai",
+  "sources": [
+   {
+    "title": "Wikipedia: Altan Khan",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Altan_Khan"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0284",
+  "summary": "The Tang emperor Wuzong persecuted Buddhism in the Huichang era (841 to 845); by the edict of 845 almost all monasteries were abolished, their images of bronze, silver or gold went to the government and monks and nuns were sent home to lay life; an edict the page quotes counts more than 4,600 monasteries and more than 40,000 smaller sites. He had come to favour Daoist teachers.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "Imperial edicts, one of which the page quotes."
+   }
+  ],
+  "route": "Chang’an",
+  "sources": [
+   {
+    "title": "Stanley Weinstein, Buddhism under the T’ang (1987)",
+    "kind": "scholarly",
+    "grade": "B",
+    "note": "not opened; the page below was"
+   },
+   {
+    "title": "Wikipedia: Great Anti-Buddhist Persecution",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Great_Anti-Buddhist_Persecution"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0285",
+  "summary": "From the 11th century scholars such as Zhou Dunyi, the Cheng brothers and Zhu Xi renewed Confucian teaching in reply to Buddhist and Daoist thought; Zhu Xi’s commentaries became the basis of the state examinations in the 14th century.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "documented",
+    "note": "A renewal of Confucian teaching by scholars, answered to Buddhism and Daoism."
+   }
+  ],
+  "route": "Song China",
+  "sources": [
+   {
+    "title": "Wikipedia: Neo-Confucianism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Neo-Confucianism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0289",
+  "summary": "From the founding of Joseon in 1392 the court took Neo-Confucianism as the teaching of the state and suppressed Buddhism: its schools were reduced to one, limits were placed on the number of clergy and the land they held, and monks and nuns were in the end barred from the cities, though some rulers favoured it.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "State policy of the Joseon dynasty."
+   }
+  ],
+  "route": "Seoul",
+  "sources": [
+   {
+    "title": "Wikipedia: Buddhism in Korea",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Buddhism_in_Korea"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0291",
+  "summary": "In 1868 the new government ordered Shinto shrines to be separated from Buddhist temples; in some places the separation was followed by the destruction of temples and images.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "Decrees of the Meiji government."
+   }
+  ],
+  "route": "Japan",
+  "sources": [
+   {
+    "title": "Wikipedia: Shinbutsu bunri",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Shinbutsu_bunri"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0293",
+  "summary": "At Guangzhou in 1836 Hong Xiuquan received from the missionary Edwin Stevens and his interpreter a set of tracts written by the Chinese evangelist Liang Fa; he had the visions he reported after failing the civil-service examinations in 1837, read the tracts closely in 1843, and in 1847 studied for a time with the American Baptist missionary Issachar Roberts; his own teaching drew on them.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "Christian tracts and a missionary’s teaching."
+   },
+   {
+    "cause": "translation",
+    "status": "documented",
+    "note": "Tracts written in Chinese."
+   }
+  ],
+  "route": "Guangzhou and Nanjing",
+  "sources": [
+   {
+    "title": "Wikipedia: Hong Xiuquan",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Hong_Xiuquan"
+   },
+   {
+    "title": "Augustus F. Lindley, Ti-ping Tien-kwoh (1866)",
+    "kind": "primary",
+    "grade": "A",
+    "lib": "x-tpg",
+    "note": "in the Library; Hamberg’s account of Hung was read in part"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "The years 1836, 1837, 1843 and 1847 are now read on the page itself (Wikipedia’s Hong Xiuquan); the Library’s Lindley agrees on the tracts and the cousin, and gives no year seen. The page says he “supposedly” only glanced at the tracts in 1836."
+ },
+ {
+  "link_id": "ix0309",
+  "summary": "Simon Kimbangu, brought up at a Baptist mission school in the Lower Congo and called a Baptist catechist (the page on his life also says that one missionary refused to make him one), began preaching and healing in April 1921.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "Taught at a Baptist mission school, as the page on the movement says."
+   }
+  ],
+  "route": "Nkamba",
+  "sources": [
+   {
+    "title": "Wikipedia: Kimbanguism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Kimbanguism"
+   },
+   {
+    "title": "Wikipedia: Simon Kimbangu",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Simon_Kimbangu"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0310",
+  "summary": "Simon Kimbangu, whom his followers called a prophet, began to preach and heal at Nkamba in April 1921; the Belgian colonial authorities, who were suspicious of the crowds, arrested him and his followers on 6 June, but he escaped; he was sentenced to death on 3 October 1921 and held in prison until he died at Élisabethville in 1951. The church was recognised in 1959.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "The colonial government’s arrest and sentence."
+   }
+  ],
+  "route": "Nkamba",
+  "sources": [
+   {
+    "title": "Wikipedia: Simon Kimbangu",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Simon_Kimbangu"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0334",
+  "summary": "Samuel Marsden of the Church Missionary Society gave the first known Christian sermon on New Zealand soil at Oihi Bay in the Bay of Islands on Christmas Day 1814, at the invitation of the Māori leader Ruatara; the missionaries opened schools for religious instruction, reading and writing, studied the Māori language and began translating the Bible, and by 1845 over half of Māori were attending church services.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "Church Missionary Society missions from 1814."
+   },
+   {
+    "cause": "translation",
+    "status": "documented",
+    "note": "The scriptures in Māori."
+   }
+  ],
+  "route": "New Zealand",
+  "sources": [
+   {
+    "title": "Wikipedia: Church Mission Society",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Church_Mission_Society"
+   },
+   {
+    "title": "Wikipedia: Samuel Marsden",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Samuel_Marsden"
+   },
+   {
+    "title": "Wikipedia: Christianity in New Zealand",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Christianity_in_New_Zealand"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0339",
+  "summary": "In 1819 the king, Kamehameha II, with the regent Kaʻahumanu and the queen mother Keōpūolani, overthrew the kapu system of the old religion; American Protestant missionaries arrived from 1820 and taught reading.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "The rulers ended the kapu system in 1819."
+   },
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "The missionaries from 1820."
+   }
+  ],
+  "route": "Hawaiʻi",
+  "sources": [
+   {
+    "title": "Wikipedia: Hawaiian religion",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Hawaiian_religion"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0340",
+  "summary": "Wesleyan missionaries came to Tonga in the 1820s and 1830s; the chief Taufaʻāhau, who became king of Tonga in 1845 and is known as George Tupou I, accepted Christianity, and Tonga became largely Methodist.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "Wesleyan Methodist missions."
+   },
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "The conversion and rule of Taufaʻāhau."
+   }
+  ],
+  "route": "Tonga",
+  "sources": [
+   {
+    "title": "Wikipedia: Tonga",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Tonga"
+   },
+   {
+    "title": "Wikipedia: George Tupou I",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/George_Tupou_I"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "The page read gives his reign (king from 1845 to 1893) but not the dates of the missions, the first missionary (the entry first named Walter Lawry, 1822) or his conversion (1831); these are from memory and were taken out of the entry."
+ },
+ {
+  "link_id": "ix0347",
+  "summary": "In 1486 Giovanni Pico della Mirandola proposed to defend 900 theses, some on Kabbalah, from a Christian view; he relied on translations by Flavius Mithridates, a convert from Judaism whom one scholar, Brian Copenhaver, calls a prolific forger who supplied him with doctored Kabbalistic texts.",
+  "causes": [
+   {
+    "cause": "translation",
+    "status": "documented",
+    "note": "Hebrew and Aramaic texts put into Latin."
+   }
+  ],
+  "route": "Rome",
+  "sources": [
+   {
+    "title": "Wikipedia: Giovanni Pico della Mirandola",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Giovanni_Pico_della_Mirandola"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0357",
+  "summary": "Rudolf Steiner led the German section of the Theosophical Society; in 1912 he broke away to found the Anthroposophical Society, the split becoming irrevocable when Annie Besant, the Society’s president, presented the child Jiddu Krishnamurti as the reincarnated Christ and Steiner objected.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "A dispute over Annie Besant’s presentation of Krishnamurti as the reincarnated Christ, to which Steiner objected."
+   }
+  ],
+  "route": "Berlin",
+  "sources": [
+   {
+    "title": "Wikipedia: Anthroposophy",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Anthroposophy"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0364",
+  "summary": "In 1793 and 1794 representatives of the revolutionary government closed churches, took church property and promoted a public worship of Reason. On 16 Frimaire (6 December 1793) the Convention decreed that “all violence and measures against liberty of worship are forbidden”, but churches were closed again where gatherings were judged political; by Easter 1794 few of France’s 40,000 churches remained open, and in 1794 the government turned to a worship of the Supreme Being.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "Measures of the Convention and its representatives."
+   }
+  ],
+  "route": "Paris",
+  "sources": [
+   {
+    "title": "Wikipedia: Dechristianization of France during the French Revolution",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Dechristianization_of_France_during_the_French_Revolution"
+   },
+   {
+    "title": "Alphonse Aulard, Christianity and the French Revolution (1924)",
+    "kind": "scholarly",
+    "grade": "B",
+    "lib": "x-aul",
+    "note": "in the Library; the chapters on 1793 and 1794 were read"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0394",
+  "summary": "Hōnen (1133–1212), a Tendai monk, took up the exclusive recitation of Amida’s name (the nenbutsu) in 1175 after reading the Chinese master Shandao, and gathered a following at Kyoto. The older monasteries and the court later forbade the teaching (1207), and Hōnen was exiled for a time.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "documented",
+    "note": "Hōnen’s own writing, the Senchakushū (1198), sets out his teaching."
+   }
+  ],
+  "route": "Kyoto",
+  "sources": [
+   {
+    "title": "Wikipedia: Hōnen",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/H%C5%8Dnen"
+   },
+   {
+    "title": "Wikipedia: Jōdo-shū",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/J%C5%8Ddo-sh%C5%AB"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0395",
+  "summary": "The Japanese monk Kūkai travelled to China with an official embassy in 804, studied esoteric Buddhism (Tangmi) with Huiguo at the Qinglong Monastery in Chang’an, returned to Japan at Huiguo’s urging to spread its teachings, and founded the Shingon school.",
+  "causes": [
+   {
+    "cause": "travel",
+    "status": "documented",
+    "note": "Kūkai’s journey to China in 804 and his return to Japan."
+   }
+  ],
+  "route": "Chang’an",
+  "sources": [
+   {
+    "title": "Wikipedia: Kūkai",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/K%C5%ABkai"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0412",
+  "summary": "After the death of Hakim Nur-ud-Din, the first successor of Mirza Ghulam Ahmad, in 1914, a group led by Muhammad Ali did not accept the succession of Mahmud Ahmad; they held that the community should be governed by its council without a binding caliphate, and that Ghulam Ahmad’s prophethood was not a prophethood in the strict sense, and they formed the Lahore party. Mahmud Ahmad’s side held to a divinely ordained caliphate.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "A dispute over the succession, the authority of a caliph and the standing of the founder."
+   }
+  ],
+  "route": "Lahore",
+  "sources": [
+   {
+    "title": "Wikipedia: Lahore Ahmadiyya Movement",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Lahore_Ahmadiyya_Movement"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0419",
+  "summary": "In a campaign that began in 1803 forces of the first Saudi state took Taif and then Mecca and Medina, and are said to have destroyed the domed tombs of saints and companions there, which they held to be forbidden; the Swiss traveller Burckhardt described the damage.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "The capture of the two cities; the page read dates the campaign to 1803 but not each city."
+   },
+   {
+    "cause": "reform",
+    "status": "reported",
+    "note": "The destruction of tombs is described by Burckhardt, who travelled in the Hijaz soon after; the doctrinal reason is the one the Saudi side held."
+   }
+  ],
+  "route": "Mecca and Medina",
+  "sources": [
+   {
+    "title": "J. L. Burckhardt, Notes on the Bedouins and Wahábys (1830)",
+    "kind": "primary",
+    "grade": "A"
+   },
+   {
+    "title": "Wikipedia: First Saudi state",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/First_Saudi_state"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "The page read gives the campaign of 1803 but neither the year of each city nor the destruction of tombs at Mecca and Medina (it records the destruction of the shrine at Karbala in 1801); Burckhardt was not opened."
+ },
+ {
+  "link_id": "ix0438",
+  "summary": "Hasidism took shape in Podolia and Volhynia from the 1730s around Israel ben Eliezer, called the Baal Shem Tov (d. 1760), who taught joyful devotion and the presence of God in ordinary life, drawing on Kabbalah. The tales of his life were written down only after his death.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "reported",
+    "note": "Told in tales set down after his death; scholars argue how much of them is history."
+   }
+  ],
+  "route": "Podolia",
+  "sources": [
+   {
+    "title": "Wikipedia: Hasidic Judaism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Hasidic_Judaism"
+   },
+   {
+    "title": "Wikipedia: Baal Shem Tov",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Baal_Shem_Tov"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0451",
+  "summary": "Polynesian voyagers settled New Zealand in the 13th and 14th centuries, the page read giving 1320 to 1350 for the main settlement and DNA estimates of 1250 to 1300; Māori religion grew from the beliefs they brought from eastern Polynesia.",
+  "causes": [
+   {
+    "cause": "travel",
+    "status": "documented",
+    "note": "The voyages, shown by archaeology, language and carbon dating."
+   }
+  ],
+  "route": "New Zealand",
+  "sources": [
+   {
+    "title": "Wikipedia: History of New Zealand",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/History_of_New_Zealand"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0457",
+  "summary": "London Missionary Society missionaries landed in Tahiti in 1797; after his victory in 1815 the chief Pomare II accepted Christianity, was baptised in 1819, and had the old temples broken.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "The London Missionary Society from 1797."
+   },
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "Pomare II’s victory and his own conversion."
+   }
+  ],
+  "route": "Tahiti",
+  "sources": [
+   {
+    "title": "Wikipedia: Pōmare II",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/P%C5%8Dmare_II"
+   },
+   {
+    "title": "William Ellis, Polynesian Researches (1831)",
+    "kind": "primary",
+    "grade": "A",
+    "note": "in the Library",
+    "lib": "a-ell"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0459",
+  "summary": "Wesleyan missionaries, among them William Cross and David Cargill, who had worked in Tonga, began a mission to Fiji; the paramount chief Ratu Seru Cakobau was converted to Christianity in 1854 by the missionary James Calvert and had the aid of Tonga’s king against a rebellion. Christianity came to Fiji by way of Tonga, and Fiji was Christianised in the 19th century.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "Wesleyan missions, begun by Cross and Cargill."
+   },
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "Cakobau’s conversion in 1854."
+   }
+  ],
+  "route": "Fiji",
+  "sources": [
+   {
+    "title": "Wikipedia: Seru Epenisa Cakobau",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Seru_Epenisa_Cakobau"
+   },
+   {
+    "title": "Thomas Williams, Fiji and the Fijians",
+    "kind": "primary",
+    "grade": "A",
+    "lib": "a-fiji",
+    "note": "in the Library; the start of the mission was read"
+   },
+   {
+    "title": "Wikipedia: Religion in Fiji",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Religion_in_Fiji"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0465",
+  "summary": "Pope John XXII condemned the doctrine that Christ and the apostles owned nothing (1322–1323); Franciscans known as Spirituals who would not submit were condemned and are known as Fraticelli, a name the page says was in use earlier, when Pope Boniface VIII declared the Fraticelli heretical in 1296.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "A dispute over absolute poverty, ruled on by the pope."
+   }
+  ],
+  "route": "Assisi and Avignon",
+  "sources": [
+   {
+    "title": "Wikipedia: Fraticelli",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Fraticelli"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0469",
+  "summary": "The Greek Orthodox patriarchate of Antioch divided in 1724 over the election of a patriarch; the party that took communion with Rome became the Melkite Greek Catholic Church.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "A disputed election, and a party that looked to Rome."
+   }
+  ],
+  "route": "Damascus",
+  "sources": [
+   {
+    "title": "Wikipedia: Melkite Greek Catholic Church",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Melkite_Greek_Catholic_Church"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0488",
+  "summary": "Trajan’s two wars against the Dacian king Decebalus (101–102 and 105–106) ended with the fall and razing of the Dacian capital, Sarmizegetusa, in 106, the flight and death of Decebalus, and the making of Dacia a Roman province.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "Two Roman campaigns, shown on Trajan’s Column."
+   }
+  ],
+  "route": "Sarmizegetusa Regia",
+  "sources": [
+   {
+    "title": "Wikipedia: Trajan’s Dacian Wars",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Trajan%27s_Dacian_Wars"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0495",
+  "summary": "American Baptist missionaries, among them Adoniram Judson and Jonathan Wade, began work among the Karen of Burma in the late 1820s; a Karen tradition of a lost book from God is said to have made many ready for the scriptures.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "American Baptist missions from the late 1820s."
+   }
+  ],
+  "route": "Burma",
+  "sources": [
+   {
+    "title": "Harry I. Marshall, The Karen People of Burma (1922)",
+    "kind": "scholarly",
+    "grade": "B",
+    "note": "in the Library",
+    "lib": "a-kar"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "ix0496",
+  "summary": "The American Baptist Mission, with its headquarters at Impur in the Ao Naga country, was at work among the Nagas, and J. P. Mills, writing in 1922, describes it, with Hinduism, as pressing on the old customs of the Lhota Nagas.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "documented",
+    "note": "American Baptist missions in the Naga hills, described by Mills in 1922."
+   }
+  ],
+  "route": "Nagaland",
+  "sources": [
+   {
+    "title": "J. P. Mills, The Lhota Nagas (1922)",
+    "kind": "scholarly",
+    "grade": "B",
+    "note": "in the Library",
+    "lib": "a-mil"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "lineage:anglicanism",
+  "summary": "Henry VIII’s Act of Supremacy (1534) declared the king the head of the Church of England and ended the pope’s authority there; the English church took its Protestant form under Edward VI and Elizabeth I, with the Book of Common Prayer (1549 and 1559).",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "documented",
+    "note": "The Act of Supremacy, passed by Parliament on 3 November 1534, is a matter of record."
+   }
+  ],
+  "route": "England",
+  "sources": [
+   {
+    "title": "Wikipedia: English Reformation",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/English_Reformation"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "lineage:conservative_judaism",
+  "summary": "Zecharias Frankel left the rabbinical conference at Frankfurt in 1845 when it treated Hebrew prayer as not essential, and taught a “positive-historical” Judaism that kept the law and studied its history. The movement was organised in the United States, where the Jewish Theological Seminary of America and the United Synagogue were founded; the page says it was fully institutionalised only in the mid-20th century.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "Frankel’s departure from the 1845 conference is a matter of record."
+   }
+  ],
+  "route": "Frankfurt and New York",
+  "sources": [
+   {
+    "title": "Wikipedia: Conservative Judaism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Conservative_Judaism"
+   },
+   {
+    "title": "Wikipedia: Zecharias Frankel",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Zecharias_Frankel"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "lineage:coptic_orthodox",
+  "summary": "At the Council of Chalcedon in 451 the bishops defined Christ as one person in two natures. The church of Egypt did not accept the definition and remained apart from the Greek and Latin churches; it holds that it kept the faith of Alexandria and of Cyril, and the Greek and Latin churches hold that Chalcedon kept it.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "documented",
+    "note": "The council’s definition and the refusal of the Egyptian bishops are recorded in the acts of the council and in later chronicles."
+   }
+  ],
+  "route": "Chalcedon and Egypt",
+  "sources": [
+   {
+    "title": "The Seven Ecumenical Councils (NPNF II, vol. 14): the Council of Chalcedon",
+    "kind": "primary",
+    "grade": "A",
+    "note": "the council’s definition",
+    "lib": "e-m14"
+   },
+   {
+    "title": "Wikipedia: Coptic Orthodox Church of Alexandria",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Coptic_Orthodox_Church_of_Alexandria"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "lineage:georgian_orthodox",
+  "summary": "Christianity became the religion of the kingdom of Kartli (Iberia), in what is now Georgia, in the early 4th century; the dates proposed run from about 312 to 337. Georgian tradition credits a captive woman, Nino, who converted Queen Nana and then King Mirian III; Rufinus, writing about 402, tells of a captive woman whose prayers healed the queen and led the king to accept the faith.",
+  "causes": [
+   {
+    "cause": "mission",
+    "status": "reported",
+    "note": "Told by Rufinus, writing about 402, by other early historians and in the Georgian chronicles; the dates are argued."
+   },
+   {
+    "cause": "court",
+    "status": "reported",
+    "note": "The king’s acceptance of the faith is told in the same accounts."
+   }
+  ],
+  "route": "Kartli (Iberia)",
+  "sources": [
+   {
+    "title": "Rufinus, Ecclesiastical History (c. 402), the account of the captive woman",
+    "kind": "primary",
+    "grade": "A",
+    "note": "book and chapter not confirmed"
+   },
+   {
+    "title": "Wikipedia: Christianization of the Kingdom of Iberia",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Christianization_of_the_Kingdom_of_Iberia"
+   },
+   {
+    "title": "Wikipedia: Georgian Orthodox Church",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Georgian_Orthodox_Church"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "The book and chapter of Rufinus were not confirmed: the page read names him among historians with similar accounts and gives none."
+ },
+ {
+  "link_id": "lineage:hasidism",
+  "summary": "Hasidism took shape in Podolia and Volhynia from the 1730s around Israel ben Eliezer, called the Baal Shem Tov (d. 1760), who taught joyful devotion and the presence of God in ordinary life. The tales of his life were written down only after his death.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "reported",
+    "note": "Told in tales set down after his death; scholars argue how much of them is history."
+   }
+  ],
+  "route": "Podolia",
+  "sources": [
+   {
+    "title": "Wikipedia: Hasidic Judaism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Hasidic_Judaism"
+   },
+   {
+    "title": "Wikipedia: Baal Shem Tov",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Baal_Shem_Tov"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "lineage:japanese_buddhism",
+  "summary": "Buddhism reached Japan by way of Korea. The Nihon Shoki (720) tells that the king of Baekje sent Buddhist images and sutras to the Yamato court in 552, and other sources give 538; the map data records Japanese Buddhism as growing from the Mahāyāna.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "reported",
+    "note": "A royal gift, told in the Nihon Shoki (552); other sources give 538."
+   }
+  ],
+  "route": "Baekje and Yamato",
+  "sources": [
+   {
+    "title": "Wikipedia: Buddhism in Japan",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Buddhism_in_Japan"
+   }
+  ],
+  "confidence": "less sure",
+  "check": "The page read names no source for 538; the Gangō-ji temple record and the life of Shōtoku, which the entry first named, are from memory."
+ },
+ {
+  "link_id": "lineage:karaite",
+  "summary": "Karaite Judaism, which rejects the Oral Law of the rabbis and holds to the written Bible, is traced to Anan ben David in Baghdad in the 8th century and took its form under later teachers. Karaite and rabbinic writers give different accounts of how it began.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "reported",
+    "note": "Told by Karaite and rabbinic writers, who give different accounts."
+   }
+  ],
+  "route": "Baghdad",
+  "sources": [
+   {
+    "title": "Wikipedia: Karaite Judaism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Karaite_Judaism"
+   },
+   {
+    "title": "Wikipedia: Anan ben David",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Anan_ben_David"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "lineage:lds",
+  "summary": "Joseph Smith published the Book of Mormon in 1830, which he described as a translation of golden plates that, he said, an angel had directed him to, and organised a church that year in New York. Latter-day Saints hold that it restored the church of the first Christians; some other Christians hold that it is not Christian, and scholars differ on whether it is a separate branch of Christianity or a new religion; the map data records it as growing out of Christianity.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "disputed",
+    "note": "Whether it is a restoration of early Christianity, as Latter-day Saints hold, a separate branch of Christianity or a new religion is argued by churches and scholars."
+   }
+  ],
+  "route": "New York",
+  "sources": [
+   {
+    "title": "Wikipedia: Latter Day Saint movement",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Latter_Day_Saint_movement"
+   },
+   {
+    "title": "Wikipedia: Joseph Smith",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Joseph_Smith"
+   },
+   {
+    "title": "Wikipedia: Mormonism and Nicene Christianity",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Mormonism_and_Nicene_Christianity"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "lineage:orthodox_judaism",
+  "summary": "Orthodox Judaism took shape in the 19th century as rabbis such as Moses Sofer at Pressburg and Samson Raphael Hirsch at Frankfurt opposed Reform and held that the Law given at Sinai could not be changed.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "disputed",
+    "note": "Whether Orthodoxy is the continuation of the old practice, as Orthodox Jews hold, or a modern movement formed in answer to Reform, as many historians describe it, is argued."
+   }
+  ],
+  "route": "Central Europe",
+  "sources": [
+   {
+    "title": "Wikipedia: Orthodox Judaism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Orthodox_Judaism"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "lineage:rabbinic",
+  "summary": "Rabbinic Judaism is recorded as growing out of the Judaism of the Second Temple period after the Romans destroyed the Temple in 70 CE; its teaching was set down in the Mishnah (c. 200 CE), and the map data also records its descent from the Pharisees.",
+  "causes": [
+   {
+    "cause": "conquest",
+    "status": "documented",
+    "note": "The Roman destruction of the Temple in 70 CE is recorded by Josephus."
+   }
+  ],
+  "route": "Judaea",
+  "sources": [
+   {
+    "title": "Josephus, The Jewish War (c. 75 CE)",
+    "kind": "primary",
+    "grade": "A",
+    "note": "the destruction of the Temple",
+    "lib": "p-jos"
+   },
+   {
+    "title": "The Mishnah (c. 200 CE)",
+    "kind": "primary",
+    "grade": "A",
+    "note": "the rabbinic teaching set down",
+    "lib": "e-mish"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "lineage:reform_judaism",
+  "summary": "Reform Judaism began in Germany. The page on it dates its origins to the mid-19th century, with a “proto-Reform” phase in the 1810s and 1820s around Israel Jacobson, Eduard Kley and others, who introduced confirmation ceremonies; Kley and his associates published the first unequivocal Reform liturgy in 1818, for the Hamburg Temple. Its leaders held that Jewish practice could change with the times.",
+  "causes": [
+   {
+    "cause": "reform",
+    "status": "documented",
+    "note": "The Hamburg Temple’s liturgy of 1818 is on record."
+   }
+  ],
+  "route": "Seesen and Hamburg",
+  "sources": [
+   {
+    "title": "Wikipedia: Reform Judaism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Reform_Judaism"
+   },
+   {
+    "title": "Wikipedia: Israel Jacobson",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Israel_Jacobson"
+   },
+   {
+    "title": "Wikipedia: Hamburg Temple",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Hamburg_Temple"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "lineage:rinzai",
+  "summary": "Eisai (1141–1215) went to Song China in 1168 and again from 1187 to 1191, was initiated into the Linji (in Japanese, Rinzai) school there, and brought its teaching to Japan in 1191; it is also said that he popularised green tea.",
+  "causes": [
+   {
+    "cause": "travel",
+    "status": "reported",
+    "note": "Eisai’s journeys to China, as the page on him gives them."
+   }
+  ],
+  "route": "Song China and Kamakura",
+  "sources": [
+   {
+    "title": "Wikipedia: Rinzai school",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Rinzai_school"
+   },
+   {
+    "title": "Wikipedia: Eisai",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Eisai"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "lineage:russian_orthodox",
+  "summary": "In about 988 (the year is disputed) Prince Vladimir of Kyiv accepted baptism from the Byzantine church, at Chersonesus (Korsun) by the page read, and ordered the people of Kyiv to be baptised. The Primary Chronicle, compiled in Kyiv in the 1110s, tells how his envoys visited several faiths before he chose.",
+  "causes": [
+   {
+    "cause": "court",
+    "status": "reported",
+    "note": "The prince’s decision, told in the Primary Chronicle, written over a century later; historians doubt the tale of the envoys."
+   }
+  ],
+  "route": "Kyiv",
+  "sources": [
+   {
+    "title": "Wikipedia: Christianization of Kievan Rus’",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Christianization_of_Kievan_Rus%27"
+   },
+   {
+    "title": "Wikipedia: Primary Chronicle",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Primary_Chronicle"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "lineage:soto",
+  "summary": "Dōgen (1200–1253) went to China in 1223, studied under the master Rujing at Mount Tiantong, and returned in 1227 to teach seated meditation (zazen) in Japan; the school he began became Sōtō Zen.",
+  "causes": [
+   {
+    "cause": "travel",
+    "status": "reported",
+    "note": "Dōgen’s journey, told in his own writings and in later biographies."
+   }
+  ],
+  "route": "Song China and Kyoto",
+  "sources": [
+   {
+    "title": "Wikipedia: Sōtō",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/S%C5%8Dt%C5%8D"
+   },
+   {
+    "title": "Wikipedia: Dōgen",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Dōgen"
+   }
+  ],
+  "confidence": "sure"
+ },
+ {
+  "link_id": "lineage:zaydi",
+  "summary": "The Zaydis take their name from Zayd ibn Ali, a descendant of Ali who revolted against the Umayyad caliphate and, the Zaydis believe, was betrayed by the people of Kufa in his last hour. They hold that any descendant of Hasan or Husayn who rose against an unjust ruler could be imam; the Imam al-Hadi ila’l-Haqq Yahya is named as the one who formalised the Zaydi school, in Yemen.",
+  "causes": [
+   {
+    "cause": "schism",
+    "status": "reported",
+    "note": "Known from later accounts: Twelver hadiths criticise his revolt, while Zaydis hold him to be their founder."
+   }
+  ],
+  "route": "Kufa and Yemen",
+  "sources": [
+   {
+    "title": "Wikipedia: Zaydism",
+    "kind": "reference",
+    "grade": "C",
+    "url": "https://en.wikipedia.org/wiki/Zaydism"
+   }
+  ],
+  "confidence": "sure"
+ }
+]

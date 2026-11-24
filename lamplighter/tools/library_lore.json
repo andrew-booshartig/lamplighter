@@ -1,0 +1,79 @@
+{
+ "_note": "Library id -> the revived or reconstructed traditions (Atlas ids) for which the book is the OLD SOURCE LORE the revival draws on, not the tradition's own scripture and not an observer's record. Made 17 Nov 2026 for tools/assess_coverage.py, which reports these separately and does not count them as an example of the tradition.",
+ "x-poe": [
+  "heathenry"
+ ],
+ "x-pre": [
+  "heathenry"
+ ],
+ "x-vol": [
+  "heathenry"
+ ],
+ "x-hsk": [
+  "heathenry"
+ ],
+ "x-kal": [
+  "suomenusko"
+ ],
+ "x-hom": [
+  "hellenismos"
+ ],
+ "x-hes": [
+  "hellenismos"
+ ],
+ "x-hhd": [
+  "hellenismos"
+ ],
+ "x-hhy": [
+  "hellenismos"
+ ],
+ "x-orp": [
+  "hellenismos"
+ ],
+ "x-mr01": [
+  "hellenismos",
+  "religio_romana"
+ ],
+ "x-pyr": [
+  "kemetism"
+ ],
+ "x-bod": [
+  "kemetism"
+ ],
+ "x-bdt": [
+  "kemetism"
+ ],
+ "x-ehr": [
+  "kemetism"
+ ],
+ "x-goe": [
+  "kemetism"
+ ],
+ "x-erm": [
+  "kemetism"
+ ],
+ "x-ovf": [
+  "religio_romana"
+ ],
+ "x-frr": [
+  "religio_romana"
+ ],
+ "x-ral": [
+  "rodnovery"
+ ],
+ "x-mr03": [
+  "rodnovery"
+ ],
+ "l-wrat": [
+  "rodnovery"
+ ],
+ "x-cns": [
+  "natib_qadish"
+ ],
+ "x-cor": [
+  "natib_qadish"
+ ],
+ "x-brd": [
+  "obod"
+ ]
+}

@@ -1,0 +1,44 @@
+[
+ {
+  "tradition_id": "christianity",
+  "year": 2020,
+  "count": 2300000000,
+  "source_id": "src_pew_2025",
+  "note": "28.8% of the world population; up 122 million since 2010."
+ },
+ {
+  "tradition_id": "islam",
+  "year": 2020,
+  "count": 2000000000,
+  "source_id": "src_pew_2025",
+  "note": "25.6% of the world population; up 347 million since 2010."
+ },
+ {
+  "tradition_id": "hinduism",
+  "year": 2020,
+  "count": 1200000000,
+  "source_id": "src_pew_2025",
+  "note": "14.9% of the world population; up 126 million since 2010."
+ },
+ {
+  "tradition_id": "buddhism",
+  "year": 2020,
+  "count": 324000000,
+  "source_id": "src_pew_2025",
+  "note": "4.1% of the world population; down 19 million since 2010."
+ },
+ {
+  "tradition_id": "buddhism",
+  "year": 2010,
+  "count": 343000000,
+  "source_id": "src_pew_2025",
+  "note": "Revised 2010 estimate."
+ },
+ {
+  "tradition_id": "judaism",
+  "year": 2020,
+  "count": 14800000,
+  "source_id": "src_pew_2025",
+  "note": "About 0.2% of the world population; up nearly 1 million since 2010."
+ }
+]

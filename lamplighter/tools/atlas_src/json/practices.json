@@ -1,0 +1,434 @@
+[
+ {
+  "id": "aniconism",
+  "name": "Avoiding images",
+  "category": "art",
+  "description": "Refusing to depict the divine."
+ },
+ {
+  "id": "calligraphy",
+  "name": "Sacred calligraphy",
+  "category": "art",
+  "description": "Writing holy words as an act of devotion."
+ },
+ {
+  "id": "icons_images",
+  "name": "Sacred images",
+  "category": "art",
+  "description": "Statues, icons and paintings used in worship."
+ },
+ {
+  "id": "masks",
+  "name": "Masked ritual",
+  "category": "art",
+  "description": "Masks worn to embody gods, spirits or ancestors."
+ },
+ {
+  "id": "rock_art",
+  "name": "Ritual rock and cave art",
+  "category": "art",
+  "description": "Painting or engraving rock surfaces for ritual purposes."
+ },
+ {
+  "id": "sand_painting",
+  "name": "Sand and ground painting",
+  "category": "art",
+  "description": "Images made on the ground for healing or ritual."
+ },
+ {
+  "id": "mission",
+  "name": "Mission",
+  "category": "community",
+  "description": "Spreading the faith to others."
+ },
+ {
+  "id": "asceticism",
+  "name": "Asceticism and renunciation",
+  "category": "discipline",
+  "description": "Giving up comfort, property or family for spiritual ends."
+ },
+ {
+  "id": "confession",
+  "name": "Confession and repentance",
+  "category": "discipline",
+  "description": "Admitting wrongdoing to the divine or a minister."
+ },
+ {
+  "id": "dietary_law",
+  "name": "Dietary laws",
+  "category": "discipline",
+  "description": "Rules on what may be eaten and how."
+ },
+ {
+  "id": "fasting",
+  "name": "Fasting",
+  "category": "discipline",
+  "description": "Going without food or drink for a set time."
+ },
+ {
+  "id": "monasticism",
+  "name": "Monastic life",
+  "category": "discipline",
+  "description": "Living in a community under vows."
+ },
+ {
+  "id": "entheogen",
+  "name": "Sacred plants",
+  "category": "ecstatic",
+  "description": "Peyote, ayahuasca, iboga, mushrooms or other plants taken to meet the sacred."
+ },
+ {
+  "id": "glossolalia",
+  "name": "Speaking in tongues",
+  "category": "ecstatic",
+  "description": "Ecstatic speech believed to be given by the Spirit."
+ },
+ {
+  "id": "shamanic_journey",
+  "name": "Shamanic journeying",
+  "category": "ecstatic",
+  "description": "A specialist's soul travels to spirit worlds to heal or guide."
+ },
+ {
+  "id": "trance_possession",
+  "name": "Trance and spirit possession",
+  "category": "ecstatic",
+  "description": "A god or spirit 'mounts' or speaks through a person."
+ },
+ {
+  "id": "vision_quest",
+  "name": "Vision quest",
+  "category": "ecstatic",
+  "description": "Seeking a vision through solitude and fasting."
+ },
+ {
+  "id": "charity",
+  "name": "Charity and almsgiving",
+  "category": "ethics",
+  "description": "Giving to the poor and to religious communities."
+ },
+ {
+  "id": "nonviolence",
+  "name": "Non-violence",
+  "category": "ethics",
+  "description": "Refusing to harm living beings."
+ },
+ {
+  "id": "exorcism",
+  "name": "Exorcism",
+  "category": "healing",
+  "description": "Driving out harmful spirits."
+ },
+ {
+  "id": "healing",
+  "name": "Ritual and faith healing",
+  "category": "healing",
+  "description": "Curing illness by prayer, ritual or spiritual power."
+ },
+ {
+  "id": "ancestor_veneration",
+  "name": "Ancestor veneration",
+  "category": "life",
+  "description": "Honouring, feeding and consulting the family or royal dead."
+ },
+ {
+  "id": "funerary",
+  "name": "Funerary rites",
+  "category": "life",
+  "description": "Burial, cremation or other ritual care of the dead."
+ },
+ {
+  "id": "mummification",
+  "name": "Preserving the dead",
+  "category": "life",
+  "description": "Mummification and other preservation of bodies."
+ },
+ {
+  "id": "rites_of_passage",
+  "name": "Rites of passage",
+  "category": "life",
+  "description": "Ceremonies at birth, coming of age and marriage."
+ },
+ {
+  "id": "alchemy",
+  "name": "Alchemy",
+  "category": "magic",
+  "description": "Transforming matter and the self."
+ },
+ {
+  "id": "magic_amulets",
+  "name": "Amulets and protective magic",
+  "category": "magic",
+  "description": "Charms, talismans and spells for protection or luck."
+ },
+ {
+  "id": "ritual_magic",
+  "name": "Ceremonial magic",
+  "category": "magic",
+  "description": "Learned ritual to command spiritual powers."
+ },
+ {
+  "id": "meditation",
+  "name": "Meditation",
+  "category": "mysticism",
+  "description": "Disciplined attention, stillness or contemplation."
+ },
+ {
+  "id": "mysticism",
+  "name": "Mystical union",
+  "category": "mysticism",
+  "description": "Seeking direct experience of or union with the divine."
+ },
+ {
+  "id": "tantra",
+  "name": "Tantra",
+  "category": "mysticism",
+  "description": "Esoteric ritual and meditation using body, mantra and diagram."
+ },
+ {
+  "id": "yoga",
+  "name": "Yoga and breath discipline",
+  "category": "mysticism",
+  "description": "Bodily and breath practices to unite with or realise the divine."
+ },
+ {
+  "id": "priesthood",
+  "name": "Priesthood",
+  "category": "office",
+  "description": "Specialists who perform rites for the community."
+ },
+ {
+  "id": "sacred_kingship",
+  "name": "Sacred kingship",
+  "category": "office",
+  "description": "Rulers seen as divine, descended from gods or ritually central."
+ },
+ {
+  "id": "circumambulation",
+  "name": "Circumambulation",
+  "category": "place",
+  "description": "Walking around a sacred object or place."
+ },
+ {
+  "id": "monument_building",
+  "name": "Monument building",
+  "category": "place",
+  "description": "Raising megaliths, mounds, pyramids or sanctuaries."
+ },
+ {
+  "id": "pilgrimage",
+  "name": "Pilgrimage",
+  "category": "place",
+  "description": "Journeying to a holy place."
+ },
+ {
+  "id": "procession",
+  "name": "Processions",
+  "category": "place",
+  "description": "Carrying gods, relics or images through the streets."
+ },
+ {
+  "id": "sacred_nature",
+  "name": "Sacred natural places",
+  "category": "place",
+  "description": "Mountains, rivers, springs, rocks and groves treated as holy."
+ },
+ {
+  "id": "temple_worship",
+  "name": "Temple worship",
+  "category": "place",
+  "description": "Worship centred on a built house of a god."
+ },
+ {
+  "id": "astrology",
+  "name": "Astrology",
+  "category": "revelation",
+  "description": "Reading the heavens for fate and timing."
+ },
+ {
+  "id": "divination",
+  "name": "Divination",
+  "category": "revelation",
+  "description": "Reading signs to learn the will of gods or the future."
+ },
+ {
+  "id": "dreams",
+  "name": "Dream revelation",
+  "category": "revelation",
+  "description": "Messages held to come from the divine, received in dreams."
+ },
+ {
+  "id": "mediumship",
+  "name": "Mediumship and channelling",
+  "category": "revelation",
+  "description": "Contact with the dead or spirit teachers through a medium."
+ },
+ {
+  "id": "oracle",
+  "name": "Oracles",
+  "category": "revelation",
+  "description": "Seeking a god's answer through a priest, medium or sacred place."
+ },
+ {
+  "id": "prophecy",
+  "name": "Prophecy",
+  "category": "revelation",
+  "description": "Speaking messages held to be received from the divine."
+ },
+ {
+  "id": "spirit_writing",
+  "name": "Spirit writing",
+  "category": "revelation",
+  "description": "Texts written under the control of a god or spirit."
+ },
+ {
+  "id": "animal_sacrifice",
+  "name": "Animal sacrifice",
+  "category": "ritual",
+  "description": "Ritual killing of animals for a god or spirits."
+ },
+ {
+  "id": "baptism",
+  "name": "Baptism",
+  "category": "ritual",
+  "description": "Initiation or cleansing by water."
+ },
+ {
+  "id": "fire_ritual",
+  "name": "Fire ritual",
+  "category": "ritual",
+  "description": "Sacred fire as offering place, messenger or object of reverence."
+ },
+ {
+  "id": "human_sacrifice",
+  "name": "Human sacrifice",
+  "category": "ritual",
+  "description": "Ritual killing of people (historical)."
+ },
+ {
+  "id": "initiation",
+  "name": "Initiation",
+  "category": "ritual",
+  "description": "Admission to a community, secret society or grade of knowledge."
+ },
+ {
+  "id": "libation",
+  "name": "Libation",
+  "category": "ritual",
+  "description": "Pouring a drink out as an offering."
+ },
+ {
+  "id": "offering",
+  "name": "Offerings",
+  "category": "ritual",
+  "description": "Gifts of food, drink, flowers, incense or goods to gods, spirits or ancestors."
+ },
+ {
+  "id": "purification",
+  "name": "Ritual purification",
+  "category": "ritual",
+  "description": "Washing, bathing or other acts that remove impurity."
+ },
+ {
+  "id": "sacrament",
+  "name": "Sacraments",
+  "category": "ritual",
+  "description": "Rites believed to convey divine grace."
+ },
+ {
+  "id": "sacred_meal",
+  "name": "Sacred meal or communion",
+  "category": "ritual",
+  "description": "Eating and drinking together as a holy act."
+ },
+ {
+  "id": "sweat_lodge",
+  "name": "Sweat lodge",
+  "category": "ritual",
+  "description": "Purification and prayer in a heated lodge."
+ },
+ {
+  "id": "oral_tradition",
+  "name": "Sacred oral tradition",
+  "category": "text",
+  "description": "Myths, laws and songs passed down by word of mouth."
+ },
+ {
+  "id": "sacred_language",
+  "name": "Sacred language",
+  "category": "text",
+  "description": "Worship in a special or ancient language."
+ },
+ {
+  "id": "scripture_study",
+  "name": "Study of scripture",
+  "category": "text",
+  "description": "Reading, memorising and interpreting sacred texts."
+ },
+ {
+  "id": "theology_debate",
+  "name": "Theology and philosophy",
+  "category": "text",
+  "description": "Reasoned debate about the divine."
+ },
+ {
+  "id": "festival_calendar",
+  "name": "Festival calendar",
+  "category": "time",
+  "description": "An annual cycle of holy days and festivals."
+ },
+ {
+  "id": "sabbath",
+  "name": "Weekly holy day",
+  "category": "time",
+  "description": "A day set apart for rest or worship each week."
+ },
+ {
+  "id": "sky_observation",
+  "name": "Sacred astronomy",
+  "category": "time",
+  "description": "Watching the sun, moon and stars to time rites or read the will of heaven."
+ },
+ {
+  "id": "animism",
+  "name": "Animism",
+  "category": "worldview",
+  "description": "Belief that animals, plants, places and objects have spirits."
+ },
+ {
+  "id": "totemism",
+  "name": "Totemism",
+  "category": "worldview",
+  "description": "Kin groups bound to an animal or plant ancestor, with rules and rites."
+ },
+ {
+  "id": "chant_mantra",
+  "name": "Chant and mantra",
+  "category": "worship",
+  "description": "Repeating sacred sounds, names or formulas."
+ },
+ {
+  "id": "drum_dance",
+  "name": "Drumming and sacred dance",
+  "category": "worship",
+  "description": "Rhythm and movement as worship or to call the divine."
+ },
+ {
+  "id": "hymn",
+  "name": "Hymns and sacred song",
+  "category": "worship",
+  "description": "Singing in praise, thanks or petition."
+ },
+ {
+  "id": "liturgy",
+  "name": "Formal liturgy",
+  "category": "worship",
+  "description": "Communal services with fixed words, order and roles."
+ },
+ {
+  "id": "prayer",
+  "name": "Prayer",
+  "category": "worship",
+  "description": "Addressing a god, spirits or the divine in words, spoken or silent."
+ }
+]

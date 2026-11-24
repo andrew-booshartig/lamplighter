@@ -1,0 +1,44 @@
+/* The public link, opened inside the built-in browser of Facebook or Instagram (the maker, 24 November 2026: "i want people on phones and laptops to be able to see it on facebook and go try it for themselves").
+   Such a browser is a WebView: on an iPhone it has no service worker, and what it keeps is its own. Checked by hand with a stand-in (no service worker, no Cache Storage, localStorage, sessionStorage and IndexedDB refusing,
+   a Facebook user agent): the first run, the Library, the reader, a Highlight, the Notebook (which says "Not kept after this tab closes") and Setup all work, with no error. Three things were wrong and are kept right here:
+   1. Take it with you said "You opened the Lamplighter Project from a file on this computer" on a web address whose browser could not keep an offline copy: now a third state says what is true and the way out;
+   2. the first-run welcome said "Works offline once you save it": in such a browser it now adds one quiet paragraph saying it cannot be saved there and how to open the page in the browser itself;
+   3. the feedback card told a visitor to send the note "to the person who gave you this copy": once the maker gives an address (FEEDBACK_TO), it says to email it with the button, and the copy toast names the address.
+   No browser is needed. Run: node tests/inapp-browser.test.js */
+const fs = require('fs'); const path = require('path');
+const O = require('../src/js/2z-offline-core.js');
+const src = (f) => fs.readFileSync(path.join(__dirname, '../src/js', f), 'utf8');
+let pass = 0; let fail = 0; const ok = (n, c, x) => { if (c) pass++; else { fail++; console.log('FAIL', n, x === undefined ? '' : JSON.stringify(x).slice(0, 500)); } };
+
+const UA = {
+  fbIos: 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B74 [FBAN/FBIOS;FBAV/450.0.0.34.116;FBBV/564000000;FBDV/iPhone14,5;FBMD/iPhone;FBSN/iOS;FBSV/17.1;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5]',
+  fbAndroid: 'Mozilla/5.0 (Linux; Android 13; Pixel 7 Build/TQ3A.230901.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/440.0.0.30.113;]',
+  igIos: 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21B74 Instagram 310.0.1.18.108 (iPhone14,5; iOS 17_1; en_US; en; scale=3.00; 1170x2532; 536472731)',
+  igAndroid: 'Mozilla/5.0 (Linux; Android 13; Pixel 7 Build/TQ3A.230901.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/118.0.0.0 Mobile Safari/537.36 Instagram 310.0.0.37.109 Android (33/13; 420dpi; 1080x2400; Google/google; Pixel 7; panther; panther; en_US; 536472731)',
+  safari: 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Mobile/15E148 Safari/604.1',
+  chrome: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  firefox: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0',
+};
+ok('the built-in browser of Facebook is recognised on an iPhone (FBAN, FBAV) and on Android (FB_IAB, FB4A), and the one of Instagram on both', O.offAppBrowser(UA.fbIos) === 'Facebook' && O.offAppBrowser(UA.fbAndroid) === 'Facebook' && O.offAppBrowser(UA.igIos) === 'Instagram' && O.offAppBrowser(UA.igAndroid) === 'Instagram', Object.entries(UA).map(([k, v]) => [k, O.offAppBrowser(v)]));
+ok('Safari, Chrome and Firefox, an empty user agent and a missing one are not taken for an app’s browser, and a word that only contains the letters is not either', ['safari', 'chrome', 'firefox'].every((k) => O.offAppBrowser(UA[k]) === '') && O.offAppBrowser('') === '' && O.offAppBrowser(undefined) === '' && O.offAppBrowser(null) === '' && O.offAppBrowser('Mozilla/5.0 XFBANX FBAVE FBIOSX') === '');
+
+/* ── the welcome ── */
+const wf = O.offAppNote(UA.fbIos); const wi = O.offAppNote(UA.igAndroid);
+ok('the welcome adds one quiet paragraph in such a browser: it names the app, says the app works while online, that it cannot be saved for offline use and that notes may not be kept, and says how to open the page in the browser itself', /You are in Facebook’s own browser/.test(wf) && /You are in Instagram’s own browser/.test(wi) && [wf, wi].every((h) => /works here while you are online/.test(h) && /cannot be saved for offline use/.test(h) && /notes may not be kept/.test(h) && /Open in browser/.test(h) && (h.match(/<p /g) || []).length === 1), wf);
+ok('in any other browser the welcome adds nothing', ['safari', 'chrome', 'firefox'].every((k) => O.offAppNote(UA[k]) === '') && O.offAppNote('') === '');
+ok('the paragraph is plain text in a paragraph: no link, no script, no address', [wf, wi].every((h) => !/<a |<script|https?:|href/i.test(h)));
+const core = src('50-core.js');
+ok('the first-run welcome calls it, guarded so a page without the helper or without navigator still opens, after the line about the stage and before the line about sound and light; the sentence “Works offline once you save it” is as it was (AA-10)', /\$\{typeof offAppNote === 'function' && typeof navigator !== 'undefined' \? offAppNote\(navigator\.userAgent\) : ''\}/.test(core) && core.indexOf('The gear has a box to tell the maker') < core.indexOf('offAppNote(navigator.userAgent)') && core.indexOf('offAppNote(navigator.userAgent)') < core.indexOf('The sound and light features are not medical advice') && /Works offline once you save it \(Setup, Take it with you\)\. Nothing leaves your browser\./.test(core));
+
+/* ── Take it with you ── */
+const nf = O.offNoCopyNote(UA.fbIos); const np = O.offNoCopyNote(UA.chrome);
+ok('on a web address whose browser cannot keep an offline copy, Take it with you says so: it names the app when it is one, says why (no service worker or no place to keep a copy: built-in browsers, private windows, older browsers, a page without https), that everything works online, and how to save a copy', /cannot save the Lamplighter Project for offline use \(you are in Facebook’s own browser\)/.test(nf) && /cannot save the Lamplighter Project for offline use: it has no service worker/.test(np) && [nf, np].every((h) => /Everything works here while you are online/.test(h) && /Safari, Chrome, Firefox or Edge/.test(h) && /private windows/.test(h) && /without https/.test(h)) && !/from a file on this computer/.test(nf + np), nf);
+const fr = src('6zf-freedom.js'); const a = fr.indexOf('<div id="carryHosted">'); const seg = fr.slice(a, fr.indexOf('</section>', a));
+ok('the page has three states in this order: a browser that can save a copy (checking), a web address whose browser cannot (the note above), and a file on this computer (the old text, as it was)', a > 0 && seg.indexOf("hosted ? '<p class=\"small t2\">Checking what can be saved…</p>'") >= 0 && seg.indexOf("/^https?:$/.test(location.protocol) ? offNoCopyNote(") > seg.indexOf('Checking what can be saved') && seg.indexOf('You opened the Lamplighter Project from a file on this computer') > seg.indexOf('offNoCopyNote('), seg.slice(0, 400));
+
+/* ── the feedback card ── */
+const st = src('67-setup.js'); const fc = src('2z-feedback-core.js');
+ok('the feedback card says what to do with the note in both cases: with no address “send it to the person who gave you this copy” (as before), with an address “email it with the button below”; and nothing is sent from either', /\$\{FEEDBACK_TO \? 'Write what was broken, confusing, missing, wrong or good, then email it with the button below, or copy it or save it\./.test(st) && /: 'Write what was broken, confusing, missing, wrong or good, then copy it or save it and send it to the person who gave you this copy\./.test(st) && (st.match(/Nothing is sent from here: the box below shows exactly what will be copied/g) || []).length === 2 && /the email button opens your own mail app with the note in it/.test(st));
+ok('the copy toast names the address when there is one, and the person who gave you the copy when there is not; no address is made up in the code (FEEDBACK_TO is empty until the maker gives one)', /toast\(ok \? \(FEEDBACK_TO \? 'Copied\. Paste it into a message to ' \+ FEEDBACK_TO \+ '\.' : 'Copied\. Paste it into a message to the person who gave you this copy\.'\)/.test(st) && /^const FEEDBACK_TO = '';/m.test(fc), fc.match(/^const FEEDBACK_TO.*$/m));
+
+console.log(`built-in browsers (Facebook, Instagram): ${pass} passed, ${fail} failed`); process.exit(fail ? 1 : 0);

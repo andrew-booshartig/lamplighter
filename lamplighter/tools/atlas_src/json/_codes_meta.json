@@ -1,0 +1,132 @@
+{
+ "codes": {
+  "tradition_kind": {
+   "rel": "religion",
+   "br": "major branch",
+   "sch": "school, sect, order or denomination",
+   "mov": "movement or revival",
+   "eth": "ethnic or Indigenous religion",
+   "phil": "philosophy or ethical tradition",
+   "myst": "mystery cult",
+   "esot": "esoteric current",
+   "nrm": "new religious movement",
+   "syn": "syncretic religion",
+   "cult": "cult of a deity (within a wider religion)",
+   "arch": "archaeological or reconstructed horizon (beliefs inferred from material remains or comparative linguistics)"
+  },
+  "tradition_status": {
+   "L": "living",
+   "X": "extinct",
+   "R": "revived or reconstructed in modern times",
+   "H": "historical phase that evolved into a successor tradition"
+  },
+  "date_confidence": {
+   "H": "high: well documented or precisely dated",
+   "M": "medium: scholarly consensus within the stated range",
+   "L": "low: rough estimate",
+   "C": "contested: scholars disagree significantly (see note)"
+  },
+  "text_category": {
+   "scr": "scripture or canon",
+   "hym": "hymn, prayer or sacred song",
+   "rit": "ritual or liturgy",
+   "law": "religious law or discipline",
+   "myth": "myth or sacred epic",
+   "wis": "wisdom or ethics",
+   "com": "commentary or exegesis",
+   "mys": "mysticism or esoteric teaching",
+   "div": "divination, omens or astrology",
+   "his": "sacred history, chronicle or hagiography",
+   "phi": "theology or religious philosophy",
+   "ora": "oral corpus",
+   "eth": "ethnographic or outsider record",
+   "ins": "inscription",
+   "mag": "magic, spells or grimoire",
+   "cal": "sacred calendar or astronomy",
+   "dev": "devotional classic"
+  },
+  "text_status": {
+   "ext": "extant",
+   "lost": "lost",
+   "frag": "fragmentary",
+   "oral": "oral (no fixed written form)",
+   "und": "undeciphered or not understood",
+   "rec": "reconstructed",
+   "dis": "authenticity disputed"
+  },
+  "site_type": {
+   "burial": "burial",
+   "art": "rock or cave art",
+   "figurine": "figurine or carved object",
+   "sanctuary": "sanctuary or ritual enclosure",
+   "temple": "temple",
+   "shrine": "shrine",
+   "monastery": "monastery",
+   "church": "church or cathedral",
+   "mosque": "mosque",
+   "synagogue": "synagogue",
+   "stupa": "stupa or pagoda",
+   "megalith": "megalithic monument",
+   "mound": "ceremonial mound",
+   "city": "sacred city or ceremonial centre",
+   "cave": "cave sanctuary",
+   "natural": "sacred natural site",
+   "grove": "sacred grove or forest",
+   "deposit": "ritual deposit or offering pit"
+  },
+  "presence_event": {
+   "origin": "tradition originates here",
+   "arrive": "arrives",
+   "expand": "expands or grows",
+   "state": "adopted by a ruler or state",
+   "major": "becomes the majority or dominant religion",
+   "decline": "declines",
+   "suppress": "suppressed or persecuted",
+   "extinct": "dies out here",
+   "revive": "revived",
+   "diaspora": "diaspora or migrant community",
+   "mission": "missionary arrival",
+   "persist": "continues"
+  },
+  "interaction_type": {
+   "derive": "target arose out of source",
+   "influence": "source influenced target",
+   "syncretism": "blending of source and target",
+   "schism": "target split from source",
+   "reform": "target is a reform movement within or against source",
+   "conflict": "violent conflict between source and target",
+   "persecution": "source persecuted target",
+   "transmission": "texts or teachings of source carried into target's world",
+   "coexist": "long coexistence and exchange",
+   "convert": "mass conversion from source to target",
+   "dialogue": "formal dialogue or encounter",
+   "revive": "target is a modern revival of source",
+   "absorb": "source absorbed or replaced target",
+   "suppress": "source suppressed target"
+  },
+  "presence_prominence": {
+   "5": "majority or dominant (over ~50%)",
+   "4": "large minority or co-dominant (~25-50%)",
+   "3": "significant minority (~10-25%)",
+   "2": "minority (~1-10%)",
+   "1": "small community, diaspora or trace (under ~1%)"
+  },
+  "site_until": {
+   "blank": "still standing or in religious use",
+   "year": "end of religious use (abandonment, destruction or conversion)",
+   "same as start": "a single event, e.g. one burial"
+  }
+ },
+ "meta": {
+  "name": "World Religion Atlas",
+  "version": "1.0",
+  "built": "2026-11-14",
+  "year_convention": "Signed integers: negative = BCE, positive = CE. There is no year 0 (1 BCE = -1, 1 CE = 1).",
+  "date_ranges": "*_start = earliest year of the scholarly window, *_latest = latest; equal means a precise date.",
+  "presence_rule": "At year Y a tradition is present at a row's location if year_start <= Y and (year_end IS NULL or year_end >= Y).",
+  "coordinates": "WGS84 decimal degrees. Specific places are approximate to ~10 km; country rows use an approximate centroid.",
+  "year_range": "Years run from -500000 to the build year.",
+  "prominence": "Presence prominence 1-5 is an approximate share of the local population, not a count; see code_lists.",
+  "language": "All names, titles and notes are in English; name_original / title_original hold native-language forms where given."
+ }
+}

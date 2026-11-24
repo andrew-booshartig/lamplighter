@@ -1,0 +1,414 @@
+{
+ "generated_from": "out/religion_atlas.sqlite",
+ "how_to_use": "Each check states a query in plain words and the exact answer the current data gives. If your data layer returns something different, the bug is in the app, not the data (unless the data files were edited and this file was not regenerated).",
+ "checks": [
+  {
+   "name": "snapshot -100000",
+   "rule": "presence rows where year_start <= Y and (year_end is null or year_end >= Y)",
+   "expected": {
+    "year": -100000,
+    "presence_rows": 2,
+    "distinct_traditions": 1
+   }
+  },
+  {
+   "name": "snapshot -40000",
+   "rule": "presence rows where year_start <= Y and (year_end is null or year_end >= Y)",
+   "expected": {
+    "year": -40000,
+    "presence_rows": 8,
+    "distinct_traditions": 4
+   }
+  },
+  {
+   "name": "snapshot -9000",
+   "rule": "presence rows where year_start <= Y and (year_end is null or year_end >= Y)",
+   "expected": {
+    "year": -9000,
+    "presence_rows": 10,
+    "distinct_traditions": 5
+   }
+  },
+  {
+   "name": "snapshot -2000",
+   "rule": "presence rows where year_start <= Y and (year_end is null or year_end >= Y)",
+   "expected": {
+    "year": -2000,
+    "presence_rows": 41,
+    "distinct_traditions": 20
+   }
+  },
+  {
+   "name": "snapshot -500",
+   "rule": "presence rows where year_start <= Y and (year_end is null or year_end >= Y)",
+   "expected": {
+    "year": -500,
+    "presence_rows": 199,
+    "distinct_traditions": 94
+   }
+  },
+  {
+   "name": "snapshot 1",
+   "rule": "presence rows where year_start <= Y and (year_end is null or year_end >= Y)",
+   "expected": {
+    "year": 1,
+    "presence_rows": 240,
+    "distinct_traditions": 111
+   }
+  },
+  {
+   "name": "snapshot 800",
+   "rule": "presence rows where year_start <= Y and (year_end is null or year_end >= Y)",
+   "expected": {
+    "year": 800,
+    "presence_rows": 411,
+    "distinct_traditions": 174
+   }
+  },
+  {
+   "name": "snapshot 1500",
+   "rule": "presence rows where year_start <= Y and (year_end is null or year_end >= Y)",
+   "expected": {
+    "year": 1500,
+    "presence_rows": 696,
+    "distinct_traditions": 289
+   }
+  },
+  {
+   "name": "snapshot 1900",
+   "rule": "presence rows where year_start <= Y and (year_end is null or year_end >= Y)",
+   "expected": {
+    "year": 1900,
+    "presence_rows": 1136,
+    "distinct_traditions": 418
+   }
+  },
+  {
+   "name": "snapshot 2026",
+   "rule": "presence rows where year_start <= Y and (year_end is null or year_end >= Y)",
+   "expected": {
+    "year": 2026,
+    "presence_rows": 1373,
+    "distinct_traditions": 561
+   }
+  },
+  {
+   "name": "traditions present in 2000 BCE",
+   "rule": "distinct tradition_id of the snapshot at Y = -2000, sorted",
+   "expected": [
+    "aboriginal_australian",
+    "andean_religion",
+    "anitism",
+    "canaanite",
+    "caral_religion",
+    "egyptian",
+    "elamite",
+    "hurrian",
+    "indus",
+    "jomon_ritual",
+    "korean_shamanism",
+    "kushite",
+    "megalithic_europe",
+    "mesopotamian",
+    "minoan",
+    "orang_asli",
+    "papuan_religions",
+    "san_religion",
+    "sumerian",
+    "watson_brake_culture"
+   ]
+  },
+  {
+   "name": "lineage of iskcon",
+   "rule": "follow traditions.parent_id from the tradition to the root",
+   "expected": [
+    "iskcon",
+    "gaudiya",
+    "vaishnavism",
+    "hinduism",
+    "vedic"
+   ]
+  },
+  {
+   "name": "lineage of lds_church",
+   "rule": "follow traditions.parent_id from the tradition to the root",
+   "expected": [
+    "lds_church",
+    "lds",
+    "christianity",
+    "judaism",
+    "israelite",
+    "canaanite"
+   ]
+  },
+  {
+   "name": "lineage of theravada",
+   "rule": "follow traditions.parent_id from the tradition to the root",
+   "expected": [
+    "theravada",
+    "sthavira",
+    "buddhism"
+   ]
+  },
+  {
+   "name": "lineage of santeria",
+   "rule": "follow traditions.parent_id from the tradition to the root",
+   "expected": [
+    "santeria",
+    "yoruba_religion"
+   ]
+  },
+  {
+   "name": "lineage of khalsa",
+   "rule": "follow traditions.parent_id from the tradition to the root",
+   "expected": [
+    "khalsa",
+    "sikhism"
+   ]
+  },
+  {
+   "name": "lineage of tijaniyya_fayda",
+   "rule": "follow traditions.parent_id from the tradition to the root",
+   "expected": [
+    "tijaniyya_fayda",
+    "tijaniyya",
+    "sufism",
+    "islam"
+   ]
+  },
+  {
+   "name": "Christianity in Egypt over time",
+   "rule": "presence rows for tradition 'christianity' with country_iso2 'EG', ordered by year_start",
+   "expected": [
+    {
+     "year_start": 40,
+     "year_start_latest": 60,
+     "year_end": 300,
+     "event": "arrive",
+     "prominence": 2,
+     "date_label": "c. 40–60 CE – 300 CE"
+    },
+    {
+     "year_start": 300,
+     "year_start_latest": 300,
+     "year_end": 900,
+     "event": "major",
+     "prominence": 5,
+     "date_label": "c. 300 CE – 900 CE"
+    },
+    {
+     "year_start": 900,
+     "year_start_latest": 900,
+     "year_end": 1100,
+     "event": "decline",
+     "prominence": 4,
+     "date_label": "c. 900 CE – 1100"
+    },
+    {
+     "year_start": 1100,
+     "year_start_latest": 1100,
+     "year_end": 1350,
+     "event": "decline",
+     "prominence": 3,
+     "date_label": "c. 1100 – 1350"
+    },
+    {
+     "year_start": 1350,
+     "year_start_latest": 1350,
+     "year_end": null,
+     "event": "decline",
+     "prominence": 2,
+     "date_label": "1350 – present"
+    }
+   ]
+  },
+  {
+   "name": "Great Schism",
+   "rule": "interactions from 'catholicism' to 'eastern_orthodox' of type 'schism'",
+   "expected": [
+    {
+     "year_start": 1054,
+     "year_end": 1054,
+     "place_id": "istanbul",
+     "date_label": "1054",
+     "note": "Great Schism."
+    }
+   ]
+  },
+  {
+   "name": "text: Kebra Nagast (Glory of the Kings)",
+   "rule": "text row with this exact title",
+   "expected": [
+    {
+     "id": "kebra-nagast-glory-of-the-kings",
+     "tradition_id": "ethiopian_orthodox",
+     "category": "myth",
+     "language": "Ge'ez",
+     "year_start": 1314,
+     "year_end": 1322,
+     "date_label": "c. 1314–1322",
+     "date_confidence": "M",
+     "place_id": "aksum",
+     "country_iso2": "ET",
+     "status": "ext"
+    }
+   ]
+  },
+  {
+   "name": "text: Popol Vuh",
+   "rule": "text row with this exact title",
+   "expected": [
+    {
+     "id": "popol-vuh",
+     "tradition_id": "maya_religion",
+     "category": "myth",
+     "language": "K'iche'",
+     "year_start": 1554,
+     "year_end": 1558,
+     "date_label": "c. 1554–1558",
+     "date_confidence": "M",
+     "place_id": "utatlan",
+     "country_iso2": "GT",
+     "status": "ext"
+    }
+   ]
+  },
+  {
+   "name": "text: Odù Ifá (Ifá literary corpus)",
+   "rule": "text row with this exact title",
+   "expected": [
+    {
+     "id": "odu-ifa-ifa-literary-corpus",
+     "tradition_id": "ifa",
+     "category": "ora",
+     "language": "Yoruba",
+     "year_start": 1000,
+     "year_end": 1600,
+     "date_label": "c. 1000–1600",
+     "date_confidence": "L",
+     "place_id": "ife",
+     "country_iso2": "NG",
+     "status": "oral"
+    }
+   ]
+  },
+  {
+   "name": "text: Gathas of Zarathustra",
+   "rule": "text row with this exact title",
+   "expected": [
+    {
+     "id": "gathas-of-zarathustra",
+     "tradition_id": "zoroastrianism",
+     "category": "scr",
+     "language": "Old Avestan",
+     "year_start": -1500,
+     "year_end": -1000,
+     "date_label": "c. 1500–1000 BCE",
+     "date_confidence": "C",
+     "place_id": "balkh",
+     "country_iso2": "AF",
+     "status": "ext"
+    }
+   ]
+  },
+  {
+   "name": "site: Göbekli Tepe",
+   "rule": "site row with this exact name",
+   "expected": [
+    {
+     "id": "gobekli-tepe",
+     "type": "sanctuary",
+     "tradition_id": "neolithic_near_east_cults",
+     "year_start": -9600,
+     "year_start_latest": -9000,
+     "year_end": -8000,
+     "date_label": "c. 9600–9000 BCE → 8000 BCE",
+     "date_confidence": "M"
+    }
+   ]
+  },
+  {
+   "name": "site: Leang Karampuang",
+   "rule": "site row with this exact name",
+   "expected": [
+    {
+     "id": "leang-karampuang",
+     "type": "art",
+     "tradition_id": null,
+     "year_start": -49250,
+     "year_start_latest": -49250,
+     "year_end": -49250,
+     "date_label": "c. 49,250 BCE (~51,000 years ago)",
+     "date_confidence": "M"
+    }
+   ]
+  },
+  {
+   "name": "site: Hagia Sophia (cathedral)",
+   "rule": "site row with this exact name",
+   "expected": [
+    {
+     "id": "hagia-sophia-cathedral",
+     "type": "church",
+     "tradition_id": "eastern_orthodox",
+     "year_start": 537,
+     "year_start_latest": 537,
+     "year_end": 1453,
+     "date_label": "537 CE → 1453",
+     "date_confidence": "H"
+    }
+   ]
+  },
+  {
+   "name": "site: Hagia Sophia (mosque)",
+   "rule": "site row with this exact name",
+   "expected": [
+    {
+     "id": "hagia-sophia-mosque",
+     "type": "mosque",
+     "tradition_id": "sunni",
+     "year_start": 1453,
+     "year_start_latest": 1453,
+     "year_end": null,
+     "date_label": "1453",
+     "date_confidence": "H"
+    }
+   ]
+  },
+  {
+   "name": "traditions using meditation",
+   "rule": "count of tradition_practices rows with this practice_id",
+   "expected": 39
+  },
+  {
+   "name": "traditions using trance_possession",
+   "rule": "count of tradition_practices rows with this practice_id",
+   "expected": 25
+  },
+  {
+   "name": "traditions using entheogen",
+   "rule": "count of tradition_practices rows with this practice_id",
+   "expected": 13
+  },
+  {
+   "name": "traditions using pilgrimage",
+   "rule": "count of tradition_practices rows with this practice_id",
+   "expected": 40
+  },
+  {
+   "name": "traditions using drum_dance",
+   "rule": "count of tradition_practices rows with this practice_id",
+   "expected": 49
+  },
+  {
+   "name": "traditions using chant_mantra",
+   "rule": "count of tradition_practices rows with this practice_id",
+   "expected": 34
+  },
+  {
+   "name": "major events 1000–1100",
+   "rule": "timeline_events with importance >= 4 where year_start <= 1100 and year_end >= 1000",
+   "expected": 122
+  }
+ ]
+}

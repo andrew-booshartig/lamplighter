@@ -1,0 +1,8290 @@
+[
+ {
+  "id": "aba_island",
+  "name": "Aba Island",
+  "lat": 13.33,
+  "lon": 32.65,
+  "country_iso2": "SD",
+  "kind": "island"
+ },
+ {
+  "id": "abeokuta",
+  "name": "Abeokuta",
+  "lat": 7.16,
+  "lon": 3.35,
+  "country_iso2": "NG",
+  "kind": "city"
+ },
+ {
+  "id": "abi_samghun",
+  "name": "Abi Samghun (Algerian Sahara)",
+  "lat": 31.0,
+  "lon": 0.5,
+  "country_iso2": "DZ",
+  "kind": "site"
+ },
+ {
+  "id": "abomey",
+  "name": "Abomey",
+  "lat": 7.18,
+  "lon": 1.99,
+  "country_iso2": "BJ",
+  "kind": "city"
+ },
+ {
+  "id": "abra",
+  "name": "Abra (Bangued)",
+  "lat": 17.6,
+  "lon": 120.62,
+  "country_iso2": "PH",
+  "kind": "region"
+ },
+ {
+  "id": "abu_salabikh",
+  "name": "Abu Salabikh",
+  "lat": 32.27,
+  "lon": 45.08,
+  "country_iso2": "IQ",
+  "kind": "site"
+ },
+ {
+  "id": "abydos",
+  "name": "Abydos",
+  "lat": 26.19,
+  "lon": 31.92,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "accra",
+  "name": "Accra",
+  "lat": 5.6,
+  "lon": -0.19,
+  "country_iso2": "GH",
+  "kind": "city"
+ },
+ {
+  "id": "acoma",
+  "name": "Acoma Pueblo (Sky City)",
+  "lat": 34.89,
+  "lon": -107.58,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "acre",
+  "name": "Acre and Bahjí",
+  "lat": 32.94,
+  "lon": 35.09,
+  "country_iso2": "IL",
+  "kind": "city"
+ },
+ {
+  "id": "agra",
+  "name": "Agra",
+  "lat": 27.18,
+  "lon": 78.01,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "ahmedabad",
+  "name": "Ahmedabad",
+  "lat": 23.02,
+  "lon": 72.57,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "ahvaz",
+  "name": "Ahvaz",
+  "lat": 31.32,
+  "lon": 48.67,
+  "country_iso2": "IR",
+  "kind": "city"
+ },
+ {
+  "id": "ain_ghazal",
+  "name": "'Ain Ghazal",
+  "lat": 31.99,
+  "lon": 35.97,
+  "country_iso2": "JO",
+  "kind": "site"
+ },
+ {
+  "id": "ain_madhi",
+  "name": "Aïn Madhi",
+  "lat": 34.0,
+  "lon": 2.3,
+  "country_iso2": "DZ",
+  "kind": "city"
+ },
+ {
+  "id": "ajanta",
+  "name": "Ajanta",
+  "lat": 20.55,
+  "lon": 75.7,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "ajmer",
+  "name": "Ajmer",
+  "lat": 26.45,
+  "lon": 74.64,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "aksum",
+  "name": "Aksum",
+  "lat": 14.13,
+  "lon": 38.72,
+  "country_iso2": "ET",
+  "kind": "city"
+ },
+ {
+  "id": "alamut",
+  "name": "Alamut",
+  "lat": 36.44,
+  "lon": 50.59,
+  "country_iso2": "IR",
+  "kind": "site"
+ },
+ {
+  "id": "alandi",
+  "name": "Alandi",
+  "lat": 18.68,
+  "lon": 73.9,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "alert_bay",
+  "name": "Alert Bay (Kwakwaka'wakw)",
+  "lat": 50.58,
+  "lon": -126.93,
+  "country_iso2": "CA",
+  "kind": "city"
+ },
+ {
+  "id": "alexandria",
+  "name": "Alexandria",
+  "lat": 31.2,
+  "lon": 29.92,
+  "country_iso2": "EG",
+  "kind": "city"
+ },
+ {
+  "id": "alice_springs",
+  "name": "Alice Springs (Mparntwe)",
+  "lat": -23.7,
+  "lon": 133.88,
+  "country_iso2": "AU",
+  "kind": "city"
+ },
+ {
+  "id": "allegany",
+  "name": "Allegany (Cornplanter lands)",
+  "lat": 42.0,
+  "lon": -78.95,
+  "country_iso2": "US",
+  "kind": "region"
+ },
+ {
+  "id": "almaty",
+  "name": "Almaty",
+  "lat": 43.24,
+  "lon": 76.89,
+  "country_iso2": "KZ",
+  "kind": "city"
+ },
+ {
+  "id": "altai",
+  "name": "Gorno-Altaysk (Altai)",
+  "lat": 51.96,
+  "lon": 85.96,
+  "country_iso2": "RU",
+  "kind": "city"
+ },
+ {
+  "id": "altamira",
+  "name": "Altamira",
+  "lat": 43.38,
+  "lon": -4.12,
+  "country_iso2": "ES",
+  "kind": "site"
+ },
+ {
+  "id": "aluvihara",
+  "name": "Aluvihara (Matale)",
+  "lat": 7.5,
+  "lon": 80.62,
+  "country_iso2": "LK",
+  "kind": "site"
+ },
+ {
+  "id": "amana",
+  "name": "Amana, Iowa",
+  "lat": 41.8,
+  "lon": -91.87,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "amaravati",
+  "name": "Amaravati (Andhra)",
+  "lat": 16.57,
+  "lon": 80.36,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "amarna",
+  "name": "Amarna (Akhetaten)",
+  "lat": 27.65,
+  "lon": 30.9,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "amboy",
+  "name": "Amboy, Illinois",
+  "lat": 41.71,
+  "lon": -89.33,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "amman",
+  "name": "Amman (Rabbath-Ammon)",
+  "lat": 31.95,
+  "lon": 35.93,
+  "country_iso2": "JO",
+  "kind": "city"
+ },
+ {
+  "id": "amritsar",
+  "name": "Amritsar",
+  "lat": 31.62,
+  "lon": 74.88,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "amsterdam",
+  "name": "Amsterdam",
+  "lat": 52.37,
+  "lon": 4.9,
+  "country_iso2": "NL",
+  "kind": "city"
+ },
+ {
+  "id": "anadarko",
+  "name": "Anadarko (Native American Church)",
+  "lat": 35.07,
+  "lon": -98.24,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "anadyr",
+  "name": "Anadyr (Chukotka)",
+  "lat": 64.73,
+  "lon": 177.51,
+  "country_iso2": "RU",
+  "kind": "city"
+ },
+ {
+  "id": "anandpur",
+  "name": "Anandpur Sahib",
+  "lat": 31.24,
+  "lon": 76.5,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "angkor",
+  "name": "Angkor",
+  "lat": 13.41,
+  "lon": 103.87,
+  "country_iso2": "KH",
+  "kind": "site"
+ },
+ {
+  "id": "anglesey",
+  "name": "Anglesey (Mona)",
+  "lat": 53.28,
+  "lon": -4.37,
+  "country_iso2": "GB",
+  "kind": "site"
+ },
+ {
+  "id": "annecy",
+  "name": "Annecy",
+  "lat": 45.9,
+  "lon": 6.13,
+  "country_iso2": "FR",
+  "kind": "city"
+ },
+ {
+  "id": "antananarivo",
+  "name": "Antananarivo",
+  "lat": -18.88,
+  "lon": 47.51,
+  "country_iso2": "MG",
+  "kind": "city"
+ },
+ {
+  "id": "antioch",
+  "name": "Antioch (Antakya)",
+  "lat": 36.2,
+  "lon": 36.16,
+  "country_iso2": "TR",
+  "kind": "city"
+ },
+ {
+  "id": "anuradhapura",
+  "name": "Anuradhapura",
+  "lat": 8.31,
+  "lon": 80.4,
+  "country_iso2": "LK",
+  "kind": "city"
+ },
+ {
+  "id": "anyang",
+  "name": "Anyang (Yinxu)",
+  "lat": 36.1,
+  "lon": 114.39,
+  "country_iso2": "CN",
+  "kind": "site"
+ },
+ {
+  "id": "apamea",
+  "name": "Apamea on the Orontes",
+  "lat": 35.42,
+  "lon": 36.4,
+  "country_iso2": "SY",
+  "kind": "site"
+ },
+ {
+  "id": "apia",
+  "name": "Apia (Samoa)",
+  "lat": -13.83,
+  "lon": -171.76,
+  "country_iso2": "WS",
+  "kind": "city"
+ },
+ {
+  "id": "apollo11",
+  "name": "Apollo 11 Cave",
+  "lat": -27.75,
+  "lon": 17.1,
+  "country_iso2": "NA",
+  "kind": "site"
+ },
+ {
+  "id": "arkona",
+  "name": "Cape Arkona (Rügen)",
+  "lat": 54.68,
+  "lon": 13.43,
+  "country_iso2": "DE",
+  "kind": "site"
+ },
+ {
+  "id": "armagh",
+  "name": "Armagh",
+  "lat": 54.35,
+  "lon": -6.65,
+  "country_iso2": "GB",
+  "kind": "city"
+ },
+ {
+  "id": "ashdod",
+  "name": "Ashdod",
+  "lat": 31.8,
+  "lon": 34.65,
+  "country_iso2": "IL",
+  "kind": "city"
+ },
+ {
+  "id": "ashur",
+  "name": "Ashur",
+  "lat": 35.46,
+  "lon": 43.26,
+  "country_iso2": "IQ",
+  "kind": "site"
+ },
+ {
+  "id": "asmara",
+  "name": "Asmara",
+  "lat": 15.32,
+  "lon": 38.93,
+  "country_iso2": "ER",
+  "kind": "city"
+ },
+ {
+  "id": "assisi",
+  "name": "Assisi",
+  "lat": 43.07,
+  "lon": 12.62,
+  "country_iso2": "IT",
+  "kind": "city"
+ },
+ {
+  "id": "astarabad",
+  "name": "Astarabad (Gorgan)",
+  "lat": 36.84,
+  "lon": 54.44,
+  "country_iso2": "IR",
+  "kind": "city"
+ },
+ {
+  "id": "atami",
+  "name": "Atami",
+  "lat": 35.1,
+  "lon": 139.07,
+  "country_iso2": "JP",
+  "kind": "city"
+ },
+ {
+  "id": "athens",
+  "name": "Athens",
+  "lat": 37.98,
+  "lon": 23.73,
+  "country_iso2": "GR",
+  "kind": "city"
+ },
+ {
+  "id": "athos",
+  "name": "Mount Athos",
+  "lat": 40.16,
+  "lon": 24.33,
+  "country_iso2": "GR",
+  "kind": "natural"
+ },
+ {
+  "id": "atil",
+  "name": "Atil (Khazaria)",
+  "lat": 46.6,
+  "lon": 48.0,
+  "country_iso2": "RU",
+  "kind": "site"
+ },
+ {
+  "id": "augsburg",
+  "name": "Augsburg",
+  "lat": 48.37,
+  "lon": 10.9,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "avebury",
+  "name": "Avebury",
+  "lat": 51.43,
+  "lon": -1.85,
+  "country_iso2": "GB",
+  "kind": "site"
+ },
+ {
+  "id": "avila",
+  "name": "Ávila",
+  "lat": 40.66,
+  "lon": -4.7,
+  "country_iso2": "ES",
+  "kind": "city"
+ },
+ {
+  "id": "ayabe",
+  "name": "Ayabe",
+  "lat": 35.3,
+  "lon": 135.25,
+  "country_iso2": "JP",
+  "kind": "city"
+ },
+ {
+  "id": "ayodhya",
+  "name": "Ayodhya",
+  "lat": 26.8,
+  "lon": 82.2,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "ayutthaya",
+  "name": "Ayutthaya",
+  "lat": 14.35,
+  "lon": 100.57,
+  "country_iso2": "TH",
+  "kind": "city"
+ },
+ {
+  "id": "babylon",
+  "name": "Babylon",
+  "lat": 32.54,
+  "lon": 44.42,
+  "country_iso2": "IQ",
+  "kind": "site"
+ },
+ {
+  "id": "bagan",
+  "name": "Bagan",
+  "lat": 21.17,
+  "lon": 94.86,
+  "country_iso2": "MM",
+  "kind": "site"
+ },
+ {
+  "id": "baghdad",
+  "name": "Baghdad",
+  "lat": 33.31,
+  "lon": 44.36,
+  "country_iso2": "IQ",
+  "kind": "city"
+ },
+ {
+  "id": "balasagun",
+  "name": "Balasagun (Burana)",
+  "lat": 42.75,
+  "lon": 75.25,
+  "country_iso2": "KG",
+  "kind": "site"
+ },
+ {
+  "id": "bale",
+  "name": "Dire Sheikh Hussein (Bale)",
+  "lat": 7.7,
+  "lon": 40.9,
+  "country_iso2": "ET",
+  "kind": "site"
+ },
+ {
+  "id": "bali",
+  "name": "Bali (Besakih)",
+  "lat": -8.37,
+  "lon": 115.45,
+  "country_iso2": "ID",
+  "kind": "island"
+ },
+ {
+  "id": "balkh",
+  "name": "Balkh (Bactra)",
+  "lat": 36.76,
+  "lon": 66.9,
+  "country_iso2": "AF",
+  "kind": "city"
+ },
+ {
+  "id": "baltimore",
+  "name": "Baltimore",
+  "lat": 39.29,
+  "lon": -76.61,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "bamiyan",
+  "name": "Bamiyan",
+  "lat": 34.82,
+  "lon": 67.82,
+  "country_iso2": "AF",
+  "kind": "site"
+ },
+ {
+  "id": "banahaw",
+  "name": "Mount Banahaw",
+  "lat": 14.07,
+  "lon": 121.49,
+  "country_iso2": "PH",
+  "kind": "natural"
+ },
+ {
+  "id": "banda_aceh",
+  "name": "Banda Aceh",
+  "lat": 5.55,
+  "lon": 95.32,
+  "country_iso2": "ID",
+  "kind": "city"
+ },
+ {
+  "id": "bandiagara",
+  "name": "Bandiagara Escarpment (Dogon)",
+  "lat": 14.35,
+  "lon": -3.61,
+  "country_iso2": "ML",
+  "kind": "region"
+ },
+ {
+  "id": "bangkok",
+  "name": "Bangkok",
+  "lat": 13.75,
+  "lon": 100.5,
+  "country_iso2": "TH",
+  "kind": "city"
+ },
+ {
+  "id": "banna",
+  "name": "Xishuangbanna (Dai)",
+  "lat": 22.01,
+  "lon": 100.8,
+  "country_iso2": "CN",
+  "kind": "region"
+ },
+ {
+  "id": "bareilly",
+  "name": "Bareilly",
+  "lat": 28.37,
+  "lon": 79.43,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "basavakalyan",
+  "name": "Basavakalyan",
+  "lat": 17.87,
+  "lon": 76.95,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "basel",
+  "name": "Basel",
+  "lat": 47.56,
+  "lon": 7.59,
+  "country_iso2": "CH",
+  "kind": "city"
+ },
+ {
+  "id": "basque",
+  "name": "Basque Country",
+  "lat": 43.0,
+  "lon": -2.5,
+  "country_iso2": "ES",
+  "kind": "region"
+ },
+ {
+  "id": "basra",
+  "name": "Basra",
+  "lat": 30.51,
+  "lon": 47.78,
+  "country_iso2": "IQ",
+  "kind": "city"
+ },
+ {
+  "id": "battle_creek",
+  "name": "Battle Creek",
+  "lat": 42.32,
+  "lon": -85.18,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "bear_butte",
+  "name": "Bear Butte (Black Hills)",
+  "lat": 44.48,
+  "lon": -103.43,
+  "country_iso2": "US",
+  "kind": "natural"
+ },
+ {
+  "id": "bedford",
+  "name": "Bedford",
+  "lat": 52.14,
+  "lon": -0.47,
+  "country_iso2": "GB",
+  "kind": "city"
+ },
+ {
+  "id": "beijing",
+  "name": "Beijing",
+  "lat": 39.9,
+  "lon": 116.41,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "ben_tre",
+  "name": "Bến Tre",
+  "lat": 10.24,
+  "lon": 106.38,
+  "country_iso2": "VN",
+  "kind": "city"
+ },
+ {
+  "id": "benin_city",
+  "name": "Benin City",
+  "lat": 6.34,
+  "lon": 5.63,
+  "country_iso2": "NG",
+  "kind": "city"
+ },
+ {
+  "id": "berlin",
+  "name": "Berlin",
+  "lat": 52.52,
+  "lon": 13.4,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "bethlehem",
+  "name": "Bethlehem",
+  "lat": 31.7,
+  "lon": 35.2,
+  "country_iso2": "PS",
+  "kind": "city"
+ },
+ {
+  "id": "bhit_shah",
+  "name": "Bhit Shah",
+  "lat": 25.81,
+  "lon": 68.49,
+  "country_iso2": "PK",
+  "kind": "city"
+ },
+ {
+  "id": "bhubaneswar",
+  "name": "Bhubaneswar",
+  "lat": 20.3,
+  "lon": 85.82,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "biak",
+  "name": "Biak",
+  "lat": -1.18,
+  "lon": 136.08,
+  "country_iso2": "ID",
+  "kind": "island"
+ },
+ {
+  "id": "bibracte",
+  "name": "Bibracte (Mont Beuvray)",
+  "lat": 46.93,
+  "lon": 4.04,
+  "country_iso2": "FR",
+  "kind": "site"
+ },
+ {
+  "id": "bicol",
+  "name": "Bicol (Legazpi)",
+  "lat": 13.14,
+  "lon": 123.74,
+  "country_iso2": "PH",
+  "kind": "region"
+ },
+ {
+  "id": "bingen",
+  "name": "Bingen",
+  "lat": 49.97,
+  "lon": 7.9,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "biratori",
+  "name": "Biratori (Ainu)",
+  "lat": 42.6,
+  "lon": 142.13,
+  "country_iso2": "JP",
+  "kind": "city"
+ },
+ {
+  "id": "birka",
+  "name": "Birka",
+  "lat": 59.33,
+  "lon": 17.54,
+  "country_iso2": "SE",
+  "kind": "site"
+ },
+ {
+  "id": "blombos",
+  "name": "Blombos Cave",
+  "lat": -34.41,
+  "lon": 21.22,
+  "country_iso2": "ZA",
+  "kind": "site"
+ },
+ {
+  "id": "bodh_gaya",
+  "name": "Bodh Gaya",
+  "lat": 24.7,
+  "lon": 84.99,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "bodhgaya_region",
+  "name": "Magadha",
+  "lat": 25.0,
+  "lon": 85.5,
+  "country_iso2": "IN",
+  "kind": "region"
+ },
+ {
+  "id": "bois_caiman",
+  "name": "Bois Caïman",
+  "lat": 19.7,
+  "lon": -72.25,
+  "country_iso2": "HT",
+  "kind": "site"
+ },
+ {
+  "id": "bolgar",
+  "name": "Bolgar (Volga Bulgaria)",
+  "lat": 54.98,
+  "lon": 49.05,
+  "country_iso2": "RU",
+  "kind": "site"
+ },
+ {
+  "id": "bologna",
+  "name": "Bologna",
+  "lat": 44.49,
+  "lon": 11.34,
+  "country_iso2": "IT",
+  "kind": "city"
+ },
+ {
+  "id": "bone",
+  "name": "Watampone (Bone, Bugis)",
+  "lat": -4.54,
+  "lon": 120.33,
+  "country_iso2": "ID",
+  "kind": "city"
+ },
+ {
+  "id": "bontoc",
+  "name": "Bontoc",
+  "lat": 17.09,
+  "lon": 120.97,
+  "country_iso2": "PH",
+  "kind": "city"
+ },
+ {
+  "id": "borobudur",
+  "name": "Borobudur",
+  "lat": -7.61,
+  "lon": 110.2,
+  "country_iso2": "ID",
+  "kind": "site"
+ },
+ {
+  "id": "boston",
+  "name": "Boston",
+  "lat": 42.36,
+  "lon": -71.06,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "botorrita",
+  "name": "Botorrita",
+  "lat": 41.51,
+  "lon": -1.03,
+  "country_iso2": "ES",
+  "kind": "site"
+ },
+ {
+  "id": "boulder",
+  "name": "Boulder, Colorado",
+  "lat": 40.01,
+  "lon": -105.27,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "bozrah",
+  "name": "Bozrah (Buseirah), capital of Edom",
+  "lat": 30.72,
+  "lon": 35.6,
+  "country_iso2": "JO",
+  "kind": "site"
+ },
+ {
+  "id": "brest",
+  "name": "Brest (Union of Brest)",
+  "lat": 52.1,
+  "lon": 23.69,
+  "country_iso2": "BY",
+  "kind": "city"
+ },
+ {
+  "id": "bukhara",
+  "name": "Bukhara",
+  "lat": 39.77,
+  "lon": 64.42,
+  "country_iso2": "UZ",
+  "kind": "city"
+ },
+ {
+  "id": "bukidnon",
+  "name": "Bukidnon (Manobo)",
+  "lat": 8.05,
+  "lon": 125.0,
+  "country_iso2": "PH",
+  "kind": "region"
+ },
+ {
+  "id": "bungoma",
+  "name": "Bungoma (Luhya)",
+  "lat": 0.56,
+  "lon": 34.56,
+  "country_iso2": "KE",
+  "kind": "city"
+ },
+ {
+  "id": "byblos",
+  "name": "Byblos",
+  "lat": 34.12,
+  "lon": 35.65,
+  "country_iso2": "LB",
+  "kind": "city"
+ },
+ {
+  "id": "caesarea",
+  "name": "Caesarea Maritima",
+  "lat": 32.5,
+  "lon": 34.89,
+  "country_iso2": "IL",
+  "kind": "city"
+ },
+ {
+  "id": "cahokia",
+  "name": "Cahokia",
+  "lat": 38.66,
+  "lon": -90.06,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "cairo",
+  "name": "Cairo (Fustat)",
+  "lat": 30.04,
+  "lon": 31.24,
+  "country_iso2": "EG",
+  "kind": "city"
+ },
+ {
+  "id": "calabar",
+  "name": "Calabar",
+  "lat": 4.95,
+  "lon": 8.32,
+  "country_iso2": "NG",
+  "kind": "city"
+ },
+ {
+  "id": "callanish",
+  "name": "Callanish",
+  "lat": 58.2,
+  "lon": -6.75,
+  "country_iso2": "GB",
+  "kind": "site"
+ },
+ {
+  "id": "canary",
+  "name": "Canary Islands (Tenerife)",
+  "lat": 28.29,
+  "lon": -16.63,
+  "country_iso2": "ES",
+  "kind": "island"
+ },
+ {
+  "id": "cane_ridge",
+  "name": "Cane Ridge, Kentucky",
+  "lat": 38.21,
+  "lon": -84.11,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "canterbury",
+  "name": "Canterbury",
+  "lat": 51.28,
+  "lon": 1.08,
+  "country_iso2": "GB",
+  "kind": "city"
+ },
+ {
+  "id": "caoxi",
+  "name": "Nanhua Temple (Caoxi)",
+  "lat": 24.58,
+  "lon": 113.6,
+  "country_iso2": "CN",
+  "kind": "site"
+ },
+ {
+  "id": "cape_town",
+  "name": "Cape Town",
+  "lat": -33.92,
+  "lon": 18.42,
+  "country_iso2": "ZA",
+  "kind": "city"
+ },
+ {
+  "id": "cappadocia",
+  "name": "Cappadocia (Göreme)",
+  "lat": 38.64,
+  "lon": 34.83,
+  "country_iso2": "TR",
+  "kind": "region"
+ },
+ {
+  "id": "capua",
+  "name": "Capua",
+  "lat": 41.1,
+  "lon": 14.21,
+  "country_iso2": "IT",
+  "kind": "city"
+ },
+ {
+  "id": "caral",
+  "name": "Caral",
+  "lat": -10.89,
+  "lon": -77.52,
+  "country_iso2": "PE",
+  "kind": "site"
+ },
+ {
+  "id": "carnac",
+  "name": "Carnac",
+  "lat": 47.58,
+  "lon": -3.08,
+  "country_iso2": "FR",
+  "kind": "site"
+ },
+ {
+  "id": "carthage",
+  "name": "Carthage",
+  "lat": 36.85,
+  "lon": 10.32,
+  "country_iso2": "TN",
+  "kind": "site"
+ },
+ {
+  "id": "casamance",
+  "name": "Casamance (Jola)",
+  "lat": 12.8,
+  "lon": -16.0,
+  "country_iso2": "SN",
+  "kind": "region"
+ },
+ {
+  "id": "castile",
+  "name": "Guadalajara (Castile)",
+  "lat": 40.63,
+  "lon": -3.17,
+  "country_iso2": "ES",
+  "kind": "city"
+ },
+ {
+  "id": "catalhoyuk",
+  "name": "Çatalhöyük",
+  "lat": 37.67,
+  "lon": 32.83,
+  "country_iso2": "TR",
+  "kind": "site"
+ },
+ {
+  "id": "cebu",
+  "name": "Cebu",
+  "lat": 10.32,
+  "lon": 123.89,
+  "country_iso2": "PH",
+  "kind": "city"
+ },
+ {
+  "id": "ceuta",
+  "name": "Ceuta",
+  "lat": 35.89,
+  "lon": -5.32,
+  "country_iso2": "ES",
+  "kind": "city"
+ },
+ {
+  "id": "chaco",
+  "name": "Chaco Canyon",
+  "lat": 36.06,
+  "lon": -107.96,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "chalcedon",
+  "name": "Chalcedon",
+  "lat": 40.99,
+  "lon": 29.03,
+  "country_iso2": "TR",
+  "kind": "city"
+ },
+ {
+  "id": "chamalieres",
+  "name": "Chamalières",
+  "lat": 45.77,
+  "lon": 3.06,
+  "country_iso2": "FR",
+  "kind": "site"
+ },
+ {
+  "id": "changchun",
+  "name": "Changchun",
+  "lat": 43.82,
+  "lon": 125.32,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "chaozhou",
+  "name": "Chaozhou",
+  "lat": 23.66,
+  "lon": 116.62,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "chartres",
+  "name": "Chartres",
+  "lat": 48.45,
+  "lon": 1.49,
+  "country_iso2": "FR",
+  "kind": "city"
+ },
+ {
+  "id": "chauvet",
+  "name": "Chauvet Cave",
+  "lat": 44.39,
+  "lon": 4.42,
+  "country_iso2": "FR",
+  "kind": "site"
+ },
+ {
+  "id": "chavin",
+  "name": "Chavín de Huántar",
+  "lat": -9.59,
+  "lon": -77.18,
+  "country_iso2": "PE",
+  "kind": "site"
+ },
+ {
+  "id": "cheboksary",
+  "name": "Cheboksary (Chuvashia)",
+  "lat": 56.13,
+  "lon": 47.25,
+  "country_iso2": "RU",
+  "kind": "city"
+ },
+ {
+  "id": "chengdu",
+  "name": "Chengdu",
+  "lat": 30.66,
+  "lon": 104.06,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "chennai",
+  "name": "Chennai (Mylapore)",
+  "lat": 13.03,
+  "lon": 80.27,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "cheongju",
+  "name": "Cheongju",
+  "lat": 36.64,
+  "lon": 127.49,
+  "country_iso2": "KR",
+  "kind": "city"
+ },
+ {
+  "id": "chiang_mai",
+  "name": "Chiang Mai",
+  "lat": 18.79,
+  "lon": 98.98,
+  "country_iso2": "TH",
+  "kind": "city"
+ },
+ {
+  "id": "chiapas",
+  "name": "San Cristóbal de las Casas (Chiapas)",
+  "lat": 16.74,
+  "lon": -92.64,
+  "country_iso2": "MX",
+  "kind": "city"
+ },
+ {
+  "id": "chicago",
+  "name": "Chicago",
+  "lat": 41.88,
+  "lon": -87.63,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "chichen_itza",
+  "name": "Chichén Itzá",
+  "lat": 20.68,
+  "lon": -88.57,
+  "country_iso2": "MX",
+  "kind": "site"
+ },
+ {
+  "id": "chichicastenango",
+  "name": "Chichicastenango",
+  "lat": 14.94,
+  "lon": -91.11,
+  "country_iso2": "GT",
+  "kind": "city"
+ },
+ {
+  "id": "chidambaram",
+  "name": "Chidambaram",
+  "lat": 11.4,
+  "lon": 79.69,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "chillicothe",
+  "name": "Chillicothe (Hopewell)",
+  "lat": 39.33,
+  "lon": -82.98,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "chinsali",
+  "name": "Chinsali",
+  "lat": -10.55,
+  "lon": 32.07,
+  "country_iso2": "ZM",
+  "kind": "city"
+ },
+ {
+  "id": "chitral",
+  "name": "Chitral (Kalash valleys)",
+  "lat": 35.7,
+  "lon": 71.7,
+  "country_iso2": "PK",
+  "kind": "region"
+ },
+ {
+  "id": "cholula",
+  "name": "Cholula",
+  "lat": 19.06,
+  "lon": -98.3,
+  "country_iso2": "MX",
+  "kind": "site"
+ },
+ {
+  "id": "chumayel",
+  "name": "Chumayel (Yucatán)",
+  "lat": 20.43,
+  "lon": -89.3,
+  "country_iso2": "MX",
+  "kind": "city"
+ },
+ {
+  "id": "chuuk",
+  "name": "Chuuk",
+  "lat": 7.45,
+  "lon": 151.85,
+  "country_iso2": "FM",
+  "kind": "island"
+ },
+ {
+  "id": "circassia",
+  "name": "Circassia (Maykop)",
+  "lat": 44.61,
+  "lon": 40.1,
+  "country_iso2": "RU",
+  "kind": "region"
+ },
+ {
+  "id": "citeaux",
+  "name": "Cîteaux",
+  "lat": 47.13,
+  "lon": 5.09,
+  "country_iso2": "FR",
+  "kind": "site"
+ },
+ {
+  "id": "clairvaux",
+  "name": "Clairvaux",
+  "lat": 48.15,
+  "lon": 4.79,
+  "country_iso2": "FR",
+  "kind": "site"
+ },
+ {
+  "id": "clear_lake",
+  "name": "Clear Lake (Pomo)",
+  "lat": 39.0,
+  "lon": -122.8,
+  "country_iso2": "US",
+  "kind": "natural"
+ },
+ {
+  "id": "clermont",
+  "name": "Clermont-Ferrand",
+  "lat": 45.78,
+  "lon": 3.08,
+  "country_iso2": "FR",
+  "kind": "city"
+ },
+ {
+  "id": "cleveland_tn",
+  "name": "Cleveland, Tennessee",
+  "lat": 35.16,
+  "lon": -84.88,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "cluny",
+  "name": "Cluny",
+  "lat": 46.43,
+  "lon": 4.66,
+  "country_iso2": "FR",
+  "kind": "site"
+ },
+ {
+  "id": "coligny",
+  "name": "Coligny",
+  "lat": 46.38,
+  "lon": 5.35,
+  "country_iso2": "FR",
+  "kind": "site"
+ },
+ {
+  "id": "cologne",
+  "name": "Cologne",
+  "lat": 50.94,
+  "lon": 6.96,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "colombo",
+  "name": "Colombo",
+  "lat": 6.93,
+  "lon": 79.86,
+  "country_iso2": "LK",
+  "kind": "city"
+ },
+ {
+  "id": "concord",
+  "name": "Concord, Massachusetts",
+  "lat": 42.46,
+  "lon": -71.35,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "copan",
+  "name": "Copán",
+  "lat": 14.84,
+  "lon": -89.14,
+  "country_iso2": "HN",
+  "kind": "site"
+ },
+ {
+  "id": "copenhagen",
+  "name": "Copenhagen",
+  "lat": 55.68,
+  "lon": 12.57,
+  "country_iso2": "DK",
+  "kind": "city"
+ },
+ {
+  "id": "cordoba",
+  "name": "Córdoba",
+  "lat": 37.88,
+  "lon": -4.78,
+  "country_iso2": "ES",
+  "kind": "city"
+ },
+ {
+  "id": "corinth",
+  "name": "Corinth",
+  "lat": 37.91,
+  "lon": 22.88,
+  "country_iso2": "GR",
+  "kind": "city"
+ },
+ {
+  "id": "cornwall",
+  "name": "Cornwall",
+  "lat": 50.27,
+  "lon": -5.05,
+  "country_iso2": "GB",
+  "kind": "region"
+ },
+ {
+  "id": "crotone",
+  "name": "Croton (Crotone)",
+  "lat": 39.08,
+  "lon": 17.12,
+  "country_iso2": "IT",
+  "kind": "city"
+ },
+ {
+  "id": "ctesiphon",
+  "name": "Ctesiphon",
+  "lat": 33.09,
+  "lon": 44.58,
+  "country_iso2": "IQ",
+  "kind": "site"
+ },
+ {
+  "id": "cumae",
+  "name": "Cumae",
+  "lat": 40.85,
+  "lon": 14.05,
+  "country_iso2": "IT",
+  "kind": "site"
+ },
+ {
+  "id": "cusco",
+  "name": "Cusco",
+  "lat": -13.53,
+  "lon": -71.97,
+  "country_iso2": "PE",
+  "kind": "city"
+ },
+ {
+  "id": "cyrene",
+  "name": "Cyrene",
+  "lat": 32.82,
+  "lon": 21.86,
+  "country_iso2": "LY",
+  "kind": "site"
+ },
+ {
+  "id": "czestochowa",
+  "name": "Częstochowa",
+  "lat": 50.81,
+  "lon": 19.12,
+  "country_iso2": "PL",
+  "kind": "city"
+ },
+ {
+  "id": "dakar",
+  "name": "Dakar (Yoff)",
+  "lat": 14.75,
+  "lon": -17.47,
+  "country_iso2": "SN",
+  "kind": "city"
+ },
+ {
+  "id": "dallas",
+  "name": "Dallas",
+  "lat": 32.78,
+  "lon": -96.8,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "damascus",
+  "name": "Damascus",
+  "lat": 33.51,
+  "lon": 36.29,
+  "country_iso2": "SY",
+  "kind": "city"
+ },
+ {
+  "id": "dambana",
+  "name": "Dambana (Vedda)",
+  "lat": 7.37,
+  "lon": 81.1,
+  "country_iso2": "LK",
+  "kind": "city"
+ },
+ {
+  "id": "dangriga",
+  "name": "Dangriga (Garifuna)",
+  "lat": 16.97,
+  "lon": -88.22,
+  "country_iso2": "BZ",
+  "kind": "city"
+ },
+ {
+  "id": "davao",
+  "name": "Davao (Bagobo)",
+  "lat": 7.07,
+  "lon": 125.61,
+  "country_iso2": "PH",
+  "kind": "city"
+ },
+ {
+  "id": "dehu",
+  "name": "Dehu",
+  "lat": 18.72,
+  "lon": 73.77,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "deir_alla",
+  "name": "Deir Alla",
+  "lat": 32.2,
+  "lon": 35.62,
+  "country_iso2": "JO",
+  "kind": "site"
+ },
+ {
+  "id": "delhi",
+  "name": "Delhi",
+  "lat": 28.61,
+  "lon": 77.21,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "delos",
+  "name": "Delos",
+  "lat": 37.4,
+  "lon": 25.27,
+  "country_iso2": "GR",
+  "kind": "site"
+ },
+ {
+  "id": "delphi",
+  "name": "Delphi",
+  "lat": 38.48,
+  "lon": 22.5,
+  "country_iso2": "GR",
+  "kind": "site"
+ },
+ {
+  "id": "dendera",
+  "name": "Dendera",
+  "lat": 26.14,
+  "lon": 32.67,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "deoband",
+  "name": "Deoband",
+  "lat": 29.69,
+  "lon": 77.68,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "derge",
+  "name": "Derge (Kham)",
+  "lat": 31.8,
+  "lon": 98.6,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "derveni",
+  "name": "Derveni",
+  "lat": 40.73,
+  "lon": 23.0,
+  "country_iso2": "GR",
+  "kind": "site"
+ },
+ {
+  "id": "detroit",
+  "name": "Detroit",
+  "lat": 42.33,
+  "lon": -83.05,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "dewa",
+  "name": "Dewa Sanzan",
+  "lat": 38.7,
+  "lon": 140.0,
+  "country_iso2": "JP",
+  "kind": "natural"
+ },
+ {
+  "id": "dhaka",
+  "name": "Dhaka",
+  "lat": 23.81,
+  "lon": 90.41,
+  "country_iso2": "BD",
+  "kind": "city"
+ },
+ {
+  "id": "dharamshala",
+  "name": "Dharamshala",
+  "lat": 32.22,
+  "lon": 76.32,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "dhiban",
+  "name": "Dhiban (Moab)",
+  "lat": 31.5,
+  "lon": 35.78,
+  "country_iso2": "JO",
+  "kind": "site"
+ },
+ {
+  "id": "diriyah",
+  "name": "Diriyah",
+  "lat": 24.73,
+  "lon": 46.57,
+  "country_iso2": "SA",
+  "kind": "city"
+ },
+ {
+  "id": "djenne",
+  "name": "Djenné",
+  "lat": 13.91,
+  "lon": -4.56,
+  "country_iso2": "ML",
+  "kind": "city"
+ },
+ {
+  "id": "djerba",
+  "name": "Djerba",
+  "lat": 33.81,
+  "lon": 10.85,
+  "country_iso2": "TN",
+  "kind": "island"
+ },
+ {
+  "id": "dodona",
+  "name": "Dodona",
+  "lat": 39.55,
+  "lon": 20.79,
+  "country_iso2": "GR",
+  "kind": "site"
+ },
+ {
+  "id": "dolanji",
+  "name": "Dolanji (Menri in exile)",
+  "lat": 30.84,
+  "lon": 77.05,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "dolni_vestonice",
+  "name": "Dolní Věstonice",
+  "lat": 48.89,
+  "lon": 16.65,
+  "country_iso2": "CZ",
+  "kind": "site"
+ },
+ {
+  "id": "dongola",
+  "name": "Old Dongola",
+  "lat": 18.22,
+  "lon": 30.75,
+  "country_iso2": "SD",
+  "kind": "site"
+ },
+ {
+  "id": "dordrecht",
+  "name": "Dordrecht",
+  "lat": 51.81,
+  "lon": 4.67,
+  "country_iso2": "NL",
+  "kind": "city"
+ },
+ {
+  "id": "dornach",
+  "name": "Dornach (Goetheanum)",
+  "lat": 47.49,
+  "lon": 7.62,
+  "country_iso2": "CH",
+  "kind": "city"
+ },
+ {
+  "id": "drakensberg",
+  "name": "uKhahlamba-Drakensberg",
+  "lat": -29.2,
+  "lon": 29.4,
+  "country_iso2": "ZA",
+  "kind": "natural"
+ },
+ {
+  "id": "dumka",
+  "name": "Dumka (Santal Parganas)",
+  "lat": 24.27,
+  "lon": 87.25,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "dunhuang",
+  "name": "Dunhuang (Mogao Caves)",
+  "lat": 40.04,
+  "lon": 94.8,
+  "country_iso2": "CN",
+  "kind": "site"
+ },
+ {
+  "id": "dur_kurigalzu",
+  "name": "Dur-Kurigalzu (Aqar Quf)",
+  "lat": 33.35,
+  "lon": 44.2,
+  "country_iso2": "IQ",
+  "kind": "site"
+ },
+ {
+  "id": "durban",
+  "name": "Durban",
+  "lat": -29.86,
+  "lon": 31.03,
+  "country_iso2": "ZA",
+  "kind": "city"
+ },
+ {
+  "id": "dushanbe",
+  "name": "Dushanbe",
+  "lat": 38.56,
+  "lon": 68.77,
+  "country_iso2": "TJ",
+  "kind": "city"
+ },
+ {
+  "id": "dwarka",
+  "name": "Dwarka",
+  "lat": 22.24,
+  "lon": 68.97,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "ebla",
+  "name": "Ebla",
+  "lat": 35.8,
+  "lon": 36.8,
+  "country_iso2": "SY",
+  "kind": "site"
+ },
+ {
+  "id": "edessa",
+  "name": "Edessa (Şanlıurfa)",
+  "lat": 37.16,
+  "lon": 38.79,
+  "country_iso2": "TR",
+  "kind": "city"
+ },
+ {
+  "id": "edfu",
+  "name": "Edfu",
+  "lat": 24.98,
+  "lon": 32.87,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "edinburgh",
+  "name": "Edinburgh",
+  "lat": 55.95,
+  "lon": -3.19,
+  "country_iso2": "GB",
+  "kind": "city"
+ },
+ {
+  "id": "edirne",
+  "name": "Edirne (Adrianople)",
+  "lat": 41.68,
+  "lon": 26.56,
+  "country_iso2": "TR",
+  "kind": "city"
+ },
+ {
+  "id": "eiheiji",
+  "name": "Eihei-ji",
+  "lat": 36.05,
+  "lon": 136.36,
+  "country_iso2": "JP",
+  "kind": "site"
+ },
+ {
+  "id": "el_cajon",
+  "name": "El Cajon (Unarius)",
+  "lat": 32.79,
+  "lon": -116.96,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "elche",
+  "name": "Elche (La Alcudia)",
+  "lat": 38.27,
+  "lon": -0.7,
+  "country_iso2": "ES",
+  "kind": "city"
+ },
+ {
+  "id": "elephanta",
+  "name": "Elephanta",
+  "lat": 18.96,
+  "lon": 72.93,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "elephantine",
+  "name": "Elephantine (Aswan)",
+  "lat": 24.09,
+  "lon": 32.89,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "eleusis",
+  "name": "Eleusis",
+  "lat": 38.04,
+  "lon": 23.54,
+  "country_iso2": "GR",
+  "kind": "site"
+ },
+ {
+  "id": "ellora",
+  "name": "Ellora",
+  "lat": 20.03,
+  "lon": 75.18,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "emei",
+  "name": "Mount Emei",
+  "lat": 29.52,
+  "lon": 103.33,
+  "country_iso2": "CN",
+  "kind": "natural"
+ },
+ {
+  "id": "ephesus",
+  "name": "Ephesus",
+  "lat": 37.94,
+  "lon": 27.34,
+  "country_iso2": "TR",
+  "kind": "site"
+ },
+ {
+  "id": "erdene_zuu",
+  "name": "Erdene Zuu (Kharkhorin)",
+  "lat": 47.2,
+  "lon": 102.84,
+  "country_iso2": "MN",
+  "kind": "site"
+ },
+ {
+  "id": "erfurt",
+  "name": "Erfurt",
+  "lat": 50.98,
+  "lon": 11.03,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "eridu",
+  "name": "Eridu",
+  "lat": 30.82,
+  "lon": 45.99,
+  "country_iso2": "IQ",
+  "kind": "site"
+ },
+ {
+  "id": "esna",
+  "name": "Esna",
+  "lat": 25.29,
+  "lon": 32.55,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "essaouira",
+  "name": "Essaouira",
+  "lat": 31.51,
+  "lon": -9.77,
+  "country_iso2": "MA",
+  "kind": "city"
+ },
+ {
+  "id": "etchmiadzin",
+  "name": "Vagharshapat (Etchmiadzin)",
+  "lat": 40.16,
+  "lon": 44.29,
+  "country_iso2": "AM",
+  "kind": "city"
+ },
+ {
+  "id": "eugene",
+  "name": "Corvallis, Oregon",
+  "lat": 44.56,
+  "lon": -123.26,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "fashoda",
+  "name": "Fashoda (Shilluk)",
+  "lat": 9.88,
+  "lon": 32.11,
+  "country_iso2": "SS",
+  "kind": "city"
+ },
+ {
+  "id": "fatehpur_sikri",
+  "name": "Fatehpur Sikri",
+  "lat": 27.09,
+  "lon": 77.66,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "fatima",
+  "name": "Fátima",
+  "lat": 39.63,
+  "lon": -8.67,
+  "country_iso2": "PT",
+  "kind": "city"
+ },
+ {
+  "id": "fayette",
+  "name": "Fayette, New York",
+  "lat": 42.83,
+  "lon": -76.8,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "fayum",
+  "name": "Faiyum",
+  "lat": 29.31,
+  "lon": 30.84,
+  "country_iso2": "EG",
+  "kind": "city"
+ },
+ {
+  "id": "fez",
+  "name": "Fez",
+  "lat": 34.03,
+  "lon": -5.0,
+  "country_iso2": "MA",
+  "kind": "city"
+ },
+ {
+  "id": "florence",
+  "name": "Florence",
+  "lat": 43.77,
+  "lon": 11.26,
+  "country_iso2": "IT",
+  "kind": "city"
+ },
+ {
+  "id": "foumban",
+  "name": "Foumban",
+  "lat": 5.73,
+  "lon": 10.9,
+  "country_iso2": "CM",
+  "kind": "city"
+ },
+ {
+  "id": "frankfurt",
+  "name": "Frankfurt",
+  "lat": 50.11,
+  "lon": 8.68,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "fuji",
+  "name": "Mount Fuji",
+  "lat": 35.36,
+  "lon": 138.73,
+  "country_iso2": "JP",
+  "kind": "natural"
+ },
+ {
+  "id": "fulton",
+  "name": "Fulton, Missouri",
+  "lat": 38.85,
+  "lon": -91.95,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "fundudzi",
+  "name": "Lake Fundudzi (Venda)",
+  "lat": -22.84,
+  "lon": 30.31,
+  "country_iso2": "ZA",
+  "kind": "natural"
+ },
+ {
+  "id": "futa_jallon",
+  "name": "Futa Jallon",
+  "lat": 10.8,
+  "lon": -12.0,
+  "country_iso2": "GN",
+  "kind": "region"
+ },
+ {
+  "id": "futa_toro",
+  "name": "Futa Toro",
+  "lat": 16.2,
+  "lon": -14.0,
+  "country_iso2": "SN",
+  "kind": "region"
+ },
+ {
+  "id": "fuzhou",
+  "name": "Fuzhou",
+  "lat": 26.07,
+  "lon": 119.3,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "gadhada",
+  "name": "Gadhada",
+  "lat": 21.96,
+  "lon": 71.57,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "galilee",
+  "name": "Galilee (Capernaum)",
+  "lat": 32.88,
+  "lon": 35.57,
+  "country_iso2": "IL",
+  "kind": "region"
+ },
+ {
+  "id": "ganden",
+  "name": "Ganden Monastery",
+  "lat": 29.76,
+  "lon": 91.47,
+  "country_iso2": "CN",
+  "kind": "site"
+ },
+ {
+  "id": "gandhara",
+  "name": "Gandhara (Peshawar Valley)",
+  "lat": 34.0,
+  "lon": 71.8,
+  "country_iso2": "PK",
+  "kind": "region"
+ },
+ {
+  "id": "ganeshpuri",
+  "name": "Ganeshpuri",
+  "lat": 19.51,
+  "lon": 73.03,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "ganghwa",
+  "name": "Ganghwa (Mani-san altar)",
+  "lat": 37.75,
+  "lon": 126.49,
+  "country_iso2": "KR",
+  "kind": "island"
+ },
+ {
+  "id": "gao",
+  "name": "Gao",
+  "lat": 16.27,
+  "lon": -0.04,
+  "country_iso2": "ML",
+  "kind": "city"
+ },
+ {
+  "id": "gapyeong",
+  "name": "Gapyeong",
+  "lat": 37.83,
+  "lon": 127.51,
+  "country_iso2": "KR",
+  "kind": "city"
+ },
+ {
+  "id": "geneva",
+  "name": "Geneva",
+  "lat": 46.2,
+  "lon": 6.15,
+  "country_iso2": "CH",
+  "kind": "city"
+ },
+ {
+  "id": "genoa_ne",
+  "name": "Genoa, Nebraska (Pawnee reservation)",
+  "lat": 41.45,
+  "lon": -97.73,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "georgetown",
+  "name": "Georgetown",
+  "lat": 6.8,
+  "lon": -58.16,
+  "country_iso2": "GY",
+  "kind": "city"
+ },
+ {
+  "id": "gerizim",
+  "name": "Mount Gerizim (Nablus)",
+  "lat": 32.2,
+  "lon": 35.27,
+  "country_iso2": "PS",
+  "kind": "natural"
+ },
+ {
+  "id": "ggantija",
+  "name": "Ġgantija (Gozo)",
+  "lat": 36.05,
+  "lon": 14.27,
+  "country_iso2": "MT",
+  "kind": "site"
+ },
+ {
+  "id": "girodpuri",
+  "name": "Girodpuri (Satnami)",
+  "lat": 21.62,
+  "lon": 82.5,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "girona",
+  "name": "Girona",
+  "lat": 41.98,
+  "lon": 2.82,
+  "country_iso2": "ES",
+  "kind": "city"
+ },
+ {
+  "id": "girsu",
+  "name": "Girsu (Tello)",
+  "lat": 31.49,
+  "lon": 46.18,
+  "country_iso2": "IQ",
+  "kind": "site"
+ },
+ {
+  "id": "gisborne",
+  "name": "Gisborne (Tūranganui)",
+  "lat": -38.66,
+  "lon": 178.02,
+  "country_iso2": "NZ",
+  "kind": "city"
+ },
+ {
+  "id": "giza",
+  "name": "Giza",
+  "lat": 29.98,
+  "lon": 31.13,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "glastonbury",
+  "name": "Glastonbury",
+  "lat": 51.15,
+  "lon": -2.72,
+  "country_iso2": "GB",
+  "kind": "city"
+ },
+ {
+  "id": "gobekli",
+  "name": "Göbekli Tepe",
+  "lat": 37.22,
+  "lon": 38.92,
+  "country_iso2": "TR",
+  "kind": "site"
+ },
+ {
+  "id": "goindval",
+  "name": "Goindval",
+  "lat": 31.37,
+  "lon": 75.15,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "gondar",
+  "name": "Gondar",
+  "lat": 12.61,
+  "lon": 37.47,
+  "country_iso2": "ET",
+  "kind": "city"
+ },
+ {
+  "id": "gondwana",
+  "name": "Gondwana (Chhindwara)",
+  "lat": 22.06,
+  "lon": 78.94,
+  "country_iso2": "IN",
+  "kind": "region"
+ },
+ {
+  "id": "gorakhpur",
+  "name": "Gorakhpur",
+  "lat": 26.76,
+  "lon": 83.37,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "gordion",
+  "name": "Gordion",
+  "lat": 39.65,
+  "lon": 31.99,
+  "country_iso2": "TR",
+  "kind": "site"
+ },
+ {
+  "id": "gorlitz",
+  "name": "Görlitz",
+  "lat": 51.15,
+  "lon": 14.99,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "granada",
+  "name": "Granada",
+  "lat": 37.18,
+  "lon": -3.6,
+  "country_iso2": "ES",
+  "kind": "city"
+ },
+ {
+  "id": "grand_bassam",
+  "name": "Grand-Bassam",
+  "lat": 5.21,
+  "lon": -3.74,
+  "country_iso2": "CI",
+  "kind": "city"
+ },
+ {
+  "id": "great_zimbabwe",
+  "name": "Great Zimbabwe",
+  "lat": -20.27,
+  "lon": 30.93,
+  "country_iso2": "ZW",
+  "kind": "site"
+ },
+ {
+  "id": "guadalajara",
+  "name": "Guadalajara",
+  "lat": 20.67,
+  "lon": -103.35,
+  "country_iso2": "MX",
+  "kind": "city"
+ },
+ {
+  "id": "guadalcanal",
+  "name": "Guadalcanal",
+  "lat": -9.6,
+  "lon": 160.15,
+  "country_iso2": "SB",
+  "kind": "island"
+ },
+ {
+  "id": "guaira",
+  "name": "Guairá (Mbya Guaraní)",
+  "lat": -25.8,
+  "lon": -56.4,
+  "country_iso2": "PY",
+  "kind": "region"
+ },
+ {
+  "id": "guam",
+  "name": "Guam (Hagåtña)",
+  "lat": 13.48,
+  "lon": 144.75,
+  "country_iso2": "GU",
+  "kind": "island"
+ },
+ {
+  "id": "guangxi",
+  "name": "Guangxi (Zhuang)",
+  "lat": 22.82,
+  "lon": 108.32,
+  "country_iso2": "CN",
+  "kind": "region"
+ },
+ {
+  "id": "guangzhou",
+  "name": "Guangzhou",
+  "lat": 23.13,
+  "lon": 113.26,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "guatavita",
+  "name": "Lake Guatavita (Muisca)",
+  "lat": 4.97,
+  "lon": -73.77,
+  "country_iso2": "CO",
+  "kind": "natural"
+ },
+ {
+  "id": "gubbio",
+  "name": "Gubbio (Iguvium)",
+  "lat": 43.35,
+  "lon": 12.58,
+  "country_iso2": "IT",
+  "kind": "city"
+ },
+ {
+  "id": "guizhou",
+  "name": "Guizhou (Miao/Hmong)",
+  "lat": 26.58,
+  "lon": 106.71,
+  "country_iso2": "CN",
+  "kind": "region"
+ },
+ {
+  "id": "guna_yala",
+  "name": "Guna Yala",
+  "lat": 9.4,
+  "lon": -78.8,
+  "country_iso2": "PA",
+  "kind": "region"
+ },
+ {
+  "id": "gunbalanya",
+  "name": "Gunbalanya (West Arnhem Land)",
+  "lat": -12.32,
+  "lon": 133.06,
+  "country_iso2": "AU",
+  "kind": "city"
+ },
+ {
+  "id": "gundeshapur",
+  "name": "Gundeshapur",
+  "lat": 32.28,
+  "lon": 48.52,
+  "country_iso2": "IR",
+  "kind": "city"
+ },
+ {
+  "id": "guruvayur",
+  "name": "Guruvayur",
+  "lat": 10.59,
+  "lon": 76.04,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "gwacheon",
+  "name": "Gwacheon",
+  "lat": 37.43,
+  "lon": 126.99,
+  "country_iso2": "KR",
+  "kind": "city"
+ },
+ {
+  "id": "gyeongju",
+  "name": "Gyeongju",
+  "lat": 35.86,
+  "lon": 129.22,
+  "country_iso2": "KR",
+  "kind": "city"
+ },
+ {
+  "id": "hacibektas",
+  "name": "Hacıbektaş",
+  "lat": 38.94,
+  "lon": 34.56,
+  "country_iso2": "TR",
+  "kind": "city"
+ },
+ {
+  "id": "haeinsa",
+  "name": "Haeinsa",
+  "lat": 35.8,
+  "lon": 128.1,
+  "country_iso2": "KR",
+  "kind": "site"
+ },
+ {
+  "id": "haida_gwaii",
+  "name": "Haida Gwaii",
+  "lat": 53.25,
+  "lon": -132.07,
+  "country_iso2": "CA",
+  "kind": "island"
+ },
+ {
+  "id": "haifa",
+  "name": "Haifa",
+  "lat": 32.79,
+  "lon": 34.99,
+  "country_iso2": "IL",
+  "kind": "city"
+ },
+ {
+  "id": "hal_saflieni",
+  "name": "Ħal Saflieni",
+  "lat": 35.87,
+  "lon": 14.51,
+  "country_iso2": "MT",
+  "kind": "site"
+ },
+ {
+  "id": "halle",
+  "name": "Halle",
+  "lat": 51.48,
+  "lon": 11.97,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "hallstatt",
+  "name": "Hallstatt",
+  "lat": 47.56,
+  "lon": 13.65,
+  "country_iso2": "AT",
+  "kind": "site"
+ },
+ {
+  "id": "hamadan",
+  "name": "Hamadan (Ecbatana)",
+  "lat": 34.8,
+  "lon": 48.52,
+  "country_iso2": "IR",
+  "kind": "city"
+ },
+ {
+  "id": "hamburg",
+  "name": "Hamburg",
+  "lat": 53.55,
+  "lon": 9.99,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "hampi",
+  "name": "Hampi (Vijayanagara)",
+  "lat": 15.34,
+  "lon": 76.46,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "hangzhou",
+  "name": "Hangzhou",
+  "lat": 30.27,
+  "lon": 120.16,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "hanoi",
+  "name": "Hanoi",
+  "lat": 21.03,
+  "lon": 105.85,
+  "country_iso2": "VN",
+  "kind": "city"
+ },
+ {
+  "id": "harappa",
+  "name": "Harappa",
+  "lat": 30.63,
+  "lon": 72.86,
+  "country_iso2": "PK",
+  "kind": "site"
+ },
+ {
+  "id": "harar",
+  "name": "Harar",
+  "lat": 9.31,
+  "lon": 42.12,
+  "country_iso2": "ET",
+  "kind": "city"
+ },
+ {
+  "id": "harare",
+  "name": "Harare",
+  "lat": -17.83,
+  "lon": 31.05,
+  "country_iso2": "ZW",
+  "kind": "city"
+ },
+ {
+  "id": "haridwar",
+  "name": "Haridwar",
+  "lat": 29.95,
+  "lon": 78.16,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "harlem",
+  "name": "Harlem, New York",
+  "lat": 40.81,
+  "lon": -73.95,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "harmony_pa",
+  "name": "Harmony, Pennsylvania",
+  "lat": 40.8,
+  "lon": -80.13,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "harran",
+  "name": "Harran",
+  "lat": 36.86,
+  "lon": 39.03,
+  "country_iso2": "TR",
+  "kind": "site"
+ },
+ {
+  "id": "hattusa",
+  "name": "Hattusa",
+  "lat": 40.02,
+  "lon": 34.62,
+  "country_iso2": "TR",
+  "kind": "site"
+ },
+ {
+  "id": "havana",
+  "name": "Havana",
+  "lat": 23.11,
+  "lon": -82.37,
+  "country_iso2": "CU",
+  "kind": "city"
+ },
+ {
+  "id": "hawaii_island",
+  "name": "Hawaiʻi Island (Kailua-Kona)",
+  "lat": 19.64,
+  "lon": -155.99,
+  "country_iso2": "US",
+  "kind": "island"
+ },
+ {
+  "id": "hebrides",
+  "name": "Outer Hebrides",
+  "lat": 57.8,
+  "lon": -7.0,
+  "country_iso2": "GB",
+  "kind": "region"
+ },
+ {
+  "id": "hedeby",
+  "name": "Hedeby",
+  "lat": 54.49,
+  "lon": 9.57,
+  "country_iso2": "DE",
+  "kind": "site"
+ },
+ {
+  "id": "heidelberg",
+  "name": "Heidelberg",
+  "lat": 49.4,
+  "lon": 8.69,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "heliopolis",
+  "name": "Heliopolis",
+  "lat": 30.13,
+  "lon": 31.31,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "helsinki",
+  "name": "Helsinki",
+  "lat": 60.17,
+  "lon": 24.94,
+  "country_iso2": "FI",
+  "kind": "city"
+ },
+ {
+  "id": "heming",
+  "name": "Mount Heming (Sichuan)",
+  "lat": 30.6,
+  "lon": 103.4,
+  "country_iso2": "CN",
+  "kind": "natural"
+ },
+ {
+  "id": "hermannsburg",
+  "name": "Hermannsburg (Ntaria)",
+  "lat": -23.94,
+  "lon": 132.78,
+  "country_iso2": "AU",
+  "kind": "city"
+ },
+ {
+  "id": "herrnhut",
+  "name": "Herrnhut",
+  "lat": 51.02,
+  "lon": 14.74,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "hiei",
+  "name": "Mount Hiei",
+  "lat": 35.07,
+  "lon": 135.84,
+  "country_iso2": "JP",
+  "kind": "natural"
+ },
+ {
+  "id": "hilazon",
+  "name": "Hilazon Tachtit Cave",
+  "lat": 32.92,
+  "lon": 35.28,
+  "country_iso2": "IL",
+  "kind": "site"
+ },
+ {
+  "id": "himbach",
+  "name": "Himbach (Wetterau)",
+  "lat": 50.26,
+  "lon": 9.02,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "hippo",
+  "name": "Hippo Regius (Annaba)",
+  "lat": 36.88,
+  "lon": 7.75,
+  "country_iso2": "DZ",
+  "kind": "city"
+ },
+ {
+  "id": "hoa_hao",
+  "name": "Hòa Hảo (Phú Tân)",
+  "lat": 10.66,
+  "lon": 105.3,
+  "country_iso2": "VN",
+  "kind": "city"
+ },
+ {
+  "id": "hohhot",
+  "name": "Hohhot",
+  "lat": 40.84,
+  "lon": 111.75,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "hohle_fels",
+  "name": "Hohle Fels",
+  "lat": 48.38,
+  "lon": 9.75,
+  "country_iso2": "DE",
+  "kind": "site"
+ },
+ {
+  "id": "hohlenstein",
+  "name": "Hohlenstein-Stadel",
+  "lat": 48.55,
+  "lon": 10.17,
+  "country_iso2": "DE",
+  "kind": "site"
+ },
+ {
+  "id": "honolulu",
+  "name": "Honolulu (Oʻahu)",
+  "lat": 21.31,
+  "lon": -157.86,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "houston",
+  "name": "Houston",
+  "lat": 29.76,
+  "lon": -95.37,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "hpa_an",
+  "name": "Hpa-an (Karen State)",
+  "lat": 16.89,
+  "lon": 97.63,
+  "country_iso2": "MM",
+  "kind": "city"
+ },
+ {
+  "id": "huadu",
+  "name": "Huadu (Guangdong)",
+  "lat": 23.4,
+  "lon": 113.21,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "huangmei",
+  "name": "Huangmei (East Mountain)",
+  "lat": 30.07,
+  "lon": 115.94,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "huarochiri",
+  "name": "Huarochirí",
+  "lat": -12.13,
+  "lon": -76.23,
+  "country_iso2": "PE",
+  "kind": "region"
+ },
+ {
+  "id": "huautla",
+  "name": "Huautla de Jiménez",
+  "lat": 18.13,
+  "lon": -96.84,
+  "country_iso2": "MX",
+  "kind": "city"
+ },
+ {
+  "id": "hue",
+  "name": "Huế",
+  "lat": 16.46,
+  "lon": 107.59,
+  "country_iso2": "VN",
+  "kind": "city"
+ },
+ {
+  "id": "huntington_beach",
+  "name": "Huntington Beach",
+  "lat": 33.66,
+  "lon": -118.0,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "hunza",
+  "name": "Hunza (Gilgit-Baltistan)",
+  "lat": 36.32,
+  "lon": 74.65,
+  "country_iso2": "PK",
+  "kind": "city"
+ },
+ {
+  "id": "hyderabad_sindh",
+  "name": "Hyderabad (Sindh)",
+  "lat": 25.39,
+  "lon": 68.37,
+  "country_iso2": "PK",
+  "kind": "city"
+ },
+ {
+  "id": "hydesville",
+  "name": "Hydesville, New York",
+  "lat": 43.1,
+  "lon": -77.1,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "ibadan",
+  "name": "Ibadan",
+  "lat": 7.38,
+  "lon": 3.94,
+  "country_iso2": "NG",
+  "kind": "city"
+ },
+ {
+  "id": "ife",
+  "name": "Ile-Ife",
+  "lat": 7.48,
+  "lon": 4.56,
+  "country_iso2": "NG",
+  "kind": "city"
+ },
+ {
+  "id": "ifugao",
+  "name": "Ifugao (Banaue)",
+  "lat": 16.92,
+  "lon": 121.06,
+  "country_iso2": "PH",
+  "kind": "region"
+ },
+ {
+  "id": "igbo_ukwu",
+  "name": "Igbo-Ukwu",
+  "lat": 6.02,
+  "lon": 7.02,
+  "country_iso2": "NG",
+  "kind": "site"
+ },
+ {
+  "id": "igboland",
+  "name": "Igboland",
+  "lat": 5.9,
+  "lon": 7.4,
+  "country_iso2": "NG",
+  "kind": "region"
+ },
+ {
+  "id": "iglulik",
+  "name": "Igloolik",
+  "lat": 69.38,
+  "lon": -81.8,
+  "country_iso2": "CA",
+  "kind": "city"
+ },
+ {
+  "id": "ijebu_ode",
+  "name": "Ijebu-Ode",
+  "lat": 6.82,
+  "lon": 3.92,
+  "country_iso2": "NG",
+  "kind": "city"
+ },
+ {
+  "id": "ikom",
+  "name": "Ikom (Cross River)",
+  "lat": 5.96,
+  "lon": 8.71,
+  "country_iso2": "NG",
+  "kind": "city"
+ },
+ {
+  "id": "iksan",
+  "name": "Iksan",
+  "lat": 35.95,
+  "lon": 126.96,
+  "country_iso2": "KR",
+  "kind": "city"
+ },
+ {
+  "id": "ilocos",
+  "name": "Ilocos (Vigan)",
+  "lat": 17.57,
+  "lon": 120.39,
+  "country_iso2": "PH",
+  "kind": "region"
+ },
+ {
+  "id": "imphal",
+  "name": "Imphal",
+  "lat": 24.82,
+  "lon": 93.94,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "inanda",
+  "name": "Ekuphakameni (Inanda)",
+  "lat": -29.7,
+  "lon": 30.97,
+  "country_iso2": "ZA",
+  "kind": "city"
+ },
+ {
+  "id": "independence",
+  "name": "Independence, Missouri",
+  "lat": 39.09,
+  "lon": -94.42,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "ingolstadt",
+  "name": "Ingolstadt",
+  "lat": 48.76,
+  "lon": 11.42,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "inverness",
+  "name": "Inverness",
+  "lat": 57.48,
+  "lon": -4.22,
+  "country_iso2": "GB",
+  "kind": "city"
+ },
+ {
+  "id": "iona",
+  "name": "Iona",
+  "lat": 56.33,
+  "lon": -6.41,
+  "country_iso2": "GB",
+  "kind": "island"
+ },
+ {
+  "id": "ise",
+  "name": "Ise",
+  "lat": 34.45,
+  "lon": 136.73,
+  "country_iso2": "JP",
+  "kind": "city"
+ },
+ {
+  "id": "isfahan",
+  "name": "Isfahan",
+  "lat": 32.65,
+  "lon": 51.67,
+  "country_iso2": "IR",
+  "kind": "city"
+ },
+ {
+  "id": "isla_del_sol",
+  "name": "Isla del Sol (Titicaca)",
+  "lat": -16.02,
+  "lon": -69.18,
+  "country_iso2": "BO",
+  "kind": "island"
+ },
+ {
+  "id": "istanbul",
+  "name": "Constantinople / Istanbul",
+  "lat": 41.01,
+  "lon": 28.98,
+  "country_iso2": "TR",
+  "kind": "city"
+ },
+ {
+  "id": "itsukushima",
+  "name": "Itsukushima",
+  "lat": 34.3,
+  "lon": 132.32,
+  "country_iso2": "JP",
+  "kind": "island"
+ },
+ {
+  "id": "ituri",
+  "name": "Ituri Forest (Mbuti)",
+  "lat": 1.5,
+  "lon": 28.5,
+  "country_iso2": "CD",
+  "kind": "region"
+ },
+ {
+  "id": "izhevsk",
+  "name": "Izhevsk (Udmurtia)",
+  "lat": 56.85,
+  "lon": 53.2,
+  "country_iso2": "RU",
+  "kind": "city"
+ },
+ {
+  "id": "izumo",
+  "name": "Izumo",
+  "lat": 35.4,
+  "lon": 132.69,
+  "country_iso2": "JP",
+  "kind": "city"
+ },
+ {
+  "id": "jaghbub",
+  "name": "Al Jaghbub",
+  "lat": 29.74,
+  "lon": 24.52,
+  "country_iso2": "LY",
+  "kind": "city"
+ },
+ {
+  "id": "jakarta",
+  "name": "Jakarta",
+  "lat": -6.21,
+  "lon": 106.85,
+  "country_iso2": "ID",
+  "kind": "city"
+ },
+ {
+  "id": "jalandhar",
+  "name": "Jalandhar",
+  "lat": 31.33,
+  "lon": 75.58,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "jamalpur",
+  "name": "Jamalpur (Bihar)",
+  "lat": 25.31,
+  "lon": 86.49,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "jamnagar",
+  "name": "Jamnagar",
+  "lat": 22.47,
+  "lon": 70.06,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "jarrow",
+  "name": "Jarrow and Wearmouth",
+  "lat": 54.98,
+  "lon": -1.47,
+  "country_iso2": "GB",
+  "kind": "site"
+ },
+ {
+  "id": "jaunpur",
+  "name": "Jaunpur",
+  "lat": 25.75,
+  "lon": 82.69,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "jebel_barkal",
+  "name": "Jebel Barkal (Napata)",
+  "lat": 18.53,
+  "lon": 31.83,
+  "country_iso2": "SD",
+  "kind": "site"
+ },
+ {
+  "id": "jeju",
+  "name": "Jeju",
+  "lat": 33.5,
+  "lon": 126.53,
+  "country_iso2": "KR",
+  "kind": "island"
+ },
+ {
+  "id": "jelling",
+  "name": "Jelling",
+  "lat": 55.76,
+  "lon": 9.42,
+  "country_iso2": "DK",
+  "kind": "site"
+ },
+ {
+  "id": "jemeppe",
+  "name": "Jemeppe-sur-Meuse",
+  "lat": 50.62,
+  "lon": 5.5,
+  "country_iso2": "BE",
+  "kind": "city"
+ },
+ {
+  "id": "jericho",
+  "name": "Jericho",
+  "lat": 31.87,
+  "lon": 35.44,
+  "country_iso2": "PS",
+  "kind": "site"
+ },
+ {
+  "id": "jerusalem",
+  "name": "Jerusalem",
+  "lat": 31.78,
+  "lon": 35.23,
+  "country_iso2": "IL",
+  "kind": "city"
+ },
+ {
+  "id": "jiahu",
+  "name": "Jiahu",
+  "lat": 33.62,
+  "lon": 113.67,
+  "country_iso2": "CN",
+  "kind": "site"
+ },
+ {
+  "id": "jinan",
+  "name": "Jinan",
+  "lat": 36.65,
+  "lon": 117.12,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "jintian",
+  "name": "Jintian (Guiping)",
+  "lat": 23.39,
+  "lon": 110.08,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "joranda",
+  "name": "Joranda (Dhenkanal)",
+  "lat": 20.78,
+  "lon": 85.73,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "julu",
+  "name": "Julu (Hebei)",
+  "lat": 37.22,
+  "lon": 115.04,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "kaifeng",
+  "name": "Kaifeng",
+  "lat": 34.8,
+  "lon": 114.31,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "kairouan",
+  "name": "Kairouan",
+  "lat": 35.68,
+  "lon": 10.1,
+  "country_iso2": "TN",
+  "kind": "city"
+ },
+ {
+  "id": "kakadu",
+  "name": "Ubirr (Kakadu)",
+  "lat": -12.41,
+  "lon": 132.95,
+  "country_iso2": "AU",
+  "kind": "site"
+ },
+ {
+  "id": "kaladi",
+  "name": "Kaladi",
+  "lat": 10.17,
+  "lon": 76.44,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "kalinga",
+  "name": "Kalinga (Tabuk)",
+  "lat": 17.41,
+  "lon": 121.44,
+  "country_iso2": "PH",
+  "kind": "region"
+ },
+ {
+  "id": "kalumburu",
+  "name": "Kalumburu (North Kimberley)",
+  "lat": -14.3,
+  "lon": 126.64,
+  "country_iso2": "AU",
+  "kind": "region"
+ },
+ {
+  "id": "kamakhya",
+  "name": "Kamakhya (Guwahati)",
+  "lat": 26.17,
+  "lon": 91.71,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "kamakura",
+  "name": "Kamakura",
+  "lat": 35.32,
+  "lon": 139.55,
+  "country_iso2": "JP",
+  "kind": "city"
+ },
+ {
+  "id": "kampala",
+  "name": "Kampala (Buganda)",
+  "lat": 0.35,
+  "lon": 32.58,
+  "country_iso2": "UG",
+  "kind": "city"
+ },
+ {
+  "id": "kanchipuram",
+  "name": "Kanchipuram",
+  "lat": 12.83,
+  "lon": 79.7,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "kandy",
+  "name": "Kandy",
+  "lat": 7.29,
+  "lon": 80.64,
+  "country_iso2": "LK",
+  "kind": "city"
+ },
+ {
+  "id": "kanekes",
+  "name": "Kanekes (Baduy)",
+  "lat": -6.63,
+  "lon": 106.22,
+  "country_iso2": "ID",
+  "kind": "region"
+ },
+ {
+  "id": "kanem",
+  "name": "Kanem (Lake Chad)",
+  "lat": 13.5,
+  "lon": 14.5,
+  "country_iso2": "TD",
+  "kind": "region"
+ },
+ {
+  "id": "kangaba",
+  "name": "Kangaba",
+  "lat": 11.94,
+  "lon": -8.42,
+  "country_iso2": "ML",
+  "kind": "city"
+ },
+ {
+  "id": "kano",
+  "name": "Kano",
+  "lat": 12.0,
+  "lon": 8.52,
+  "country_iso2": "NG",
+  "kind": "city"
+ },
+ {
+  "id": "kansas_city",
+  "name": "Kansas City (Unity Village)",
+  "lat": 38.93,
+  "lon": -94.4,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "kaolack",
+  "name": "Kaolack (Medina Baye)",
+  "lat": 14.15,
+  "lon": -16.07,
+  "country_iso2": "SN",
+  "kind": "city"
+ },
+ {
+  "id": "karakorum",
+  "name": "Karakorum",
+  "lat": 47.2,
+  "lon": 102.83,
+  "country_iso2": "MN",
+  "kind": "city"
+ },
+ {
+  "id": "karbala",
+  "name": "Karbala",
+  "lat": 32.62,
+  "lon": 44.02,
+  "country_iso2": "IQ",
+  "kind": "city"
+ },
+ {
+  "id": "karelia",
+  "name": "White Karelia",
+  "lat": 64.9,
+  "lon": 30.6,
+  "country_iso2": "RU",
+  "kind": "region"
+ },
+ {
+  "id": "karkamish",
+  "name": "Carchemish (Karkamış)",
+  "lat": 36.83,
+  "lon": 38.01,
+  "country_iso2": "TR",
+  "kind": "site"
+ },
+ {
+  "id": "kartarpur",
+  "name": "Kartarpur (Narowal)",
+  "lat": 32.08,
+  "lon": 75.02,
+  "country_iso2": "PK",
+  "kind": "city"
+ },
+ {
+  "id": "kashgar",
+  "name": "Kashgar",
+  "lat": 39.47,
+  "lon": 75.99,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "kassel",
+  "name": "Kassel",
+  "lat": 51.31,
+  "lon": 9.48,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "kasur",
+  "name": "Kasur",
+  "lat": 31.12,
+  "lon": 74.45,
+  "country_iso2": "PK",
+  "kind": "city"
+ },
+ {
+  "id": "kathmandu",
+  "name": "Kathmandu",
+  "lat": 27.72,
+  "lon": 85.32,
+  "country_iso2": "NP",
+  "kind": "city"
+ },
+ {
+  "id": "kaya",
+  "name": "Kaya forests (Kilifi)",
+  "lat": -3.63,
+  "lon": 39.85,
+  "country_iso2": "KE",
+  "kind": "grove"
+ },
+ {
+  "id": "kellis",
+  "name": "Kellis (Dakhla Oasis)",
+  "lat": 25.52,
+  "lon": 29.1,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "kells",
+  "name": "Kells",
+  "lat": 53.73,
+  "lon": -6.88,
+  "country_iso2": "IE",
+  "kind": "city"
+ },
+ {
+  "id": "kelwa",
+  "name": "Kelwa (Rajasthan)",
+  "lat": 25.08,
+  "lon": 73.83,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "kerma",
+  "name": "Kerma",
+  "lat": 19.6,
+  "lon": 30.41,
+  "country_iso2": "SD",
+  "kind": "site"
+ },
+ {
+  "id": "kerman",
+  "name": "Kerman",
+  "lat": 30.28,
+  "lon": 57.08,
+  "country_iso2": "IR",
+  "kind": "city"
+ },
+ {
+  "id": "kermanshah",
+  "name": "Kermanshah (Guran, Yarsan heartland)",
+  "lat": 34.31,
+  "lon": 47.07,
+  "country_iso2": "IR",
+  "kind": "city"
+ },
+ {
+  "id": "khajuraho",
+  "name": "Khajuraho",
+  "lat": 24.85,
+  "lon": 79.93,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "khanty",
+  "name": "Khanty-Mansiysk",
+  "lat": 61.0,
+  "lon": 69.0,
+  "country_iso2": "RU",
+  "kind": "city"
+ },
+ {
+  "id": "khotan",
+  "name": "Khotan",
+  "lat": 37.11,
+  "lon": 79.92,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "kilimanjaro",
+  "name": "Kilimanjaro (Chagga)",
+  "lat": -3.07,
+  "lon": 37.35,
+  "country_iso2": "TZ",
+  "kind": "natural"
+ },
+ {
+  "id": "kilwa",
+  "name": "Kilwa Kisiwani",
+  "lat": -8.96,
+  "lon": 39.51,
+  "country_iso2": "TZ",
+  "kind": "site"
+ },
+ {
+  "id": "kimberley",
+  "name": "Kimberley (Wandjina country)",
+  "lat": -17.31,
+  "lon": 123.63,
+  "country_iso2": "AU",
+  "kind": "region"
+ },
+ {
+  "id": "kings_lynn",
+  "name": "King's Lynn",
+  "lat": 52.75,
+  "lon": 0.4,
+  "country_iso2": "GB",
+  "kind": "city"
+ },
+ {
+  "id": "kingston",
+  "name": "Kingston",
+  "lat": 17.99,
+  "lon": -76.79,
+  "country_iso2": "JM",
+  "kind": "city"
+ },
+ {
+  "id": "kinshasa",
+  "name": "Kinshasa",
+  "lat": -4.32,
+  "lon": 15.31,
+  "country_iso2": "CD",
+  "kind": "city"
+ },
+ {
+  "id": "kirtland",
+  "name": "Kirtland, Ohio",
+  "lat": 41.63,
+  "lon": -81.36,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "kish",
+  "name": "Kish",
+  "lat": 32.54,
+  "lon": 44.6,
+  "country_iso2": "IQ",
+  "kind": "site"
+ },
+ {
+  "id": "kisumu",
+  "name": "Kisumu (Luo)",
+  "lat": -0.09,
+  "lon": 34.77,
+  "country_iso2": "KE",
+  "kind": "city"
+ },
+ {
+  "id": "kituwah",
+  "name": "Kituwah",
+  "lat": 35.48,
+  "lon": -83.36,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "knossos",
+  "name": "Knossos",
+  "lat": 35.3,
+  "lon": 25.16,
+  "country_iso2": "GR",
+  "kind": "site"
+ },
+ {
+  "id": "kobe",
+  "name": "Kobe",
+  "lat": 34.69,
+  "lon": 135.2,
+  "country_iso2": "JP",
+  "kind": "city"
+ },
+ {
+  "id": "kochi",
+  "name": "Kochi",
+  "lat": 9.93,
+  "lon": 76.27,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "kodungallur",
+  "name": "Kodungallur (Muziris)",
+  "lat": 10.23,
+  "lon": 76.2,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "kohima",
+  "name": "Kohima (Nagaland)",
+  "lat": 25.67,
+  "lon": 94.11,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "kokrajhar",
+  "name": "Kokrajhar (Bodo)",
+  "lat": 26.4,
+  "lon": 90.27,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "kolkata",
+  "name": "Kolkata",
+  "lat": 22.57,
+  "lon": 88.36,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "konark",
+  "name": "Konark",
+  "lat": 19.89,
+  "lon": 86.09,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "konko",
+  "name": "Konkō (Asakuchi)",
+  "lat": 34.55,
+  "lon": 133.59,
+  "country_iso2": "JP",
+  "kind": "city"
+ },
+ {
+  "id": "konya",
+  "name": "Konya",
+  "lat": 37.87,
+  "lon": 32.48,
+  "country_iso2": "TR",
+  "kind": "city"
+ },
+ {
+  "id": "korhogo",
+  "name": "Korhogo (Senufo)",
+  "lat": 9.46,
+  "lon": -5.63,
+  "country_iso2": "CI",
+  "kind": "city"
+ },
+ {
+  "id": "koror",
+  "name": "Koror (Palau)",
+  "lat": 7.34,
+  "lon": 134.48,
+  "country_iso2": "PW",
+  "kind": "city"
+ },
+ {
+  "id": "koumbi",
+  "name": "Koumbi Saleh (Ghana Empire)",
+  "lat": 15.76,
+  "lon": -7.97,
+  "country_iso2": "MR",
+  "kind": "site"
+ },
+ {
+  "id": "koyasan",
+  "name": "Mount Kōya",
+  "lat": 34.21,
+  "lon": 135.58,
+  "country_iso2": "JP",
+  "kind": "natural"
+ },
+ {
+  "id": "krakow",
+  "name": "Kraków",
+  "lat": 50.06,
+  "lon": 19.94,
+  "country_iso2": "PL",
+  "kind": "city"
+ },
+ {
+  "id": "kuala_lumpur",
+  "name": "Kuala Lumpur",
+  "lat": 3.14,
+  "lon": 101.69,
+  "country_iso2": "MY",
+  "kind": "city"
+ },
+ {
+  "id": "kuba",
+  "name": "Kuba Kingdom (Mushenge)",
+  "lat": -4.9,
+  "lon": 21.5,
+  "country_iso2": "CD",
+  "kind": "region"
+ },
+ {
+  "id": "kucha",
+  "name": "Kucha",
+  "lat": 41.72,
+  "lon": 82.96,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "kufa",
+  "name": "Kufa",
+  "lat": 32.03,
+  "lon": 44.4,
+  "country_iso2": "IQ",
+  "kind": "city"
+ },
+ {
+  "id": "kulin",
+  "name": "Melbourne (Kulin nations)",
+  "lat": -37.81,
+  "lon": 144.96,
+  "country_iso2": "AU",
+  "kind": "city"
+ },
+ {
+  "id": "kumano",
+  "name": "Kumano",
+  "lat": 33.84,
+  "lon": 135.77,
+  "country_iso2": "JP",
+  "kind": "region"
+ },
+ {
+  "id": "kumasi",
+  "name": "Kumasi",
+  "lat": 6.69,
+  "lon": -1.62,
+  "country_iso2": "GH",
+  "kind": "city"
+ },
+ {
+  "id": "kumbum",
+  "name": "Kumbum (Xining)",
+  "lat": 36.48,
+  "lon": 101.57,
+  "country_iso2": "CN",
+  "kind": "site"
+ },
+ {
+  "id": "kuntillet",
+  "name": "Kuntillet Ajrud",
+  "lat": 30.19,
+  "lon": 34.41,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "kunvald",
+  "name": "Kunvald",
+  "lat": 50.13,
+  "lon": 16.42,
+  "country_iso2": "CZ",
+  "kind": "city"
+ },
+ {
+  "id": "kunyu",
+  "name": "Kunyu Mountains (Shandong)",
+  "lat": 37.27,
+  "lon": 121.73,
+  "country_iso2": "CN",
+  "kind": "natural"
+ },
+ {
+  "id": "kurukshetra",
+  "name": "Kurukshetra",
+  "lat": 29.97,
+  "lon": 76.88,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "kushinagar",
+  "name": "Kushinagar",
+  "lat": 26.74,
+  "lon": 83.89,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "kushtia",
+  "name": "Kushtia",
+  "lat": 23.9,
+  "lon": 89.12,
+  "country_iso2": "BD",
+  "kind": "city"
+ },
+ {
+  "id": "kutai",
+  "name": "Muara Kaman (Kutai)",
+  "lat": -0.18,
+  "lon": 116.7,
+  "country_iso2": "ID",
+  "kind": "site"
+ },
+ {
+  "id": "kyiv",
+  "name": "Kyiv",
+  "lat": 50.45,
+  "lon": 30.52,
+  "country_iso2": "UA",
+  "kind": "city"
+ },
+ {
+  "id": "kyoto",
+  "name": "Kyoto",
+  "lat": 35.01,
+  "lon": 135.77,
+  "country_iso2": "JP",
+  "kind": "city"
+ },
+ {
+  "id": "kyzyl",
+  "name": "Kyzyl (Tuva)",
+  "lat": 51.72,
+  "lon": 94.45,
+  "country_iso2": "RU",
+  "kind": "city"
+ },
+ {
+  "id": "la_chapelle",
+  "name": "La Chapelle-aux-Saints",
+  "lat": 45.0,
+  "lon": 1.72,
+  "country_iso2": "FR",
+  "kind": "site"
+ },
+ {
+  "id": "la_venta",
+  "name": "La Venta",
+  "lat": 18.1,
+  "lon": -94.04,
+  "country_iso2": "MX",
+  "kind": "site"
+ },
+ {
+  "id": "lagos",
+  "name": "Lagos",
+  "lat": 6.52,
+  "lon": 3.38,
+  "country_iso2": "NG",
+  "kind": "city"
+ },
+ {
+  "id": "lahore",
+  "name": "Lahore",
+  "lat": 31.55,
+  "lon": 74.34,
+  "country_iso2": "PK",
+  "kind": "city"
+ },
+ {
+  "id": "lake_tana",
+  "name": "Lake Tana",
+  "lat": 12.0,
+  "lon": 37.3,
+  "country_iso2": "ET",
+  "kind": "natural"
+ },
+ {
+  "id": "lalibela",
+  "name": "Lalibela",
+  "lat": 12.03,
+  "lon": 39.04,
+  "country_iso2": "ET",
+  "kind": "city"
+ },
+ {
+  "id": "lalish",
+  "name": "Lalish",
+  "lat": 36.77,
+  "lon": 43.3,
+  "country_iso2": "IQ",
+  "kind": "site"
+ },
+ {
+  "id": "lambarene",
+  "name": "Lambaréné",
+  "lat": -0.7,
+  "lon": 10.24,
+  "country_iso2": "GA",
+  "kind": "city"
+ },
+ {
+  "id": "lamu",
+  "name": "Lamu",
+  "lat": -2.27,
+  "lon": 40.9,
+  "country_iso2": "KE",
+  "kind": "city"
+ },
+ {
+  "id": "lanao",
+  "name": "Lanao (Marawi)",
+  "lat": 8.0,
+  "lon": 124.29,
+  "country_iso2": "PH",
+  "kind": "region"
+ },
+ {
+  "id": "lapita_tonga",
+  "name": "Tongatapu (Lapita settlement)",
+  "lat": -21.15,
+  "lon": -175.25,
+  "country_iso2": "TO",
+  "kind": "island"
+ },
+ {
+  "id": "larabanga",
+  "name": "Larabanga",
+  "lat": 9.22,
+  "lon": -1.86,
+  "country_iso2": "GH",
+  "kind": "site"
+ },
+ {
+  "id": "larzac",
+  "name": "L'Hospitalet-du-Larzac",
+  "lat": 43.97,
+  "lon": 3.2,
+  "country_iso2": "FR",
+  "kind": "site"
+ },
+ {
+  "id": "las_vegas",
+  "name": "Las Vegas",
+  "lat": 36.17,
+  "lon": -115.14,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "lascaux",
+  "name": "Lascaux",
+  "lat": 45.05,
+  "lon": 1.17,
+  "country_iso2": "FR",
+  "kind": "site"
+ },
+ {
+  "id": "lausanne",
+  "name": "Lausanne",
+  "lat": 46.52,
+  "lon": 6.63,
+  "country_iso2": "CH",
+  "kind": "city"
+ },
+ {
+  "id": "lebanon_oh",
+  "name": "Lebanon, Ohio (Union Village)",
+  "lat": 39.43,
+  "lon": -84.21,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "leicester",
+  "name": "Leicester",
+  "lat": 52.64,
+  "lon": -1.13,
+  "country_iso2": "GB",
+  "kind": "city"
+ },
+ {
+  "id": "lhasa",
+  "name": "Lhasa",
+  "lat": 29.65,
+  "lon": 91.12,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "liangshan",
+  "name": "Liangshan (Yi)",
+  "lat": 27.89,
+  "lon": 102.27,
+  "country_iso2": "CN",
+  "kind": "region"
+ },
+ {
+  "id": "liangzhu",
+  "name": "Liangzhu",
+  "lat": 30.39,
+  "lon": 119.99,
+  "country_iso2": "CN",
+  "kind": "site"
+ },
+ {
+  "id": "liege",
+  "name": "Liège",
+  "lat": 50.63,
+  "lon": 5.57,
+  "country_iso2": "BE",
+  "kind": "city"
+ },
+ {
+  "id": "lijiang",
+  "name": "Lijiang (Naxi)",
+  "lat": 26.87,
+  "lon": 100.23,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "lily_dale",
+  "name": "Lily Dale, New York",
+  "lat": 42.35,
+  "lon": -79.33,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "lima",
+  "name": "Lima",
+  "lat": -12.05,
+  "lon": -77.04,
+  "country_iso2": "PE",
+  "kind": "city"
+ },
+ {
+  "id": "limbuwan",
+  "name": "Limbuwan (Taplejung)",
+  "lat": 27.35,
+  "lon": 87.67,
+  "country_iso2": "NP",
+  "kind": "region"
+ },
+ {
+  "id": "lindisfarne",
+  "name": "Lindisfarne",
+  "lat": 55.67,
+  "lon": -1.8,
+  "country_iso2": "GB",
+  "kind": "island"
+ },
+ {
+  "id": "lira",
+  "name": "Lira (Lango)",
+  "lat": 2.25,
+  "lon": 32.9,
+  "country_iso2": "UG",
+  "kind": "city"
+ },
+ {
+  "id": "lisbon",
+  "name": "Lisbon",
+  "lat": 38.72,
+  "lon": -9.14,
+  "country_iso2": "PT",
+  "kind": "city"
+ },
+ {
+  "id": "lisieux",
+  "name": "Lisieux",
+  "lat": 49.15,
+  "lon": 0.23,
+  "country_iso2": "FR",
+  "kind": "city"
+ },
+ {
+  "id": "london",
+  "name": "London",
+  "lat": 51.51,
+  "lon": -0.13,
+  "country_iso2": "GB",
+  "kind": "city"
+ },
+ {
+  "id": "longhu",
+  "name": "Mount Longhu",
+  "lat": 28.06,
+  "lon": 116.97,
+  "country_iso2": "CN",
+  "kind": "natural"
+ },
+ {
+  "id": "los_angeles",
+  "name": "Los Angeles",
+  "lat": 34.05,
+  "lon": -118.24,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "louguantai",
+  "name": "Louguantai",
+  "lat": 34.06,
+  "lon": 108.33,
+  "country_iso2": "CN",
+  "kind": "site"
+ },
+ {
+  "id": "lourdes",
+  "name": "Lourdes",
+  "lat": 43.09,
+  "lon": -0.05,
+  "country_iso2": "FR",
+  "kind": "city"
+ },
+ {
+  "id": "lovedu",
+  "name": "Modjadjiskloof (Lovedu)",
+  "lat": -23.63,
+  "lon": 30.13,
+  "country_iso2": "ZA",
+  "kind": "city"
+ },
+ {
+  "id": "low_hampton",
+  "name": "Low Hampton, New York",
+  "lat": 43.53,
+  "lon": -73.28,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "luang_prabang",
+  "name": "Luang Prabang",
+  "lat": 19.89,
+  "lon": 102.13,
+  "country_iso2": "LA",
+  "kind": "city"
+ },
+ {
+  "id": "luba",
+  "name": "Luba heartland (Upemba)",
+  "lat": -8.5,
+  "lon": 26.5,
+  "country_iso2": "CD",
+  "kind": "region"
+ },
+ {
+  "id": "lucban",
+  "name": "Lucban (Tayabas)",
+  "lat": 14.11,
+  "lon": 121.56,
+  "country_iso2": "PH",
+  "kind": "city"
+ },
+ {
+  "id": "ludhiana",
+  "name": "Ludhiana (Bhaini Sahib)",
+  "lat": 30.9,
+  "lon": 75.85,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "lumbini",
+  "name": "Lumbini",
+  "lat": 27.47,
+  "lon": 83.28,
+  "country_iso2": "NP",
+  "kind": "site"
+ },
+ {
+  "id": "lunel",
+  "name": "Lunel (Provence)",
+  "lat": 43.68,
+  "lon": 4.14,
+  "country_iso2": "FR",
+  "kind": "city"
+ },
+ {
+  "id": "luoyang",
+  "name": "Luoyang",
+  "lat": 34.62,
+  "lon": 112.45,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "lushan",
+  "name": "Mount Lu (Donglin Temple)",
+  "lat": 29.56,
+  "lon": 115.98,
+  "country_iso2": "CN",
+  "kind": "natural"
+ },
+ {
+  "id": "luy_lau",
+  "name": "Luy Lâu (Bắc Ninh)",
+  "lat": 21.04,
+  "lon": 106.04,
+  "country_iso2": "VN",
+  "kind": "site"
+ },
+ {
+  "id": "lynn_ma",
+  "name": "Lynn, Massachusetts",
+  "lat": 42.47,
+  "lon": -70.95,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "lyon",
+  "name": "Lyon",
+  "lat": 45.76,
+  "lon": 4.84,
+  "country_iso2": "FR",
+  "kind": "city"
+ },
+ {
+  "id": "lyubavichi",
+  "name": "Lyubavichi",
+  "lat": 55.0,
+  "lon": 31.0,
+  "country_iso2": "RU",
+  "kind": "city"
+ },
+ {
+  "id": "machakos",
+  "name": "Machakos (Ukambani)",
+  "lat": -1.52,
+  "lon": 37.26,
+  "country_iso2": "KE",
+  "kind": "city"
+ },
+ {
+  "id": "machu_picchu",
+  "name": "Machu Picchu",
+  "lat": -13.16,
+  "lon": -72.54,
+  "country_iso2": "PE",
+  "kind": "site"
+ },
+ {
+  "id": "macy_ne",
+  "name": "Macy, Nebraska (Omaha reservation)",
+  "lat": 42.12,
+  "lon": -96.36,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "madang",
+  "name": "Madang",
+  "lat": -5.22,
+  "lon": 145.79,
+  "country_iso2": "PG",
+  "kind": "city"
+ },
+ {
+  "id": "madeline_island",
+  "name": "Madeline Island (Ojibwe)",
+  "lat": 46.79,
+  "lon": -90.75,
+  "country_iso2": "US",
+  "kind": "island"
+ },
+ {
+  "id": "madjedbebe",
+  "name": "Madjedbebe (Arnhem Land)",
+  "lat": -12.5,
+  "lon": 132.9,
+  "country_iso2": "AU",
+  "kind": "site"
+ },
+ {
+  "id": "madurai",
+  "name": "Madurai",
+  "lat": 9.93,
+  "lon": 78.12,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "magdeburg",
+  "name": "Magdeburg",
+  "lat": 52.13,
+  "lon": 11.62,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "maguindanao",
+  "name": "Maguindanao (Cotabato)",
+  "lat": 7.22,
+  "lon": 124.25,
+  "country_iso2": "PH",
+  "kind": "region"
+ },
+ {
+  "id": "mahan",
+  "name": "Mahan (Kerman)",
+  "lat": 30.07,
+  "lon": 57.29,
+  "country_iso2": "IR",
+  "kind": "city"
+ },
+ {
+  "id": "mahdia",
+  "name": "Mahdia",
+  "lat": 35.5,
+  "lon": 11.06,
+  "country_iso2": "TN",
+  "kind": "city"
+ },
+ {
+  "id": "mainz",
+  "name": "Mainz",
+  "lat": 50.0,
+  "lon": 8.27,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "majuli",
+  "name": "Majuli (Assam satras)",
+  "lat": 26.95,
+  "lon": 94.17,
+  "country_iso2": "IN",
+  "kind": "island"
+ },
+ {
+  "id": "makassar",
+  "name": "Makassar",
+  "lat": -5.15,
+  "lon": 119.43,
+  "country_iso2": "ID",
+  "kind": "city"
+ },
+ {
+  "id": "malacca",
+  "name": "Malacca",
+  "lat": 2.19,
+  "lon": 102.25,
+  "country_iso2": "MY",
+  "kind": "city"
+ },
+ {
+  "id": "malaita",
+  "name": "Malaita",
+  "lat": -9.0,
+  "lon": 161.0,
+  "country_iso2": "SB",
+  "kind": "island"
+ },
+ {
+  "id": "malta_siberia",
+  "name": "Mal'ta (Irkutsk)",
+  "lat": 52.84,
+  "lon": 103.52,
+  "country_iso2": "RU",
+  "kind": "site"
+ },
+ {
+  "id": "manchester",
+  "name": "Manchester",
+  "lat": 53.48,
+  "lon": -2.24,
+  "country_iso2": "GB",
+  "kind": "city"
+ },
+ {
+  "id": "mandalay",
+  "name": "Mandalay",
+  "lat": 21.98,
+  "lon": 96.08,
+  "country_iso2": "MM",
+  "kind": "city"
+ },
+ {
+  "id": "manila",
+  "name": "Manila",
+  "lat": 14.6,
+  "lon": 120.98,
+  "country_iso2": "PH",
+  "kind": "city"
+ },
+ {
+  "id": "manus",
+  "name": "Manus",
+  "lat": -2.05,
+  "lon": 147.0,
+  "country_iso2": "PG",
+  "kind": "island"
+ },
+ {
+  "id": "maoshan",
+  "name": "Mount Mao (Maoshan)",
+  "lat": 31.73,
+  "lon": 119.33,
+  "country_iso2": "CN",
+  "kind": "natural"
+ },
+ {
+  "id": "mapungubwe",
+  "name": "Mapungubwe",
+  "lat": -22.2,
+  "lon": 29.39,
+  "country_iso2": "ZA",
+  "kind": "site"
+ },
+ {
+  "id": "maputo",
+  "name": "Maputo (Delagoa Bay)",
+  "lat": -25.97,
+  "lon": 32.57,
+  "country_iso2": "MZ",
+  "kind": "city"
+ },
+ {
+  "id": "mar_saba",
+  "name": "Mar Saba",
+  "lat": 31.71,
+  "lon": 35.33,
+  "country_iso2": "PS",
+  "kind": "site"
+ },
+ {
+  "id": "marange",
+  "name": "Marange (Bocha)",
+  "lat": -19.05,
+  "lon": 32.4,
+  "country_iso2": "ZW",
+  "kind": "region"
+ },
+ {
+  "id": "mari",
+  "name": "Mari",
+  "lat": 34.55,
+  "lon": 40.89,
+  "country_iso2": "SY",
+  "kind": "site"
+ },
+ {
+  "id": "marib",
+  "name": "Marib",
+  "lat": 15.42,
+  "lon": 45.33,
+  "country_iso2": "YE",
+  "kind": "site"
+ },
+ {
+  "id": "marrakesh",
+  "name": "Marrakesh",
+  "lat": 31.63,
+  "lon": -8.01,
+  "country_iso2": "MA",
+  "kind": "city"
+ },
+ {
+  "id": "marseille",
+  "name": "Marseille",
+  "lat": 43.3,
+  "lon": 5.37,
+  "country_iso2": "FR",
+  "kind": "city"
+ },
+ {
+  "id": "mashhad",
+  "name": "Mashhad",
+  "lat": 36.3,
+  "lon": 59.6,
+  "country_iso2": "IR",
+  "kind": "city"
+ },
+ {
+  "id": "matanzas",
+  "name": "Matanzas",
+  "lat": 23.04,
+  "lon": -81.58,
+  "country_iso2": "CU",
+  "kind": "city"
+ },
+ {
+  "id": "mathura",
+  "name": "Mathura",
+  "lat": 27.49,
+  "lon": 77.67,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "matobo",
+  "name": "Matobo Hills (Njelele)",
+  "lat": -20.55,
+  "lon": 28.5,
+  "country_iso2": "ZW",
+  "kind": "natural"
+ },
+ {
+  "id": "mauna_kea",
+  "name": "Mauna Kea",
+  "lat": 19.82,
+  "lon": -155.47,
+  "country_iso2": "US",
+  "kind": "natural"
+ },
+ {
+  "id": "maungapohatu",
+  "name": "Maungapōhatu",
+  "lat": -38.3,
+  "lon": 177.07,
+  "country_iso2": "NZ",
+  "kind": "natural"
+ },
+ {
+  "id": "mayapan",
+  "name": "Mayapán",
+  "lat": 20.63,
+  "lon": -89.46,
+  "country_iso2": "MX",
+  "kind": "site"
+ },
+ {
+  "id": "maysan",
+  "name": "Maysan marshes (Mandaean south Iraq)",
+  "lat": 31.84,
+  "lon": 47.15,
+  "country_iso2": "IQ",
+  "kind": "region"
+ },
+ {
+  "id": "mbanza_kongo",
+  "name": "Mbanza Kongo",
+  "lat": -6.27,
+  "lon": 14.24,
+  "country_iso2": "AO",
+  "kind": "city"
+ },
+ {
+  "id": "mecca",
+  "name": "Mecca",
+  "lat": 21.42,
+  "lon": 39.83,
+  "country_iso2": "SA",
+  "kind": "city"
+ },
+ {
+  "id": "medicine_wheel",
+  "name": "Bighorn Medicine Wheel",
+  "lat": 44.83,
+  "lon": -107.92,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "medina",
+  "name": "Medina",
+  "lat": 24.47,
+  "lon": 39.61,
+  "country_iso2": "SA",
+  "kind": "city"
+ },
+ {
+  "id": "medinet_madi",
+  "name": "Medinet Madi",
+  "lat": 29.19,
+  "lon": 30.64,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "medzhybizh",
+  "name": "Medzhybizh",
+  "lat": 49.44,
+  "lon": 27.41,
+  "country_iso2": "UA",
+  "kind": "city"
+ },
+ {
+  "id": "meherabad",
+  "name": "Meherabad (Ahmednagar)",
+  "lat": 19.06,
+  "lon": 74.78,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "mehrgarh",
+  "name": "Mehrgarh",
+  "lat": 29.39,
+  "lon": 67.61,
+  "country_iso2": "PK",
+  "kind": "site"
+ },
+ {
+  "id": "meizhou",
+  "name": "Meizhou Island (Putian)",
+  "lat": 25.07,
+  "lon": 119.12,
+  "country_iso2": "CN",
+  "kind": "island"
+ },
+ {
+  "id": "memphis",
+  "name": "Memphis (Mit Rahina)",
+  "lat": 29.85,
+  "lon": 31.25,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "menri",
+  "name": "Menri Monastery (Tsang)",
+  "lat": 29.4,
+  "lon": 88.5,
+  "country_iso2": "CN",
+  "kind": "site"
+ },
+ {
+  "id": "mer",
+  "name": "Mer (Murray Island)",
+  "lat": -9.92,
+  "lon": 144.05,
+  "country_iso2": "AU",
+  "kind": "island"
+ },
+ {
+  "id": "meroe",
+  "name": "Meroë",
+  "lat": 16.94,
+  "lon": 33.75,
+  "country_iso2": "SD",
+  "kind": "site"
+ },
+ {
+  "id": "merseburg",
+  "name": "Merseburg",
+  "lat": 51.35,
+  "lon": 12.0,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "merv",
+  "name": "Merv",
+  "lat": 37.66,
+  "lon": 62.19,
+  "country_iso2": "TM",
+  "kind": "site"
+ },
+ {
+  "id": "mesa_verde",
+  "name": "Mesa Verde",
+  "lat": 37.18,
+  "lon": -108.49,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "miami",
+  "name": "Miami",
+  "lat": 25.76,
+  "lon": -80.19,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "mihintale",
+  "name": "Mihintale",
+  "lat": 8.35,
+  "lon": 80.5,
+  "country_iso2": "LK",
+  "kind": "site"
+ },
+ {
+  "id": "milan",
+  "name": "Milan",
+  "lat": 45.46,
+  "lon": 9.19,
+  "country_iso2": "IT",
+  "kind": "city"
+ },
+ {
+  "id": "mindoro",
+  "name": "Mindoro (Mangyan)",
+  "lat": 12.52,
+  "lon": 121.44,
+  "country_iso2": "PH",
+  "kind": "island"
+ },
+ {
+  "id": "minobu",
+  "name": "Mount Minobu",
+  "lat": 35.37,
+  "lon": 138.42,
+  "country_iso2": "JP",
+  "kind": "natural"
+ },
+ {
+  "id": "mitla",
+  "name": "Mitla",
+  "lat": 16.93,
+  "lon": -96.36,
+  "country_iso2": "MX",
+  "kind": "site"
+ },
+ {
+  "id": "moaksan",
+  "name": "Moaksan (Gimje)",
+  "lat": 35.72,
+  "lon": 127.05,
+  "country_iso2": "KR",
+  "kind": "natural"
+ },
+ {
+  "id": "moche",
+  "name": "Huacas de Moche",
+  "lat": -8.13,
+  "lon": -78.99,
+  "country_iso2": "PE",
+  "kind": "site"
+ },
+ {
+  "id": "mogadishu",
+  "name": "Mogadishu",
+  "lat": 2.05,
+  "lon": 45.32,
+  "country_iso2": "SO",
+  "kind": "city"
+ },
+ {
+  "id": "mohenjo_daro",
+  "name": "Mohenjo-daro",
+  "lat": 27.33,
+  "lon": 68.14,
+  "country_iso2": "PK",
+  "kind": "site"
+ },
+ {
+  "id": "mombasa",
+  "name": "Mombasa",
+  "lat": -4.04,
+  "lon": 39.67,
+  "country_iso2": "KE",
+  "kind": "city"
+ },
+ {
+  "id": "monte_alban",
+  "name": "Monte Albán",
+  "lat": 17.04,
+  "lon": -96.77,
+  "country_iso2": "MX",
+  "kind": "site"
+ },
+ {
+  "id": "monte_cassino",
+  "name": "Monte Cassino",
+  "lat": 41.49,
+  "lon": 13.81,
+  "country_iso2": "IT",
+  "kind": "site"
+ },
+ {
+  "id": "monterrey",
+  "name": "Monterrey",
+  "lat": 25.69,
+  "lon": -100.32,
+  "country_iso2": "MX",
+  "kind": "city"
+ },
+ {
+  "id": "montsegur",
+  "name": "Montségur",
+  "lat": 42.88,
+  "lon": 1.83,
+  "country_iso2": "FR",
+  "kind": "site"
+ },
+ {
+  "id": "moria",
+  "name": "Zion City Moria",
+  "lat": -23.92,
+  "lon": 29.95,
+  "country_iso2": "ZA",
+  "kind": "city"
+ },
+ {
+  "id": "moscow",
+  "name": "Moscow",
+  "lat": 55.76,
+  "lon": 37.62,
+  "country_iso2": "RU",
+  "kind": "city"
+ },
+ {
+  "id": "mosul",
+  "name": "Mosul",
+  "lat": 36.34,
+  "lon": 43.13,
+  "country_iso2": "IQ",
+  "kind": "city"
+ },
+ {
+  "id": "moundville",
+  "name": "Moundville",
+  "lat": 33.0,
+  "lon": -87.63,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "mount_abu",
+  "name": "Mount Abu (Dilwara)",
+  "lat": 24.59,
+  "lon": 72.71,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "mount_kailash",
+  "name": "Mount Kailash",
+  "lat": 31.07,
+  "lon": 81.31,
+  "country_iso2": "CN",
+  "kind": "natural"
+ },
+ {
+  "id": "mount_kenya",
+  "name": "Mount Kenya",
+  "lat": -0.15,
+  "lon": 37.31,
+  "country_iso2": "KE",
+  "kind": "natural"
+ },
+ {
+  "id": "mount_tai",
+  "name": "Mount Tai",
+  "lat": 36.26,
+  "lon": 117.1,
+  "country_iso2": "CN",
+  "kind": "natural"
+ },
+ {
+  "id": "mozano",
+  "name": "Gomoa Mozano",
+  "lat": 5.42,
+  "lon": -0.72,
+  "country_iso2": "GH",
+  "kind": "city"
+ },
+ {
+  "id": "mtskheta",
+  "name": "Mtskheta",
+  "lat": 41.85,
+  "lon": 44.72,
+  "country_iso2": "GE",
+  "kind": "city"
+ },
+ {
+  "id": "mud_bay",
+  "name": "Mud Bay (Indian Shaker Church)",
+  "lat": 47.06,
+  "lon": -123.0,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "multan",
+  "name": "Multan",
+  "lat": 30.2,
+  "lon": 71.47,
+  "country_iso2": "PK",
+  "kind": "city"
+ },
+ {
+  "id": "mumbai",
+  "name": "Mumbai",
+  "lat": 19.08,
+  "lon": 72.88,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "munster",
+  "name": "Münster",
+  "lat": 51.96,
+  "lon": 7.63,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "murujuga",
+  "name": "Murujuga (Burrup Peninsula)",
+  "lat": -20.6,
+  "lon": 116.8,
+  "country_iso2": "AU",
+  "kind": "site"
+ },
+ {
+  "id": "my_son",
+  "name": "Mỹ Sơn",
+  "lat": 15.76,
+  "lon": 108.12,
+  "country_iso2": "VN",
+  "kind": "site"
+ },
+ {
+  "id": "mycenae",
+  "name": "Mycenae",
+  "lat": 37.73,
+  "lon": 22.76,
+  "country_iso2": "GR",
+  "kind": "site"
+ },
+ {
+  "id": "mzab",
+  "name": "M'zab (Ghardaïa)",
+  "lat": 32.49,
+  "lon": 3.67,
+  "country_iso2": "DZ",
+  "kind": "region"
+ },
+ {
+  "id": "nabadwip",
+  "name": "Nabadwip–Mayapur",
+  "lat": 23.42,
+  "lon": 88.37,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "nabta",
+  "name": "Nabta Playa",
+  "lat": 22.51,
+  "lon": 30.73,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "nafusa",
+  "name": "Jebel Nafusa",
+  "lat": 32.0,
+  "lon": 11.5,
+  "country_iso2": "LY",
+  "kind": "region"
+ },
+ {
+  "id": "nag_hammadi",
+  "name": "Nag Hammadi",
+  "lat": 26.05,
+  "lon": 32.24,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "nagarjunakonda",
+  "name": "Nagarjunakonda",
+  "lat": 16.52,
+  "lon": 79.24,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "nagasaki",
+  "name": "Nagasaki",
+  "lat": 32.75,
+  "lon": 129.88,
+  "country_iso2": "JP",
+  "kind": "city"
+ },
+ {
+  "id": "nagpur",
+  "name": "Nagpur (Deekshabhoomi)",
+  "lat": 21.13,
+  "lon": 79.07,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "nairobi",
+  "name": "Nairobi",
+  "lat": -1.29,
+  "lon": 36.82,
+  "country_iso2": "KE",
+  "kind": "city"
+ },
+ {
+  "id": "najaf",
+  "name": "Najaf",
+  "lat": 32.0,
+  "lon": 44.33,
+  "country_iso2": "IQ",
+  "kind": "city"
+ },
+ {
+  "id": "najran",
+  "name": "Najran",
+  "lat": 17.49,
+  "lon": 44.13,
+  "country_iso2": "SA",
+  "kind": "city"
+ },
+ {
+  "id": "nakhon_pathom",
+  "name": "Nakhon Pathom (Dvaravati)",
+  "lat": 13.82,
+  "lon": 100.06,
+  "country_iso2": "TH",
+  "kind": "city"
+ },
+ {
+  "id": "nalanda",
+  "name": "Nalanda",
+  "lat": 25.14,
+  "lon": 85.44,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "namwala",
+  "name": "Namwala (Kafue flats)",
+  "lat": -15.75,
+  "lon": 26.45,
+  "country_iso2": "ZM",
+  "kind": "city"
+ },
+ {
+  "id": "nan_madol",
+  "name": "Nan Madol (Pohnpei)",
+  "lat": 6.84,
+  "lon": 158.33,
+  "country_iso2": "FM",
+  "kind": "site"
+ },
+ {
+  "id": "nanded",
+  "name": "Nanded (Hazur Sahib)",
+  "lat": 19.15,
+  "lon": 77.31,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "nanjing",
+  "name": "Nanjing",
+  "lat": 32.06,
+  "lon": 118.8,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "nankana",
+  "name": "Nankana Sahib",
+  "lat": 31.45,
+  "lon": 73.71,
+  "country_iso2": "PK",
+  "kind": "city"
+ },
+ {
+  "id": "naqa",
+  "name": "Naqa",
+  "lat": 16.27,
+  "lon": 33.28,
+  "country_iso2": "SD",
+  "kind": "site"
+ },
+ {
+  "id": "nara",
+  "name": "Nara",
+  "lat": 34.69,
+  "lon": 135.8,
+  "country_iso2": "JP",
+  "kind": "city"
+ },
+ {
+  "id": "naraina",
+  "name": "Naraina (Rajasthan)",
+  "lat": 26.79,
+  "lon": 75.2,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "nargol",
+  "name": "Nargol (Gujarat)",
+  "lat": 20.23,
+  "lon": 72.75,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "narok",
+  "name": "Narok (Maasai)",
+  "lat": -1.08,
+  "lon": 35.87,
+  "country_iso2": "KE",
+  "kind": "city"
+ },
+ {
+  "id": "naryan_mar",
+  "name": "Naryan-Mar (Nenets)",
+  "lat": 67.64,
+  "lon": 53.0,
+  "country_iso2": "RU",
+  "kind": "city"
+ },
+ {
+  "id": "nathdwara",
+  "name": "Nathdwara",
+  "lat": 24.93,
+  "lon": 73.82,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "nauvoo",
+  "name": "Nauvoo, Illinois",
+  "lat": 40.55,
+  "lon": -91.38,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "nazareth",
+  "name": "Nazareth",
+  "lat": 32.7,
+  "lon": 35.3,
+  "country_iso2": "IL",
+  "kind": "city"
+ },
+ {
+  "id": "nazca",
+  "name": "Nazca",
+  "lat": -14.74,
+  "lon": -75.13,
+  "country_iso2": "PE",
+  "kind": "site"
+ },
+ {
+  "id": "new_orleans",
+  "name": "New Orleans",
+  "lat": 29.95,
+  "lon": -90.07,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "new_york",
+  "name": "New York",
+  "lat": 40.71,
+  "lon": -74.01,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "newark",
+  "name": "Newark, New Jersey",
+  "lat": 40.74,
+  "lon": -74.17,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "newgrange",
+  "name": "Newgrange (Brú na Bóinne)",
+  "lat": 53.69,
+  "lon": -6.48,
+  "country_iso2": "IE",
+  "kind": "site"
+ },
+ {
+  "id": "niani",
+  "name": "Niani (Mali Empire)",
+  "lat": 11.38,
+  "lon": -8.38,
+  "country_iso2": "GN",
+  "kind": "site"
+ },
+ {
+  "id": "nicaea",
+  "name": "Nicaea (İznik)",
+  "lat": 40.43,
+  "lon": 29.72,
+  "country_iso2": "TR",
+  "kind": "city"
+ },
+ {
+  "id": "nilgiris",
+  "name": "Nilgiris (Toda)",
+  "lat": 11.4,
+  "lon": 76.7,
+  "country_iso2": "IN",
+  "kind": "region"
+ },
+ {
+  "id": "nineveh",
+  "name": "Nineveh",
+  "lat": 36.36,
+  "lon": 43.15,
+  "country_iso2": "IQ",
+  "kind": "site"
+ },
+ {
+  "id": "nippur",
+  "name": "Nippur",
+  "lat": 32.13,
+  "lon": 45.23,
+  "country_iso2": "IQ",
+  "kind": "site"
+ },
+ {
+  "id": "nishapur",
+  "name": "Nishapur",
+  "lat": 36.21,
+  "lon": 58.8,
+  "country_iso2": "IR",
+  "kind": "city"
+ },
+ {
+  "id": "nisibis",
+  "name": "Nisibis (Nusaybin)",
+  "lat": 37.07,
+  "lon": 41.22,
+  "country_iso2": "TR",
+  "kind": "city"
+ },
+ {
+  "id": "niteroi",
+  "name": "Niterói",
+  "lat": -22.88,
+  "lon": -43.1,
+  "country_iso2": "BR",
+  "kind": "city"
+ },
+ {
+  "id": "niuheliang",
+  "name": "Niuheliang",
+  "lat": 41.33,
+  "lon": 119.55,
+  "country_iso2": "CN",
+  "kind": "site"
+ },
+ {
+  "id": "nizhnekolymsk",
+  "name": "Nizhnekolymsk (Kolyma)",
+  "lat": 68.53,
+  "lon": 160.92,
+  "country_iso2": "RU",
+  "kind": "city"
+ },
+ {
+  "id": "nkamba",
+  "name": "Nkamba",
+  "lat": -5.35,
+  "lon": 14.9,
+  "country_iso2": "CD",
+  "kind": "city"
+ },
+ {
+  "id": "nok",
+  "name": "Nok",
+  "lat": 9.5,
+  "lon": 8.03,
+  "country_iso2": "NG",
+  "kind": "site"
+ },
+ {
+  "id": "noongar",
+  "name": "Perth (Noongar)",
+  "lat": -31.95,
+  "lon": 115.86,
+  "country_iso2": "AU",
+  "kind": "city"
+ },
+ {
+  "id": "northampton_ma",
+  "name": "Northampton, Massachusetts",
+  "lat": 42.33,
+  "lon": -72.64,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "norwich",
+  "name": "Norwich",
+  "lat": 52.63,
+  "lon": 1.3,
+  "country_iso2": "GB",
+  "kind": "city"
+ },
+ {
+  "id": "notse",
+  "name": "Notsé",
+  "lat": 6.95,
+  "lon": 1.17,
+  "country_iso2": "TG",
+  "kind": "city"
+ },
+ {
+  "id": "noumea",
+  "name": "Nouméa (Kanak country)",
+  "lat": -22.27,
+  "lon": 166.45,
+  "country_iso2": "NC",
+  "kind": "city"
+ },
+ {
+  "id": "novgorod",
+  "name": "Veliky Novgorod",
+  "lat": 58.52,
+  "lon": 31.27,
+  "country_iso2": "RU",
+  "kind": "city"
+ },
+ {
+  "id": "nri",
+  "name": "Nri",
+  "lat": 6.17,
+  "lon": 6.99,
+  "country_iso2": "NG",
+  "kind": "city"
+ },
+ {
+  "id": "nuku_hiva",
+  "name": "Nuku Hiva (Marquesas)",
+  "lat": -8.86,
+  "lon": -140.14,
+  "country_iso2": "PF",
+  "kind": "island"
+ },
+ {
+  "id": "nukualofa",
+  "name": "Nukuʻalofa (Tonga)",
+  "lat": -21.14,
+  "lon": -175.2,
+  "country_iso2": "TO",
+  "kind": "city"
+ },
+ {
+  "id": "nyanza_rw",
+  "name": "Nyanza (Rwanda royal capital)",
+  "lat": -2.35,
+  "lon": 29.75,
+  "country_iso2": "RW",
+  "kind": "city"
+ },
+ {
+  "id": "ocmulgee",
+  "name": "Ocmulgee (Muscogee)",
+  "lat": 32.84,
+  "lon": -83.61,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "ogere",
+  "name": "Ogere-Remo (Church of the Lord Aladura HQ)",
+  "lat": 6.95,
+  "lon": 3.68,
+  "country_iso2": "NG",
+  "kind": "city"
+ },
+ {
+  "id": "ohrid",
+  "name": "Ohrid",
+  "lat": 41.12,
+  "lon": 20.8,
+  "country_iso2": "MK",
+  "kind": "city"
+ },
+ {
+  "id": "okahandja",
+  "name": "Okahandja (Herero)",
+  "lat": -21.98,
+  "lon": 16.91,
+  "country_iso2": "NA",
+  "kind": "city"
+ },
+ {
+  "id": "okayama",
+  "name": "Okayama",
+  "lat": 34.66,
+  "lon": 133.92,
+  "country_iso2": "JP",
+  "kind": "city"
+ },
+ {
+  "id": "olney",
+  "name": "Olney",
+  "lat": 52.15,
+  "lon": -0.7,
+  "country_iso2": "GB",
+  "kind": "city"
+ },
+ {
+  "id": "olympia",
+  "name": "Olympia",
+  "lat": 37.64,
+  "lon": 21.63,
+  "country_iso2": "GR",
+  "kind": "site"
+ },
+ {
+  "id": "omdurman",
+  "name": "Omdurman",
+  "lat": 15.64,
+  "lon": 32.48,
+  "country_iso2": "SD",
+  "kind": "city"
+ },
+ {
+  "id": "oneida",
+  "name": "Oneida, New York",
+  "lat": 43.09,
+  "lon": -75.65,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "onondaga",
+  "name": "Onondaga (Haudenosaunee)",
+  "lat": 42.97,
+  "lon": -76.17,
+  "country_iso2": "US",
+  "kind": "region"
+ },
+ {
+  "id": "oraibi",
+  "name": "Oraibi (Hopi)",
+  "lat": 35.87,
+  "lon": -110.64,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "orakandi",
+  "name": "Orakandi (Gopalganj)",
+  "lat": 23.0,
+  "lon": 89.83,
+  "country_iso2": "BD",
+  "kind": "city"
+ },
+ {
+  "id": "ordu_baliq",
+  "name": "Ordu-Baliq (Karabalgasun)",
+  "lat": 47.43,
+  "lon": 102.66,
+  "country_iso2": "MN",
+  "kind": "site"
+ },
+ {
+  "id": "orkhon",
+  "name": "Orkhon Valley (Khöshöö Tsaidam)",
+  "lat": 47.56,
+  "lon": 102.84,
+  "country_iso2": "MN",
+  "kind": "site"
+ },
+ {
+  "id": "orkney",
+  "name": "Orkney (Ring of Brodgar)",
+  "lat": 59.0,
+  "lon": -3.23,
+  "country_iso2": "GB",
+  "kind": "site"
+ },
+ {
+  "id": "oromia",
+  "name": "Oromia (Gadaa heartland)",
+  "lat": 8.0,
+  "lon": 38.5,
+  "country_iso2": "ET",
+  "kind": "region"
+ },
+ {
+  "id": "orongo",
+  "name": "Orongo (Rapa Nui)",
+  "lat": -27.19,
+  "lon": -109.44,
+  "country_iso2": "CL",
+  "kind": "site"
+ },
+ {
+  "id": "oryol",
+  "name": "Oryol",
+  "lat": 52.97,
+  "lon": 36.07,
+  "country_iso2": "RU",
+  "kind": "city"
+ },
+ {
+  "id": "osogbo",
+  "name": "Osogbo",
+  "lat": 7.77,
+  "lon": 4.56,
+  "country_iso2": "NG",
+  "kind": "city"
+ },
+ {
+  "id": "ossetia",
+  "name": "North Ossetia (Vladikavkaz)",
+  "lat": 43.02,
+  "lon": 44.68,
+  "country_iso2": "RU",
+  "kind": "region"
+ },
+ {
+  "id": "ostia",
+  "name": "Ostia",
+  "lat": 41.76,
+  "lon": 12.29,
+  "country_iso2": "IT",
+  "kind": "site"
+ },
+ {
+  "id": "ouagadougou",
+  "name": "Ouagadougou (Mossi)",
+  "lat": 12.37,
+  "lon": -1.53,
+  "country_iso2": "BF",
+  "kind": "city"
+ },
+ {
+  "id": "ouidah",
+  "name": "Ouidah",
+  "lat": 6.36,
+  "lon": 2.09,
+  "country_iso2": "BJ",
+  "kind": "city"
+ },
+ {
+  "id": "oxford",
+  "name": "Oxford",
+  "lat": 51.75,
+  "lon": -1.26,
+  "country_iso2": "GB",
+  "kind": "city"
+ },
+ {
+  "id": "oxyrhynchus",
+  "name": "Oxyrhynchus",
+  "lat": 28.54,
+  "lon": 30.66,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "oyo",
+  "name": "Oyo-Ile (Old Oyo)",
+  "lat": 8.95,
+  "lon": 4.38,
+  "country_iso2": "NG",
+  "kind": "site"
+ },
+ {
+  "id": "pachacamac",
+  "name": "Pachacamac",
+  "lat": -12.26,
+  "lon": -76.9,
+  "country_iso2": "PE",
+  "kind": "site"
+ },
+ {
+  "id": "paithan",
+  "name": "Paithan",
+  "lat": 19.48,
+  "lon": 75.38,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "pakpattan",
+  "name": "Pakpattan",
+  "lat": 30.34,
+  "lon": 73.39,
+  "country_iso2": "PK",
+  "kind": "city"
+ },
+ {
+  "id": "palana",
+  "name": "Palana (Koryak district)",
+  "lat": 59.08,
+  "lon": 159.95,
+  "country_iso2": "RU",
+  "kind": "city"
+ },
+ {
+  "id": "palangkaraya",
+  "name": "Palangka Raya (Central Kalimantan)",
+  "lat": -2.21,
+  "lon": 113.92,
+  "country_iso2": "ID",
+  "kind": "city"
+ },
+ {
+  "id": "palawan",
+  "name": "Palawan (Puerto Princesa)",
+  "lat": 9.74,
+  "lon": 118.74,
+  "country_iso2": "PH",
+  "kind": "island"
+ },
+ {
+  "id": "palembang",
+  "name": "Palembang (Srivijaya)",
+  "lat": -2.98,
+  "lon": 104.76,
+  "country_iso2": "ID",
+  "kind": "city"
+ },
+ {
+  "id": "palenque",
+  "name": "Palenque",
+  "lat": 17.48,
+  "lon": -92.05,
+  "country_iso2": "MX",
+  "kind": "site"
+ },
+ {
+  "id": "palitana",
+  "name": "Palitana",
+  "lat": 21.52,
+  "lon": 71.83,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "palmyra",
+  "name": "Palmyra, New York",
+  "lat": 43.06,
+  "lon": -77.23,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "panay",
+  "name": "Central Panay (Sulod)",
+  "lat": 11.2,
+  "lon": 122.5,
+  "country_iso2": "PH",
+  "kind": "region"
+ },
+ {
+  "id": "pandharpur",
+  "name": "Pandharpur",
+  "lat": 17.68,
+  "lon": 75.33,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "paramaribo",
+  "name": "Paramaribo",
+  "lat": 5.85,
+  "lon": -55.2,
+  "country_iso2": "SR",
+  "kind": "city"
+ },
+ {
+  "id": "parihaka",
+  "name": "Parihaka",
+  "lat": -39.29,
+  "lon": 173.86,
+  "country_iso2": "NZ",
+  "kind": "city"
+ },
+ {
+  "id": "paris",
+  "name": "Paris",
+  "lat": 48.86,
+  "lon": 2.35,
+  "country_iso2": "FR",
+  "kind": "city"
+ },
+ {
+  "id": "paro",
+  "name": "Paro (Taktsang)",
+  "lat": 27.43,
+  "lon": 89.42,
+  "country_iso2": "BT",
+  "kind": "city"
+ },
+ {
+  "id": "pasai",
+  "name": "Samudera Pasai (Lhokseumawe)",
+  "lat": 5.18,
+  "lon": 97.15,
+  "country_iso2": "ID",
+  "kind": "city"
+ },
+ {
+  "id": "pasighat",
+  "name": "Pasighat (Adi)",
+  "lat": 28.07,
+  "lon": 95.33,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "pataliputra",
+  "name": "Pataliputra (Patna)",
+  "lat": 25.61,
+  "lon": 85.14,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "patan_gujarat",
+  "name": "Anhilwara Patan",
+  "lat": 23.85,
+  "lon": 72.12,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "pate",
+  "name": "Pate Island",
+  "lat": -2.1,
+  "lon": 41.0,
+  "country_iso2": "KE",
+  "kind": "island"
+ },
+ {
+  "id": "patmos",
+  "name": "Patmos",
+  "lat": 37.31,
+  "lon": 26.55,
+  "country_iso2": "GR",
+  "kind": "island"
+ },
+ {
+  "id": "pavia",
+  "name": "Pavia",
+  "lat": 45.19,
+  "lon": 9.16,
+  "country_iso2": "IT",
+  "kind": "city"
+ },
+ {
+  "id": "pawapuri",
+  "name": "Pawapuri",
+  "lat": 25.09,
+  "lon": 85.53,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "pendle",
+  "name": "Pendle Hill",
+  "lat": 53.87,
+  "lon": -2.3,
+  "country_iso2": "GB",
+  "kind": "natural"
+ },
+ {
+  "id": "pentecost",
+  "name": "Pentecost Island",
+  "lat": -15.7,
+  "lon": 168.18,
+  "country_iso2": "VU",
+  "kind": "island"
+ },
+ {
+  "id": "pergamon",
+  "name": "Pergamon",
+  "lat": 39.13,
+  "lon": 27.18,
+  "country_iso2": "TR",
+  "kind": "city"
+ },
+ {
+  "id": "persepolis",
+  "name": "Persepolis",
+  "lat": 29.94,
+  "lon": 52.89,
+  "country_iso2": "IR",
+  "kind": "site"
+ },
+ {
+  "id": "peshawar",
+  "name": "Peshawar",
+  "lat": 34.01,
+  "lon": 71.58,
+  "country_iso2": "PK",
+  "kind": "city"
+ },
+ {
+  "id": "petra",
+  "name": "Petra",
+  "lat": 30.33,
+  "lon": 35.44,
+  "country_iso2": "JO",
+  "kind": "site"
+ },
+ {
+  "id": "philadelphia",
+  "name": "Philadelphia",
+  "lat": 39.95,
+  "lon": -75.17,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "philae",
+  "name": "Philae",
+  "lat": 24.03,
+  "lon": 32.88,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "phnom_penh",
+  "name": "Phnom Penh",
+  "lat": 11.56,
+  "lon": 104.92,
+  "country_iso2": "KH",
+  "kind": "city"
+ },
+ {
+  "id": "phrygia",
+  "name": "Phrygia (Pepouza)",
+  "lat": 38.5,
+  "lon": 29.5,
+  "country_iso2": "TR",
+  "kind": "region"
+ },
+ {
+  "id": "phu_day",
+  "name": "Phủ Dầy (Nam Định)",
+  "lat": 20.33,
+  "lon": 106.05,
+  "country_iso2": "VN",
+  "kind": "site"
+ },
+ {
+  "id": "piacenza",
+  "name": "Piacenza",
+  "lat": 45.05,
+  "lon": 9.7,
+  "country_iso2": "IT",
+  "kind": "city"
+ },
+ {
+  "id": "pine_ridge",
+  "name": "Pine Ridge (Lakota)",
+  "lat": 43.03,
+  "lon": -102.55,
+  "country_iso2": "US",
+  "kind": "region"
+ },
+ {
+  "id": "pinnacle",
+  "name": "Pinnacle (St Catherine)",
+  "lat": 18.02,
+  "lon": -77.03,
+  "country_iso2": "JM",
+  "kind": "site"
+ },
+ {
+  "id": "pittsburgh",
+  "name": "Pittsburgh (Allegheny)",
+  "lat": 40.44,
+  "lon": -80.0,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "planaltina",
+  "name": "Planaltina (Brasília)",
+  "lat": -15.62,
+  "lon": -47.65,
+  "country_iso2": "BR",
+  "kind": "city"
+ },
+ {
+  "id": "plock",
+  "name": "Płock",
+  "lat": 52.55,
+  "lon": 19.71,
+  "country_iso2": "PL",
+  "kind": "city"
+ },
+ {
+  "id": "plymouth_uk",
+  "name": "Plymouth",
+  "lat": 50.37,
+  "lon": -4.14,
+  "country_iso2": "GB",
+  "kind": "city"
+ },
+ {
+  "id": "pomio",
+  "name": "Pomio (East New Britain)",
+  "lat": -5.53,
+  "lon": 151.53,
+  "country_iso2": "PG",
+  "kind": "region"
+ },
+ {
+  "id": "pondicherry",
+  "name": "Puducherry",
+  "lat": 11.93,
+  "lon": 79.83,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "port_au_prince",
+  "name": "Port-au-Prince",
+  "lat": 18.54,
+  "lon": -72.34,
+  "country_iso2": "HT",
+  "kind": "city"
+ },
+ {
+  "id": "port_blair",
+  "name": "Port Blair (Andaman Islands)",
+  "lat": 11.62,
+  "lon": 92.73,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "port_louis",
+  "name": "Port Louis",
+  "lat": -20.16,
+  "lon": 57.5,
+  "country_iso2": "MU",
+  "kind": "city"
+ },
+ {
+  "id": "port_moresby",
+  "name": "Port Moresby",
+  "lat": -9.44,
+  "lon": 147.18,
+  "country_iso2": "PG",
+  "kind": "city"
+ },
+ {
+  "id": "port_of_spain",
+  "name": "Port of Spain",
+  "lat": 10.65,
+  "lon": -61.51,
+  "country_iso2": "TT",
+  "kind": "city"
+ },
+ {
+  "id": "porto_alegre",
+  "name": "Porto Alegre",
+  "lat": -30.03,
+  "lon": -51.23,
+  "country_iso2": "BR",
+  "kind": "city"
+ },
+ {
+  "id": "porto_novo",
+  "name": "Porto-Novo",
+  "lat": 6.5,
+  "lon": 2.6,
+  "country_iso2": "BJ",
+  "kind": "city"
+ },
+ {
+  "id": "porto_velho",
+  "name": "Porto Velho",
+  "lat": -8.76,
+  "lon": -63.9,
+  "country_iso2": "BR",
+  "kind": "city"
+ },
+ {
+  "id": "poverty_point",
+  "name": "Poverty Point",
+  "lat": 32.64,
+  "lon": -91.41,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "prague",
+  "name": "Prague",
+  "lat": 50.08,
+  "lon": 14.44,
+  "country_iso2": "CZ",
+  "kind": "city"
+ },
+ {
+  "id": "prambanan",
+  "name": "Prambanan",
+  "lat": -7.75,
+  "lon": 110.49,
+  "country_iso2": "ID",
+  "kind": "site"
+ },
+ {
+  "id": "prayagraj",
+  "name": "Prayagraj",
+  "lat": 25.44,
+  "lon": 81.85,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "preslav",
+  "name": "Preslav",
+  "lat": 43.16,
+  "lon": 26.82,
+  "country_iso2": "BG",
+  "kind": "city"
+ },
+ {
+  "id": "priest_rapids",
+  "name": "Priest Rapids (Smohalla)",
+  "lat": 46.64,
+  "lon": -119.91,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "prophetstown",
+  "name": "Prophetstown (Tippecanoe)",
+  "lat": 40.47,
+  "lon": -86.84,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "pucallpa",
+  "name": "Pucallpa (Shipibo)",
+  "lat": -8.38,
+  "lon": -74.55,
+  "country_iso2": "PE",
+  "kind": "city"
+ },
+ {
+  "id": "pumbedita",
+  "name": "Pumbedita (Fallujah)",
+  "lat": 33.35,
+  "lon": 43.78,
+  "country_iso2": "IQ",
+  "kind": "city"
+ },
+ {
+  "id": "pune",
+  "name": "Pune",
+  "lat": 18.52,
+  "lon": 73.86,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "puri",
+  "name": "Puri",
+  "lat": 19.81,
+  "lon": 85.83,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "putian",
+  "name": "Putian",
+  "lat": 25.43,
+  "lon": 119.01,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "puttaparthi",
+  "name": "Puttaparthi",
+  "lat": 14.17,
+  "lon": 77.81,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "putuo",
+  "name": "Mount Putuo",
+  "lat": 30.0,
+  "lon": 122.39,
+  "country_iso2": "CN",
+  "kind": "island"
+ },
+ {
+  "id": "pylos",
+  "name": "Pylos",
+  "lat": 37.03,
+  "lon": 21.7,
+  "country_iso2": "GR",
+  "kind": "site"
+ },
+ {
+  "id": "pyongyang",
+  "name": "Pyongyang",
+  "lat": 39.04,
+  "lon": 125.76,
+  "country_iso2": "KP",
+  "kind": "city"
+ },
+ {
+  "id": "qadian",
+  "name": "Qadian",
+  "lat": 31.82,
+  "lon": 75.38,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "qafzeh",
+  "name": "Qafzeh Cave",
+  "lat": 32.68,
+  "lon": 35.32,
+  "country_iso2": "IL",
+  "kind": "site"
+ },
+ {
+  "id": "qasr_ibrim",
+  "name": "Qasr Ibrim",
+  "lat": 22.65,
+  "lon": 31.99,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "qom",
+  "name": "Qom",
+  "lat": 34.64,
+  "lon": 50.88,
+  "country_iso2": "IR",
+  "kind": "city"
+ },
+ {
+  "id": "quanzhou",
+  "name": "Quanzhou",
+  "lat": 24.87,
+  "lon": 118.68,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "quezon_city",
+  "name": "Quezon City",
+  "lat": 14.68,
+  "lon": 121.04,
+  "country_iso2": "PH",
+  "kind": "city"
+ },
+ {
+  "id": "qufu",
+  "name": "Qufu",
+  "lat": 35.6,
+  "lon": 116.99,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "quirigua",
+  "name": "Quiriguá",
+  "lat": 15.27,
+  "lon": -89.04,
+  "country_iso2": "GT",
+  "kind": "site"
+ },
+ {
+  "id": "qumran",
+  "name": "Qumran",
+  "lat": 31.74,
+  "lon": 35.46,
+  "country_iso2": "PS",
+  "kind": "site"
+ },
+ {
+  "id": "rabinal",
+  "name": "Rabinal",
+  "lat": 15.09,
+  "lon": -90.49,
+  "country_iso2": "GT",
+  "kind": "city"
+ },
+ {
+  "id": "rabwah",
+  "name": "Rabwah (Chenab Nagar)",
+  "lat": 31.75,
+  "lon": 72.92,
+  "country_iso2": "PK",
+  "kind": "city"
+ },
+ {
+  "id": "raiatea",
+  "name": "Taputapuātea (Raʻiātea)",
+  "lat": -16.83,
+  "lon": -151.36,
+  "country_iso2": "PF",
+  "kind": "site"
+ },
+ {
+  "id": "rajgir",
+  "name": "Rajgir",
+  "lat": 25.03,
+  "lon": 85.42,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "rameswaram",
+  "name": "Rameswaram",
+  "lat": 9.29,
+  "lon": 79.31,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "ranakpur",
+  "name": "Ranakpur",
+  "lat": 25.12,
+  "lon": 73.47,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "ranchi",
+  "name": "Ranchi",
+  "lat": 23.34,
+  "lon": 85.31,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "rancho_santa_fe",
+  "name": "Rancho Santa Fe",
+  "lat": 33.02,
+  "lon": -117.2,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "ratana_pa",
+  "name": "Rātana Pā",
+  "lat": -40.05,
+  "lon": 175.18,
+  "country_iso2": "NZ",
+  "kind": "city"
+ },
+ {
+  "id": "raukkan",
+  "name": "Raukkan (Ngarrindjeri)",
+  "lat": -35.52,
+  "lon": 139.17,
+  "country_iso2": "AU",
+  "kind": "city"
+ },
+ {
+  "id": "ravenna",
+  "name": "Ravenna",
+  "lat": 44.42,
+  "lon": 12.2,
+  "country_iso2": "IT",
+  "kind": "city"
+ },
+ {
+  "id": "rawalpindi",
+  "name": "Rawalpindi",
+  "lat": 33.6,
+  "lon": 73.04,
+  "country_iso2": "PK",
+  "kind": "city"
+ },
+ {
+  "id": "recife",
+  "name": "Recife",
+  "lat": -8.05,
+  "lon": -34.88,
+  "country_iso2": "BR",
+  "kind": "city"
+ },
+ {
+  "id": "reykjavik",
+  "name": "Reykjavík",
+  "lat": 64.15,
+  "lon": -21.94,
+  "country_iso2": "IS",
+  "kind": "city"
+ },
+ {
+  "id": "riddhpur",
+  "name": "Riddhpur",
+  "lat": 21.23,
+  "lon": 77.81,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "riga",
+  "name": "Riga",
+  "lat": 56.95,
+  "lon": 24.11,
+  "country_iso2": "LV",
+  "kind": "city"
+ },
+ {
+  "id": "rio",
+  "name": "Rio de Janeiro",
+  "lat": -22.91,
+  "lon": -43.17,
+  "country_iso2": "BR",
+  "kind": "city"
+ },
+ {
+  "id": "rio_branco",
+  "name": "Rio Branco (Acre)",
+  "lat": -9.97,
+  "lon": -67.81,
+  "country_iso2": "BR",
+  "kind": "city"
+ },
+ {
+  "id": "rishikesh",
+  "name": "Rishikesh",
+  "lat": 30.09,
+  "lon": 78.27,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "rok",
+  "name": "Rök",
+  "lat": 58.29,
+  "lon": 14.78,
+  "country_iso2": "SE",
+  "kind": "site"
+ },
+ {
+  "id": "rome",
+  "name": "Rome",
+  "lat": 41.9,
+  "lon": 12.5,
+  "country_iso2": "IT",
+  "kind": "city"
+ },
+ {
+  "id": "roraima",
+  "name": "Roraima (Yanomami)",
+  "lat": 3.0,
+  "lon": -63.5,
+  "country_iso2": "BR",
+  "kind": "region"
+ },
+ {
+  "id": "safed",
+  "name": "Safed",
+  "lat": 32.96,
+  "lon": 35.5,
+  "country_iso2": "IL",
+  "kind": "city"
+ },
+ {
+  "id": "sainte_marie",
+  "name": "Sainte-Marie-aux-Mines (Alsace)",
+  "lat": 48.25,
+  "lon": 7.18,
+  "country_iso2": "FR",
+  "kind": "city"
+ },
+ {
+  "id": "sakya",
+  "name": "Sakya",
+  "lat": 28.9,
+  "lon": 88.02,
+  "country_iso2": "CN",
+  "kind": "site"
+ },
+ {
+  "id": "salem",
+  "name": "Salem, Massachusetts",
+  "lat": 42.52,
+  "lon": -70.9,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "salisbury",
+  "name": "Salisbury",
+  "lat": 51.07,
+  "lon": -1.79,
+  "country_iso2": "GB",
+  "kind": "city"
+ },
+ {
+  "id": "salt_lake",
+  "name": "Salt Lake City",
+  "lat": 40.76,
+  "lon": -111.89,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "salvador",
+  "name": "Salvador (Bahia)",
+  "lat": -12.97,
+  "lon": -38.5,
+  "country_iso2": "BR",
+  "kind": "city"
+ },
+ {
+  "id": "samarkand",
+  "name": "Samarkand",
+  "lat": 39.65,
+  "lon": 66.96,
+  "country_iso2": "UZ",
+  "kind": "city"
+ },
+ {
+  "id": "samarra",
+  "name": "Samarra",
+  "lat": 34.2,
+  "lon": 43.87,
+  "country_iso2": "IQ",
+  "kind": "city"
+ },
+ {
+  "id": "samothrace",
+  "name": "Samothrace",
+  "lat": 40.5,
+  "lon": 25.53,
+  "country_iso2": "GR",
+  "kind": "island"
+ },
+ {
+  "id": "samye",
+  "name": "Samye",
+  "lat": 29.33,
+  "lon": 91.5,
+  "country_iso2": "CN",
+  "kind": "site"
+ },
+ {
+  "id": "san_francisco",
+  "name": "San Francisco",
+  "lat": 37.77,
+  "lon": -122.42,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "san_ildefonso",
+  "name": "San Ildefonso Pueblo",
+  "lat": 35.89,
+  "lon": -106.12,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "san_lorenzo",
+  "name": "San Lorenzo Tenochtitlán",
+  "lat": 17.75,
+  "lon": -94.76,
+  "country_iso2": "MX",
+  "kind": "site"
+ },
+ {
+  "id": "san_pablito",
+  "name": "San Pablito (Otomí)",
+  "lat": 20.3,
+  "lon": -98.2,
+  "country_iso2": "MX",
+  "kind": "city"
+ },
+ {
+  "id": "sanchi",
+  "name": "Sanchi",
+  "lat": 23.48,
+  "lon": 77.74,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "sanjan",
+  "name": "Sanjan",
+  "lat": 20.2,
+  "lon": 72.8,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "santa_barbara",
+  "name": "Santa Barbara (Chumash)",
+  "lat": 34.42,
+  "lon": -119.7,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "santa_marta",
+  "name": "Sierra Nevada de Santa Marta",
+  "lat": 10.8,
+  "lon": -73.7,
+  "country_iso2": "CO",
+  "kind": "natural"
+ },
+ {
+  "id": "santiago",
+  "name": "Santiago de Compostela",
+  "lat": 42.88,
+  "lon": -8.54,
+  "country_iso2": "ES",
+  "kind": "city"
+ },
+ {
+  "id": "santo_domingo",
+  "name": "Santo Domingo",
+  "lat": 18.49,
+  "lon": -69.93,
+  "country_iso2": "DO",
+  "kind": "city"
+ },
+ {
+  "id": "sanxingdui",
+  "name": "Sanxingdui",
+  "lat": 31.0,
+  "lon": 104.2,
+  "country_iso2": "CN",
+  "kind": "site"
+ },
+ {
+  "id": "sao_luis",
+  "name": "São Luís",
+  "lat": -2.53,
+  "lon": -44.3,
+  "country_iso2": "BR",
+  "kind": "city"
+ },
+ {
+  "id": "sapmi",
+  "name": "Sápmi (Kautokeino)",
+  "lat": 69.0,
+  "lon": 23.0,
+  "country_iso2": "NO",
+  "kind": "region"
+ },
+ {
+  "id": "saptasindhu",
+  "name": "Sapta Sindhu (Punjab region)",
+  "lat": 31.0,
+  "lon": 74.0,
+  "country_iso2": "PK",
+  "kind": "region"
+ },
+ {
+  "id": "saqqara",
+  "name": "Saqqara",
+  "lat": 29.87,
+  "lon": 31.22,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "sarajevo",
+  "name": "Sarajevo",
+  "lat": 43.86,
+  "lon": 18.41,
+  "country_iso2": "BA",
+  "kind": "city"
+ },
+ {
+  "id": "sardinia",
+  "name": "Sardinia (Nuragic)",
+  "lat": 40.1,
+  "lon": 9.0,
+  "country_iso2": "IT",
+  "kind": "island"
+ },
+ {
+  "id": "sardis",
+  "name": "Sardis",
+  "lat": 38.49,
+  "lon": 28.04,
+  "country_iso2": "TR",
+  "kind": "site"
+ },
+ {
+  "id": "sarmizegetusa",
+  "name": "Sarmizegetusa Regia",
+  "lat": 45.62,
+  "lon": 23.31,
+  "country_iso2": "RO",
+  "kind": "site"
+ },
+ {
+  "id": "sarnath",
+  "name": "Sarnath",
+  "lat": 25.38,
+  "lon": 83.02,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "satawal",
+  "name": "Satawal",
+  "lat": 7.37,
+  "lon": 147.03,
+  "country_iso2": "FM",
+  "kind": "island"
+ },
+ {
+  "id": "scetis",
+  "name": "Wadi El Natrun (Scetis)",
+  "lat": 30.35,
+  "lon": 30.28,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "schleitheim",
+  "name": "Schleitheim",
+  "lat": 47.75,
+  "lon": 8.49,
+  "country_iso2": "CH",
+  "kind": "city"
+ },
+ {
+  "id": "seesen",
+  "name": "Seesen",
+  "lat": 51.89,
+  "lon": 10.18,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "segou",
+  "name": "Ségou",
+  "lat": 13.43,
+  "lon": -6.26,
+  "country_iso2": "ML",
+  "kind": "city"
+ },
+ {
+  "id": "semarang",
+  "name": "Semarang",
+  "lat": -6.97,
+  "lon": 110.42,
+  "country_iso2": "ID",
+  "kind": "city"
+ },
+ {
+  "id": "seoul",
+  "name": "Seoul",
+  "lat": 37.57,
+  "lon": 126.98,
+  "country_iso2": "KR",
+  "kind": "city"
+ },
+ {
+  "id": "sepik",
+  "name": "Sepik River (Iatmul)",
+  "lat": -4.2,
+  "lon": 143.4,
+  "country_iso2": "PG",
+  "kind": "region"
+ },
+ {
+  "id": "sepphoris",
+  "name": "Sepphoris (Tzippori)",
+  "lat": 32.75,
+  "lon": 35.28,
+  "country_iso2": "IL",
+  "kind": "city"
+ },
+ {
+  "id": "serpent_mound",
+  "name": "Serpent Mound",
+  "lat": 39.03,
+  "lon": -83.43,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "shanghai",
+  "name": "Shanghai",
+  "lat": 31.23,
+  "lon": 121.47,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "shanidar",
+  "name": "Shanidar Cave",
+  "lat": 36.83,
+  "lon": 44.22,
+  "country_iso2": "IQ",
+  "kind": "site"
+ },
+ {
+  "id": "shenyang",
+  "name": "Shenyang (Mukden)",
+  "lat": 41.81,
+  "lon": 123.43,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "shigatse",
+  "name": "Shigatse (Tashilhunpo)",
+  "lat": 29.27,
+  "lon": 88.88,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "shillong",
+  "name": "Shillong",
+  "lat": 25.58,
+  "lon": 91.89,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "shimabara",
+  "name": "Shimabara",
+  "lat": 32.79,
+  "lon": 130.37,
+  "country_iso2": "JP",
+  "kind": "city"
+ },
+ {
+  "id": "shiraz",
+  "name": "Shiraz",
+  "lat": 29.59,
+  "lon": 52.58,
+  "country_iso2": "IR",
+  "kind": "city"
+ },
+ {
+  "id": "shirdi",
+  "name": "Shirdi",
+  "lat": 19.77,
+  "lon": 74.48,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "shkoder",
+  "name": "Shkodër (Scodra)",
+  "lat": 42.07,
+  "lon": 19.51,
+  "country_iso2": "AL",
+  "kind": "city"
+ },
+ {
+  "id": "shravanabelagola",
+  "name": "Shravanabelagola",
+  "lat": 12.86,
+  "lon": 76.48,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "shravasti",
+  "name": "Shravasti",
+  "lat": 27.52,
+  "lon": 82.05,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "shuri",
+  "name": "Shuri (Okinawa)",
+  "lat": 26.22,
+  "lon": 127.72,
+  "country_iso2": "JP",
+  "kind": "city"
+ },
+ {
+  "id": "siena",
+  "name": "Siena",
+  "lat": 43.32,
+  "lon": 11.33,
+  "country_iso2": "IT",
+  "kind": "city"
+ },
+ {
+  "id": "simunul",
+  "name": "Simunul (Tawi-Tawi)",
+  "lat": 4.9,
+  "lon": 119.82,
+  "country_iso2": "PH",
+  "kind": "island"
+ },
+ {
+  "id": "sinai",
+  "name": "Mount Sinai (St Catherine's)",
+  "lat": 28.56,
+  "lon": 33.98,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "sine",
+  "name": "Sine (Fatick)",
+  "lat": 14.34,
+  "lon": -16.41,
+  "country_iso2": "SN",
+  "kind": "region"
+ },
+ {
+  "id": "singapore",
+  "name": "Singapore",
+  "lat": 1.29,
+  "lon": 103.85,
+  "country_iso2": "SG",
+  "kind": "city"
+ },
+ {
+  "id": "sinjar",
+  "name": "Sinjar",
+  "lat": 36.32,
+  "lon": 41.87,
+  "country_iso2": "IQ",
+  "kind": "city"
+ },
+ {
+  "id": "sippar",
+  "name": "Sippar",
+  "lat": 33.06,
+  "lon": 44.25,
+  "country_iso2": "IQ",
+  "kind": "site"
+ },
+ {
+  "id": "sirsa",
+  "name": "Sirsa",
+  "lat": 29.53,
+  "lon": 75.03,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "sitka",
+  "name": "Sitka (Tlingit)",
+  "lat": 57.05,
+  "lon": -135.33,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "siwa",
+  "name": "Siwa Oasis",
+  "lat": 29.2,
+  "lon": 25.52,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "skhul",
+  "name": "Skhul Cave",
+  "lat": 32.67,
+  "lon": 34.97,
+  "country_iso2": "IL",
+  "kind": "site"
+ },
+ {
+  "id": "slavkov",
+  "name": "Slavkov u Brna (Austerlitz)",
+  "lat": 49.15,
+  "lon": 16.88,
+  "country_iso2": "CZ",
+  "kind": "city"
+ },
+ {
+  "id": "smyrna",
+  "name": "Smyrna (İzmir)",
+  "lat": 38.42,
+  "lon": 27.14,
+  "country_iso2": "TR",
+  "kind": "city"
+ },
+ {
+  "id": "sohag",
+  "name": "Sohag (White Monastery)",
+  "lat": 26.53,
+  "lon": 31.64,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "sokoto",
+  "name": "Sokoto",
+  "lat": 13.06,
+  "lon": 5.24,
+  "country_iso2": "NG",
+  "kind": "city"
+ },
+ {
+  "id": "solola",
+  "name": "Sololá",
+  "lat": 14.77,
+  "lon": -91.18,
+  "country_iso2": "GT",
+  "kind": "city"
+ },
+ {
+  "id": "somnath",
+  "name": "Somnath",
+  "lat": 20.89,
+  "lon": 70.4,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "songadh",
+  "name": "Songadh (Gujarat)",
+  "lat": 21.67,
+  "lon": 71.95,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "songgwangsa",
+  "name": "Songgwangsa",
+  "lat": 35.0,
+  "lon": 127.28,
+  "country_iso2": "KR",
+  "kind": "site"
+ },
+ {
+  "id": "songshan",
+  "name": "Mount Song (Shaolin)",
+  "lat": 34.51,
+  "lon": 112.94,
+  "country_iso2": "CN",
+  "kind": "natural"
+ },
+ {
+  "id": "sorte",
+  "name": "Cerro María Lionza (Sorte)",
+  "lat": 10.3,
+  "lon": -68.75,
+  "country_iso2": "VE",
+  "kind": "natural"
+ },
+ {
+  "id": "spring_glen",
+  "name": "Spring Glen, New York",
+  "lat": 41.66,
+  "lon": -74.43,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "sri_ksetra",
+  "name": "Sri Ksetra (Pyu)",
+  "lat": 18.8,
+  "lon": 95.29,
+  "country_iso2": "MM",
+  "kind": "site"
+ },
+ {
+  "id": "srinagar",
+  "name": "Srinagar (Kashmir)",
+  "lat": 34.08,
+  "lon": 74.8,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "sringeri",
+  "name": "Sringeri",
+  "lat": 13.42,
+  "lon": 75.25,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "sriperumbudur",
+  "name": "Sriperumbudur",
+  "lat": 12.97,
+  "lon": 79.94,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "srirangam",
+  "name": "Srirangam",
+  "lat": 10.86,
+  "lon": 78.69,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "srivilliputhur",
+  "name": "Srivilliputhur",
+  "lat": 9.51,
+  "lon": 77.63,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "st_albans",
+  "name": "Bricket Wood (St Albans)",
+  "lat": 51.71,
+  "lon": -0.37,
+  "country_iso2": "GB",
+  "kind": "city"
+ },
+ {
+  "id": "st_anthony",
+  "name": "Monastery of St Anthony (Red Sea)",
+  "lat": 28.92,
+  "lon": 32.35,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "st_georges_hill",
+  "name": "St George's Hill, Surrey",
+  "lat": 51.36,
+  "lon": -0.45,
+  "country_iso2": "GB",
+  "kind": "site"
+ },
+ {
+  "id": "stonehenge",
+  "name": "Stonehenge",
+  "lat": 51.18,
+  "lon": -1.83,
+  "country_iso2": "GB",
+  "kind": "site"
+ },
+ {
+  "id": "sudd",
+  "name": "Sudd (Dinka and Nuer lands)",
+  "lat": 7.5,
+  "lon": 30.5,
+  "country_iso2": "SS",
+  "kind": "region"
+ },
+ {
+  "id": "sukhothai",
+  "name": "Sukhothai",
+  "lat": 17.01,
+  "lon": 99.7,
+  "country_iso2": "TH",
+  "kind": "site"
+ },
+ {
+  "id": "sultanpur",
+  "name": "Sultanpur Lodhi",
+  "lat": 31.21,
+  "lon": 75.2,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "sulu",
+  "name": "Sulu (Jolo)",
+  "lat": 6.05,
+  "lon": 121.0,
+  "country_iso2": "PH",
+  "kind": "island"
+ },
+ {
+  "id": "sumba",
+  "name": "Sumba (Waingapu)",
+  "lat": -9.65,
+  "lon": 120.26,
+  "country_iso2": "ID",
+  "kind": "island"
+ },
+ {
+  "id": "sungir",
+  "name": "Sungir",
+  "lat": 56.17,
+  "lon": 40.5,
+  "country_iso2": "RU",
+  "kind": "site"
+ },
+ {
+  "id": "sura",
+  "name": "Sura",
+  "lat": 32.1,
+  "lon": 44.4,
+  "country_iso2": "IQ",
+  "kind": "city"
+ },
+ {
+  "id": "surakarta",
+  "name": "Surakarta",
+  "lat": -7.57,
+  "lon": 110.82,
+  "country_iso2": "ID",
+  "kind": "city"
+ },
+ {
+  "id": "susa",
+  "name": "Susa",
+  "lat": 32.19,
+  "lon": 48.26,
+  "country_iso2": "IR",
+  "kind": "site"
+ },
+ {
+  "id": "suva",
+  "name": "Suva (Viti Levu)",
+  "lat": -18.14,
+  "lon": 178.44,
+  "country_iso2": "FJ",
+  "kind": "city"
+ },
+ {
+  "id": "swamithope",
+  "name": "Swamithope (Kanyakumari district)",
+  "lat": 8.15,
+  "lon": 77.48,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "swat",
+  "name": "Swat (Uddiyana)",
+  "lat": 34.78,
+  "lon": 72.36,
+  "country_iso2": "PK",
+  "kind": "region"
+ },
+ {
+  "id": "sydney",
+  "name": "Sydney",
+  "lat": -33.87,
+  "lon": 151.21,
+  "country_iso2": "AU",
+  "kind": "city"
+ },
+ {
+  "id": "tabriz",
+  "name": "Tabriz",
+  "lat": 38.08,
+  "lon": 46.29,
+  "country_iso2": "IR",
+  "kind": "city"
+ },
+ {
+  "id": "tahert",
+  "name": "Tahert (Tiaret)",
+  "lat": 35.37,
+  "lon": 1.32,
+  "country_iso2": "DZ",
+  "kind": "city"
+ },
+ {
+  "id": "tahiti",
+  "name": "Tahiti (Papeete)",
+  "lat": -17.54,
+  "lon": -149.57,
+  "country_iso2": "PF",
+  "kind": "island"
+ },
+ {
+  "id": "tahlequah",
+  "name": "Tahlequah (Cherokee)",
+  "lat": 35.92,
+  "lon": -94.97,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "taipei",
+  "name": "Taipei",
+  "lat": 25.03,
+  "lon": 121.56,
+  "country_iso2": "TW",
+  "kind": "city"
+ },
+ {
+  "id": "taize",
+  "name": "Taizé",
+  "lat": 46.51,
+  "lon": 4.68,
+  "country_iso2": "FR",
+  "kind": "site"
+ },
+ {
+  "id": "takayama",
+  "name": "Takayama",
+  "lat": 36.14,
+  "lon": 137.25,
+  "country_iso2": "JP",
+  "kind": "city"
+ },
+ {
+  "id": "takht_soleyman",
+  "name": "Takht-e Soleyman (Adur Gushnasp)",
+  "lat": 36.6,
+  "lon": 47.24,
+  "country_iso2": "IR",
+  "kind": "site"
+ },
+ {
+  "id": "talas",
+  "name": "Talas",
+  "lat": 42.52,
+  "lon": 72.24,
+  "country_iso2": "KG",
+  "kind": "city"
+ },
+ {
+  "id": "tallinn",
+  "name": "Tallinn",
+  "lat": 59.44,
+  "lon": 24.75,
+  "country_iso2": "EE",
+  "kind": "city"
+ },
+ {
+  "id": "talwandi_sabo",
+  "name": "Talwandi Sabo (Damdama Sahib)",
+  "lat": 29.98,
+  "lon": 75.08,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "tamesna",
+  "name": "Tamesna (Barghawata region)",
+  "lat": 33.5,
+  "lon": -7.0,
+  "country_iso2": "MA",
+  "kind": "region"
+ },
+ {
+  "id": "tanna",
+  "name": "Tanna",
+  "lat": -19.52,
+  "lon": 169.27,
+  "country_iso2": "VU",
+  "kind": "island"
+ },
+ {
+  "id": "tara",
+  "name": "Hill of Tara",
+  "lat": 53.58,
+  "lon": -6.61,
+  "country_iso2": "IE",
+  "kind": "site"
+ },
+ {
+  "id": "taranaki",
+  "name": "Taranaki",
+  "lat": -39.06,
+  "lon": 174.07,
+  "country_iso2": "NZ",
+  "kind": "region"
+ },
+ {
+  "id": "tarawa",
+  "name": "Tarawa (Kiribati)",
+  "lat": 1.45,
+  "lon": 173.0,
+  "country_iso2": "KI",
+  "kind": "island"
+ },
+ {
+  "id": "tarquinia",
+  "name": "Tarquinia (Etruria)",
+  "lat": 42.25,
+  "lon": 11.76,
+  "country_iso2": "IT",
+  "kind": "city"
+ },
+ {
+  "id": "tarraco",
+  "name": "Tarraco (Tarragona)",
+  "lat": 41.12,
+  "lon": 1.25,
+  "country_iso2": "ES",
+  "kind": "city"
+ },
+ {
+  "id": "tarsus",
+  "name": "Tarsus",
+  "lat": 36.92,
+  "lon": 34.9,
+  "country_iso2": "TR",
+  "kind": "city"
+ },
+ {
+  "id": "taunggyi",
+  "name": "Taunggyi (Shan State)",
+  "lat": 20.78,
+  "lon": 97.04,
+  "country_iso2": "MM",
+  "kind": "city"
+ },
+ {
+  "id": "taxila",
+  "name": "Taxila",
+  "lat": 33.75,
+  "lon": 72.82,
+  "country_iso2": "PK",
+  "kind": "site"
+ },
+ {
+  "id": "tay_ninh",
+  "name": "Tây Ninh",
+  "lat": 11.3,
+  "lon": 106.1,
+  "country_iso2": "VN",
+  "kind": "city"
+ },
+ {
+  "id": "tehran",
+  "name": "Tehran",
+  "lat": 35.69,
+  "lon": 51.39,
+  "country_iso2": "IR",
+  "kind": "city"
+ },
+ {
+  "id": "temuco",
+  "name": "Temuco (Mapuche)",
+  "lat": -38.74,
+  "lon": -72.6,
+  "country_iso2": "CL",
+  "kind": "city"
+ },
+ {
+  "id": "tenochtitlan",
+  "name": "Tenochtitlan / Mexico City",
+  "lat": 19.43,
+  "lon": -99.13,
+  "country_iso2": "MX",
+  "kind": "city"
+ },
+ {
+  "id": "tenri",
+  "name": "Tenri",
+  "lat": 34.6,
+  "lon": 135.84,
+  "country_iso2": "JP",
+  "kind": "city"
+ },
+ {
+  "id": "teotihuacan",
+  "name": "Teotihuacan",
+  "lat": 19.69,
+  "lon": -98.84,
+  "country_iso2": "MX",
+  "kind": "site"
+ },
+ {
+  "id": "tepeyac",
+  "name": "Tepeyac (Basilica of Guadalupe)",
+  "lat": 19.48,
+  "lon": -99.12,
+  "country_iso2": "MX",
+  "kind": "site"
+ },
+ {
+  "id": "termez",
+  "name": "Termez",
+  "lat": 37.22,
+  "lon": 67.28,
+  "country_iso2": "UZ",
+  "kind": "city"
+ },
+ {
+  "id": "thanjavur",
+  "name": "Thanjavur",
+  "lat": 10.79,
+  "lon": 79.14,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "thebes",
+  "name": "Thebes (Luxor and Karnak)",
+  "lat": 25.72,
+  "lon": 32.66,
+  "country_iso2": "EG",
+  "kind": "site"
+ },
+ {
+  "id": "thessaloniki",
+  "name": "Thessaloniki",
+  "lat": 40.64,
+  "lon": 22.94,
+  "country_iso2": "GR",
+  "kind": "city"
+ },
+ {
+  "id": "thingvellir",
+  "name": "Þingvellir",
+  "lat": 64.26,
+  "lon": -21.12,
+  "country_iso2": "IS",
+  "kind": "site"
+ },
+ {
+  "id": "tholing",
+  "name": "Tholing (Guge)",
+  "lat": 31.48,
+  "lon": 79.8,
+  "country_iso2": "CN",
+  "kind": "site"
+ },
+ {
+  "id": "tiantai",
+  "name": "Mount Tiantai",
+  "lat": 29.14,
+  "lon": 121.03,
+  "country_iso2": "CN",
+  "kind": "natural"
+ },
+ {
+  "id": "tiberias",
+  "name": "Tiberias",
+  "lat": 32.79,
+  "lon": 35.53,
+  "country_iso2": "IL",
+  "kind": "city"
+ },
+ {
+  "id": "tikal",
+  "name": "Tikal",
+  "lat": 17.22,
+  "lon": -89.62,
+  "country_iso2": "GT",
+  "kind": "site"
+ },
+ {
+  "id": "tikopia",
+  "name": "Tikopia",
+  "lat": -12.3,
+  "lon": 168.83,
+  "country_iso2": "SB",
+  "kind": "island"
+ },
+ {
+  "id": "timbuktu",
+  "name": "Timbuktu",
+  "lat": 16.77,
+  "lon": -3.01,
+  "country_iso2": "ML",
+  "kind": "city"
+ },
+ {
+  "id": "tirumala",
+  "name": "Tirumala (Tirupati)",
+  "lat": 13.68,
+  "lon": 79.35,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "tiruvannamalai",
+  "name": "Tiruvannamalai",
+  "lat": 12.23,
+  "lon": 79.07,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "tiwanaku",
+  "name": "Tiwanaku",
+  "lat": -16.55,
+  "lon": -68.67,
+  "country_iso2": "BO",
+  "kind": "site"
+ },
+ {
+  "id": "tiwi",
+  "name": "Tiwi Islands",
+  "lat": -11.6,
+  "lon": 130.9,
+  "country_iso2": "AU",
+  "kind": "island"
+ },
+ {
+  "id": "tizimin",
+  "name": "Tizimín",
+  "lat": 21.14,
+  "lon": -88.15,
+  "country_iso2": "MX",
+  "kind": "city"
+ },
+ {
+  "id": "toba",
+  "name": "Lake Toba (Batak)",
+  "lat": 2.6,
+  "lon": 98.8,
+  "country_iso2": "ID",
+  "kind": "natural"
+ },
+ {
+  "id": "tokyo",
+  "name": "Tokyo",
+  "lat": 35.68,
+  "lon": 139.69,
+  "country_iso2": "JP",
+  "kind": "city"
+ },
+ {
+  "id": "toledo",
+  "name": "Toledo",
+  "lat": 39.86,
+  "lon": -4.02,
+  "country_iso2": "ES",
+  "kind": "city"
+ },
+ {
+  "id": "tondabayashi",
+  "name": "Tondabayashi (Osaka)",
+  "lat": 34.5,
+  "lon": 135.6,
+  "country_iso2": "JP",
+  "kind": "city"
+ },
+ {
+  "id": "topeka",
+  "name": "Topeka",
+  "lat": 39.05,
+  "lon": -95.68,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "toraja",
+  "name": "Rantepao (Toraja)",
+  "lat": -2.97,
+  "lon": 119.9,
+  "country_iso2": "ID",
+  "kind": "city"
+ },
+ {
+  "id": "toronto",
+  "name": "Toronto",
+  "lat": 43.65,
+  "lon": -79.38,
+  "country_iso2": "CA",
+  "kind": "city"
+ },
+ {
+  "id": "touba",
+  "name": "Touba",
+  "lat": 14.85,
+  "lon": -15.88,
+  "country_iso2": "SN",
+  "kind": "city"
+ },
+ {
+  "id": "toulouse",
+  "name": "Toulouse (Languedoc)",
+  "lat": 43.6,
+  "lon": 1.44,
+  "country_iso2": "FR",
+  "kind": "city"
+ },
+ {
+  "id": "trent",
+  "name": "Trento",
+  "lat": 46.07,
+  "lon": 11.12,
+  "country_iso2": "IT",
+  "kind": "city"
+ },
+ {
+  "id": "trier",
+  "name": "Trier",
+  "lat": 49.75,
+  "lon": 6.64,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "trobriand",
+  "name": "Trobriand Islands",
+  "lat": -8.6,
+  "lon": 151.0,
+  "country_iso2": "PG",
+  "kind": "island"
+ },
+ {
+  "id": "trois_freres",
+  "name": "Trois-Frères Cave",
+  "lat": 43.03,
+  "lon": 1.21,
+  "country_iso2": "FR",
+  "kind": "site"
+ },
+ {
+  "id": "trondheim",
+  "name": "Trondheim (Nidaros)",
+  "lat": 63.43,
+  "lon": 10.39,
+  "country_iso2": "NO",
+  "kind": "city"
+ },
+ {
+  "id": "trowulan",
+  "name": "Trowulan (Majapahit)",
+  "lat": -7.56,
+  "lon": 112.38,
+  "country_iso2": "ID",
+  "kind": "site"
+ },
+ {
+  "id": "tsodilo",
+  "name": "Tsodilo Hills",
+  "lat": -18.75,
+  "lon": 21.73,
+  "country_iso2": "BW",
+  "kind": "site"
+ },
+ {
+  "id": "tuamotu",
+  "name": "Tuamotu (Anaa)",
+  "lat": -17.35,
+  "lon": -145.5,
+  "country_iso2": "PF",
+  "kind": "region"
+ },
+ {
+  "id": "tucson",
+  "name": "Tucson",
+  "lat": 32.22,
+  "lon": -110.97,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "tula",
+  "name": "Tula",
+  "lat": 20.06,
+  "lon": -99.34,
+  "country_iso2": "MX",
+  "kind": "site"
+ },
+ {
+  "id": "tur_abdin",
+  "name": "Tur Abdin",
+  "lat": 37.4,
+  "lon": 41.4,
+  "country_iso2": "TR",
+  "kind": "region"
+ },
+ {
+  "id": "tura",
+  "name": "Tura (Evenkia)",
+  "lat": 64.27,
+  "lon": 100.22,
+  "country_iso2": "RU",
+  "kind": "city"
+ },
+ {
+  "id": "turda",
+  "name": "Turda (Torda)",
+  "lat": 46.57,
+  "lon": 23.78,
+  "country_iso2": "RO",
+  "kind": "city"
+ },
+ {
+  "id": "turkistan",
+  "name": "Turkistan (Yasawi mausoleum)",
+  "lat": 43.3,
+  "lon": 68.25,
+  "country_iso2": "KZ",
+  "kind": "city"
+ },
+ {
+  "id": "turpan",
+  "name": "Turpan (Gaochang)",
+  "lat": 42.95,
+  "lon": 89.18,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "tyre",
+  "name": "Tyre",
+  "lat": 33.27,
+  "lon": 35.2,
+  "country_iso2": "LB",
+  "kind": "city"
+ },
+ {
+  "id": "tzintzuntzan",
+  "name": "Tzintzuntzan (Michoacán)",
+  "lat": 19.63,
+  "lon": -101.58,
+  "country_iso2": "MX",
+  "kind": "site"
+ },
+ {
+  "id": "uberaba",
+  "name": "Uberaba",
+  "lat": -19.75,
+  "lon": -47.93,
+  "country_iso2": "BR",
+  "kind": "city"
+ },
+ {
+  "id": "uch",
+  "name": "Uch Sharif",
+  "lat": 29.24,
+  "lon": 71.06,
+  "country_iso2": "PK",
+  "kind": "city"
+ },
+ {
+  "id": "udupi",
+  "name": "Udupi",
+  "lat": 13.34,
+  "lon": 74.75,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "udvada",
+  "name": "Udvada and Navsari (Parsi)",
+  "lat": 20.48,
+  "lon": 72.87,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "ugarit",
+  "name": "Ugarit (Ras Shamra)",
+  "lat": 35.6,
+  "lon": 35.78,
+  "country_iso2": "SY",
+  "kind": "site"
+ },
+ {
+  "id": "ujjain",
+  "name": "Ujjain",
+  "lat": 23.18,
+  "lon": 75.78,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "ulaanbaatar",
+  "name": "Ulaanbaatar",
+  "lat": 47.92,
+  "lon": 106.92,
+  "country_iso2": "MN",
+  "kind": "city"
+ },
+ {
+  "id": "ulan_ude",
+  "name": "Ulan-Ude (Buryatia)",
+  "lat": 51.83,
+  "lon": 107.58,
+  "country_iso2": "RU",
+  "kind": "city"
+ },
+ {
+  "id": "uluru",
+  "name": "Uluru",
+  "lat": -25.34,
+  "lon": 131.04,
+  "country_iso2": "AU",
+  "kind": "natural"
+ },
+ {
+  "id": "uman",
+  "name": "Uman",
+  "lat": 48.75,
+  "lon": 30.22,
+  "country_iso2": "UA",
+  "kind": "city"
+ },
+ {
+  "id": "uppsala",
+  "name": "Gamla Uppsala",
+  "lat": 59.9,
+  "lon": 17.63,
+  "country_iso2": "SE",
+  "kind": "site"
+ },
+ {
+  "id": "ur",
+  "name": "Ur",
+  "lat": 30.96,
+  "lon": 46.1,
+  "country_iso2": "IQ",
+  "kind": "site"
+ },
+ {
+  "id": "urkesh",
+  "name": "Urkesh (Tell Mozan)",
+  "lat": 37.06,
+  "lon": 40.99,
+  "country_iso2": "SY",
+  "kind": "site"
+ },
+ {
+  "id": "uruk",
+  "name": "Uruk",
+  "lat": 31.32,
+  "lon": 45.64,
+  "country_iso2": "IQ",
+  "kind": "site"
+ },
+ {
+  "id": "ust_kamchatsk",
+  "name": "Ust-Kamchatsk",
+  "lat": 56.23,
+  "lon": 162.47,
+  "country_iso2": "RU",
+  "kind": "city"
+ },
+ {
+  "id": "utatlan",
+  "name": "Q'umarkaj (Utatlán)",
+  "lat": 15.02,
+  "lon": -91.17,
+  "country_iso2": "GT",
+  "kind": "site"
+ },
+ {
+  "id": "utrecht",
+  "name": "Utrecht",
+  "lat": 52.09,
+  "lon": 5.12,
+  "country_iso2": "NL",
+  "kind": "city"
+ },
+ {
+  "id": "uxmal",
+  "name": "Uxmal",
+  "lat": 20.36,
+  "lon": -89.77,
+  "country_iso2": "MX",
+  "kind": "site"
+ },
+ {
+  "id": "uyo",
+  "name": "Uyo (Ibibio)",
+  "lat": 5.03,
+  "lon": 7.93,
+  "country_iso2": "NG",
+  "kind": "city"
+ },
+ {
+  "id": "vailala",
+  "name": "Gulf Province (Vailala)",
+  "lat": -7.9,
+  "lon": 145.4,
+  "country_iso2": "PG",
+  "kind": "region"
+ },
+ {
+  "id": "vaishali",
+  "name": "Vaishali",
+  "lat": 25.99,
+  "lon": 85.13,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "valabhi",
+  "name": "Valabhi",
+  "lat": 21.89,
+  "lon": 71.88,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "van",
+  "name": "Tushpa (Van)",
+  "lat": 38.5,
+  "lon": 43.34,
+  "country_iso2": "TR",
+  "kind": "city"
+ },
+ {
+  "id": "varanasi",
+  "name": "Varanasi",
+  "lat": 25.32,
+  "lon": 83.01,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "vatican",
+  "name": "Vatican",
+  "lat": 41.9,
+  "lon": 12.45,
+  "country_iso2": "VA",
+  "kind": "city"
+ },
+ {
+  "id": "vaupes",
+  "name": "Vaupés (Desana, Tukano)",
+  "lat": 1.0,
+  "lon": -70.5,
+  "country_iso2": "CO",
+  "kind": "region"
+ },
+ {
+  "id": "venice",
+  "name": "Venice",
+  "lat": 45.44,
+  "lon": 12.33,
+  "country_iso2": "IT",
+  "kind": "city"
+ },
+ {
+  "id": "vermont",
+  "name": "Vermont",
+  "lat": 44.26,
+  "lon": -72.58,
+  "country_iso2": "US",
+  "kind": "region"
+ },
+ {
+  "id": "vidisha",
+  "name": "Vidisha (Heliodorus pillar)",
+  "lat": 23.54,
+  "lon": 77.81,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "vienna",
+  "name": "Vienna",
+  "lat": 48.21,
+  "lon": 16.37,
+  "country_iso2": "AT",
+  "kind": "city"
+ },
+ {
+  "id": "vientiane",
+  "name": "Vientiane",
+  "lat": 17.97,
+  "lon": 102.63,
+  "country_iso2": "LA",
+  "kind": "city"
+ },
+ {
+  "id": "vikramashila",
+  "name": "Vikramashila",
+  "lat": 25.32,
+  "lon": 87.29,
+  "country_iso2": "IN",
+  "kind": "site"
+ },
+ {
+  "id": "villa_alta",
+  "name": "Villa Alta (Oaxaca)",
+  "lat": 17.34,
+  "lon": -96.15,
+  "country_iso2": "MX",
+  "kind": "city"
+ },
+ {
+  "id": "vilnius",
+  "name": "Vilnius",
+  "lat": 54.69,
+  "lon": 25.28,
+  "country_iso2": "LT",
+  "kind": "city"
+ },
+ {
+  "id": "virginia_beach",
+  "name": "Virginia Beach",
+  "lat": 36.85,
+  "lon": -75.98,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "vohipeno",
+  "name": "Vohipeno (Antemoro)",
+  "lat": -22.35,
+  "lon": 47.84,
+  "country_iso2": "MG",
+  "kind": "city"
+ },
+ {
+  "id": "volozhin",
+  "name": "Valozhyn (Volozhin)",
+  "lat": 54.09,
+  "lon": 26.53,
+  "country_iso2": "BY",
+  "kind": "city"
+ },
+ {
+  "id": "voree",
+  "name": "Voree, Wisconsin",
+  "lat": 42.68,
+  "lon": -88.3,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "vrindavan",
+  "name": "Vrindavan",
+  "lat": 27.58,
+  "lon": 77.7,
+  "country_iso2": "IN",
+  "kind": "city"
+ },
+ {
+  "id": "waco",
+  "name": "Waco, Texas",
+  "lat": 31.55,
+  "lon": -97.15,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "waitangi",
+  "name": "Waitangi",
+  "lat": -35.27,
+  "lon": 174.08,
+  "country_iso2": "NZ",
+  "kind": "site"
+ },
+ {
+  "id": "wales",
+  "name": "Wales (Carmarthen)",
+  "lat": 51.86,
+  "lon": -4.31,
+  "country_iso2": "GB",
+  "kind": "region"
+ },
+ {
+  "id": "washington_dc",
+  "name": "Washington, D.C.",
+  "lat": 38.9,
+  "lon": -77.04,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "washington_nh",
+  "name": "Washington, New Hampshire",
+  "lat": 43.18,
+  "lon": -72.1,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "watervliet",
+  "name": "Watervliet, New York (Niskayuna)",
+  "lat": 42.73,
+  "lon": -73.7,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "watson_brake",
+  "name": "Watson Brake",
+  "lat": 32.37,
+  "lon": -92.13,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "western_desert",
+  "name": "Western Desert (Kiwirrkurra)",
+  "lat": -22.82,
+  "lon": 127.78,
+  "country_iso2": "AU",
+  "kind": "region"
+ },
+ {
+  "id": "whitby",
+  "name": "Whitby",
+  "lat": 54.49,
+  "lon": -0.61,
+  "country_iso2": "GB",
+  "kind": "city"
+ },
+ {
+  "id": "willendorf",
+  "name": "Willendorf",
+  "lat": 48.32,
+  "lon": 15.4,
+  "country_iso2": "AT",
+  "kind": "site"
+ },
+ {
+  "id": "window_rock",
+  "name": "Window Rock (Navajo Nation)",
+  "lat": 35.67,
+  "lon": -109.05,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "wiradjuri",
+  "name": "Wagga Wagga (Wiradjuri)",
+  "lat": -35.12,
+  "lon": 147.37,
+  "country_iso2": "AU",
+  "kind": "city"
+ },
+ {
+  "id": "wirikuta",
+  "name": "Wirikuta (Real de Catorce)",
+  "lat": 23.69,
+  "lon": -100.89,
+  "country_iso2": "MX",
+  "kind": "natural"
+ },
+ {
+  "id": "witmarsum",
+  "name": "Witmarsum",
+  "lat": 53.1,
+  "lon": 5.47,
+  "country_iso2": "NL",
+  "kind": "city"
+ },
+ {
+  "id": "wittenberg",
+  "name": "Wittenberg",
+  "lat": 51.87,
+  "lon": 12.65,
+  "country_iso2": "DE",
+  "kind": "city"
+ },
+ {
+  "id": "wixarika",
+  "name": "Wixárika sierra (Nayarit–Jalisco)",
+  "lat": 22.0,
+  "lon": -104.0,
+  "country_iso2": "MX",
+  "kind": "region"
+ },
+ {
+  "id": "wounded_knee",
+  "name": "Wounded Knee",
+  "lat": 43.14,
+  "lon": -102.36,
+  "country_iso2": "US",
+  "kind": "site"
+ },
+ {
+  "id": "wudang",
+  "name": "Wudang Mountains",
+  "lat": 32.4,
+  "lon": 111.0,
+  "country_iso2": "CN",
+  "kind": "natural"
+ },
+ {
+  "id": "wutai",
+  "name": "Mount Wutai",
+  "lat": 39.08,
+  "lon": 113.57,
+  "country_iso2": "CN",
+  "kind": "natural"
+ },
+ {
+  "id": "wuyishan",
+  "name": "Wuyi Mountains",
+  "lat": 27.75,
+  "lon": 118.03,
+  "country_iso2": "CN",
+  "kind": "natural"
+ },
+ {
+  "id": "xanthos",
+  "name": "Xanthos and the Letoon",
+  "lat": 36.36,
+  "lon": 29.32,
+  "country_iso2": "TR",
+  "kind": "site"
+ },
+ {
+  "id": "xhosa",
+  "name": "Eastern Cape (Xhosa lands)",
+  "lat": -32.3,
+  "lon": 27.5,
+  "country_iso2": "ZA",
+  "kind": "region"
+ },
+ {
+  "id": "xian",
+  "name": "Xi'an (Chang'an)",
+  "lat": 34.27,
+  "lon": 108.94,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "yakutsk",
+  "name": "Yakutsk (Sakha)",
+  "lat": 62.03,
+  "lon": 129.73,
+  "country_iso2": "RU",
+  "kind": "city"
+ },
+ {
+  "id": "yangon",
+  "name": "Yangon",
+  "lat": 16.8,
+  "lon": 96.15,
+  "country_iso2": "MM",
+  "kind": "city"
+ },
+ {
+  "id": "yavne",
+  "name": "Yavne",
+  "lat": 31.88,
+  "lon": 34.74,
+  "country_iso2": "IL",
+  "kind": "city"
+ },
+ {
+  "id": "yazd",
+  "name": "Yazd",
+  "lat": 31.9,
+  "lon": 54.37,
+  "country_iso2": "IR",
+  "kind": "city"
+ },
+ {
+  "id": "yen_tu",
+  "name": "Yên Tử",
+  "lat": 21.17,
+  "lon": 106.71,
+  "country_iso2": "VN",
+  "kind": "natural"
+ },
+ {
+  "id": "yeoju",
+  "name": "Yeoju",
+  "lat": 37.3,
+  "lon": 127.64,
+  "country_iso2": "KR",
+  "kind": "city"
+ },
+ {
+  "id": "yerington",
+  "name": "Yerington, Nevada (Wovoka)",
+  "lat": 38.99,
+  "lon": -119.16,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "yeru",
+  "name": "Yeru Wensaka (Tsang)",
+  "lat": 29.3,
+  "lon": 88.8,
+  "country_iso2": "CN",
+  "kind": "site"
+ },
+ {
+  "id": "yirrkala",
+  "name": "Yirrkala (NE Arnhem Land)",
+  "lat": -12.25,
+  "lon": 136.89,
+  "country_iso2": "AU",
+  "kind": "city"
+ },
+ {
+  "id": "yogyakarta",
+  "name": "Yogyakarta",
+  "lat": -7.8,
+  "lon": 110.36,
+  "country_iso2": "ID",
+  "kind": "city"
+ },
+ {
+  "id": "yoshkar_ola",
+  "name": "Yoshkar-Ola (Mari El)",
+  "lat": 56.63,
+  "lon": 47.89,
+  "country_iso2": "RU",
+  "kind": "city"
+ },
+ {
+  "id": "yuendumu",
+  "name": "Yuendumu (Warlpiri)",
+  "lat": -22.25,
+  "lon": 131.8,
+  "country_iso2": "AU",
+  "kind": "city"
+ },
+ {
+  "id": "zafar",
+  "name": "Zafar (Himyar)",
+  "lat": 14.2,
+  "lon": 44.4,
+  "country_iso2": "YE",
+  "kind": "site"
+ },
+ {
+  "id": "zamboanga",
+  "name": "Zamboanga Peninsula (Subanen)",
+  "lat": 7.85,
+  "lon": 123.2,
+  "country_iso2": "PH",
+  "kind": "region"
+ },
+ {
+  "id": "zanzibar",
+  "name": "Zanzibar",
+  "lat": -6.16,
+  "lon": 39.19,
+  "country_iso2": "TZ",
+  "kind": "city"
+ },
+ {
+  "id": "zeila",
+  "name": "Zeila",
+  "lat": 11.35,
+  "lon": 43.47,
+  "country_iso2": "SO",
+  "kind": "city"
+ },
+ {
+  "id": "zhengzhou",
+  "name": "Zhengzhou (Henan)",
+  "lat": 34.75,
+  "lon": 113.63,
+  "country_iso2": "CN",
+  "kind": "city"
+ },
+ {
+  "id": "zululand",
+  "name": "Zululand (Ulundi)",
+  "lat": -28.32,
+  "lon": 31.42,
+  "country_iso2": "ZA",
+  "kind": "region"
+ },
+ {
+  "id": "zuni",
+  "name": "Zuni Pueblo",
+  "lat": 35.07,
+  "lon": -108.85,
+  "country_iso2": "US",
+  "kind": "city"
+ },
+ {
+  "id": "zurich",
+  "name": "Zürich",
+  "lat": 47.37,
+  "lon": 8.54,
+  "country_iso2": "CH",
+  "kind": "city"
+ },
+ {
+  "id": "zwolle",
+  "name": "Zwolle (Agnietenberg)",
+  "lat": 52.52,
+  "lon": 6.09,
+  "country_iso2": "NL",
+  "kind": "city"
+ }
+]

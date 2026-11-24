@@ -1,0 +1,105 @@
+THE LAMPLIGHTER PROJECT: READ ME FIRST
+======================================
+
+What this is
+------------
+A free place to read and practise human religion. Under "Religion" there are {{TEXTS}} texts
+in English (scriptures and sources from every tradition), a map and timeline, practices,
+and tools to keep your own notes and to add texts of your own. It does not tell you what
+to believe, and it asks for nothing: no account, no payment, no advertising, no tracking.
+
+How to open it (no internet needed)
+-----------------------------------
+1. Unzip this file. You get a folder called Lamplighter.
+2. Open the folder and double-click  Lamplighter.html . It opens in your web browser
+   (Chrome, Edge, Firefox, Safari, Brave, and others).
+3. Choose "Religion". That is all.
+
+Keep the folders next to Lamplighter.html:
+  texts/    the readable texts          atlas/    the map and catalogue
+  similar/  "Find similar passages"     bibles/   the Bibles pack (17 versions side by side)
+  dictionary/  Webster's 1913 dictionary, for looking up any word
+Any of them can be missing: the app still opens, and says where each text can be found.
+The Bibles pack and the dictionary pack are separate zips; unzip either into the same folder to add it.
+
+Two more folders can sit beside Lamplighter.html, and the whole folder can be copied as it is:
+  downloads/  every text as an e-book (epub), a text file (txt) and Markdown (md), on shelves; open
+              downloads/index.html in any browser for the list. A separate zip, "downloads pack".
+  originals/  the sources' own scans (PDF), e-books and full texts, kept as published, with their own
+              index.html; the reader's "Where this text comes from" card offers them. A separate zip.
+To add your own books and PDFs, open Texts > My reading > "Your own texts": it takes files, PDFs and
+whole folders (picked or dropped). They stay in your browser; nothing is uploaded.
+
+Leaving things out
+------------------
+In the app: the Library, the random-passage page and the search box each have "Leave areas
+out". Tick any area (the occult shelf, folklore, anything) to keep it out of random passages,
+"all texts" searches and the Library's list. Nothing is deleted and you can bring an area
+back at any time; "Scriptures and sources only" does it in one press.
+In the download: the texts come in areas too. Lamplighter-sources-only.zip is the study library
+without six optional shelves (occult and esoteric, Freemasonry, shamanic and tribal,
+folklore and witchcraft, folk tales beyond Europe, and the imagined shelf, which is
+fiction). Each has a small zip of its own, such as Lamplighter-pack-occult.zip: unzip it into the
+same folder as Lamplighter.html and it is there the next time you open the app. The project's
+tools can also make a copy without any area you name (tools/make_release.py --list-packs).
+
+Your notes stay with you
+------------------------
+Highlights, notes, bookmarks, your journal and any texts you add are kept inside the
+browser on this computer. Nothing is sent anywhere; the app does not use the internet
+at all unless you click a link to another site.
+Because of that, a different browser or a different web address starts empty. To move
+or keep a copy, open Setup and press "Export all": it writes one file with everything,
+including your own texts. "Import" puts it back, anywhere.
+
+Passing it on
+-------------
+You do not need anyone's permission. Copy the whole folder to a USB stick, a school or
+library computer, a congregation's laptop, or put it on a website of your own (the
+"Freedom" tab, "Take it with you", explains how, including how to run it for a room of
+people from one computer with no internet).
+Next to the zips (not inside them) the project makes PASS IT ON.html, a one-page sheet to
+print and hand over with a copy, and its tools/make_torrent.py makes a torrent and a magnet
+link, so the zips can be shared from person to person with no website at all.
+
+Which release is this?
+----------------------
+This is release {{STAMP}}: the day it last changed, and a six-character code worked out from
+every file in it, the program and the whole library. Copies with the same stamp are the
+same release (a copy may leave optional packs out); if a friend's stamp is different, the
+later date is the newer one. The Lamplighter Project shows
+the stamp in Setup (at the bottom) and under Freedom, "Take it with you", where a button
+copies it to send to someone. Every zip's name ends with it, such as
+Lamplighter-everything-{{STAMP}}.zip; this page uses the short names. Add-on packs should come
+from the same release as the rest.
+
+Checking a file
+---------------
+SHA256SUMS.txt comes with the zips (not inside them) and lists a checksum for each one. On a
+Mac or Linux, in the folder that holds the zips and that list:
+    shasum -a 256 -c SHA256SUMS.txt
+On Windows:
+    certutil -hashfile NAME-OF-THE-ZIP SHA256
+and compare the long code with the line for that zip in the list. If they differ, the file
+was damaged on the way: get it again.
+
+What is in this zip
+-------------------
+See the folders above. The app comes in four sizes. On disk: the app alone is about
+{{DISK_APP}}, with the map about {{DISK_MAP}}, with the texts and the dictionary about
+{{DISK_TEXTS}}, and everything (also Find similar and the Bibles pack) about {{DISK_ALL}}.
+The downloads are compressed, so they are smaller.
+
+Licences
+--------
+LICENSE-CODE.txt     the program (MIT licence: use it, change it, share it).
+LICENSE-CONTENT.txt  the cards, stations, stories, rites, map and notes written for this
+                     project (CC0: no rights reserved).
+The texts keep their own status. Each one is public domain or openly licensed, and
+texts/LICENSES.txt and bibles/LICENSES.txt name the translator and source of each.
+
+Where it is checked
+-------------------
+The promise that nothing leaves your device is checked by a test in the project's source
+(tests/privacy.test.js) that fails if the app ever makes a network request, sets a cookie,
+or loads anything from another site. The source is open: anyone can read and run it.

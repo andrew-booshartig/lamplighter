@@ -1,0 +1,30 @@
+# Books the Library cannot hold: first published after 1930, or otherwise unavailable
+
+Written 17 November 2026 on the maker's words: "build a list of all the post 1930 books we cant get" and "the people need all the information available to decide for themselves". The list is `POST1930_WANTED.csv` (278 rows), built by `tools/post1930_wanted.py`; run it again after `TEXT_GAPS.csv` or `COVERAGE_BY_TRADITION.csv` changes. Nothing in copyright has been fetched or copied.
+
+**Why the line is 1930.** The Library holds a book when it is in the public domain or openly licensed. In the United States a work first published in 1930 became public domain on 1 January 2026, so 1930 books are in; books first published from 1931 on are protected for 95 years from publication (so the first of them are free on 1 January 2027), unless they were never renewed (for books published 1931–63) or the author or publisher has licensed them openly. Books by authors who died long ago can still be protected in the United States by the 1996 restoration of foreign works, so a long-dead author is not enough.
+
+## What is in it
+
+- **278 rows**: 209 Atlas text records after 1930 that the Library does not hold (the Atlas catalogues the book, the Library lacks it), and 69 added here: later English translations of the ancient and sacred texts the Library holds only in older translations (the Ugaritic tablets, Linear B, the Etruscan inscriptions, the Dead Sea Scrolls, Nag Hammadi, Pines's Guide, the Soncino Talmud and Zohar, the Mishnah, the Qur'an in Arberry and Yusuf Ali), the field and scholarly books on traditions whose rites are restricted (Navajo, Zuñi, Hopi, Ojibwa, Aboriginal Australian, Palo, Abakuá), the critical and investigative books about the movements the Library holds the founders' books of, and the histories, essays and hymnal of the Unitarian and Universalist churches.
+- Columns: title, author, first publication year, publisher (blank where not checked), language, Atlas tradition ids and family (269 rows are tied to an Atlas tradition), movement (its own column: 105 movements), kind, why we cannot have it, the most useful legitimate route, status, note, id.
+- **Kinds:** scripture 121, scholarly study 56, ethnography 36, liturgy 23, catechism 16, history 13, critical/investigative 8, autobiography 5.
+- **Status:** in copyright 245, candidate for public domain by non-renewal 22, restricted by the community 9, openly licensed 2.
+
+**Status words.** *in copyright* is the default for a book first published after 1930. *candidate for public domain by non-renewal* means only that it was (as far as known) first published in the United States between 1931 and 1963 and nobody has yet looked for a renewal; it is not a claim that it is free. *openly licensed* means the book itself carries an open licence or copyleft notice (the Principia Discordia, the Kopimist constitution). *restricted by the community* means the people whose rite or teaching it is ask that it not be copied (Gardnerian witches' Book of Shadows, Strehlow's Songs of Central Australia, the Abakuá and Palo books, the Scientology upper levels): the Library lists it, says why it cannot hold it, and points to the community's own route; it is not hidden.
+
+## The routes (what the list is for)
+
+For 62 rows the movement or the author's own body publishes the text free to read (the Bahá'í Reference Library, the Watchtower Online Library, Vedabase, the Meher Baba and Sathya Sai libraries, Osho, falundafa.org, rael.org, familyfed.org and others); the Library cannot copy them, but a reader can be sent there. For the rest the route is a library copy (WorldCat, interlibrary loan) or the Internet Archive's lending library. A book that is only in print behind a community's own door (Hubbard's upper levels, the Mo Letters, much of Aum Shinrikyō) is listed and marked, so a reader knows it exists and where its text is kept.
+
+## The movements and the High-control groups tab
+
+105 movements are named in the *movement* column, among them Scientology, the Unification Church, Aum Shinrikyō, Heaven's Gate, Falun Gong, the Church of Almighty God, Raëlism, Shincheonji and the Rajneesh movement. The maker asked for a section and a database for the ones that are clearly cults; another session built the tab **High-control groups** under Traditions (`#/traditions/movements`, 13 groups, every claim marked "Under review") and its cards point at this list for the books they cannot hold. This list is the source list for it: for each movement, the movement's own books (free where the movement publishes them, in the *route* column), the scholarly studies and the critical and investigative books, each labelled by what it is and who wrote it. Six of the seven groups the tab names as not yet written up have rows here, mostly as the movement's own books (Shincheonji, the Church of Almighty God, Falun Gong, Jehovah's Witnesses, ISKCON, Church Universal and Triumphant); Synanon has none yet. The word "cult" is contested (scholars use "new religious movement"; courts and governments, anti-cult groups and some ex-members use "cult"), so the page says who calls it what and never decides for the reader.
+
+## What has not been checked, and what needs a question first
+
+- Publishers and years are given as known and left blank otherwise; nobody has checked each against a catalogue.
+- The 22 *candidate* rows are the ones worth a renewal check. That is a fetch from the Stanford Copyright Renewal Database (a free search page and a result of a few kilobytes per book) or the Copyright Office's own records; the maker is asked first, with the source and size, before it is done.
+- Books published by the United States government after 1930 (the Bureau of American Ethnology's later reports, Bunzel's *Zuñi* volume of 1932 among them) are public domain whatever their date and can be added to the Library; one is listed in the CSV as a first to check.
+- Nothing here is legal advice; the status words are the best reading of the dates, and a lawyer or the Copyright Office's record decides.
+

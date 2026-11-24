@@ -1,0 +1,794 @@
+id,name,family,group,kind,records,readable,covered,about,lore,any_example,via_root,links
+middle_palaeolithic_ritual,Middle Palaeolithic burial and ochre ritual,prehistoric,Deep past,arch,0,0,no records,,,,,0
+aboriginal_australian,Aboriginal Australian religion (the Dreaming),oceania,Americas and Oceania,eth,5,1,yes,a-spen a-nnca a-howi a-euah a-maus a-ocea a-roq,,yes,,1
+papuan_religions,Papuan religions of New Guinea,oceania,Americas and Oceania,eth,2,0,no,a-balo a-ocea a-smb a-mln a-ork,,yes,,0
+andamanese_religion,Andamanese religion,south_asian_indigenous,Indian and Himalayan,eth,0,0,no records,a-and,,yes,,0
+upper_palaeolithic_ritual,Upper Palaeolithic art and ritual,prehistoric,Deep past,arch,0,0,no records,,,,,0
+san_religion,San religion,african,African and Afro-diasporic,eth,1,0,no,a-sto a-blee,,yes,,0
+jomon_ritual,Jōmon ritual,prehistoric,Deep past,arch,0,0,no records,x-mjp,,yes,,2
+natufian_ritual,Natufian ritual and burial,prehistoric,Deep past,arch,0,0,no records,,,,,1
+neolithic_near_east_cults,Neolithic cults of Anatolia and the Levant,prehistoric,Deep past,arch,0,0,no records,,,,,2
+old_europe_neolithic,Neolithic figurine cults of Old Europe,prehistoric,Deep past,arch,0,0,no records,,,,,0
+saharan_neolithic,Saharan Neolithic cattle cult,prehistoric,Deep past,arch,0,0,no records,,,,,1
+megalithic_europe,Megalithic religion of Atlantic Europe,prehistoric,Deep past,arch,0,0,no records,x-frg,,yes,,0
+neolithic_china_ritual,Neolithic ritual cultures of China,prehistoric,Deep past,arch,0,0,no records,,,,,1
+proto_indo_european,Proto-Indo-European religion (reconstructed),prehistoric,Deep past,arch,0,0,no records,x-scd,,yes,,10
+sumerian,Sumerian religion,ane,Ancient Near East and Mediterranean,eth,42,2,yes,,,yes,,3
+maltese_temple,Maltese Temple Culture,european,Ancient Near East and Mediterranean,eth,0,0,no records,x-zam,,yes,,0
+egyptian,Ancient Egyptian religion,egypt,Ancient Near East and Mediterranean,eth,44,17,yes,,,yes,,10
+watson_brake_culture,Archaic mound-builder religion,americas,Americas and Oceania,eth,0,0,no records,,,,,0
+indus,Harappan (Indus Valley) religion,dharmic,Indian and Himalayan,eth,1,0,no,,,,,0
+andean_religion,Andean religion,americas,Americas and Oceania,eth,3,0,no,a-cie a-sqr a-bnd a-jyc,,yes,,2
+caral_religion,Norte Chico (Caral) religion,americas,Americas and Oceania,eth,0,0,no records,,,,,0
+elamite,Elamite religion,ane,Ancient Near East and Mediterranean,eth,1,0,no,,,,,0
+orang_asli,Orang Asli religions,southeast_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-pmp a-evb,,yes,,0
+canaanite,Canaanite religion,ane,Ancient Near East and Mediterranean,eth,7,0,no,x-syg x-gez x-cap x-aab x-sso,,yes,,5
+kushite,Kushite (Nubian) religion,egypt,Ancient Near East and Mediterranean,eth,4,0,no,x-are,,yes,,1
+mesopotamian,Babylonian and Assyrian religion,ane,Ancient Near East and Mediterranean,eth,33,9,yes,x-lar,,yes,,8
+hurrian,Hurrian religion,ane,Ancient Near East and Mediterranean,eth,2,0,no,x-hte,,yes,,2
+anitism,Anitism (Philippine Indigenous religion),southeast_asian,"East, Inner and Southeast Asian",eth,4,0,no,a-phil a-crw a-kph a-wor,,yes,,0
+korean_shamanism,Korean shamanism (Muism),east_asian,"East, Inner and Southeast Asian",eth,2,0,no,a-hul a-gal x-und x-grf,,yes,,3
+minoan,Minoan religion,european,Ancient Near East and Mediterranean,eth,1,0,no,x-nmm x-pom,,yes,,1
+luwian,Luwian religion,ane,Ancient Near East and Mediterranean,eth,0,0,no records,,,,,1
+harranian,Harranian religion (Sabians of Harran),ane,Ancient Near East and Mediterranean,cult,1,0,no,x-bch,,yes,yes,1
+nuragic,Nuragic religion,european,Ancient Near East and Mediterranean,eth,0,0,no records,,,,,0
+hittite,Hittite religion,ane,Ancient Near East and Mediterranean,eth,12,0,no,x-hte,,yes,,3
+greek,Ancient Greek religion,european,Ancient Near East and Mediterranean,eth,17,7,yes,x-hrd,,yes,,15
+shang_religion,Shang religion,east_asian,"East, Inner and Southeast Asian",eth,1,0,no,x-hrh,,yes,,1
+astrology,Astrology (Western),esoteric,"Esoteric, new and secular",esot,0,0,no records,x-jrb x-rma,,yes,,1
+kassite,Kassite religion,ane,Ancient Near East and Mediterranean,eth,0,0,no records,,,,,1
+chamorro_religion,Chamorro religion,oceania,Americas and Oceania,eth,1,0,no,,,,,0
+micronesian_religions,Micronesian religions,oceania,Americas and Oceania,eth,1,0,no,a-ocea a-chr,,yes,,0
+olmec,Olmec religion,americas,Americas and Oceania,eth,1,0,no,x-spi,,yes,,2
+vedic,Vedic religion (Brahmanism),dharmic,Indian and Himalayan,rel,35,27,yes,,,yes,,6
+zoroastrianism,Zoroastrianism,iranian,Iranian,rel,30,17,yes,x-dzt x-blp,,yes,,7
+atenism,Atenism,egypt,Ancient Near East and Mediterranean,mov,1,0,no,x-goe x-are x-bdr,,yes,yes,2
+chavin_religion,Chavín religion,americas,Americas and Oceania,eth,0,0,no records,a-jyc,,yes,,1
+israelite,Israelite religion,abrahamic,Abrahamic,eth,5,3,yes,,,yes,,7
+moabite,Moabite religion,ane,Ancient Near East and Mediterranean,eth,1,1,yes,x-cns,,yes,,0
+phoenician,Phoenician and Punic religion,ane,Ancient Near East and Mediterranean,eth,3,2,yes,x-cns x-phr x-mst,,yes,,3
+edomite,Edomite religion,ane,Ancient Near East and Mediterranean,eth,0,0,no records,x-eb2,,yes,,1
+ammonite,Ammonite religion,ane,Ancient Near East and Mediterranean,eth,0,0,no records,,,,,1
+phrygian,Phrygian religion,ane,Ancient Near East and Mediterranean,eth,0,0,no records,x-gmg,,yes,,1
+philistine,Philistine religion,ane,Ancient Near East and Mediterranean,eth,0,0,no records,x-phi,,yes,,2
+aramean,Aramean religion,ane,Ancient Near East and Mediterranean,eth,3,1,yes,x-cns,,yes,,0
+kanak_religion,Kanak religion,oceania,Americas and Oceania,eth,1,0,no,,,,,0
+chinese_folk,Chinese folk religion,east_asian,"East, Inner and Southeast Asian",eth,15,5,yes,a-dny a-dlt x-und x-sth x-mdw,,yes,,0
+amazonian_shamanism,Amazonian ayahuasca shamanism,americas,Americas and Oceania,eth,1,0,no,a-rgi a-whf a-wal a-spr a-imt a-brt,,yes,,0
+berber,Ancient Berber (Libyan) religion,african,African and Afro-diasporic,eth,1,0,no,a-wmk a-bts,,yes,,1
+chukchi,Chukchi religion,inner_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-bogo a-bogf a-czap,,yes,,0
+chumash_religion,Chumash religion,americas,Americas and Oceania,eth,1,0,no,a-kro a-pow a-bnc a-bn1,,yes,,0
+evenki_shamanism,Evenki shamanism,inner_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-czap,,yes,,0
+fijian_religion,Fijian religion,oceania,Americas and Oceania,eth,1,0,no,a-fiji a-brw a-tho,,yes,,2
+finnic,Finnic religion,european,Ancient Near East and Mediterranean,eth,3,1,yes,x-mr04,,yes,,2
+kwaio_religion,Kwaio ancestral religion,oceania,Americas and Oceania,eth,1,0,no,a-codr a-riv,,yes,,0
+maya_religion,Maya religion,americas,Americas and Oceania,eth,13,2,yes,x-mr11 a-jy2 a-bn2,,yes,,4
+mbuti_religion,Mbuti religion,african,African and Afro-diasporic,eth,1,0,no,a-swf a-lld,,yes,,0
+pacific_northwest,Pacific Northwest Coast religions,americas,Americas and Oceania,eth,1,0,no,a-tsim a-hdt a-tlm a-bnc a-hbk a-bn1 a-bks,,yes,,0
+sabaean,South Arabian religion,ane,Ancient Near East and Mediterranean,eth,1,0,no,x-ply x-zca,,yes,,0
+sami,Sámi religion,european,Ancient Near East and Mediterranean,eth,2,0,no,a-sche x-mr04,,yes,,1
+sarnaism,Sarnaism,south_asian_indigenous,Indian and Himalayan,eth,1,0,no,a-mun a-dal a-orn,,yes,,0
+thracian,Thracian religion,european,Ancient Near East and Mediterranean,eth,1,0,no,x-fcg x-rps x-str,,yes,,2
+vanuatu_kastom,Vanuatu kastom religion,oceania,Americas and Oceania,eth,1,0,no,a-codr a-hnh a-riv,,yes,,1
+vedda,Vedda religion,south_asian_indigenous,Indian and Himalayan,eth,1,0,no,a-sel,,yes,,0
+yanomami_religion,Yanomami religion,americas,Americas and Oceania,eth,1,0,no,,,,,0
+lycian,Lycian religion,ane,Ancient Near East and Mediterranean,eth,0,0,no records,x-hrd,,yes,,0
+illyrian,Illyrian religion,european,Ancient Near East and Mediterranean,eth,0,0,no records,x-evi x-str,,yes,,0
+basque_pagan,Basque religion before Christianity,european,Ancient Near East and Mediterranean,eth,0,0,no records,l-webs,,yes,,0
+shrauta,Shrauta (Vedic) ritual tradition,dharmic,Indian and Himalayan,sch,0,0,no records,x-kvu x-brah x-aib x-rvb,,yes,yes,0
+koryak_religion,Koryak religion,inner_asian,"East, Inner and Southeast Asian",eth,0,0,no records,a-czap a-joch,,yes,,0
+yukaghir_religion,Yukaghir religion,inner_asian,"East, Inner and Southeast Asian",eth,0,0,no records,a-czap a-ykt,,yes,,0
+etruscan,Etruscan religion,european,Ancient Near East and Mediterranean,eth,5,0,no,x-den x-lel,,yes,,1
+urartian,Urartian religion,ane,Ancient Near East and Mediterranean,eth,1,0,no,,,,,0
+lapita_polynesian,Polynesian religion,oceania,Americas and Oceania,eth,0,0,no records,a-forn a-grey a-ocea a-gill,,yes,,1
+tongan_religion,Tongan religion,oceania,Americas and Oceania,eth,1,0,no,a-mar,,yes,,1
+arabian,Pre-Islamic Arabian religion,ane,Ancient Near East and Mediterranean,eth,2,0,no,x-aap x-clo x-sso,,yes,,2
+celtic,Celtic religion,european,Ancient Near East and Mediterranean,eth,7,1,yes,x-mr03,,yes,,2
+cybele,Cult of Cybele (Magna Mater),hellenistic,Ancient Near East and Mediterranean,cult,1,0,no,x-gmg x-cmo,,yes,,2
+jainism,Jainism,dharmic,Indian and Himalayan,rel,8,1,yes,x-hjn x-ojn,,yes,,4
+samoan_religion,Samoan religion,oceania,Americas and Oceania,eth,1,0,no,a-tur a-trn,,yes,,0
+roman,Ancient Roman religion,european,Ancient Near East and Mediterranean,eth,14,5,yes,,,yes,,19
+dionysian,Dionysian Mysteries,hellenistic,Ancient Near East and Mediterranean,myst,1,1,yes,x-elb,,yes,,1
+eleusinian,Eleusinian Mysteries,hellenistic,Ancient Near East and Mediterranean,myst,1,1,yes,x-elb,,yes,,1
+italic,Umbrian and Oscan religion,european,Ancient Near East and Mediterranean,eth,1,0,no,,,,,1
+mixtec_religion,Mixtec religion,americas,Americas and Oceania,eth,2,0,no,a-str a-bn2 x-spi x-jmx,,yes,,0
+samothracian,Mysteries of the Great Gods (Samothrace),hellenistic,Ancient Near East and Mediterranean,myst,0,0,no records,x-fcg,,yes,yes,0
+scythian,Scythian religion,iranian,Iranian,eth,1,1,yes,,,yes,,0
+lydian,Lydian religion,ane,Ancient Near East and Mediterranean,eth,0,0,no records,x-hrd,,yes,,0
+armenian_pagan,Armenian pre-Christian religion,iranian,Iranian,eth,1,0,no,x-mr07,,yes,,0
+charvaka,Chārvāka (Lokāyata),dharmic,Indian and Himalayan,phil,2,0,no,x-sds,,yes,,1
+orphism,Orphism,hellenistic,Ancient Near East and Mediterranean,myst,3,1,yes,,,yes,,2
+iberian,Iberian religion (pre-Roman Spain),european,Ancient Near East and Mediterranean,eth,0,0,no records,x-str,,yes,,0
+celtiberian_lusitanian,Celtiberian and Lusitanian religion,european,Ancient Near East and Mediterranean,eth,0,0,no records,x-str,,yes,yes,0
+sarmatian_alan,Sarmatian and Alan religion,iranian,Iranian,eth,0,0,no records,x-amm x-str,,yes,yes,1
+judaism,Judaism,abrahamic,Abrahamic,rel,78,70,yes,x-gtz,,yes,,11
+pythagoreanism,Pythagoreanism,hellenistic,Ancient Near East and Mediterranean,phil,2,1,yes,,,yes,,1
+buddhism,Buddhism,dharmic,Indian and Himalayan,rel,7,3,yes,,,yes,,20
+ajivika,Ājīvika,dharmic,Indian and Himalayan,rel,1,0,no,x-hjn x-er01,,yes,,3
+baltic,Baltic religion,european,Ancient Near East and Mediterranean,eth,2,0,no,x-er08,,yes,,5
+bathouism,Bathouism (Bodo),south_asian_indigenous,Indian and Himalayan,eth,1,0,no,a-kac,,yes,,0
+confucianism,Confucianism,east_asian,"East, Inner and Southeast Asian",phil,19,9,yes,x-sth,,yes,,6
+germanic,Germanic religion,european,Ancient Near East and Mediterranean,eth,2,1,yes,x-ger,,yes,,3
+gondi,Gondi religion (Koya Punem),south_asian_indigenous,Indian and Himalayan,eth,1,0,no,a-rus,,yes,,0
+guanche,Guanche religion,african,African and Afro-diasporic,eth,1,0,no,a-gua,,yes,,0
+guarani_religion,Guaraní religion,americas,Americas and Oceania,eth,1,0,no,x-mr11,,yes,,0
+hinduism,Hinduism,dharmic,Indian and Himalayan,rel,73,20,yes,,,yes,,19
+hmong_religion,Hmong traditional religion,east_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-clk,,yes,,0
+irish_celtic,Gaelic Irish religion,european,Ancient Near East and Mediterranean,eth,5,1,yes,,,yes,,0
+kaharingan,Kaharingan (Dayak),southeast_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-hmd a-lrb a-sjf,,yes,,0
+kalash,Kalash religion,south_asian_indigenous,Indian and Himalayan,eth,1,0,no,a-kaf,,yes,,0
+khanty_mansi,Khanty and Mansi religion,inner_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-czap x-mr04,,yes,,0
+khoikhoi_religion,Khoikhoi religion,african,African and Afro-diasporic,eth,1,1,yes,a-hah a-sto a-ang,,yes,,0
+kirat_mundhum,Kirat Mundhum (Kiranti religion),south_asian_indigenous,Indian and Himalayan,eth,1,0,no,x-hbn,,yes,,0
+mapuche_religion,Mapuche religion,americas,Americas and Oceania,eth,1,0,no,x-mr11 a-smt a-mol,,yes,,0
+marapu,Marapu (Sumba),southeast_asian,"East, Inner and Southeast Asian",eth,1,0,no,,,,,0
+mari_religion,Mari Traditional Religion,inner_asian,"East, Inner and Southeast Asian",eth,1,0,no,x-mr04,,yes,,0
+neak_ta,Khmer neak ta religion,southeast_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-mou,,yes,,1
+nenets_religion,Nenets religion,inner_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-czap,,yes,,0
+niam_khasi,Niam Khasi,south_asian_indigenous,Indian and Himalayan,eth,1,0,no,a-khs,,yes,,0
+santal_religion,Santal religion (Sari Dharam),south_asian_indigenous,Indian and Himalayan,eth,1,0,no,a-dal t-bomp t-sanf,,yes,,0
+toda,Toda religion,south_asian_indigenous,Indian and Himalayan,eth,1,0,no,a-tod,,yes,,0
+torres_strait,Torres Strait Islander religion,oceania,Americas and Oceania,eth,1,0,no,a-had,,yes,,0
+tukanoan,Tukanoan religion (Desana),americas,Americas and Oceania,eth,1,0,no,a-whf a-wal a-spr,,yes,,0
+udmurt_religion,Udmurt Vos,inner_asian,"East, Inner and Southeast Asian",eth,1,0,no,x-mr04,,yes,,0
+vietnamese_folk,Vietnamese folk religion,east_asian,"East, Inner and Southeast Asian",eth,1,0,no,,,,,0
+zapotec_religion,Zapotec religion,americas,Americas and Oceania,eth,1,0,no,a-str a-bn2 x-spi x-jmx,,yes,,1
+dacian,Dacian and Getic religion (Zalmoxis),european,Ancient Near East and Mediterranean,eth,0,0,no records,x-hrd x-str,,yes,,1
+gaulish,Gaulish and Gallo-Roman religion,european,Ancient Near East and Mediterranean,eth,0,0,no records,x-mr03 x-cae x-str,,yes,yes,1
+mohism,Mohism,east_asian,"East, Inner and Southeast Asian",phil,1,1,yes,,,yes,,1
+samaritanism,Samaritanism,abrahamic,Abrahamic,rel,7,1,yes,,,yes,,1
+daoism,Daoism,east_asian,"East, Inner and Southeast Asian",rel,21,3,yes,x-sth,,yes,,5
+nabataean,Nabataean religion,ane,Ancient Near East and Mediterranean,eth,1,1,yes,x-cns,,yes,,0
+zurvanism,Zurvanism,iranian,Iranian,sch,1,0,no,x-dzt,,yes,yes,2
+mahasanghika,Mahāsāṅghika,dharmic,Indian and Himalayan,sch,1,0,no,x-ehb x-pcn x-kmb,,yes,yes,2
+sthavira,Sthaviravāda,dharmic,Indian and Himalayan,sch,0,0,no records,x-ehb x-pcn x-kmb,,yes,yes,3
+druidism,Druidism (ancient),european,Ancient Near East and Mediterranean,sch,1,0,no,x-er05 x-cae x-str,,yes,yes,2
+isis_cult,Cult of Isis (Graeco-Roman),hellenistic,Ancient Near East and Mediterranean,myst,2,0,no,x-cmo,,yes,yes,2
+serapis,Cult of Serapis,hellenistic,Ancient Near East and Mediterranean,cult,1,0,no,x-cmo,,yes,yes,3
+shinto,Shinto,east_asian,"East, Inner and Southeast Asian",eth,14,1,yes,x-und x-ajr,,yes,,6
+tengrism,Tengrism,inner_asian,"East, Inner and Southeast Asian",eth,7,0,no,a-trk,,yes,,4
+sarvastivada,Sarvāstivāda,dharmic,Indian and Himalayan,sch,4,0,no,x-ehb,,yes,yes,2
+theravada,Theravāda Buddhism,dharmic,Indian and Himalayan,br,39,20,yes,x-prt x-sau x-cpl,,yes,,7
+bene_israel,Bene Israel,abrahamic,Abrahamic,sch,1,0,no,x-er02,,yes,,0
+shaivism,Shaivism,dharmic,Indian and Himalayan,br,9,0,no,x-bvs x-wil,,yes,yes,2
+vaishnavism,Vaishnavism,dharmic,Indian and Himalayan,br,18,2,yes,x-bvs x-wil,,yes,,2
+essenes,Essenes and the Qumran community,abrahamic,Abrahamic,sch,14,1,yes,,,yes,,1
+pharisees,Pharisees,abrahamic,Abrahamic,sch,0,0,no records,x-hph x-gtz,,yes,,2
+sadducees,Sadducees,abrahamic,Abrahamic,sch,0,0,no records,x-shj x-elj x-dg2,,yes,,1
+hopewell,Hopewell religion,americas,Americas and Oceania,eth,0,0,no records,a-squ x-tmd x-shr,,yes,,1
+mahayana,Mahāyāna Buddhism,dharmic,Indian and Himalayan,br,25,7,yes,x-smo x-slk,,yes,,5
+nazca_religion,Nazca religion,americas,Americas and Oceania,eth,0,0,no records,a-jyc,,yes,,0
+teotihuacan_religion,Teotihuacan religion,americas,Americas and Oceania,eth,1,0,no,x-spi x-jmx,,yes,,1
+imperial_cult,Roman imperial cult,european,Ancient Near East and Mediterranean,cult,2,0,no,,,,yes,1
+sanamahism,Sanamahism (Meitei religion),south_asian_indigenous,Indian and Himalayan,eth,1,0,no,a-mei,,yes,,0
+christianity,Christianity,abrahamic,Abrahamic,rel,107,64,yes,,,yes,,72
+jewish_christianity,"Jewish Christianity (Ebionites, Nazarenes)",abrahamic,Abrahamic,sch,3,2,yes,,,yes,,1
+chinese_buddhism,Chinese Buddhism,dharmic,Indian and Himalayan,br,18,3,yes,a-dlt x-prt x-jbc x-sau,,yes,,7
+saint_thomas_christians,Saint Thomas Christians,abrahamic,Abrahamic,sch,1,0,no,x-ftc x-eth x-bcr,,yes,,2
+rabbinic,Rabbinic Judaism,abrahamic,Abrahamic,br,84,15,yes,,,yes,,4
+digambara,Digambara,dharmic,Indian and Himalayan,br,17,2,yes,x-hjn x-ojn x-sti,,yes,,1
+mithraism,Roman Mithraism,hellenistic,Ancient Near East and Mediterranean,myst,2,0,no,x-cmo,,yes,,2
+svetambara,Śvetāmbara,dharmic,Indian and Himalayan,br,18,3,yes,x-hjn x-ojn x-sti,,yes,,2
+cochin_jews,Cochin Jews,abrahamic,Abrahamic,sch,1,0,no,x-bcr,,yes,,0
+gnosticism,Gnosticism,hellenistic,Ancient Near East and Mediterranean,mov,19,1,yes,e-ffg,,yes,,1
+hermeticism,Hermeticism,hellenistic,Ancient Near East and Mediterranean,esot,9,1,yes,,,yes,,3
+mandaeism,Mandaeism,iranian,Iranian,rel,10,0,no,e-gjb,,yes,,0
+moche_religion,Moche religion,americas,Americas and Oceania,eth,0,0,no records,a-jyc,,yes,,1
+sethianism,Sethian Gnosticism,hellenistic,Ancient Near East and Mediterranean,sch,10,1,yes,e-ffg,,yes,,0
+vietnamese_buddhism,Vietnamese Buddhism,dharmic,Indian and Himalayan,br,2,0,no,,,,yes,1
+alchemy,Alchemy (Western),esoteric,"Esoteric, new and secular",esot,0,0,no records,h-lives,,yes,yes,1
+basilideans,Basilideans,hellenistic,Ancient Near East and Mediterranean,sch,1,0,no,e-ffg,,yes,yes,0
+valentinianism,Valentinianism,hellenistic,Ancient Near East and Mediterranean,sch,8,0,no,e-ffg,,yes,yes,0
+tianshi,Way of the Celestial Masters (Zhengyi),east_asian,"East, Inner and Southeast Asian",sch,2,0,no,t-wern x-mr08,,yes,,0
+marcionism,Marcionism,abrahamic,Abrahamic,sch,1,0,no,x-hdg e-ter x-lfr x-db3,,yes,,1
+madhyamaka,Madhyamaka,dharmic,Indian and Himalayan,sch,8,2,yes,,,yes,,0
+montanism,Montanism (New Prophecy),abrahamic,Abrahamic,mov,1,0,no,x-hdg x-db3 e-m01,,yes,,1
+taiping_dao,Way of Great Peace,east_asian,"East, Inner and Southeast Asian",mov,0,0,no records,,,,,0
+cham_hinduism,Cham Balamon Hinduism,dharmic,Indian and Himalayan,sch,1,0,no,x-ehb,,yes,yes,0
+manichaeism,Manichaeism,iranian,Iranian,rel,12,0,no,x-lfr e-n04,,yes,,7
+neoplatonism,Neoplatonism,hellenistic,Ancient Near East and Mediterranean,phil,5,2,yes,,,yes,,7
+christian_monasticism,Christian monasticism,abrahamic,Abrahamic,mov,10,3,yes,,,yes,,1
+sol_invictus,Cult of Sol Invictus,european,Ancient Near East and Mediterranean,cult,1,0,no,,,,yes,2
+beta_israel,Beta Israel (Haymanot),abrahamic,Abrahamic,br,5,0,no,x-fld,,yes,,1
+yogacara,Yogācāra,dharmic,Indian and Himalayan,sch,7,0,no,x-slk,,yes,yes,0
+pictish,Pictish religion,european,Ancient Near East and Mediterranean,eth,0,0,no records,x-er10,,yes,yes,1
+armenian_apostolic,Armenian Apostolic Church,abrahamic,Abrahamic,sch,3,1,yes,,,yes,,1
+donatism,Donatism,abrahamic,Abrahamic,sch,1,0,no,e-n04 x-db1,,yes,,1
+arianism,Arianism,abrahamic,Abrahamic,sch,1,0,no,e-m04 e-m02 x-sch3 x-hdg,,yes,,3
+georgian_orthodox,Georgian Orthodox Church,abrahamic,Abrahamic,sch,2,0,no,x-ftd,,yes,,0
+ethiopian_orthodox,Ethiopian Orthodox Tewahedo Church,abrahamic,Abrahamic,sch,20,3,yes,,,yes,,4
+shangqing,Shangqing (Highest Clarity),east_asian,"East, Inner and Southeast Asian",sch,3,0,no,,,,,0
+priscillianism,Priscillianism,abrahamic,Abrahamic,sch,0,0,no records,x-db4 e-m11,,yes,,0
+korean_buddhism,Korean Buddhism,dharmic,Indian and Himalayan,br,5,0,no,a-hul a-gal x-grf,,yes,yes,4
+himyar_judaism,Judaism in Himyar,abrahamic,Abrahamic,sch,1,0,no,x-ply x-nlh,,yes,,0
+lingbao,Lingbao (Numinous Treasure),east_asian,"East, Inner and Southeast Asian",sch,2,0,no,,,,,0
+newar_buddhism,Newar Buddhism,dharmic,Indian and Himalayan,sch,1,0,no,x-hbn x-old,,yes,yes,0
+shaktism,Shaktism,dharmic,Indian and Himalayan,br,14,3,yes,x-wil x-omc x-whd x-elm,,yes,,1
+pelagianism,Pelagianism,abrahamic,Abrahamic,sch,0,0,no records,x-sch3 x-hdg e-n05 x-db4,,yes,,1
+pure_land,Pure Land Buddhism,dharmic,Indian and Himalayan,sch,3,0,no,x-jbc,,yes,yes,1
+church_of_east,Church of the East,abrahamic,Abrahamic,br,5,1,yes,x-ftc x-ftc x-eth,,yes,,3
+celtic_christianity,Celtic (Irish) Christianity,abrahamic,Abrahamic,sch,3,1,yes,,,yes,,1
+anglo_saxon,Anglo-Saxon paganism,european,Ancient Near East and Mediterranean,eth,4,1,yes,,,yes,,2
+catholicism,Catholicism (Latin Church),abrahamic,Abrahamic,br,53,15,yes,,,yes,,59
+coptic_orthodox,Coptic Orthodox Church,abrahamic,Abrahamic,sch,10,0,no,x-ftc x-adn x-but,,yes,,1
+eastern_orthodox,Eastern Orthodoxy,abrahamic,Abrahamic,br,18,4,yes,x-ftd x-adn,,yes,,7
+oriental_orthodox,Oriental Orthodoxy,abrahamic,Abrahamic,br,0,0,no records,x-ftc,,yes,,1
+mazdakism,Mazdakism,iranian,Iranian,mov,1,0,no,x-blp,,yes,yes,1
+aluk_todolo,Aluk To Dolo (Toraja),southeast_asian,"East, Inner and Southeast Asian",eth,1,0,no,,,,,0
+bagobo_religion,Bagobo religion,southeast_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-cdv a-bgb,,yes,,0
+batak_religion,Batak religion,southeast_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-msd a-crw,,yes,,0
+chan,Chan Buddhism,dharmic,Indian and Himalayan,sch,8,0,no,x-jbc,,yes,yes,1
+circassian,Circassian Habze,european,Ancient Near East and Mediterranean,eth,1,0,no,a-bcr,,yes,,0
+donyi_polo,Donyi-Polo,south_asian_indigenous,Indian and Himalayan,eth,1,0,no,,,,,0
+ifugao_religion,Ifugao religion,southeast_asian,"East, Inner and Southeast Asian",eth,2,0,no,a-kph,,yes,,0
+kalinga_religion,Kalinga religion,southeast_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-kph,,yes,,0
+kogi_religion,Kogi and Arhuaco religion,americas,Americas and Oceania,eth,1,0,no,,,,,0
+malagasy_religion,Malagasy traditional religion (Fomba Gasy),african,African and Afro-diasporic,eth,2,0,no,a-sib,,yes,,0
+mangyan_religion,Mangyan religion,southeast_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-kph a-wor,,yes,,0
+manobo_religion,Manobo religion,southeast_asian,"East, Inner and Southeast Asian",eth,2,0,no,a-cdv,,yes,,0
+mazatec_religion,Mazatec religion,americas,Americas and Oceania,eth,1,0,no,a-str,,yes,,0
+nat_worship,Burmese nat worship,southeast_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-shy a-fhs,,yes,,1
+norse,Norse religion,european,Ancient Near East and Mediterranean,eth,10,4,yes,,,yes,,3
+satsana_phi,Satsana Phi (Tai spirit religion),southeast_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-yel a-mou a-shn,,yes,,1
+serer_religion,Serer religion (A ƭat Roog),african,African and Afro-diasporic,eth,1,0,no,,,,,0
+shaiva_siddhanta,Shaiva Siddhanta,dharmic,Indian and Himalayan,sch,8,3,yes,,,yes,,0
+slavic,Slavic religion,european,Ancient Near East and Mediterranean,eth,4,0,no,x-mr03 x-ral,,yes,,4
+subanen_religion,Subanen religion,southeast_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-chs,,yes,,0
+sulod_religion,Sulod (Panay Bukidnon) religion,southeast_asian,"East, Inner and Southeast Asian",eth,1,0,no,,,,,0
+sunda_wiwitan,Sunda Wiwitan,southeast_asian,"East, Inner and Southeast Asian",eth,1,0,no,,,,,0
+tagbanwa_religion,Tagbanwa religion,southeast_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-wor,,yes,,0
+tiwanaku_religion,Tiwanaku religion,americas,Americas and Oceania,eth,0,0,no records,a-sqr a-bnd a-jyc,,yes,,0
+tuvan_shamanism,Tuvan shamanism,inner_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-car,,yes,,0
+yi_bimo,Bimoism (Yi),east_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-clk,,yes,,0
+yoruba_religion,Yoruba religion,african,African and Afro-diasporic,eth,4,1,yes,a-yoru a-joh a-dns,,yes,,2
+zhuang_mo,Moism (Zhuang),east_asian,"East, Inner and Southeast Asian",eth,1,0,no,,,,,0
+kapalika,Kāpālika ascetics (skull-bearers),dharmic,Indian and Himalayan,sch,0,0,no records,x-bvs,,yes,yes,0
+bontoc_igorot,Bontoc Igorot religion,southeast_asian,"East, Inner and Southeast Asian",eth,0,0,no records,a-jen,,yes,,0
+tinguian,Tinguian (Itneg) religion,southeast_asian,"East, Inner and Southeast Asian",eth,0,0,no records,a-tin a-tit,,yes,,0
+karen_religion,Karen religion,southeast_asian,"East, Inner and Southeast Asian",eth,0,0,no records,a-kar,,yes,,1
+shan_religion,Shan religion,southeast_asian,"East, Inner and Southeast Asian",eth,0,0,no records,a-shn,,yes,,1
+naga_religions,Naga religions (traditional),south_asian_indigenous,Indian and Himalayan,eth,0,0,no records,a-hut a-hus a-mil a-hod,,yes,,1
+syriac_orthodox,Syriac Orthodox Church,abrahamic,Abrahamic,sch,1,0,no,x-ftc x-eth,,yes,,0
+benedictines,Benedictine Order,abrahamic,Abrahamic,sch,2,1,yes,,,yes,,0
+japanese_buddhism,Japanese Buddhism,dharmic,Indian and Himalayan,br,4,0,no,x-prt x-hck x-sau x-nnj,,yes,yes,3
+nubian_christianity,"Nubian Christianity (Nobadia, Makuria and Alodia)",abrahamic,Abrahamic,sch,0,0,no records,x-ftc,,yes,,1
+tiantai,Tiantai,dharmic,Indian and Himalayan,sch,1,0,no,x-jbc,,yes,yes,1
+dongba,Dongba religion (Naxi),east_asian,"East, Inner and Southeast Asian",eth,1,0,no,,,,,0
+huayan,Huayan,dharmic,Indian and Himalayan,sch,1,0,no,x-jbc,,yes,yes,0
+muisca_religion,Muisca religion,americas,Americas and Oceania,eth,0,0,no records,x-mr11 a-jyc,,yes,,0
+taino,Taíno religion,americas,Americas and Oceania,eth,1,0,no,x-mr11 a-jy2,,yes,,1
+vajrayana,Vajrayāna (Tantric Buddhism),dharmic,Indian and Himalayan,br,12,0,no,x-gty,,yes,yes,3
+islam,Islam,abrahamic,Abrahamic,rel,9,1,yes,,,yes,,29
+shia,Shia Islam,abrahamic,Abrahamic,br,3,0,no,x-blp x-mdt x-dis x-hsl,,yes,yes,6
+sunni,Sunni Islam,abrahamic,Abrahamic,br,91,3,yes,,,yes,,8
+tibetan_buddhism,Tibetan Buddhism,dharmic,Indian and Himalayan,br,7,0,no,x-wad x-fai x-bpl a-hcg a-das a-rkh x-hbn x-prt x-gty,,yes,yes,8
+paulicians,Paulicians,abrahamic,Abrahamic,sch,1,1,yes,,,yes,,0
+shugendo,Shugendō,east_asian,"East, Inner and Southeast Asian",syn,1,0,no,,,,yes,0
+kharijites,Kharijites,abrahamic,Abrahamic,br,0,0,no records,x-bdg x-mdt,,yes,yes,2
+onmyodo,Onmyōdō,east_asian,"East, Inner and Southeast Asian",sch,1,0,no,,,,,0
+ibadi,Ibadi Islam,abrahamic,Abrahamic,br,2,0,no,x-bdg,,yes,yes,1
+maronite,Maronite Church,abrahamic,Abrahamic,sch,0,0,no records,x-ftc x-er09 x-ce09,,yes,,0
+ancestral_puebloan,Ancestral Puebloan religion,americas,Americas and Oceania,eth,0,0,no records,x-kdr,,yes,,0
+chuvash_religion,Chuvash religion (Vattisen Yaly),inner_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-trk,,yes,,0
+smartism,Smarta tradition,dharmic,Indian and Himalayan,br,8,4,yes,,,yes,,0
+sufism,Sufism,abrahamic,Abrahamic,mov,33,6,yes,x-blp,,yes,,12
+advaita_vedanta,Advaita Vedanta,dharmic,Indian and Himalayan,sch,0,0,no records,x-vds x-vcd x-mdk,,yes,yes,1
+khazar_judaism,Khazar Judaism,abrahamic,Abrahamic,sch,1,0,no,x-gtz e-kuz x-je04 x-dbn,,yes,,0
+zaydi,Zaydi Shia,abrahamic,Abrahamic,sch,2,0,no,x-ply,,yes,yes,0
+barghawata,Barghawata religion,abrahamic,Abrahamic,syn,1,0,no,,,,yes,0
+khurramites,Khurramites,iranian,Iranian,mov,0,0,no records,x-blp,,yes,yes,1
+karaite,Karaite Judaism,abrahamic,Abrahamic,br,4,0,no,x-gtz,,yes,,0
+ismaili,Ismaili Shia,abrahamic,Abrahamic,sch,4,0,no,x-hma,,yes,yes,4
+nyingma,Nyingma,dharmic,Indian and Himalayan,sch,7,1,yes,x-wad,,yes,,0
+igbo_odinani,Odinani (Igbo religion),african,African and Afro-diasporic,eth,1,0,no,a-bas,,yes,,1
+kashmir_shaivism,Kashmir Shaivism (Trika),dharmic,Indian and Himalayan,sch,9,0,no,x-orl,,yes,yes,0
+mississippian,Mississippian religion,americas,Americas and Oceania,eth,0,0,no records,a-squ x-tmd x-shr x-thr,,yes,,1
+seon,Korean Seon,dharmic,Indian and Himalayan,sch,3,0,no,,,,yes,0
+songhai_religion,Songhai traditional religion,african,African and Afro-diasporic,eth,1,0,no,a-cll,,yes,,0
+magyar_pagan,Magyar religion before Christianity,european,Ancient Near East and Mediterranean,eth,0,0,no records,,,,,1
+dzogchen,Dzogchen (Great Perfection),dharmic,Indian and Himalayan,sch,0,0,no records,x-wad,,yes,yes,0
+shingon,Shingon,dharmic,Indian and Himalayan,sch,2,0,no,x-rjb x-ajr x-ldj x-hck x-nnj,,yes,yes,2
+tendai,Tendai,dharmic,Indian and Himalayan,sch,1,0,no,x-rjb x-ajr x-ldj x-nnj,,yes,yes,1
+qalandar_malamati,Qalandar and Malamati currents (the way of blame),abrahamic,Abrahamic,mov,0,0,no records,x-bdv,,yes,yes,0
+toltec,Toltec religion,americas,Americas and Oceania,eth,0,0,no records,a-bnc,,yes,,1
+alawite,Alawites (Nusayris),abrahamic,Abrahamic,sch,3,0,no,x-er09 x-lyd x-nsr,,yes,yes,1
+bulgarian_orthodox,Bulgarian Orthodox Church,abrahamic,Abrahamic,sch,2,0,no,x-ftd,,yes,,1
+twelver,Twelver Shia (Imamiyya),abrahamic,Abrahamic,sch,10,0,no,x-hhp,,yes,yes,4
+anishinaabe_religion,Anishinaabe religion,americas,Americas and Oceania,eth,1,0,no,a-mide a-hbk a-dc1 a-dc2,,yes,,0
+balinese_hinduism,Balinese Hinduism (Agama Hindu Dharma),dharmic,Indian and Himalayan,sch,3,0,no,a-raf a-crw,,yes,yes,0
+bon,Bon,inner_asian,"East, Inner and Southeast Asian",rel,5,0,no,x-fai a-das a-rkh,,yes,,2
+bugis_religion,"Bugis traditional religion (Tolotang, Bissu)",southeast_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-crw,,yes,,0
+edo_religion,Edo religion,african,African and Afro-diasporic,eth,1,0,no,a-gbn,,yes,,0
+hawaiian_religion,Hawaiian religion,oceania,Americas and Oceania,eth,2,1,yes,a-hula a-forn a-fcol a-ell x-haw,,yes,,2
+marquesan,Marquesan religion,oceania,Americas and Oceania,eth,1,0,no,a-mel a-hdy,,yes,,0
+tahitian_religion,Society Islands religion,oceania,Americas and Oceania,eth,1,0,no,a-ell,,yes,,1
+cluniacs,Cluniac Reform,abrahamic,Abrahamic,mov,1,0,no,x-sch5 e-ber,,yes,,0
+bogomils,Bogomilism,abrahamic,Abrahamic,mov,1,0,no,x-lea,,yes,,1
+kalachakra,Kālacakra tradition,dharmic,Indian and Himalayan,sch,0,0,no records,x-wad,,yes,yes,1
+kaifeng_jews,Kaifeng Jews,abrahamic,Abrahamic,sch,1,0,no,x-fin,,yes,,0
+mazu,Mazu worship,east_asian,"East, Inner and Southeast Asian",cult,1,0,no,,,,,0
+russian_orthodox,Russian Orthodox Church,abrahamic,Abrahamic,sch,1,0,no,x-ftd x-adn,,yes,,3
+akan_religion,Akan religion,african,African and Afro-diasporic,eth,3,0,no,a-asht a-rapr a-tshi a-edw,,yes,,3
+bambara_religion,Bambara (Bamana) religion,african,African and Afro-diasporic,eth,4,0,no,a-prk a-cll,,yes,,0
+buryat_shamanism,Buryat shamanism,inner_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-czap,,yes,,0
+cherokee_religion,Cherokee religion,americas,Americas and Oceania,eth,1,1,yes,a-cher a-chsf a-hbk,,yes,,0
+dinka_religion,Dinka religion,african,African and Afro-diasporic,eth,2,0,no,a-swf,,yes,,0
+fon_vodun,"Vodun (Fon, Ewe and Aja)",african,African and Afro-diasporic,eth,1,0,no,a-ewe a-gele a-ske,,yes,,3
+fulbe_traditional,Fulbe pastoral religion,african,African and Afro-diasporic,eth,2,0,no,a-mee,,yes,,0
+guna_religion,Guna religion,americas,Americas and Oceania,eth,1,0,no,a-wfr,,yes,,0
+hausa_bori,Bori (Hausa spirit religion),african,African and Afro-diasporic,eth,1,0,no,a-tre a-mee,,yes,,2
+ifa,Ifá,african,African and Afro-diasporic,sch,4,0,no,a-yoru a-dns,,yes,yes,0
+inuit_religion,Inuit religion,americas,Americas and Oceania,eth,1,1,yes,a-rin a-raa a-hbk a-rasm a-nels a-boas a-bn1,,yes,,0
+jola_religion,Jola religion (Awasena),african,African and Afro-diasporic,eth,1,0,no,,,,,0
+kongo_religion,Kongo religion,african,African and Afro-diasporic,eth,1,0,no,a-dent a-wee a-ben,,yes,,6
+kuksu,Kuksu religion,americas,Americas and Oceania,eth,1,0,no,a-kro a-pow a-bnc a-bn1,,yes,,0
+lenape_religion,Lenape religion,americas,Americas and Oceania,eth,1,0,no,a-hbk,,yes,,1
+nath,Nath Sampradaya,dharmic,Indian and Himalayan,sch,4,1,yes,x-oma,,yes,,0
+nuer_religion,Nuer religion,african,African and Afro-diasporic,eth,1,0,no,,,,,0
+oromo_waaqeffannaa,Waaqeffannaa (Oromo religion),african,African and Afro-diasporic,eth,2,0,no,a-hrs a-kpf,,yes,,0
+ossetian,Ossetian traditional religion (Uatsdin),iranian,Iranian,eth,1,0,no,,,,yes,1
+rwandan_religion,Rwandan and Burundian religion (Imana),african,African and Afro-diasporic,eth,1,0,no,,,,,0
+senufo_religion,Senufo religion (Poro),african,African and Afro-diasporic,eth,1,0,no,,,,,0
+shona_religion,Shona religion (Mwari),african,African and Afro-diasporic,eth,2,0,no,a-bnr,,yes,,0
+sotho_tswana,Sotho–Tswana religion,african,African and Afro-diasporic,eth,1,0,no,a-cas a-liv a-mof a-arb,,yes,,0
+xhosa_religion,Xhosa religion,african,African and Afro-diasporic,eth,1,0,no,a-kid a-sto a-sht,,yes,,1
+zulu_religion,Zulu religion,african,African and Afro-diasporic,eth,2,1,yes,a-call a-kid a-grt a-sht,,yes,,1
+ibibio_religion,Ibibio religion,african,African and Afro-diasporic,eth,0,0,no records,a-talb a-tal,,yes,,0
+ekoi_religion,Ekoi (Ejagham) religion,african,African and Afro-diasporic,eth,0,0,no records,a-tsb,,yes,,0
+thonga_religion,Thonga (Tsonga) religion,african,African and Afro-diasporic,eth,0,0,no records,a-junod,,yes,,0
+druze,Druze faith,abrahamic,Abrahamic,rel,1,0,no,x-hdr,,yes,yes,1
+neo_confucianism,Neo-Confucianism,east_asian,"East, Inner and Southeast Asian",sch,7,1,yes,,,yes,,3
+kagyu,Kagyu,dharmic,Indian and Himalayan,sch,3,1,yes,x-wad,,yes,,0
+sri_vaishnavism,Sri Vaishnavism,dharmic,Indian and Himalayan,sch,4,3,yes,,,yes,,0
+sakya,Sakya,dharmic,Indian and Himalayan,sch,2,0,no,x-wad,,yes,yes,0
+mustali,Musta'li Ismailism,abrahamic,Abrahamic,sch,0,0,no records,,,,yes,2
+nizari,Nizari Ismailism,abrahamic,Abrahamic,sch,3,0,no,x-hma,,yes,yes,1
+cistercians,Cistercian Order,abrahamic,Abrahamic,sch,1,1,yes,,,yes,,0
+aztec_religion,Aztec (Mexica) religion,americas,Americas and Oceania,eth,12,1,yes,x-mr11 a-jy2 a-bn2,,yes,,4
+manchu_shamanism,Manchu shamanism,inner_asian,"East, Inner and Southeast Asian",eth,2,0,no,a-czap,,yes,,0
+mongolian_shamanism,Mongolian shamanism,inner_asian,"East, Inner and Southeast Asian",eth,2,0,no,a-hcg a-oss a-car,,yes,,2
+mossi_religion,Mossi religion,african,African and Afro-diasporic,eth,1,0,no,a-vaf,,yes,,0
+ryukyuan,Ryukyuan religion,east_asian,"East, Inner and Southeast Asian",eth,1,0,no,,,,,0
+yasawiyya,Yasawiyya,abrahamic,Abrahamic,sch,1,0,no,,,,yes,0
+white_lotus,White Lotus movement,dharmic,Indian and Himalayan,mov,1,0,no,x-dgs,,yes,yes,1
+cathars,Catharism,abrahamic,Abrahamic,mov,2,0,no,x-lea,,yes,,2
+haudenosaunee_religion,Haudenosaunee religion,americas,Americas and Oceania,eth,2,1,yes,a-hbk a-mrg a-hrit,,yes,,1
+kabbalah,Kabbalah,abrahamic,Abrahamic,mov,6,1,yes,,,yes,,3
+lingayatism,Lingayatism (Virashaivism),dharmic,Indian and Himalayan,sch,2,0,no,x-bht,,yes,yes,1
+nimbarka,Nimbarka Sampradaya,dharmic,Indian and Himalayan,sch,1,0,no,x-bht,,yes,yes,0
+rapa_nui_religion,Rapa Nui religion,oceania,Americas and Oceania,eth,1,0,no,a-esi,,yes,,0
+yazidism,Yazidism,iranian,Iranian,rel,3,0,no,x-yzd x-ric,,yes,,2
+qadiriyya,Qadiriyya,abrahamic,Abrahamic,sch,4,0,no,x-bdv,,yes,yes,1
+quanzhen,Quanzhen (Complete Perfection),east_asian,"East, Inner and Southeast Asian",sch,1,0,no,x-bre,,yes,,0
+suhrawardiyya,Suhrawardiyya,abrahamic,Abrahamic,sch,1,1,yes,x-awf,,yes,,0
+waldensians,Waldensians,abrahamic,Abrahamic,mov,2,0,no,x-lea x-wld,,yes,,2
+jodo_shu,Jōdo-shū,dharmic,Indian and Himalayan,sch,1,0,no,x-rjb x-nnj,,yes,yes,1
+beguines,Beguines and Beghards,abrahamic,Abrahamic,mov,0,0,no records,x-lea,,yes,,1
+chishtiyya,Chishti Order,abrahamic,Abrahamic,sch,2,0,no,x-ajm,,yes,yes,1
+rinzai,Rinzai Zen,dharmic,Indian and Himalayan,sch,5,0,no,x-sze x-rjb x-nnj,,yes,yes,0
+ainu_religion,Ainu religion,east_asian,"East, Inner and Southeast Asian",eth,2,0,no,a-ain,,yes,,1
+carmelites,Carmelite Order,abrahamic,Abrahamic,sch,4,3,yes,,,yes,,0
+chewa_nyau,Chewa religion (Nyau),african,African and Afro-diasporic,eth,1,0,no,a-rch,,yes,,0
+huichol,Wixárika (Huichol) religion,americas,Americas and Oceania,eth,1,0,no,a-hbk a-lum a-hsy,,yes,,0
+inca_religion,Inca religion,americas,Americas and Oceania,eth,4,1,yes,x-mr11 a-cie a-sqr a-bin a-bnd a-jyc,,yes,,1
+kikuyu_religion,Kikuyu religion,african,African and Afro-diasporic,eth,2,0,no,a-hob a-rou,,yes,,0
+sakha_religion,Sakha religion (Aar Aiyy),inner_asian,"East, Inner and Southeast Asian",eth,1,0,no,a-czap a-trk,,yes,,0
+venda_religion,Venda religion,african,African and Afro-diasporic,eth,1,0,no,,,,,0
+pawnee_religion,Pawnee religion,americas,Americas and Oceania,eth,0,0,no records,a-hako a-dpw,,yes,,0
+franciscans,Franciscan Order,abrahamic,Abrahamic,sch,2,0,no,x-lea x-ce06 x-ce14 x-sbt,,yes,,1
+dominicans,Dominican Order,abrahamic,Abrahamic,sch,4,4,yes,,,yes,,0
+serbian_orthodox,Serbian Orthodox Church,abrahamic,Abrahamic,sch,2,0,no,x-ftd,,yes,,0
+jodo_shinshu,Jōdo Shinshū,dharmic,Indian and Himalayan,sch,3,1,yes,x-rjb x-ajr x-ldj x-hck x-nnj,,yes,,0
+shadhiliyya,Shadhiliyya,abrahamic,Abrahamic,sch,4,0,no,,,,yes,1
+soto,Sōtō Zen,dharmic,Indian and Himalayan,sch,3,0,no,x-sze x-rjb x-hck x-nnj,,yes,yes,0
+madhva,Madhva (Dvaita) tradition,dharmic,Indian and Himalayan,sch,2,0,no,x-bht,,yes,yes,0
+mongolian_buddhism,Mongolian Buddhism,dharmic,Indian and Himalayan,sch,4,0,no,a-hcg a-rkh a-oss a-car,,yes,yes,3
+alevism,Alevism,abrahamic,Abrahamic,sch,3,0,no,x-hsl,,yes,yes,1
+maori_religion,Māori religion,oceania,Americas and Oceania,eth,3,0,no,a-maor a-shor a-grey,,yes,,3
+free_spirit,Brethren of the Free Spirit,abrahamic,Abrahamic,mov,0,0,no records,x-lea,,yes,,1
+nichiren_buddhism,Nichiren Buddhism,dharmic,Indian and Himalayan,sch,3,0,no,x-nic x-rjb x-ajr x-ldj x-hck x-nnj,,yes,yes,4
+fraticelli,Fraticelli (Spiritual Franciscans),abrahamic,Abrahamic,mov,0,0,no records,x-lea,,yes,,2
+mahanubhava,Mahanubhava Panth,dharmic,Indian and Himalayan,sch,1,0,no,,,,yes,0
+warkari,Warkari tradition,dharmic,Indian and Himalayan,sch,5,2,yes,,,yes,,0
+bektashi,Bektashi Order,abrahamic,Abrahamic,sch,2,0,no,x-bdv,,yes,yes,0
+mevlevi,Mevlevi Order,abrahamic,Abrahamic,sch,2,2,yes,x-bdv,,yes,,0
+jonang,Jonang,dharmic,Indian and Himalayan,sch,1,0,no,,,,yes,0
+korean_confucianism,Korean Neo-Confucianism,east_asian,"East, Inner and Southeast Asian",sch,2,0,no,a-hul x-grf,,yes,,3
+truc_lam,Trúc Lâm Zen,dharmic,Indian and Himalayan,sch,1,0,no,,,,yes,0
+baganda_religion,Baganda religion (Lubaale),african,African and Afro-diasporic,eth,2,0,no,a-bag a-nbn a-rsc,,yes,,0
+dogon_religion,Dogon religion,african,African and Afro-diasporic,eth,3,0,no,,,,,0
+luba_religion,Luba religion,african,African and Afro-diasporic,eth,2,0,no,a-cam,,yes,,0
+pueblo_religion,Pueblo religion,americas,Americas and Oceania,eth,2,0,no,a-hbk a-bn1 x-kdr t-lumm a-fkt a-stz a-sia a-fws a-fft a-vpw a-vso a-vmr,,yes,,2
+purepecha_religion,Purépecha religion,americas,Americas and Oceania,eth,1,0,no,a-bn2 x-jmx,,yes,,0
+yarsanism,Yarsanism (Ahl-e Haqq),iranian,Iranian,rel,4,0,no,x-ric,,yes,,1
+zuni_religion,Zuni (A’shiwi) religion,americas,Americas and Oceania,eth,0,0,no records,a-hbk a-zuni a-stz,,yes,,0
+hopi_religion,Hopi religion,americas,Americas and Oceania,eth,0,0,no records,a-hbk a-fkt a-fws a-fft a-vpw a-vso a-vmr,,yes,,0
+keres_pueblo_religion,"Keresan Pueblo religion (Acoma, Laguna, Zia and the Rio Grande Keres)",americas,Americas and Oceania,eth,0,0,no records,a-hbk a-sia,,yes,,0
+tanoan_pueblo_religion,"Tanoan Pueblo religion (Tewa, Tiwa and Towa)",americas,Americas and Oceania,eth,0,0,no records,a-hbk t-lumm a-fws,,yes,,0
+hurufism,Hurufism,abrahamic,Abrahamic,mov,1,0,no,x-blp x-hsl,,yes,yes,0
+lollards,Lollardy,abrahamic,Abrahamic,mov,1,0,no,x-wyc,,yes,,1
+naqshbandiyya,Naqshbandi Order,abrahamic,Abrahamic,sch,1,0,no,x-bdv,,yes,yes,1
+nimatullahi,Ni‘matullāhī order,abrahamic,Abrahamic,sch,0,0,no records,,,,yes,0
+apache_religion,Apache religion,americas,Americas and Oceania,eth,1,0,no,a-god a-hbk a-bn1,,yes,,1
+kubandwa,Kubandwa (Ryangombe and Cwezi cults),african,African and Afro-diasporic,cult,1,0,no,a-bag a-nbn a-rbk a-rby a-rsc,,yes,,0
+luo_religion,Luo religion,african,African and Afro-diasporic,eth,1,0,no,a-hbe,,yes,,0
+maasai_religion,Maasai religion,african,African and Afro-diasporic,eth,1,0,no,a-mas,,yes,,0
+mende_religion,Mende religion (Poro and Sande),african,African and Afro-diasporic,eth,1,0,no,a-sbr,,yes,,0
+midewiwin,Midewiwin,americas,Americas and Oceania,sch,1,1,yes,a-mide a-skm a-skb a-dc1 a-dc2,,yes,,0
+navajo_religion,Diné (Navajo) religion,americas,Americas and Oceania,eth,3,1,yes,a-navl a-nchn a-hbk a-mch,,yes,,1
+ramanandi,Ramanandi Sampradaya,dharmic,Indian and Himalayan,sch,4,1,yes,x-wil,,yes,,0
+sant_mat,Sant Mat,dharmic,Indian and Himalayan,mov,1,0,no,x-rsd,,yes,,2
+kamba_religion,Kamba religion,african,African and Afro-diasporic,eth,0,0,no records,a-hob a-lin,,yes,,0
+ila_religion,Ila religion,african,African and Afro-diasporic,eth,0,0,no records,a-ila,,yes,,0
+omaha_religion,Omaha religion,americas,Americas and Oceania,eth,0,0,no records,a-hako a-omah,,yes,,0
+hussites,Hussites,abrahamic,Abrahamic,mov,2,0,no,x-hus,,yes,,4
+gelug,Gelug,dharmic,Indian and Himalayan,sch,3,0,no,x-wad a-hcg a-das,,yes,yes,0
+unitas_fratrum,Moravian Church (Unitas Fratrum),abrahamic,Abrahamic,sch,1,0,no,x-hm1 x-hm2,,yes,,0
+sthanakvasi,Sthānakavāsī,dharmic,Indian and Himalayan,sch,0,0,no records,x-hjn,,yes,yes,2
+christian_kabbalah,Christian Kabbalah,esoteric,"Esoteric, new and secular",esot,2,0,no,e-kab,,yes,,1
+ekasarana,Ekasarana Dharma,dharmic,Indian and Himalayan,sch,2,0,no,x-gai,,yes,yes,0
+pushtimarg,Pushtimarg (Vallabha Sampradaya),dharmic,Indian and Himalayan,sch,2,0,no,x-wil x-kmm x-bht,,yes,yes,0
+shilluk_religion,Shilluk religion,african,African and Afro-diasporic,eth,1,0,no,a-she,,yes,,0
+mahdavia,Mahdavia,abrahamic,Abrahamic,mov,1,0,no,,,,yes,0
+sikhism,Sikhism,dharmic,Indian and Himalayan,rel,16,4,yes,x-wil x-cnn,,yes,,6
+baul,Baul tradition,dharmic,Indian and Himalayan,syn,1,0,no,x-oma,,yes,,0
+dao_mau,Đạo Mẫu (Mother Goddess worship),east_asian,"East, Inner and Southeast Asian",cult,1,0,no,,,,,0
+fang_religion,Fang religion (Byeri),african,African and Afro-diasporic,eth,1,0,no,a-nass a-kin a-duc,,yes,,1
+herero_religion,Herero religion,african,African and Afro-diasporic,eth,1,0,no,a-glt a-ang,,yes,,0
+kabir_panth,Kabir Panth,dharmic,Indian and Himalayan,sch,2,0,no,x-kab x-wil x-wkb,,yes,,2
+kejawen,Kejawen (Javanese mysticism),southeast_asian,"East, Inner and Southeast Asian",syn,7,0,no,a-msd a-raf a-crw,,yes,,1
+kuba_religion,Kuba religion,african,African and Afro-diasporic,eth,1,0,no,a-tbs,,yes,,0
+mijikenda,Mijikenda religion (Kaya),african,African and Afro-diasporic,eth,1,0,no,a-kpf,,yes,,0
+muscogee_religion,Muscogee religion,americas,Americas and Oceania,eth,1,0,no,a-ccr a-hbk,,yes,,0
+udasi,Udasi,dharmic,Indian and Himalayan,sch,1,0,no,x-wil x-cnn,,yes,yes,0
+luojiao,Luo teaching (Wuwei sect),east_asian,"East, Inner and Southeast Asian",syn,1,0,no,x-dgs,,yes,yes,0
+gaudiya,Gaudiya Vaishnavism,dharmic,Indian and Himalayan,sch,5,0,no,x-cai,,yes,yes,2
+lutheranism,Lutheranism,abrahamic,Abrahamic,sch,9,6,yes,x-art,,yes,,2
+protestantism,Protestantism,abrahamic,Abrahamic,br,14,1,yes,,,yes,,6
+reformed,Reformed Christianity (Calvinism),abrahamic,Abrahamic,sch,7,5,yes,,,yes,,5
+curanderismo,Curanderismo,americas,Americas and Oceania,syn,0,0,no records,,,,,1
+anabaptism,Anabaptism,abrahamic,Abrahamic,mov,2,0,no,x-mns e-mms,,yes,,3
+hutterites,Hutterites,abrahamic,Abrahamic,sch,1,0,no,x-smm e-mms,,yes,,1
+anglicanism,Anglicanism,abrahamic,Abrahamic,sch,6,3,yes,,,yes,,6
+mennonites,Mennonites,abrahamic,Abrahamic,sch,3,2,yes,x-mns x-smm e-mms,,yes,,2
+jesuits,Society of Jesus (Jesuits),abrahamic,Abrahamic,sch,1,1,yes,,,yes,,1
+sanyi_jiao,Three-in-One teaching (Sanyi jiao),east_asian,"East, Inner and Southeast Asian",syn,0,0,no records,,,,,0
+chaldean_catholic,Chaldean Catholic Church,abrahamic,Abrahamic,sch,0,0,no records,x-ftc,,yes,,0
+presbyterianism,Presbyterianism,abrahamic,Abrahamic,sch,2,1,yes,x-wcf,,yes,,1
+socinians,Polish Brethren (Socinians),abrahamic,Abrahamic,sch,1,1,yes,x-rcc,,yes,,1
+unitarianism,Unitarianism,abrahamic,Abrahamic,sch,2,1,yes,x-rcc,,yes,,4
+lurianic,Lurianic Kabbalah,abrahamic,Abrahamic,sch,2,0,no,e-kab,,yes,,0
+dadu_panth,Dadu Panth,dharmic,Indian and Himalayan,sch,1,0,no,x-wil,,yes,,0
+congregationalism,Congregationalism (Puritan),abrahamic,Abrahamic,sch,1,0,no,x-wlk,,yes,,2
+din_i_ilahi,Din-i Ilahi,abrahamic,Abrahamic,syn,1,1,yes,x-aia,,yes,,3
+dawoodi_bohra,Dawoodi Bohra,abrahamic,Abrahamic,sch,0,0,no records,,,,yes,1
+ukrainian_greek_catholic,Ukrainian Greek Catholic Church,abrahamic,Abrahamic,sch,1,0,no,,,,,0
+syro_malabar,Syro-Malabar Catholic Church,abrahamic,Abrahamic,sch,0,0,no records,x-ftc,,yes,,0
+efik_ekpe,Ekpe (leopard society),african,African and Afro-diasporic,sch,1,0,no,a-talb a-tal a-tsb,,yes,,1
+lakota_religion,Lakota religion,americas,Americas and Oceania,eth,4,0,no,a-siou a-hbk a-dtn,,yes,,1
+lovedu_religion,Lovedu religion,african,African and Afro-diasporic,eth,1,0,no,,,,,0
+lango_religion,Lango religion,african,African and Afro-diasporic,eth,0,0,no records,a-dri,,yes,,0
+baptists,Baptists,abrahamic,Abrahamic,sch,1,0,no,x-arm,,yes,,2
+kakure_kirishitan,Kakure Kirishitan (Hidden Christians),abrahamic,Abrahamic,syn,3,0,no,,,,,1
+rosicrucianism,Rosicrucianism,esoteric,"Esoteric, new and secular",esot,3,1,yes,v-hrc,,yes,,3
+deism,Deism,secular,"Esoteric, new and secular",phil,4,1,yes,,,yes,,2
+pranami,Pranami Sampradaya,dharmic,Indian and Himalayan,sch,1,0,no,,,,yes,0
+garifuna,Garifuna religion (Dügü),afro_diasporic,African and Afro-diasporic,syn,1,0,no,,,,,0
+ranters,Ranters,abrahamic,Abrahamic,mov,0,0,no records,,,,,0
+diggers,Diggers (True Levellers),abrahamic,Abrahamic,mov,0,0,no records,,,,,0
+xiantiandao,Xiantiandao (Way of Former Heaven),east_asian,"East, Inner and Southeast Asian",syn,0,0,no records,x-dgs,,yes,yes,0
+khlysty,Khlysty (Christ-Believers),abrahamic,Abrahamic,sch,0,0,no records,x-rud,,yes,,1
+aghori,Aghori,dharmic,Indian and Himalayan,sch,0,0,no records,x-oma,,yes,yes,0
+muggletonians,Muggletonians,abrahamic,Abrahamic,sch,0,0,no records,x-mug,,yes,,0
+quakers,Quakers (Religious Society of Friends),abrahamic,Abrahamic,sch,2,2,yes,,,yes,,1
+malankara_orthodox,Malankara Orthodox Syrian Church,abrahamic,Abrahamic,sch,0,0,no records,x-ftc x-bcr,,yes,,0
+sabbateanism,Sabbateanism,abrahamic,Abrahamic,mov,1,0,no,x-gtz x-je11 x-dbn,,yes,,2
+old_believers,Old Believers,abrahamic,Abrahamic,sch,1,0,no,x-rud x-adn,,yes,,1
+pietism,Pietism,abrahamic,Abrahamic,mov,1,0,no,x-art,,yes,,2
+donmeh,Dönmeh,abrahamic,Abrahamic,sch,1,0,no,,,,,1
+nirmala,Nirmala,dharmic,Indian and Himalayan,sch,0,0,no records,x-cnn,,yes,yes,0
+amish,Amish,abrahamic,Abrahamic,sch,0,0,no records,x-smm,,yes,,1
+khalsa,Khalsa,dharmic,Indian and Himalayan,sch,5,1,yes,x-cnn,,yes,,1
+haitian_vodou,Haitian Vodou,afro_diasporic,African and Afro-diasporic,syn,5,0,no,a-seab a-sjh a-leg a-hti,,yes,,4
+hoodoo,Hoodoo (rootwork),afro_diasporic,African and Afro-diasporic,syn,4,1,yes,a-puk a-ovd m-67m m-alb,,yes,,1
+nihang,Nihang,dharmic,Indian and Himalayan,sch,1,0,no,x-cnn,,yes,yes,0
+obeah,Obeah,afro_diasporic,African and Afro-diasporic,syn,1,0,no,a-bkr a-edw a-ste,,yes,,1
+sun_dance,Sun Dance,americas,Americas and Oceania,cult,1,0,no,a-siou a-hbk a-spd a-dsd a-dch a-wsb a-wcb a-lsc a-lsh a-dtn,,yes,,0
+winti,Winti,afro_diasporic,African and Afro-diasporic,syn,1,0,no,a-ste,,yes,,1
+amana,Amana Colonies (Community of True Inspiration),abrahamic,Abrahamic,sch,1,0,no,x-nor x-shm x-noy,,yes,,0
+freemasonry,Freemasonry,esoteric,"Esoteric, new and secular",esot,2,0,no,k-old k-ande k-pres k-msym k-menc k-ward k-wilm k-keys k-vail k-glim k-armi k-apoc k-buil k-prc k-jab k-tdk k-mor k-ber k-aly k-dun,,yes,,4
+louisiana_voodoo,Louisiana Voodoo,afro_diasporic,African and Afro-diasporic,syn,1,0,no,a-puk,,yes,,1
+melkite,Melkite Greek Catholic Church,abrahamic,Abrahamic,sch,0,0,no records,x-ftc x-ce10 x-ust,,yes,,1
+evangelicalism,Evangelicalism,abrahamic,Abrahamic,mov,4,1,yes,,,yes,,0
+hasidism,Hasidic Judaism,abrahamic,Abrahamic,mov,5,0,no,x-scs,,yes,,1
+methodism,Methodism,abrahamic,Abrahamic,sch,3,1,yes,,,yes,,5
+doukhobors,Doukhobors,abrahamic,Abrahamic,sch,1,0,no,x-rud x-dkh,,yes,,1
+wahhabism,Wahhabism,abrahamic,Abrahamic,mov,1,0,no,x-hun x-bur x-pal,,yes,yes,3
+shakers,Shakers (United Society of Believers),abrahamic,Abrahamic,sch,2,0,no,x-sht x-nor x-noy,,yes,,0
+nyabingi,Nyabingi cult,african,African and Afro-diasporic,cult,1,0,no,a-rby,,yes,,0
+frankism,Frankism,abrahamic,Abrahamic,mov,1,0,no,x-gtz x-dbn,,yes,,1
+martinism,Martinism,esoteric,"Esoteric, new and secular",esot,2,0,no,h-wsm,,yes,,1
+neolin,Neolin's movement,americas,Americas and Oceania,mov,1,0,no,a-ghos a-pnt,,yes,,1
+terapanth,Śvetāmbara Terāpanthī,dharmic,Indian and Himalayan,sch,1,0,no,,,,yes,1
+skoptsy,Skoptsy,abrahamic,Abrahamic,sch,0,0,no records,x-rud,,yes,,1
+molokans,Molokans,abrahamic,Abrahamic,sch,1,0,no,x-rud,,yes,,0
+chabad,Chabad-Lubavitch,abrahamic,Abrahamic,sch,1,0,no,x-dbn,,yes,,0
+mesmerism,Mesmerism (animal magnetism),esoteric,"Esoteric, new and secular",mov,0,0,no records,v-quim,,yes,,2
+illuminati,Bavarian Illuminati,esoteric,"Esoteric, new and secular",esot,0,0,no records,k-menc,,yes,,1
+druidry_modern,Modern Druidry,modern_pagan,"Esoteric, new and secular",nrm,1,1,yes,,,yes,,1
+tijaniyya,Tijaniyya,abrahamic,Abrahamic,sch,3,0,no,,,,yes,2
+swedenborgian,The New Church (Swedenborgian),abrahamic,Abrahamic,nrm,3,1,yes,v-heav v-divl,,yes,,1
+cult_of_reason,Cult of Reason,secular,"Esoteric, new and secular",mov,0,0,no records,x-aul,,yes,,2
+cult_supreme_being,Cult of the Supreme Being,secular,"Esoteric, new and secular",mov,1,0,no,x-aul,,yes,yes,0
+theophilanthropy,Theophilanthropy,secular,"Esoteric, new and secular",mov,1,0,no,x-aul,,yes,yes,0
+longhouse_religion,Longhouse Religion (Gaiwiio),americas,Americas and Oceania,mov,1,1,yes,a-hrit,,yes,,2
+candomble,Candomblé,afro_diasporic,African and Afro-diasporic,syn,4,0,no,,,,yes,3
+palo,Palo (Regla de Congo),afro_diasporic,African and Afro-diasporic,syn,1,0,no,,,,,1
+santeria,Santería (Regla de Ocha / Lucumí),afro_diasporic,African and Afro-diasporic,syn,4,0,no,,,,yes,2
+shaykhism,Shaykhism,abrahamic,Abrahamic,sch,1,0,no,x-bbr,,yes,yes,2
+restoration_movement,Restoration Movement (Stone–Campbell),abrahamic,Abrahamic,mov,2,0,no,x-cmw,,yes,,1
+swaminarayan,Swaminarayan Sampradaya,dharmic,Indian and Himalayan,sch,2,0,no,x-bht x-heb,,yes,yes,0
+breslov,Breslov Hasidism,abrahamic,Abrahamic,sch,1,0,no,x-dbn,,yes,,0
+harmony_society,Harmony Society,abrahamic,Abrahamic,sch,1,0,no,x-nor x-noy,,yes,,0
+tenskwatawa,Tenskwatawa's movement,americas,Americas and Oceania,mov,1,0,no,a-ghos a-tec,,yes,,0
+reform_judaism,Reform Judaism,abrahamic,Abrahamic,br,3,0,no,x-phl x-koh,,yes,,0
+spiritual_baptists,Spiritual Baptists (Shouters),afro_diasporic,African and Afro-diasporic,syn,1,0,no,,,,,0
+kurozumikyo,Kurozumikyō,east_asian,"East, Inner and Southeast Asian",nrm,1,0,no,,,,yes,0
+orthodox_judaism,Orthodox Judaism,abrahamic,Abrahamic,br,2,0,no,x-hir,,yes,,0
+satnami,Satnami Samaj,dharmic,Indian and Himalayan,sch,1,0,no,a-rus x-brg,,yes,,0
+plymouth_brethren,Plymouth Brethren,abrahamic,Abrahamic,sch,1,0,no,x-pbr,,yes,,1
+brahmo_samaj,Brahmo Samaj,dharmic,Indian and Himalayan,mov,1,0,no,x-fmr,,yes,yes,3
+batuque,Batuque,afro_diasporic,African and Afro-diasporic,syn,1,0,no,,,,yes,0
+lds,Latter Day Saint movement,abrahamic,Abrahamic,mov,5,2,yes,x-vdu x-mgr,,yes,,3
+adventism,Millerite Adventism,abrahamic,Abrahamic,mov,1,1,yes,x-gct x-wmi x-bls,,yes,,2
+catholic_apostolic,Catholic Apostolic Church,abrahamic,Abrahamic,sch,1,0,no,x-irv,,yes,,0
+cofradia,Cofradía de San José,abrahamic,Abrahamic,mov,1,0,no,,,,,0
+ayyavazhi,Ayyavazhi,dharmic,Indian and Himalayan,mov,0,0,no records,,,,yes,0
+holiness_movement,Holiness movement,abrahamic,Abrahamic,mov,1,1,yes,x-phh,,yes,,2
+abakua,Abakuá,afro_diasporic,African and Afro-diasporic,sch,2,0,no,,,,,1
+transcendentalism,Transcendentalism,abrahamic,Abrahamic,mov,3,0,no,x-fro,,yes,,3
+sanusiyya,Sanusiyya,abrahamic,Abrahamic,sch,1,0,no,x-win,,yes,yes,0
+tenrikyo,Tenrikyō,east_asian,"East, Inner and Southeast Asian",nrm,3,0,no,,,,yes,1
+kumina,Kumina,afro_diasporic,African and Afro-diasporic,syn,1,0,no,a-bkr,,yes,,1
+musar,Musar movement,abrahamic,Abrahamic,mov,1,0,no,,,,,0
+tambor_de_mina,Tambor de Mina,afro_diasporic,African and Afro-diasporic,syn,1,0,no,,,,,1
+trinidad_orisha,Orisha religion of Trinidad,afro_diasporic,African and Afro-diasporic,syn,1,0,no,,,,yes,0
+rime,Rimé movement (Tibetan non-sectarian movement),dharmic,Indian and Himalayan,mov,0,0,no records,,,,yes,1
+taiping,God Worshipping Society (Taiping),abrahamic,Abrahamic,nrm,1,0,no,x-tpg x-mdw,,yes,,2
+babism,Bábism,abrahamic,Abrahamic,rel,4,0,no,x-bbr,,yes,yes,4
+lds_church,The Church of Jesus Christ of Latter-day Saints,abrahamic,Abrahamic,sch,1,1,yes,x-vdu x-mgr,,yes,,2
+strangites,Strangite Latter Day Saints,abrahamic,Abrahamic,sch,1,0,no,,,,,0
+conservative_judaism,Conservative (Masorti) Judaism,abrahamic,Abrahamic,br,3,0,no,x-scs,,yes,,0
+christadelphians,Christadelphians,abrahamic,Abrahamic,sch,1,1,yes,x-elp,,yes,,0
+oneida,Oneida Community,abrahamic,Abrahamic,nrm,1,0,no,x-nor x-noy,,yes,,0
+spiritualism,Spiritualism,esoteric,"Esoteric, new and secular",mov,1,1,yes,,,yes,,3
+buu_son_ky_huong,Bửu Sơn Kỳ Hương,dharmic,Indian and Himalayan,nrm,1,0,no,,,,yes,1
+positivism_religion,Religion of Humanity (Positivism),secular,"Esoteric, new and secular",mov,2,1,yes,,,yes,,1
+bwiti,Bwiti,african,African and Afro-diasporic,syn,1,0,no,a-duc,,yes,,2
+washat,Washat (Dreamer religion),americas,Americas and Oceania,mov,1,0,no,a-ghos,,yes,,0
+xango_recife,Xangô do Recife,afro_diasporic,African and Afro-diasporic,syn,1,0,no,,,,yes,0
+nirankari,Nirankari (Sikh reform),dharmic,Indian and Himalayan,mov,0,0,no records,,,,yes,0
+koreri,Koreri movement,oceania,Americas and Oceania,mov,1,0,no,,,,,0
+cargo_cults,Cargo cults (Melanesian cargo movements),oceania,Americas and Oceania,mov,0,0,no records,a-codr a-smb,,yes,,1
+xhosa_cattle,Xhosa cattle-killing movement,african,African and Afro-diasporic,mov,1,0,no,,,,,2
+namdhari,Namdhari,dharmic,Indian and Himalayan,mov,1,0,no,,,,yes,0
+spiritism,Spiritism (Kardecism),esoteric,"Esoteric, new and secular",mov,4,1,yes,,,yes,,3
+konkokyo,Konkōkyō,east_asian,"East, Inner and Southeast Asian",nrm,1,0,no,,,,yes,1
+community_of_christ,Community of Christ (RLDS),abrahamic,Abrahamic,sch,1,1,yes,,,yes,,1
+donghak,Cheondogyo (Donghak),east_asian,"East, Inner and Southeast Asian",nrm,2,0,no,x-mck,,yes,,3
+mahima_dharma,Mahima Dharma,dharmic,Indian and Himalayan,mov,1,0,no,,,,yes,0
+matua,Matua Mahasangha,dharmic,Indian and Himalayan,mov,1,0,no,,,,yes,0
+revival_zion,Revival Zion (Pocomania),afro_diasporic,African and Afro-diasporic,syn,1,0,no,a-bkr,,yes,,1
+radha_soami,Radha Soami,dharmic,Indian and Himalayan,sch,1,0,no,x-rsd,,yes,,1
+pai_marire,Pai Mārire,oceania,Americas and Oceania,syn,1,0,no,a-cow,,yes,,3
+bahai,Bahá'í Faith,abrahamic,Abrahamic,rel,19,3,yes,x-bbr,,yes,,2
+new_apostolic,New Apostolic Church,abrahamic,Abrahamic,sch,1,0,no,x-irv,,yes,,0
+sda,Seventh-day Adventist Church,abrahamic,Abrahamic,sch,3,2,yes,,,yes,,1
+salvation_army,The Salvation Army,abrahamic,Abrahamic,sch,1,1,yes,x-bdk,,yes,,1
+azali,Azali Bábism,abrahamic,Abrahamic,sch,1,0,no,x-bbr x-btn,,yes,yes,1
+parihaka_movement,Parihaka movement,oceania,Americas and Oceania,mov,1,0,no,,,,,0
+deobandi,Deobandi movement,abrahamic,Abrahamic,mov,2,0,no,x-hun,,yes,yes,1
+ringatu,Ringatū,oceania,Americas and Oceania,syn,1,0,no,,,,,2
+state_shinto,State Shinto,east_asian,"East, Inner and Southeast Asian",mov,2,0,no,x-ajr x-hol,,yes,yes,2
+ghost_dance,Ghost Dance,americas,Americas and Oceania,mov,2,0,no,a-ghos,,yes,,2
+jehovahs_witnesses,Jehovah's Witnesses,abrahamic,Abrahamic,sch,3,1,yes,x-hgo,,yes,,1
+old_catholic,Old Catholic Church,abrahamic,Abrahamic,sch,1,0,no,e-cch x-ce11 x-nel,,yes,,0
+parmalim,Parmalim,southeast_asian,"East, Inner and Southeast Asian",mov,1,0,no,,,,,0
+bole_maru,Bole-Maru (Dreamer) religion,americas,Americas and Oceania,mov,1,0,no,a-ghos,,yes,,0
+tuka,Tuka movement,oceania,Americas and Oceania,mov,1,0,no,a-tho,,yes,,0
+arya_samaj,Arya Samaj,dharmic,Indian and Himalayan,mov,1,0,no,x-fmr,,yes,yes,2
+theosophy,Theosophy,esoteric,"Esoteric, new and secular",esot,4,3,yes,x-fmr v-sos,,yes,,7
+ethical_culture,Ethical Culture,secular,"Esoteric, new and secular",mov,1,0,no,x-adl,,yes,,0
+christian_science,Christian Science,abrahamic,Abrahamic,nrm,1,1,yes,,,yes,,1
+barelvi,Barelvi movement,abrahamic,Abrahamic,mov,2,0,no,,,,yes,0
+new_thought,New Thought,esoteric,"Esoteric, new and secular",mov,1,1,yes,x-aqg v-hlm,,yes,,4
+salafism,Salafism,abrahamic,Abrahamic,mov,2,0,no,x-hun,,yes,yes,2
+indian_shaker,Indian Shaker Church,americas,Americas and Oceania,syn,1,0,no,a-ghos,,yes,,1
+mahdiyya,Mahdiyya (Sudan),abrahamic,Abrahamic,mov,1,0,no,x-win x-sla x-ohr,,yes,yes,0
+faithism,Faithism (Oahspe),esoteric,"Esoteric, new and secular",nrm,1,1,yes,x-oah,,yes,,1
+layene,Layène,abrahamic,Abrahamic,sch,1,0,no,,,,yes,0
+mouride,Mouride Brotherhood (Muridiyya),abrahamic,Abrahamic,sch,3,0,no,,,,yes,1
+romanian_orthodox,Romanian Orthodox Church,abrahamic,Abrahamic,sch,0,0,no records,x-ftd,,yes,,0
+black_hebrew,Black Hebrew Israelites,abrahamic,Abrahamic,mov,0,0,no records,,,,,0
+yiguandao,Yiguandao,east_asian,"East, Inner and Southeast Asian",nrm,1,0,no,,,,yes,1
+golden_dawn,Hermetic Order of the Golden Dawn,esoteric,"Esoteric, new and secular",esot,2,0,no,,,,yes,3
+ahmadiyya,Ahmadiyya,abrahamic,Abrahamic,mov,3,0,no,x-ahq x-kam,,yes,yes,3
+mar_thoma,Mar Thoma Syrian Church,abrahamic,Abrahamic,sch,0,0,no records,x-adn x-bcr x-rae,,yes,,0
+unity,Unity Church,esoteric,"Esoteric, new and secular",sch,1,0,no,v-fil,,yes,yes,1
+fundamentalist_lds,Mormon fundamentalism,abrahamic,Abrahamic,mov,1,0,no,,,,,1
+quranism,Quranism,abrahamic,Abrahamic,mov,0,0,no records,,,,yes,0
+ethiopianism,Ethiopian Church movement,abrahamic,Abrahamic,mov,4,2,yes,,,yes,,2
+omoto,Ōmoto,east_asian,"East, Inner and Southeast Asian",nrm,2,0,no,,,,yes,2
+mariavites,Mariavite Church,abrahamic,Abrahamic,sch,1,0,no,,,,,0
+ramakrishna_mission,Ramakrishna Mission,dharmic,Indian and Himalayan,mov,3,1,yes,x-fmr,,yes,,1
+maria_lionza,Cult of María Lionza,afro_diasporic,African and Afro-diasporic,syn,1,0,no,,,,,0
+rizalista,Rizalista movements,abrahamic,Abrahamic,syn,1,0,no,x-rz1 x-rz2,,yes,,0
+thai_forest,Thai Forest Tradition,dharmic,Indian and Himalayan,sch,1,0,no,,,,yes,0
+vipassana,Vipassanā movement,dharmic,Indian and Himalayan,mov,1,0,no,,,,yes,1
+jeungsanism,Jeungsanism,east_asian,"East, Inner and Southeast Asian",nrm,0,0,no records,,,,,1
+pentecostalism,Pentecostalism,abrahamic,Abrahamic,sch,1,0,no,,,,,1
+aglipayan,Philippine Independent Church (Aglipayan),abrahamic,Abrahamic,sch,1,0,no,x-lbc,,yes,,0
+mazdaznan,Mazdaznan,esoteric,"Esoteric, new and secular",nrm,1,0,no,x-maz,,yes,yes,0
+burkhanism,Burkhanism (Ak Jang),inner_asian,"East, Inner and Southeast Asian",nrm,1,0,no,a-czap,,yes,,0
+thelema,Thelema,esoteric,"Esoteric, new and secular",esot,1,0,no,,,,yes,2
+maji_maji,Maji Maji movement,african,African and Afro-diasporic,mov,1,0,no,,,,,0
+iharaira,Iharaira (Rua Kenana),oceania,Americas and Oceania,mov,1,0,no,,,,,0
+kitawala,Kitawala (African Watchtower),abrahamic,Abrahamic,mov,1,0,no,,,,,0
+umbanda,Umbanda,afro_diasporic,African and Afro-diasporic,syn,2,0,no,,,,yes,3
+daejonggyo,Daejonggyo,east_asian,"East, Inner and Southeast Asian",nrm,2,0,no,,,,,0
+snake_handling,Serpent-handling churches (Signs Following),abrahamic,Abrahamic,mov,0,0,no records,,,,,0
+antoinism,Antoinism,abrahamic,Abrahamic,nrm,1,0,no,,,,,0
+nazareth_baptist,Nazareth Baptist Church (amaNazaretha),abrahamic,Abrahamic,sch,1,0,no,,,,,2
+universal_sufism,Universal Sufism (Inayati),esoteric,"Esoteric, new and secular",nrm,1,0,no,x-ink,,yes,yes,0
+anthroposophy,Anthroposophy,esoteric,"Esoteric, new and secular",esot,3,1,yes,,,yes,,1
+fourth_way,Fourth Way,esoteric,"Esoteric, new and secular",esot,2,0,no,,,,,0
+harrist,Harrist Church,abrahamic,Abrahamic,sch,1,0,no,,,,,1
+moorish_science,Moorish Science Temple of America,abrahamic,Abrahamic,nrm,1,1,yes,x-msk,,yes,,1
+mumboism,Mumboism,african,African and Afro-diasporic,mov,1,0,no,,,,,0
+oneness_pentecostal,Oneness Pentecostalism,abrahamic,Abrahamic,sch,0,0,no records,,,,,0
+iglesia_ni_cristo,Iglesia ni Cristo,abrahamic,Abrahamic,nrm,1,0,no,,,,,0
+lahore_ahmadiyya,Lahore Ahmadiyya Movement,abrahamic,Abrahamic,sch,1,0,no,x-kam,,yes,yes,1
+modekngei,Modekngei,oceania,Americas and Oceania,mov,1,0,no,,,,,0
+njoya_religion,Njoya's religion (Nwet Kwete),african,African and Afro-diasporic,syn,2,0,no,,,,,2
+won_buddhism,Won Buddhism,dharmic,Indian and Himalayan,nrm,1,0,no,,,,yes,0
+true_jesus_church,True Jesus Church,abrahamic,Abrahamic,sch,0,0,no records,,,,,0
+aladura,Aladura movement,abrahamic,Abrahamic,mov,1,0,no,,,,,1
+native_american_church,Native American Church (Peyote religion),americas,Americas and Oceania,syn,1,0,no,a-hbk,,yes,,1
+reiyukai,Reiyūkai,dharmic,Indian and Himalayan,nrm,1,0,no,,,,yes,2
+vailala,Vailala Madness,oceania,Americas and Oceania,mov,1,0,no,,,,,1
+agni_yoga,Agni Yoga (Living Ethics),esoteric,"Esoteric, new and secular",esot,1,0,no,,,,yes,0
+quimbanda,Quimbanda,afro_diasporic,African and Afro-diasporic,syn,1,0,no,,,,yes,0
+srf,Self-Realization Fellowship,dharmic,Indian and Himalayan,nrm,1,0,no,,,,yes,0
+kimbanguism,Kimbanguist Church,abrahamic,Abrahamic,sch,1,0,no,,,,,2
+martinus,Martinus Cosmology,esoteric,"Esoteric, new and secular",nrm,1,0,no,,,,,0
+meher_baba,Meher Baba movement,nrm,"Esoteric, new and secular",nrm,2,0,no,,,,,0
+traditionalism,Traditionalism (Perennialism),esoteric,"Esoteric, new and secular",esot,0,0,no records,,,,,2
+local_church,Local Churches (Watchman Nee),abrahamic,Abrahamic,sch,1,0,no,,,,,0
+musama,Musama Disco Christo Church,abrahamic,Abrahamic,sch,1,0,no,,,,,0
+reconstructionist,Reconstructionist Judaism,abrahamic,Abrahamic,br,1,0,no,,,,,0
+lucis_trust,Arcane School (Alice Bailey),esoteric,"Esoteric, new and secular",esot,1,0,no,x-bai,,yes,yes,1
+perfect_liberty,Perfect Liberty Kyōdan,east_asian,"East, Inner and Southeast Asian",nrm,1,0,no,,,,yes,0
+zcc,Zion Christian Church,abrahamic,Abrahamic,sch,1,0,no,,,,,1
+cherubim_seraphim,Cherubim and Seraphim,abrahamic,Abrahamic,sch,1,0,no,,,,,0
+dievturiba,Dievturība,modern_pagan,"Esoteric, new and secular",nrm,1,0,no,,,,,1
+ratana,Rātana Church,abrahamic,Abrahamic,sch,1,0,no,,,,,1
+subud,Subud,southeast_asian,"East, Inner and Southeast Asian",nrm,1,0,no,,,,,0
+akurinu,Akurinu (Arata a Roho),abrahamic,Abrahamic,sch,1,0,no,,,,,0
+caodaism,Caodaism,east_asian,"East, Inner and Southeast Asian",nrm,4,0,no,,,,,5
+la_luz_del_mundo,La Luz del Mundo,abrahamic,Abrahamic,sch,0,0,no records,,,,,0
+tablighi,Tablighi Jamaat,abrahamic,Abrahamic,mov,1,0,no,,,,yes,1
+religious_science,Religious Science,esoteric,"Esoteric, new and secular",sch,1,0,no,v-hlm,,yes,yes,1
+taaraism,Taaraism,modern_pagan,"Esoteric, new and secular",nrm,0,0,no records,,,,,1
+branch_davidians,Davidians and Branch Davidians,abrahamic,Abrahamic,sch,1,0,no,,,,,0
+sant_nirankari,Sant Nirankari Mission,dharmic,Indian and Himalayan,nrm,1,0,no,,,,yes,0
+tijaniyya_fayda,Tijaniyya Fayda (Niassene),abrahamic,Abrahamic,sch,1,0,no,,,,yes,1
+church_of_the_lord,Church of the Lord (Aladura),abrahamic,Abrahamic,sch,1,0,no,,,,,0
+nation_of_islam,Nation of Islam,abrahamic,Abrahamic,nrm,3,0,no,,,,yes,2
+rastafari,Rastafari,afro_diasporic,African and Afro-diasporic,nrm,3,0,no,x-hpb x-keb,,yes,,3
+rodnovery,Rodnovery (Slavic Native Faith),modern_pagan,"Esoteric, new and secular",nrm,1,0,no,,x-ral x-mr03 l-wrat,,,1
+santo_daime,Santo Daime,nrm,"Esoteric, new and secular",syn,1,0,no,,,,,0
+seicho_no_ie,Seichō-no-Ie,east_asian,"East, Inner and Southeast Asian",nrm,2,0,no,,,,yes,1
+soka_gakkai,Sōka Gakkai,dharmic,Indian and Himalayan,nrm,1,0,no,,,,yes,1
+i_am,'I AM' Activity,esoteric,"Esoteric, new and secular",nrm,1,0,no,,,,yes,0
+marange_apostolic,African Apostolic Church of Johane Marange,abrahamic,Abrahamic,sch,1,0,no,,,,,1
+masowe,Gospel of God Church (Johane Masowe),abrahamic,Abrahamic,sch,1,0,no,,,,,0
+humanism,Humanism (organised),secular,"Esoteric, new and secular",phil,1,0,no,x-ing x-hly x-hae,,yes,,0
+ijo_orunmila,Ìjọ Ọ̀rúnmìlà Adúláwọ̀ (Church of Orunmila),african,African and Afro-diasporic,nrm,1,0,no,,,,yes,0
+kanji_panth,Kanji Panth,dharmic,Indian and Himalayan,mov,1,0,no,,,,yes,0
+sekai_kyuseikyo,Sekai Kyūseikyō,east_asian,"East, Inner and Southeast Asian",nrm,1,0,no,,,,yes,2
+brahma_kumaris,Brahma Kumaris,dharmic,Indian and Himalayan,nrm,1,0,no,,,,yes,0
+john_frum,John Frum movement,oceania,Americas and Oceania,mov,1,0,no,,,,,2
+shinnyo_en,Shinnyo-en,dharmic,Indian and Himalayan,nrm,0,0,no records,,,,yes,0
+rissho_kosei_kai,Risshō Kōsei Kai,dharmic,Indian and Himalayan,nrm,1,0,no,,,,yes,1
+dejiao,Dejiao (Teaching of Virtue),east_asian,"East, Inner and Southeast Asian",nrm,1,0,no,,,,,0
+hoa_hao,Hòa Hảo,dharmic,Indian and Himalayan,nrm,1,0,no,,,,yes,2
+santa_muerte,Santa Muerte devotion,abrahamic,Abrahamic,cult,1,0,no,,,,,0
+sathya_sai,Sathya Sai Baba movement,dharmic,Indian and Himalayan,nrm,1,0,no,,,,yes,0
+christ_apostolic,Christ Apostolic Church,abrahamic,Abrahamic,sch,1,0,no,,,,,0
+dini_ya_msambwa,Dini ya Msambwa,african,African and Afro-diasporic,syn,1,0,no,,,,,0
+barquinha,Barquinha,nrm,"Esoteric, new and secular",syn,1,0,no,,,,,0
+yali_movement,Yali movement,oceania,Americas and Oceania,mov,1,0,no,,,,,1
+paliau,Paliau movement,oceania,Americas and Oceania,mov,1,0,no,,,,,0
+celestial_church,Celestial Church of Christ,abrahamic,Abrahamic,sch,1,0,no,,,,,0
+dera_sacha_sauda,Dera Sacha Sauda,dharmic,Indian and Himalayan,nrm,0,0,no records,,,,,0
+godianism,Godianism,african,African and Afro-diasporic,nrm,1,0,no,,,,,1
+wicca,Wicca,modern_pagan,"Esoteric, new and secular",nrm,5,2,yes,,,yes,,2
+mai_chaza,Guta ra Jehova,abrahamic,Abrahamic,sch,1,0,no,,,,,0
+lumpa,Lumpa Church,abrahamic,Abrahamic,sch,1,0,no,,,,,1
+scientology,Scientology,nrm,"Esoteric, new and secular",nrm,2,0,no,,,,,1
+unarius,Unarius Academy of Science,nrm,"Esoteric, new and secular",nrm,1,0,no,,,,,0
+unification_church,Unification Church (Family Federation),abrahamic,Abrahamic,nrm,3,0,no,,,,,1
+aetherius,Aetherius Society,nrm,"Esoteric, new and secular",nrm,1,0,no,,,,,0
+ananda_marga,Ananda Marga,dharmic,Indian and Himalayan,nrm,1,0,no,,,,yes,0
+transcendental_meditation,Transcendental Meditation movement,dharmic,Indian and Himalayan,nrm,1,0,no,,,,yes,0
+urantia,Urantia movement,esoteric,"Esoteric, new and secular",nrm,1,0,no,,,,,1
+bcs,Brotherhood of the Cross and Star,abrahamic,Abrahamic,nrm,1,0,no,,,,,0
+navayana,Navayana (Ambedkarite Buddhism),dharmic,Indian and Himalayan,mov,1,0,no,,,,yes,1
+siddha_yoga,Siddha Yoga,dharmic,Indian and Himalayan,nrm,0,0,no records,,,,yes,0
+summit_lighthouse,Summit Lighthouse (Church Universal and Triumphant),esoteric,"Esoteric, new and secular",nrm,1,0,no,,,,yes,0
+mahikari,Sūkyō Mahikari,east_asian,"East, Inner and Southeast Asian",nrm,2,0,no,,,,yes,1
+vale_amanhecer,Vale do Amanhecer,nrm,"Esoteric, new and secular",syn,1,0,no,,,,,0
+christian_fellowship_church,Christian Fellowship Church,abrahamic,Abrahamic,sch,0,0,no records,,,,,0
+messianic_judaism,Messianic Judaism,abrahamic,Abrahamic,mov,1,0,no,,,,,0
+prince_philip,Prince Philip Movement,oceania,Americas and Oceania,mov,1,0,no,,,,,0
+uniao_vegetal,União do Vegetal,nrm,"Esoteric, new and secular",syn,1,0,no,,,,,0
+unitarian_universalism,Unitarian Universalism,abrahamic,Abrahamic,sch,1,0,no,x-blu,,yes,,1
+church_of_all_worlds,Church of All Worlds,modern_pagan,"Esoteric, new and secular",nrm,1,0,no,,,,,0
+renewal_judaism,Jewish Renewal,abrahamic,Abrahamic,mov,1,0,no,,,,,0
+dao_dua,Đạo Dừa (Coconut Religion),east_asian,"East, Inner and Southeast Asian",nrm,1,0,no,,,,,0
+discordianism,Discordianism,nrm,"Esoteric, new and secular",nrm,1,0,no,,,,,0
+humanistic_judaism,Humanistic Judaism,abrahamic,Abrahamic,mov,1,0,no,,,,,0
+legio_maria,Legio Maria,abrahamic,Abrahamic,sch,1,0,no,,,,,0
+five_percent,Nation of Gods and Earths (Five-Percenters),abrahamic,Abrahamic,nrm,1,0,no,,,,yes,1
+obod,"Order of Bards, Ovates and Druids",modern_pagan,"Esoteric, new and secular",sch,1,0,no,,x-brd,,yes,0
+pomio_kivung,Pomio Kivung,oceania,Americas and Oceania,mov,1,0,no,,,,,0
+eckankar,Eckankar,nrm,"Esoteric, new and secular",nrm,1,0,no,,,,,0
+iskcon,ISKCON (Hare Krishna movement),dharmic,Indian and Himalayan,sch,2,0,no,,,,yes,1
+plum_village,Plum Village Tradition,dharmic,Indian and Himalayan,sch,1,0,no,,,,yes,0
+satanism_laveyan,Church of Satan,nrm,"Esoteric, new and secular",nrm,1,0,no,,,,,0
+romuva,Romuva,modern_pagan,"Esoteric, new and secular",nrm,0,0,no records,,,,,1
+triratna,Triratna Buddhist Community,dharmic,Indian and Himalayan,nrm,1,0,no,,,,yes,0
+family_international,The Family International,abrahamic,Abrahamic,nrm,1,0,no,,,,,0
+daesoon_jinrihoe,Daesoon Jinrihoe,east_asian,"East, Inner and Southeast Asian",nrm,1,0,no,,,,,1
+heathenry,Heathenry (Ásatrú),modern_pagan,"Esoteric, new and secular",nrm,1,0,no,,x-poe x-pre x-vol x-hsk,,,1
+dhammakaya,Dhammakaya Movement,dharmic,Indian and Himalayan,mov,1,0,no,,,,yes,0
+goddess_movement,Goddess movement,modern_pagan,"Esoteric, new and secular",mov,2,0,no,,,,,0
+new_age,New Age movement,esoteric,"Esoteric, new and secular",mov,3,1,yes,,,yes,,5
+rajneesh,Rajneesh movement (Osho),nrm,"Esoteric, new and secular",nrm,2,0,no,,,,,0
+sahaja_yoga,Sahaja Yoga,dharmic,Indian and Himalayan,nrm,0,0,no records,,,,yes,0
+shambhala,Shambhala Buddhism (Shambhala International),dharmic,Indian and Himalayan,nrm,0,0,no records,,,,yes,1
+dianic_wicca,Dianic Wicca,modern_pagan,"Esoteric, new and secular",sch,1,0,no,,,,yes,0
+heavens_gate,Heaven's Gate,nrm,"Esoteric, new and secular",nrm,1,0,no,,,,,0
+jeungsando,Jeungsando,east_asian,"East, Inner and Southeast Asian",nrm,1,0,no,,,,,0
+raelism,Raëlism,nrm,"Esoteric, new and secular",nrm,1,0,no,,,,,0
+submitters,United Submitters International,abrahamic,Abrahamic,nrm,1,0,no,,,,yes,0
+temple_of_set,Temple of Set,nrm,"Esoteric, new and secular",nrm,1,0,no,,,,,0
+acim,A Course in Miracles movement,esoteric,"Esoteric, new and secular",nrm,1,0,no,,,,,0
+members_church_of_god,Members Church of God International (Ang Dating Daan),abrahamic,Abrahamic,sch,0,0,no records,,,,,0
+agonshu,Agonshū,dharmic,Indian and Himalayan,nrm,1,0,no,,,,yes,0
+reclaiming,Reclaiming,modern_pagan,"Esoteric, new and secular",sch,1,0,no,,,,yes,0
+subgenius,Church of the SubGenius,nrm,"Esoteric, new and secular",nrm,1,0,no,,,,,0
+religio_romana,Roman polytheistic reconstructionism,modern_pagan,"Esoteric, new and secular",nrm,0,0,no records,,x-mr01 x-ovf x-frr,,,1
+tiandi_jiao,Tiandi Jiao (Lord of Universe Church),east_asian,"East, Inner and Southeast Asian",nrm,1,0,no,,,,,0
+afrikania,Afrikania Mission,african,African and Afro-diasporic,nrm,1,0,no,,,,,1
+aum_shinrikyo,Aum Shinrikyo (Aleph),nrm,"Esoteric, new and secular",nrm,1,0,no,,,,,0
+shincheonji,Shincheonji Church of Jesus,abrahamic,Abrahamic,nrm,1,0,no,,,,,0
+happy_science,Happy Science,east_asian,"East, Inner and Southeast Asian",nrm,2,0,no,,,,,0
+kemetism,Kemetism,modern_pagan,"Esoteric, new and secular",nrm,0,0,no records,,x-bod x-bdt x-ehr x-goe x-erm,,,1
+hellenismos,Hellenism (Hellenic polytheism),modern_pagan,"Esoteric, new and secular",nrm,0,0,no records,,x-hom x-hes x-hhd x-hhy x-orp x-mr01,,,1
+natib_qadish,Natib Qadish,modern_pagan,"Esoteric, new and secular",nrm,0,0,no records,,x-cns x-cor,,,1
+suomenusko,Suomenusko,modern_pagan,"Esoteric, new and secular",nrm,0,0,no records,,x-kal,,,0
+tengrist_revival,Modern Tengrism (Tengrichilik),inner_asian,"East, Inner and Southeast Asian",mov,0,0,no records,,,,,1
+church_almighty_god,Church of Almighty God,abrahamic,Abrahamic,nrm,1,0,no,,,,,0
+falun_gong,Falun Gong,east_asian,"East, Inner and Southeast Asian",nrm,2,0,no,,,,,0
+eritrean_orthodox,Eritrean Orthodox Tewahedo Church,abrahamic,Abrahamic,sch,0,0,no records,,,,,0
+jediism,Jediism,nrm,"Esoteric, new and secular",nrm,0,0,no records,,,,,0
+terasem,Terasem Movement,nrm,"Esoteric, new and secular",nrm,1,0,no,,,,,0
+dudeism,Dudeism,nrm,"Esoteric, new and secular",nrm,1,0,no,,,,,0
+pastafarianism,Pastafarianism,nrm,"Esoteric, new and secular",nrm,1,0,no,,,,,0
+kopimism,Kopimism,nrm,"Esoteric, new and secular",nrm,1,0,no,,,,,0
+ravidassia,Ravidassia religion,dharmic,Indian and Himalayan,rel,1,0,no,x-brg,,yes,yes,0
+satanic_temple,The Satanic Temple,nrm,"Esoteric, new and secular",nrm,1,0,no,,,,,0
+sunday_assembly,Sunday Assembly,secular,"Esoteric, new and secular",mov,0,0,no records,,,,,0
+zuism,Zuism,modern_pagan,"Esoteric, new and secular",nrm,0,0,no records,,,,,1
+way_of_the_future,Way of the Future,nrm,"Esoteric, new and secular",nrm,1,0,no,,,,,0

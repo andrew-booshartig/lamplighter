@@ -1,0 +1,40 @@
+/* The preview a shared link shows, for a public site (the maker, 24 November 2026: "i want people on phones and laptops to be able to see it on facebook and go try it for themselves").
+   Facebook, messaging apps and search engines read a page's <head>, not its look: without Open Graph tags a link to the site is a bare address. Two pieces, kept apart so that the app itself names no address:
+   1. the app's own <head> carries one plain <meta name="description"> (build.py), neutral, naming no stage and no address;
+   2. tools/make_site.py --url=https://ADDRESS writes, into the site's index.html only (a new file: the shared Lamplighter.html is not touched), og:site_name, og:title (with the stage word of
+      FEEDBACK_STAGE), og:description (the page's own description), og:type, og:url, og:image (icons/share.png, 1200 x 630), og:image:width/height/alt and twitter:card.
+   No browser is needed. Run: node tests/share.test.js */
+const fs = require('fs'); const os = require('os'); const path = require('path'); const { spawnSync } = require('child_process');
+let pass = 0; let fail = 0; const ok = (n, c, x) => { if (c) pass++; else { fail++; console.log('FAIL', n, x === undefined ? '' : JSON.stringify(x).slice(0, 500)); } };
+const root = path.join(__dirname, '..'); const build = fs.readFileSync(path.join(root, 'build.py'), 'utf8'); const siteTool = path.join(root, 'tools', 'make_site.py');
+const core = fs.readFileSync(path.join(root, 'src', 'js', '2z-feedback-core.js'), 'utf8'); const stage = (core.match(/const FEEDBACK_STAGE = '([a-z]+)'/) || [])[1];
+
+/* ── 1. the app's own description ── */
+const dm = build.match(/<meta name="description" content="([^"]*)">/); const desc = dm ? dm[1] : '';
+ok('the page carries one plain description between the theme colour and the title, in a sentence a stranger can read, with no stage word and no address', !!dm && (build.match(/<meta name="description"/g) || []).length === 1 && build.indexOf('<meta name="theme-color"') < build.indexOf('<meta name="description"') && build.indexOf('<meta name="description"') < build.indexOf('<title>') && desc.length > 80 && desc.length < 200 && !/https?:|www\.|alpha|beta/i.test(desc), desc);
+ok('the description says what it is and what it does not do: a free library and research tool for studying human religion, texts, a timeline, a map, a way to compare traditions, no account, no ads, no tracking (nothing about what to believe, no verdict)', /free library and research tool for studying human religion/.test(desc) && /texts/.test(desc) && /timeline/.test(desc) && /map/.test(desc) && /compare traditions/.test(desc) && /No account, no ads, no tracking/.test(desc) && !/best|true|false|prove|only/i.test(desc), desc);
+ok('the app’s source has no Open Graph tag and no address of its own: those are written into the site at build time, so tests/privacy.test.js stays true', !/og:|twitter:/.test(build) && !/property="og/.test(build));
+
+/* ── 2. make_site.py --url ── */
+const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'lamplighter-share-')); const w = (f, s) => { fs.mkdirSync(path.dirname(path.join(tmp, f)), { recursive: true }); fs.writeFileSync(path.join(tmp, f), s); };
+const page = '<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="theme-color" content="#070a11">\n<meta name="description" content="' + desc + '">\n<title>The Lamplighter Project</title>\n</head>\n<body>app</body>\n</html>\n';
+w('Lamplighter.html', page); w('sw.js', 'sw'); w('manifest.webmanifest', '{}'); w('offline-manifest.json', '{}'); w('icons/share.png', 'png'); w('icons/icon-192.png', 'i');
+['atlas/a.js', 'texts/index.js', 'bibles/b.js', 'similar/s.js', 'dictionary/d.js'].forEach((f) => w(f, 'x'));
+const site = (...a) => spawnSync('python3', ['-I', siteTool, '--top=' + tmp, ...a], { encoding: 'utf8' });
+const o1 = path.join(tmp, 'site-og'); const r1 = site(o1, '--url=https://lamplighter-example.pages.dev/'); const idx = r1.status === 0 ? fs.readFileSync(path.join(o1, 'index.html'), 'utf8') : '';
+const metas = (h) => [...h.matchAll(/<meta (property|name)="([^"]+)" content="([^"]*)">/g)].map((m) => [m[2], m[3]]); const M = Object.fromEntries(metas(idx));
+ok('with --url the site’s index.html has the share tags: site name, title (with the stage word), the page’s own description, type website, the address with one slash, the picture, its size and its words, and twitter:card', r1.status === 0 && M['og:site_name'] === 'The Lamplighter Project' && M['og:title'] === 'The Lamplighter Project (' + stage + ')' && M['og:description'] === desc && M['og:type'] === 'website' && M['og:url'] === 'https://lamplighter-example.pages.dev/' && M['og:image'] === 'https://lamplighter-example.pages.dev/icons/share.png' && M['og:image:width'] === '1200' && M['og:image:height'] === '630' && /gold on black/.test(M['og:image:alt'] || '') && M['twitter:card'] === 'summary_large_image', [r1.status, r1.stderr.slice(0, 200), M]);
+ok('each tag is there once, they sit before the title, and the rest of the page is as it was', ['og:site_name', 'og:title', 'og:description', 'og:type', 'og:url', 'og:image', 'og:image:width', 'og:image:height', 'og:image:alt', 'twitter:card'].every((k) => (idx.match(new RegExp('"' + k + '"', 'g')) || []).length === 1) && idx.indexOf('og:title') < idx.indexOf('<title>') && idx.replace(/<meta (property|name)="(og:|twitter:)[^>]*>\n/g, '') === page);
+ok('the shared Lamplighter.html is not changed by it (the site’s index.html is a new file, not a link to it), and the site’s Lamplighter.html copy is the plain page', fs.readFileSync(path.join(tmp, 'Lamplighter.html'), 'utf8') === page && fs.readFileSync(path.join(o1, 'Lamplighter.html'), 'utf8') === page && !/og:/.test(fs.readFileSync(path.join(tmp, 'Lamplighter.html'), 'utf8')));
+ok('the picture it names is in the site, and the script says the preview is in', fs.existsSync(path.join(o1, 'icons', 'share.png')) && /share preview: Open Graph and twitter:card tags for https:\/\/lamplighter-example\.pages\.dev\/ are in index\.html/.test(r1.stdout), r1.stdout);
+const o2 = path.join(tmp, 'site-plain'); const r2 = site(o2);
+ok('without --url the index.html is the page as it is and a warning says that a link would show a bare address and what to run', r2.status === 0 && fs.readFileSync(path.join(o2, 'index.html'), 'utf8') === page && /share preview: NONE \(no --url\)/.test(r2.stdout) && /--url=https:\/\//.test(r2.stdout), r2.stdout);
+{ const bad = ['http://example.org', 'https://example.org/a b', 'https://example.org/?q=1', 'javascript:alert(1)', 'https://example.org"onload="x', 'example.org', 'https://', 'https://exa mple.org'];
+  const res = bad.map((b) => [b, site(path.join(tmp, 'site-bad'), '--url=' + b)]);
+  ok('an address that is not a plain https address is refused, with a message that names the form (http, spaces, a query, a quote, no scheme)', res.every(([, r]) => r.status !== 0 && /--url must be the public https address/.test(r.stderr + r.stdout)), res.filter(([, r]) => r.status === 0).map(([b]) => b)); }
+{ const t2 = fs.mkdtempSync(path.join(os.tmpdir(), 'lamplighter-share2-')); fs.cpSync(tmp, t2, { recursive: true }); fs.writeFileSync(path.join(t2, 'Lamplighter.html'), '<!doctype html><html><head><title>x</title></head><body></body></html>'); fs.rmSync(path.join(t2, 'icons', 'share.png'));
+  const a = spawnSync('python3', ['-I', siteTool, '--top=' + t2, path.join(t2, 'o'), '--url=https://example.org'], { encoding: 'utf8' });
+  ok('a page without its description, or a build without the picture, is refused with “run python3 build.py first” rather than published without a preview', a.status !== 0 && /build\.py first/.test(a.stderr + a.stdout), a.stderr + a.stdout); fs.rmSync(t2, { recursive: true, force: true }); }
+ok('the stage word on the share title is the one constant FEEDBACK_STAGE (a switch to beta changes the title with it)', !!stage && M['og:title'].endsWith('(' + stage + ')'), stage);
+fs.rmSync(tmp, { recursive: true, force: true });
+console.log(`share preview: ${pass} passed, ${fail} failed`); process.exit(fail ? 1 : 0);

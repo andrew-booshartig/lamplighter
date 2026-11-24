@@ -1,0 +1,221 @@
+"""Specs for a sixth batch of open (pre-1931) English texts: modern and revival movements (Latter-day Saints, Christian Science, Adventists, Swedenborg, Quakers,
+Spiritism, the Holy Piby), medieval and Reformation Christian writings, Jewish classics and prayer books, Sufi and other Islamic texts, Hindu, Buddhist and Chinese
+extras, Greek, Roman and northern European religion, and peoples' texts. Merged into texts_archive.SPECS (see the end of that file); built with
+python3 build_texts.py --only=ids. An ident 'PG123' is Project Gutenberg #123; the rest are Internet Archive items. Sources were found on 16 November 2026 and
+fetched on the maker's instruction ("keep going and find more texts").
+
+Each spec may carry lib=(title, group, when, tr, station title prefix): the Library line and the Path station for an id that is not in the Library yet.
+"""
+OLD = 'An older translation, so its wording and its scholarship are dated; set a recent translation beside it where there is one.'
+FIELD = ('A record made by an outside observer in the colonial or missionary period: it reports what he saw or was told, in his period’s terms and with its '
+         'prejudices. Read it critically, and where a tradition’s own people have published their own account, read that as well.')
+MOV = 'Read as the movement’s own book: it states what its members hold, and the Library neither endorses nor judges it.'
+
+
+def G(idents, by, note='', lib=None, **kw):
+    d = dict(idents=idents if isinstance(idents, list) else [idents], by=by, note=note, trim_index=True, trim_front=True, trim_back=True, split='auto')
+    if lib: d['lib'] = lib
+    d.update(kw)
+    return d
+
+
+NEW = 'Bahá’í, Theosophy'
+MYST = 'Christian mystics and the Jesus Prayer'
+QUAK = 'The Quakers: waiting in silence'
+
+SPECS = {
+    # ── Modern and revival movements ──
+    'x-bom': G('PG17', 'The Book of Mormon: An Account Written by the Hand of Mormon upon Plates Taken from the Plates of Nephi (Palmyra, 1830 text; Project Gutenberg #17)',
+               'The scripture of the Latter-day Saint movement, which Joseph Smith published in 1830 as a translation of golden plates: an account of peoples who crossed to the Americas, their prophets, and the appearance of the risen Christ among them. This is the early text, with the older chapter divisions. ' + MOV,
+               lib=('The Book of Mormon (1830 text)', 'mo', 'published 1830 CE', 'mod', NEW)),
+    'x-dnc': G('thedoctrineandco00smituoft', 'The Doctrine and Covenants of the Church of Jesus Christ of Latter-day Saints, containing the revelations given to Joseph Smith, the prophet (Salt Lake City, 1908 edition)',
+               'The revelations, instructions and declarations of the Latter-day Saint movement from 1823 on, in the Utah edition of 1908: the organisation of the church, baptism and the priesthood, the law of tithing, the Word of Wisdom, the order of the kingdoms of glory and Joseph Smith’s own statements. ' + MOV,
+               lib=('The Doctrine and Covenants (1908 edition)', 'mo', '1823–1890 CE (ed. 1908)', 'mod', NEW)),
+    'x-sah': G('PG3458', 'Mary Baker Eddy, Science and Health, with Key to the Scriptures (Boston: Christian Science Publishing Society, 1910 edition; Project Gutenberg #3458)',
+               'The textbook of Christian Science (first published 1875): that God is Mind and Spirit, that matter and sickness are unreal in the view of divine Science, and that prayer understood as spiritual understanding heals; with Eddy’s commentary on Genesis and the Apocalypse and the “Key to the Scriptures” glossary. Read it as the movement’s own statement; the Library is not offering medical advice, and no one should give up needed care for any text.',
+               lib=('Science and Health with Key to the Scriptures (Mary Baker Eddy, 1910 edition)', 'mo', 'first published 1875 CE (ed. 1910)', 'mod', NEW)),
+    'x-gct': G('PG25833', 'Ellen G. White, The Great Controversy between Christ and Satan (Mountain View: Pacific Press, 1911 edition; Project Gutenberg #25833)',
+               'The Seventh-day Adventist account of the long conflict between Christ and Satan, from the fall of Jerusalem through the Reformation to the “time of the end” and the Second Advent, including the Adventist teachings on the Sabbath, the sanctuary and the state of the dead. ' + MOV,
+               lib=('The Great Controversy (Ellen G. White, 1911 edition)', 'mo', 'first published 1888 CE (ed. 1911)', 'mod', NEW)),
+    'x-stc': G('stepstochrist00whit', 'Ellen G. White, Steps to Christ (Chicago: Fleming H. Revell, 1892; this printing 1898)',
+               'A short Adventist book on coming to Christ: God’s love, repentance, confession, consecration, faith and acceptance, growing up in Christ, and the work and the life of prayer. One of the most printed Christian devotional books of the nineteenth century. ' + MOV,
+               lib=('Steps to Christ (Ellen G. White, 1892)', 'mo', '1892 CE', 'mod', NEW)),
+    'x-hpb': G('PG61962', 'Robert Athlyi Rogers, The Holy Piby, the Black Man’s Bible (Newark, N.J., 1924; Project Gutenberg #61962)',
+               'The first scripture of the Rastafari family of movements, by a Black Anglican from Anguilla who founded the Afro-Athlican Constructive Gaathly: a short book in Biblical language on the “Black man’s” faith, the Sabbath and Garvey-era hopes for Africa. Rastafari looks to Ethiopia; the Kebra Nagast is in the Library as its other main text. ' + MOV,
+               lib=('The Holy Piby (Robert Athlyi Rogers, 1924)', 'mo', '1924 CE', 'mod', NEW)),
+    'x-bcl': G('PG56487', 'Robert Barclay, An Apology for the True Christian Divinity (Project Gutenberg #56487; English of 1678)',
+               'The first systematic statement of Quaker belief, by a Scottish Quaker: fifteen propositions on revelation, the Inner Light, justification, perfection, worship in silence, the ministry, the Church and the sacraments, with replies to critics. ' + MOV,
+               lib=('Apology for the True Christian Divinity (Robert Barclay, 1678)', 'mo', '1676–78 CE', 'mod', QUAK)),
+    'x-wlm': G('PG37311', 'John Woolman, The Journal, with Other Writings (Project Gutenberg #37311)',
+               'The journal of a New Jersey Quaker tailor and minister who spent his life persuading Friends to give up slaveholding, and who refused to wear dyed clothes made by slave labour. A model of the plain style and of faith acted out, first printed in 1774. ' + MOV,
+               lib=('The Journal of John Woolman (1774), with other writings', 'mo', '1740–72 CE', 'mod', QUAK)),
+    'x-pnn': G('PG44895', 'William Penn, No Cross, No Crown: A Discourse Showing the Nature and Discipline of the Holy Cross of Christ (Project Gutenberg #44895; 1669)',
+               'Penn’s long argument, written in the Tower of London, that the Christian life is a daily cross borne against pride, luxury, oaths and violence, drawing on the lives of the early Christians and on pagan and later witnesses. ' + MOV,
+               lib=('No Cross, No Crown (William Penn, 1669)', 'mo', '1669 CE', 'mod', QUAK)),
+
+    # ── Medieval and Reformation Christian ──
+    'e-tau': G('sermonsconferenc00tauluoft', 'John Tauler, The Sermons and Conferences of John Tauler, of the Order of Preachers, translated by Walter Elliott (Washington: Apostolic Mission House, 1910)',
+               'Sermons of the Strasbourg Dominican (d. 1361), pupil of Eckhart and friend of the Friends of God: on the birth of God in the soul, the inner life, humility, the ground of the soul, and the “three ways” of beginners, advancing and perfect. Based on the Latin of Surius (1548) with the German; the English is a Catholic adaptation. ' + OLD,
+               lib=('Sermons and Conferences of John Tauler (trans. Elliott, 1910)', 'ec', 'c. 1330–61 CE', 'ec', MYST)),
+    'e-rus': G('adornmentofspiri00janv', 'Jan van Ruysbroeck, The Adornment of the Spiritual Marriage; The Sparkling Stone; The Book of Supreme Truth, translated by C. A. Wynschenk Dom, with an introduction by Evelyn Underhill (London: J. M. Dent, 1916)',
+               'The Flemish mystic’s three best-known short treatises (d. 1381): the soul’s road through the active, the interior and the contemplative life, with Underhill’s introduction. ' + OLD,
+               lib=('The Adornment of the Spiritual Marriage and other treatises (Ruysbroeck, trans. Wynschenk Dom, 1916)', 'ec', 'c. 1335–60 CE', 'ec', MYST)),
+    'e-hil': G('scaleorladderofp00hilt', 'Walter Hilton, The Scale (or Ladder) of Perfection, edited from the Middle English with an introduction by J. B. Dalgairns, Priest of the Oratory (London: Burns and Oates, 1908 edition)',
+               'The English mystic’s guide for a woman living as an anchoress (d. 1396), here in a Victorian Catholic edition: the reforming of the soul in faith and in feeling, humility, charity and the darkness before the vision of God. A companion to the Cloud of Unknowing. ' + OLD,
+               lib=('The Scale of Perfection (Walter Hilton, ed. Dalgairns)', 'ec', 'c. 1380–96 CE', 'ec', MYST)),
+    'e-rol': G('thefireofloveand00rolluoft', 'Richard Rolle, The Fire of Love and The Mending of Life, translated by Richard Misyn (1435), edited by Ralph Harvey (London: Early English Text Society, 1896; this edition 1920)',
+               'The English hermit’s account of the “heat, sweetness and song” of divine love, and his short guide for the active life (d. 1349), in the fifteenth-century English of Misyn’s translation. The Middle English spelling takes getting used to. ' + OLD,
+               lib=('The Fire of Love and The Mending of Life (Richard Rolle)', 'ec', 'c. 1343 CE', 'ec', MYST)),
+    'e-sus': G('the-life-of-blessed-henry-suso-by-himself', 'Henry Suso, The Life of Blessed Henry Suso, by Himself, translated by T. F. Knox (London: Methuen, 1913)',
+               'The “servant of eternal Wisdom” (d. 1366), Eckhart’s pupil, writes in the third person of his own life: his severe penances, visions, trials and slanders, and the spiritual daughter Elsbeth Stagel. ' + OLD,
+               lib=('The Life of Blessed Henry Suso, by Himself (trans. Knox, 1913)', 'ec', 'c. 1360 CE', 'ec', MYST)),
+    'e-ber': G(['saintbernardlife00bernuoft', 'saintbernardlife02bernuoft'], 'Samuel J. Eales (translator), Life and Works of Saint Bernard, Abbot of Clairvaux, 2 vols. (London: Burns and Oates, 1889–96)',
+               'Bernard’s letters and the sermons on the Song of Songs, the treatise On Loving God and On Consideration, with the Life by Eales, in two volumes of the Catholic series. Cistercian love-mysticism and the medieval Church’s politics side by side. ' + OLD,
+               labels=['Volume 1', 'Volume 2'],
+               lib=('Life and Works of Saint Bernard of Clairvaux (trans. Eales, 1889–96), 2 volumes', 'ec', 'c. 1115–53 CE', 'ec', MYST)),
+    'e-gld': G('goldenlegendlive00jaco', 'Jacobus de Voragine, The Golden Legend, or Lives of the Saints, as Englished by William Caxton, selected and edited by George V. O’Neill, S.J. (Cambridge University Press, 1914)',
+               'The most copied book of the Middle Ages after the Bible: a selection of the lives of the saints and the feasts of the year, in Caxton’s English of 1483. Much is legend, and the book is chiefly a source for what medieval Christians believed and heard read. The Middle English spelling takes getting used to.',
+               lib=('The Golden Legend, Lives of the Saints: a selection (Jacobus de Voragine, Caxton’s English, ed. O’Neill, 1914)', 'ec', 'c. 1260 CE (Caxton 1483)', 'ec', 'Augustine and Benedict')),
+    'e-bed': G('PG38326', 'The Venerable Bede, Ecclesiastical History of the English People, translated by A. M. Sellar (London: George Bell, 1907; Project Gutenberg #38326)',
+               'Bede’s history of the conversion of England (731 CE): Augustine’s mission to Kent, Edwin and Paulinus, Hilda and Whitby, Cuthbert and Aidan, and the story of Caedmon’s hymn. The main source for how Christianity came to the English. ' + OLD,
+               lib=('Ecclesiastical History of the English People (Bede, 731)', 'ec', '731 CE', 'ec', 'Augustine and Benedict')),
+    'e-gdl': G('dialoguesofsaint00greg', 'Gregory the Great, The Dialogues of Saint Gregory, translated by Edmund G. Gardner (London: Philip Lee Warner, 1911)',
+               'Pope Gregory I’s four books of saints’ lives and miracles of Italy (593 CE), including the only early life of Saint Benedict (Book II) and a long account of the soul after death (Book IV). ' + OLD,
+               lib=('The Dialogues of Saint Gregory the Great (trans. Gardner, 1911): the Life of Benedict and the soul after death', 'ec', 'c. 593 CE', 'ec', 'Augustine and Benedict')),
+    'e-fpr': G('firstprincipleso00luth', 'Martin Luther, First Principles of the Reformation, or The Ninety-five Theses and the Three Primary Works of Dr. Martin Luther, with introductions by Henry Wace and C. A. Buchheim (London: John Murray, 1883)',
+               'The Ninety-five Theses (1517) and Luther’s three tracts of 1520: An Address to the Christian Nobility, On the Babylonian Captivity of the Church and On the Freedom of a Christian, in English, with the editors’ introductions. ' + OLD,
+               lib=('First Principles of the Reformation: Luther’s 95 Theses and three primary works (1883)', 'ec', '1517–20 CE', 'ec', QUAK)),
+    'e-zwi': G('huldreichzwingli00jackuoft', 'Samuel Macauley Jackson (editor and translator), Selected Works of Huldreich Zwingli (1484–1531), the Reformer of German Switzerland (Philadelphia: University of Pennsylvania, 1901)',
+               'Selections from the Zurich reformer, among them his arguments for the Sixty-seven Articles of 1523, his writings on the clearness and certainty of the Word of God and On the Providence of God, with letters and Jackson’s notes. The scan also holds Latin and German, which come through as noise. ' + OLD,
+               lib=('Selected Works of Huldreich Zwingli (ed. Jackson, 1901)', 'ec', '1523–31 CE', 'ec', QUAK)),
+    'e-mms': G('MartyrsMirror', 'Thieleman J. van Braght, The Bloody Theater, or Martyrs Mirror of the Defenseless Christians who Baptized only upon Confession of Faith, translated from the Dutch by Joseph F. Sohm (Scottdale, Pa.: Mennonite Publishing House, 1886)',
+               'The great Anabaptist and Mennonite book of martyrs, first printed in Dutch in 1660: from the early Church to 1660, with the lives and letters of the Anabaptists put to death by Catholic and Protestant authorities in the sixteenth century. A main source for the radical Reformation, and for the argument for religious freedom. ' + OLD,
+               lib=('Martyrs Mirror (van Braght, trans. Sohm, 1886): the Anabaptist martyrs', 'ec', '1660 CE (martyrs from the 1st c.)', 'ec', QUAK)),
+    'e-bcp': G('bookofcommonpraycs00chur', 'The First Book of Common Prayer of Edward VI (1549) and the Order of Holy Communion (1548), reprinted with an introduction by Morgan Dix (New York, 1881)',
+               'The English service book that replaced the Latin Sarum and Roman books in 1549: Matins and Evensong, the Communion service (with the Order of Holy Communion of 1548), baptism, confirmation, marriage, the visitation of the sick and burial, in Cranmer’s English. The later prayer books (1552, 1559, 1662) grew out of it. ' + OLD,
+               lib=('The First Book of Common Prayer (1549), in the 1881 reprint', 'ec', '1549 CE', 'ec', QUAK)),
+    'e-hrc': G('hymnsofrussianch00brow', 'John Brownlie (translator), Hymns of the Russian Church, being translations, centos and suggestions from the Greek and Slavonic (London: Henry Frowde, 1920)',
+               'Hymns of the Orthodox Church in English verse, from the Greek and Slavonic, for the great feasts of the year. Free verse renderings, not literal. ' + OLD,
+               lib=('Hymns of the Russian Church (Brownlie, 1920)', 'ec', 'c. 6th–18th c. CE', 'ec', MYST)),
+
+    # ── Jewish ──
+    'e-hew': G('hebrewethica_xxxx_1926_001_4709100', 'Israel Abrahams (editor and translator), Hebrew Ethical Wills (Philadelphia: Jewish Publication Society, 1926; Jewish Classics series)',
+               'Wills in which Jewish fathers, from the eleventh century on, left their children not property but moral and religious counsel: among them Judah ibn Tibbon’s “A Father’s Admonition,” with Abrahams’ introduction. A rare record of ordinary Jewish piety. ' + OLD,
+               lib=('Hebrew Ethical Wills (Israel Abrahams, 1926)', 'ju', 'c. 11th–18th c. CE', 'ju', 'Kabbalah and the Zohar')),
+    'e-cjl': G('codeofjewishlawk0000solo', 'Solomon ben Joseph Ganzfried, Code of Jewish Law (Kitzur Shulchan Aruch), translated by Hyman E. Goldin (New York: Hebrew Publishing Company, 1927)',
+               'The abridged Jewish code of 1864 that most Jewish households used: the order of the day, prayers and blessings, Sabbath and festival laws, the fasts, kashrut, marriage, mourning and daily conduct, in Goldin’s English. How the Talmud’s law is lived. ' + OLD,
+               lib=('Code of Jewish Law, Kitzur Shulchan Aruch (Ganzfried, trans. Goldin, 1927)', 'ju', '1864 CE (trans. 1927)', 'ju', 'The Talmud: argument as worship')),
+    'e-ecm': G('eightchaptersofm00maim', 'Joseph I. Gorfinkle (editor and translator), The Eight Chapters of Maimonides on Ethics (Shemonah Perakim): a psychological and ethical treatise (Columbia University Oriental Studies vol. 7; New York: Columbia University Press, 1912)',
+               'Maimonides’ introduction to his commentary on the Mishnah tractate Avot (about 1168): the soul and its faculties, virtue and vice, the middle way, free will and the knowledge of God, with Gorfinkle’s long introduction. ' + OLD,
+               lib=('The Eight Chapters of Maimonides on Ethics (trans. Gorfinkle, 1912)', 'ju', 'c. 1168 CE', 'ju', 'Kabbalah and the Zohar')),
+    'e-uhg': G('unionhaggadahhom00cent', 'The Union Haggadah: Home Service for the Passover, edited by the Central Conference of American Rabbis (New York, 1923)',
+               'The Passover seder in English as Reform Jews held it in 1923: the kiddush, the four questions, the telling of the Exodus story, the ten plagues, the Hallel, the songs and “Next year in Jerusalem,” with the blessings. The Hebrew is left out of this copy.',
+               strip_hebrew=True,
+               lib=('The Union Haggadah (Central Conference of American Rabbis, 1923): the Passover seder', 'ju', 'liturgy of the 2nd–20th c. CE (ed. 1923)', 'ju', 'The Talmud: argument as worship')),
+    'e-stl': G('selectionsfromtalmud00pola', 'H. Polano (translator), The Talmud: Selections from the Contents of that Ancient Book, its Commentaries, Teachings, Poetry and Legends (London: Frederick Warne, 1876)',
+               'A nineteenth-century anthology for English readers: Talmudic teachings, parables, proverbs and legends on the creation, the patriarchs, the law, ethics, the Messiah and the world to come, with a short account of the Talmud. Much is paraphrase and some is Polano’s own. ' + OLD,
+               lib=('The Talmud: Selections (Polano, 1876)', 'ju', 'c. 200–500 CE (anthology 1876)', 'ju', 'The Talmud: argument as worship')),
+
+    # ── Islamic and Sufi ──
+    'x-gsh': G('gulshanirazmysti00shabuoft', 'E. H. Whinfield (translator), Gulshan i Raz: The Mystic Rose Garden of Sa’d ud din Mahmud Shabistari, the Persian text with an English translation and notes (London: Trübner, 1880)',
+               'The Sufi poem of 1311 in rhyming couplets, written as the answers to fifteen questions about thought, knowledge, God, the soul and the journey to him: a short summary of Sufi teaching on union and the unreality of “I.” The Persian text comes through as noise. ' + OLD,
+               lib=('Gulshan-i Raz, the Mystic Rose Garden (Shabistari, trans. Whinfield, 1880)', 'is', '1311 CE', 'isl', 'Rumi, Ibn')),
+    'x-lwh': G('lawaih00jaamuoft', 'E. H. Whinfield and Mirza Muhammad Kazvini (translators), Lawa’ih: A Treatise on Sufism by Jami, the Persian text with a translation (Oriental Translation Fund, new series vol. 16; London, 1906)',
+               'Jami’s short treatise (about 1480) on the Sufi doctrine of love and being, with the Persian facsimile and an English version: the divine essence, the names, the self and fana (passing away). The Persian comes through as noise. ' + OLD,
+               lib=('Lawa’ih: A Treatise on Sufism (Jami, trans. Whinfield, 1906)', 'is', 'c. 1480 CE', 'isl', 'Rumi, Ibn')),
+    'x-taq': G('tarjumanalashwaq00ibnaiala', 'Reynold A. Nicholson (translator), The Tarjumán al-Ashwáq, a collection of mystical odes by Muhyi’ddín ibn al-‘Arabí, edited from three manuscripts with a literal version (Oriental Translation Fund, new series vol. 20; London, 1911)',
+               'Sixty-one short love poems by Ibn al-Arabi (written at Mecca in 1201) to a young woman, with his own commentary explaining them as expressions of divine love; Nicholson’s English and notes. The Arabic comes through as noise. ' + OLD,
+               lib=('Tarjuman al-Ashwaq: the Interpreter of Desires (Ibn al-Arabi, trans. Nicholson, 1911)', 'is', '1201 CE', 'isl', 'Rumi, Ibn')),
+    'x-dst': G('in.ernet.dli.2015.52959', 'Reynold A. Nicholson (translator), Selected Poems from the Divani Shamsi Tabriz (Cambridge: Cambridge University Press, 1898)',
+               'Forty-eight ghazals of Rumi’s Divan, with the Persian text and Nicholson’s verse translation, and a long introduction on Sufism and on Rumi. The first English book on the Divan. The Persian comes through as noise. ' + OLD,
+               lib=('Selected Poems from the Divani Shamsi Tabriz (Rumi, trans. Nicholson, 1898)', 'is', 'c. 1244–73 CE', 'isl', 'Rumi, Ibn')),
+    'x-spt': G('thespeechestable00unknuoft', 'Stanley Lane-Poole (editor and translator), The Speeches and Table-Talk of the Prophet Mohammad (London: Macmillan, 1882)',
+               'A short selection of the Prophet’s sayings (from the Hadith) and passages of the Qur’an, with an introduction on his life and character by a nineteenth-century English orientalist. A sympathetic and brief reader; the full collections of Hadith are not in the Library. ' + OLD,
+               lib=('The Speeches and Table-Talk of the Prophet Mohammad (Lane-Poole, 1882)', 'is', '7th c. CE (selected 1882)', 'isl', 'Hadith and the prophetic')),
+    'x-hyy': G('historyofhayyibn00ibnu', 'Simon Ockley (translator), The History of Hayy ibn Yaqzan by Abu Bakr ibn Tufayl, in Ockley’s English of 1708 (London: Chapman and Hall, 1929 edition by A. S. Fulton)',
+               'The Andalusian philosophical romance (about 1170) of a boy raised alone on an island who finds God by reason and then meets a man from the world of law and revelation: how reason and revelation reach the same truth. Written in Spain before Maimonides and Ibn Rushd, and a model for Robinson Crusoe. ' + OLD,
+               lib=('The History of Hayy ibn Yaqzan (Ibn Tufayl, trans. Ockley)', 'is', 'c. 1170 CE', 'isl', 'Al-Ghazālī and')),
+
+    # ── India ──
+    'x-hmu': G('thirteenprincipa00hume', 'Robert Ernest Hume (translator), The Thirteen Principal Upanishads, translated from the Sanskrit (Oxford: Oxford University Press, 1921)',
+               'A second translation of the main Upanishads (Brihadaranyaka, Chandogya, Taittiriya, Aitareya, Kaushitaki, Kena, Katha, Isha, Mundaka, Prashna, Mandukya, Shvetashvatara and Maitri), more up to date than Müller’s of 1879, with Hume’s introduction and notes. Hume died in 1948, so his English may still be protected in some countries. ' + OLD,
+               lib=('The Thirteen Principal Upanishads (Hume, 1921)', 'in', 'c. 800–200 BCE', 'upan', 'The Upanishads')),
+    'x-vry': G('RajaYogaAndPatanjalisYogaAphorisms', 'Swami Vivekananda, Raja Yoga, being lectures by Swami Vivekananda, with Patanjali’s Yoga Aphorisms (New York: Longmans, 1896)',
+               'The lectures that introduced yoga to the West: the control of prana, concentration and meditation, the powers and samadhi, with Vivekananda’s own translation and commentary on the Yoga Sutras of Patanjali. Not an exact translation; a Vedantist’s reading. ' + OLD,
+               lib=('Raja Yoga, with Patanjali’s Yoga Aphorisms (Vivekananda, 1896)', 'in', '1895–96 CE', 'yoga', 'Kabir and the Hatha')),
+    'x-vjn': G('JnanaYogaswamiVivekanandaBook', 'Swami Vivekananda, Jnana Yoga: lectures delivered in New York and London (New York: Ramakrishna-Vivekananda Center, 1899)',
+               'Lectures on the yoga of knowledge: maya and illusion, the real nature of man, the Self and its freedom, and the Vedanta philosophy of the One, as Vivekananda gave them in 1895–96. ' + OLD,
+               lib=('Jnana Yoga (Vivekananda, 1899)', 'in', '1895–99 CE', 'yoga', 'Kabir and the Hatha')),
+    'x-vbh': G('in.ernet.dli.2015.195578', 'Swami Vivekananda, Bhakti-Yoga (Calcutta: Prabuddha Bharata, 1896)',
+               'Lectures on the yoga of devotion: the love of God, the teacher, the chosen ideal (ishta), the mantra, and the highest love, as Vivekananda gave them in New York in 1895. ' + OLD,
+               lib=('Bhakti-Yoga (Vivekananda, 1896)', 'in', '1895–96 CE', 'yoga', 'Kabir and the Hatha')),
+    'x-sds': G('Sarva-Darsana-Samgraha.by.Madhavacharya-Vidyaranya.tr.by.E.B.Cowell', 'E. B. Cowell and A. E. Gough (translators), The Sarva-Darsana-Samgraha, or Review of the Different Systems of Hindu Philosophy, by Madhava Acharya (London: Trübner, 1882)',
+               'The Vedantin Madhava’s fourteenth-century tour of the sixteen schools of Indian thought, from the materialist Charvakas through the Buddhists, the Jains and the Nyaya and Mimamsa to his own Advaita, each stated by its own best argument and then answered. A map of Indian philosophy in India’s own words. ' + OLD,
+               lib=('Sarva-Darsana-Samgraha (Madhava, trans. Cowell and Gough, 1882): the sixteen systems of Indian philosophy', 'in', 'c. 1350 CE', 'upan', 'Kabir and the Hatha')),
+    'x-vsr': G('vedantasara00sadauoft', 'J. R. Ballantyne (translator), The Vedanta-sara of Sadananda, with an introduction and an examination of it (Mirzapore: Orphan School Press, 1850; revised 1898)',
+               'A short sixteenth-century handbook of Advaita Vedanta: ignorance, the One, the stages of the world and the soul, and release, with the translator’s introduction and his missionary critique. ' + OLD,
+               lib=('Vedanta-sara (Sadananda, trans. Ballantyne, 1850)', 'in', 'c. 1500 CE', 'upan', 'Kabir and the Hatha')),
+    'x-rmk': G('rmakrishnahisl00mliala', 'F. Max Müller, Râmakrishna: His Life and Sayings (London: Longmans, 1899)',
+               'The first Western book on the Bengali saint Ramakrishna (d. 1886): his life and his sayings, collected from his disciples, in a sympathetic account by the Oxford philologist. Some of the sayings are a translation of the Bengali. ' + OLD,
+               lib=('Ramakrishna: His Life and Sayings (Müller, 1899)', 'in', '1836–86 CE', 'bhakti', 'Kabir and the Hatha')),
+
+    # ── Buddhist and Chinese ──
+    'x-pcn': G('in.ernet.dli.2015.142349', 'Shwe Zan Aung and C. A. F. Rhys Davids (translators), Points of Controversy, or Subjects of Discourse: a translation of the Kathā-Vatthu (London: Pali Text Society, 1915)',
+               'The fifth book of the Abhidhamma Pitaka, ascribed to the monk Tissa at the Third Council: a collection of debates in which the Theravada school corrects the errors of other early schools on the person, the arhat, the nature of the Buddha and the unconditioned. With the commentary. ' + OLD,
+               lib=('Points of Controversy: the Kathavatthu (trans. Aung and Rhys Davids, 1915)', 'bu', 'c. 250 BCE', 'pali', 'The Pali Canon')),
+    'x-bps': G('buddhistpsalms00shinrich', 'S. Yamabe and L. Adams Beck (translators), Buddhist Psalms: translated from the Japanese of Shinran Shonin (Wisdom of the East series; London: John Murray, 1921)',
+               'Hymns of the founder of the Jodo Shinshu (True Pure Land) school (1173–1263): the vow of Amida, trust, grace by other-power, and gratitude, in short English renderings. The first English book on Shinran. ' + OLD,
+               lib=('Buddhist Psalms (Shinran, trans. Yamabe and Adams Beck, 1921)', 'bu', 'c. 1248 CE', 'maha', 'Mahayana: emptiness')),
+    'x-sba': G('sermonsofbuddhis00shakrich', 'Soyen Shaku, Sermons of a Buddhist Abbot: Addresses on Religious Subjects, translated by D. T. Suzuki (Chicago: Open Court, 1906)',
+               'The first Zen master to teach in America (d. 1919) speaks on the law of cause and effect, the Buddhist view of God, Nirvana, the Ten Precepts and the meaning of religion, in Suzuki’s English. Suzuki died in 1966, so his English may still be protected in some countries. ' + OLD,
+               lib=('Sermons of a Buddhist Abbot (Soyen Shaku, trans. D. T. Suzuki, 1906)', 'bu', '1893–1905 CE', 'maha', 'Milarepa and the Gateless')),
+    'x-ltk': G('laotzestaotehkin00laoz', 'Paul Carus (translator), Lao-tze’s Tao-teh-king: Chinese-English, with Introduction, Transliteration, Notes, Etc. (Chicago: Open Court, 1898)',
+               'A second translation of the Daodejing, set beside the Chinese with a character-by-character transliteration, and Carus’s long introduction and notes: the Way, its power and the sage who rules by not acting. The Chinese comes through as noise. ' + OLD,
+               lib=('Tao-teh-king (Lao-tze, trans. Carus, 1898)', 'ch', 'c. 4th c. BCE', 'chin', 'The Daoists')),
+    # ── Greece, Rome and northern Europe ──
+    'x-iam': G('b24884170', 'Thomas Taylor (translator), Iamblichus on the Mysteries of the Egyptians, Chaldeans, and Assyrians (London: Bertram Dobell, 1895; first printed 1821)',
+               'The Neoplatonist Iamblichus’ reply to Porphyry about the gods, the soul, divination and theurgy (c. 300 CE): why sacrifice, prayer and ritual work, how the gods and angels differ and what the Egyptian rites meant. The fullest ancient defence of ritual worship. ' + OLD,
+               lib=('Iamblichus on the Mysteries (trans. Taylor, 1821; ed. 1895)', 'gr', 'c. 300 CE', 'grk', 'Isis and the Neoplatonists')),
+    'x-sdg': G('syriangoddessbei00luciuoft', 'Herbert A. Strong and John Garstang (translators), The Syrian Goddess: being a translation of Lucian’s De Dea Syria, with a Life of Lucian (London: Constable, 1913)',
+               'A second-century Greek’s tour of the great temple of Atargatis at Hierapolis in Syria: the founding myths of the goddess, her priests (the castrated Galli), the great festivals, pilgrimage, the sacred fish and the sacrifices; the one eyewitness account of this cult. ' + OLD,
+               lib=('The Syrian Goddess (Lucian, trans. Strong and Garstang, 1913)', 'gr', 'c. 160 CE', 'grk', 'Isis and the Neoplatonists')),
+    'x-bac': G('bacchaeofeuripid05euri', 'Gilbert Murray (translator), The Bacchae of Euripides (London: George Allen, 1904; this printing 1920)',
+               'Euripides’ last play (about 405 BCE), on King Pentheus of Thebes, who refuses to accept the new god Dionysus and is torn apart by his own mother in the god’s ecstatic rites: the chief ancient dramatic witness to the frenzy of Dionysian worship. In Murray’s verse. Murray died in 1957, so his English may still be protected in some countries. ' + OLD,
+               lib=('The Bacchae of Euripides (trans. Gilbert Murray, 1904)', 'gr', 'c. 405 BCE', 'grk', 'The mysteries of Eleusis')),
+    'x-luc': G('PG785', 'Titus Lucretius Carus, On the Nature of Things, translated into English verse by William Ellery Leonard (London: J. M. Dent, 1916; Project Gutenberg #785)',
+               'The Epicurean poem (about 55 BCE) in six books, which argues that the gods take no part in the world and that death is nothing to us: atoms and void, the soul, sense, the origin of the world and religion, meteors and the plague. A pagan Roman’s case against fear of the gods. ' + OLD,
+               lib=('On the Nature of Things (Lucretius, trans. Leonard, 1916)', 'gr', 'c. 55 BCE', 'grk', 'The Stoics and Rome')),
+    'x-vol': G('volsungasaga00eir', 'William Morris and Eiríkr Magnússon (translators), The Story of the Volsungs and Niblungs, with Certain Songs from the Elder Edda (London: Walter Scott, 1888; this edition 1907)',
+               'The Icelandic saga of Sigurd the Dragon-slayer, Brynhild and the cursed gold of Andvari (about 1270), told from older Norse songs: the stuff of Wagner’s Ring. With some poems of the Elder Edda. In Morris’s archaic English. ' + OLD,
+               lib=('The Volsunga Saga (trans. Morris and Magnússon, 1888)', 'ne', 'c. 1270 CE (older songs)', 'norse', 'The Viking Age')),
+
+    # ── The Americas ──
+    # ── Celtic ──
+    'x-fab': G(['fourancientbooks01skenuoft', 'fourancientbooks02skenuoft'], 'William F. Skene, The Four Ancient Books of Wales, containing the Cymric Poems attributed to the Bards of the Sixth Century, 2 vols. (Edinburgh: Edmonston and Douglas, 1868)',
+               'The Book of Aneirin, the Book of Taliesin, the Black Book of Carmarthen and the Red Book of Hergest in Welsh with English translations, with Skene’s introduction on the early Welsh bards, and the Welsh Triads. The poems of Taliesin hold some of the oldest Welsh mythic verse, among them “The Battle of the Trees” and the “Hostile Confederacy.” The Welsh comes through as noise in places. ' + OLD,
+               labels=['Volume 1', 'Volume 2'],
+               lib=('The Four Ancient Books of Wales (Skene, 1868): Taliesin, Aneirin and the Welsh bards, 2 volumes', 'ne', 'c. 6th–13th c. CE', 'celt', 'Celtic myth')),
+    'x-bvb': G('voyageofbransono01meye', 'Kuno Meyer (editor and translator), The Voyage of Bran, Son of Febal, to the Land of the Living: an Old Irish Saga, with an Essay upon the Irish Vision of the Happy Otherworld by Alfred Nutt (London: David Nutt, 1895)',
+               'The Old Irish tale (about 700 CE) of Bran, who is called by a woman from the Otherworld and sails to the Land of Women: an early picture of the Celtic Otherworld, which mingles Christian and older ideas. The Irish comes through as noise. ' + OLD,
+               lib=('The Voyage of Bran (Meyer, 1895), with the essay on the Irish Otherworld', 'ne', 'c. 700 CE', 'celt', 'Celtic myth')),
+    'x-sgd': G('silvagadelicaixx02ogra', 'Standish H. O’Grady (translator), Silva Gadelica (I–XXXI): A Collection of Tales in Irish, with Extracts Illustrating Persons and Places, volume 2: Translation and Notes (London: Williams and Norgate, 1892)',
+               'Thirty-one Irish tales from medieval manuscripts, in English: Fenian lays and tales of Finn and the Fianna, voyages, saints’ lives, the Colloquy of the Ancients and the story of the Fianna with Saint Patrick. The Irish in volume 1 is not in the Library. ' + OLD,
+               lib=('Silva Gadelica, vol. 2, the English translation (O’Grady, 1892): Irish tales of the Fianna, voyages and saints', 'ne', 'c. 12th–15th c. CE (older tales)', 'celt', 'Celtic myth')),
+    'x-gfm': G('PG14465', 'Lady Gregory (arranger), Gods and Fighting Men: The Story of the Tuatha de Danaan and of the Fianna of Ireland (London: John Murray, 1904; Project Gutenberg #14465)',
+               'The Irish mythological and Fenian cycles told as one story in a spoken English from the west of Ireland: the Tuatha de Danaan and their battles, the Children of Lir, Finn and the Fianna and Oisin in the Land of Youth. A retelling, not a literal translation, with Yeats’s preface. Lady Gregory died in 1932, and her retelling may still be protected in some countries. ' + OLD,
+               lib=('Gods and Fighting Men (Lady Gregory, 1904): the Irish Tuatha de Danaan and Fianna cycles', 'ne', 'c. 8th–12th c. CE (retold 1904)', 'celt', 'Celtic myth')),
+
+    # ── Peoples ──
+    'a-asht': G('ashanti0000ratt', 'R. S. Rattray, Ashanti (Oxford: Clarendon Press, 1923)',
+                'A British colonial anthropologist’s account of the Ashanti of Ghana: Nyame the sky god, the earth, the ancestors and the gods of the river and the forest, the Golden Stool, the priests and the funeral customs, with texts from his Ashanti informants. ' + FIELD,
+                lib=('Ashanti (R. S. Rattray, 1923)', 'tb', 'recorded 1920s CE', 'fld', None)),
+    'a-shor': G('maorireligionmyt00shor', 'Edward Shortland, Maori Religion and Mythology, illustrated by translations of traditions, karakia, or prayers, and songs (London: Longmans, 1882)',
+                'A Native Secretary’s selection of Maori tradition: creation, the gods, tapu, the karakia (prayers) and songs, with the Maori text and Shortland’s English, from an early colonial observer. ' + FIELD,
+                lib=('Maori Religion and Mythology (Edward Shortland, 1882)', 'tb', 'recorded 1840s–70s CE', 'fld', None)),
+    'a-tsim': G('tsimshianmytholo00boas', 'Franz Boas, Tsimshian Mythology, based on texts recorded by Henry W. Tate (Thirty-first Annual Report of the Bureau of American Ethnology, 1909–10; Washington, 1916)',
+                'The Tsimshian of the Northwest Coast: the myths and tales of the Raven and Txamsem, the origin of the clans, the Sun, the Salmon people and the dead, as set down by Henry Tate (a Tsimshian) and Boas, with Boas’s long analysis. Many of the stories were owned by clans and were told only at set times. ' + FIELD,
+                lib=('Tsimshian Mythology (Franz Boas, 1916), texts recorded by Henry W. Tate', 'tb', 'recorded 1903–14 CE', 'fld', None)),
+    'a-hako': G('hakopawneecer00fletrich', 'Alice C. Fletcher, The Hako: A Pawnee Ceremony (Twenty-second Annual Report of the Bureau of American Ethnology, part 2; Washington, 1904)',
+                'The Pawnee ceremony of the Hako (the “Father and Child” rite) with its songs and words, recorded by Alice Fletcher from the priest Tahirussawichi, with the melodies by Edwin Tracy and the ritual in the Pawnee and English. The Pawnee also keep the rite among themselves; this book is an outsider’s record of 1898. ' + FIELD,
+                lib=('The Hako: A Pawnee Ceremony (Alice C. Fletcher, 1904)', 'tb', 'recorded 1898 CE', 'fld', None)),
+}

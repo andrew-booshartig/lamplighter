@@ -1,0 +1,102 @@
+[
+ {
+  "id": "prehistoric",
+  "name": "Prehistoric evidence",
+  "description": "Archaeological traces of ritual and belief before writing: burials, figurines, cave art, monumental sanctuaries."
+ },
+ {
+  "id": "ane",
+  "name": "Ancient Near East",
+  "description": "Religions of Mesopotamia, Anatolia, the Levant, Elam and pre-Islamic Arabia."
+ },
+ {
+  "id": "egypt",
+  "name": "Ancient Egypt and the Nile Valley",
+  "description": "Religion of pharaonic Egypt and of Nubia/Kush."
+ },
+ {
+  "id": "iranian",
+  "name": "Iranian religions",
+  "description": "Zoroastrianism and related Iranian traditions, Manichaeism, Mandaeism, Yazidism, Yarsanism."
+ },
+ {
+  "id": "abrahamic",
+  "name": "Abrahamic religions",
+  "description": "Judaism, Christianity, Islam, the Bahá'í Faith and their branches and offshoots."
+ },
+ {
+  "id": "hellenistic",
+  "name": "Late antique mystery, gnostic and philosophical religion",
+  "description": "Mystery cults, Gnosticism, Hermeticism and Platonist religious philosophy of the Greco-Roman world."
+ },
+ {
+  "id": "european",
+  "name": "Pre-Christian Europe",
+  "description": "Greek, Roman, Etruscan, Celtic, Germanic, Norse, Slavic, Baltic, Finnic, Sámi and other European religions."
+ },
+ {
+  "id": "dharmic",
+  "name": "Indian religions",
+  "description": "Hinduism, Buddhism, Jainism, Sikhism and other traditions that arose in South Asia."
+ },
+ {
+  "id": "south_asian_indigenous",
+  "name": "Indigenous religions of South and Himalayan Asia",
+  "description": "Tribal and Indigenous traditions of India, Nepal, Pakistan, Sri Lanka and the eastern Himalaya."
+ },
+ {
+  "id": "east_asian",
+  "name": "East Asian religions",
+  "description": "Chinese, Korean, Japanese and Vietnamese traditions, including Confucianism, Daoism, Shinto and folk religion."
+ },
+ {
+  "id": "inner_asian",
+  "name": "Inner Asian and Arctic religions",
+  "description": "Tengrism, Mongolian and Siberian shamanism, Bon, Uralic and Arctic Eurasian traditions."
+ },
+ {
+  "id": "southeast_asian",
+  "name": "Indigenous religions of Southeast Asia",
+  "description": "Indigenous and local traditions of mainland and island Southeast Asia, including the Philippines."
+ },
+ {
+  "id": "african",
+  "name": "African traditional religions",
+  "description": "Indigenous religions of sub-Saharan and North Africa and their modern revivals."
+ },
+ {
+  "id": "afro_diasporic",
+  "name": "Afro-diasporic religions",
+  "description": "Religions formed by Africans and their descendants in the Americas."
+ },
+ {
+  "id": "americas",
+  "name": "Indigenous religions of the Americas",
+  "description": "Religions of the Indigenous peoples of North, Central and South America and the Caribbean."
+ },
+ {
+  "id": "oceania",
+  "name": "Indigenous religions of Australia and the Pacific",
+  "description": "Aboriginal Australian, Torres Strait Islander, Polynesian, Melanesian and Micronesian traditions."
+ },
+ {
+  "id": "esoteric",
+  "name": "Western esoteric and metaphysical currents",
+  "description": "Hermetic, Rosicrucian, Theosophical, occult, Spiritualist and New Thought traditions."
+ },
+ {
+  "id": "modern_pagan",
+  "name": "Contemporary Paganism",
+  "description": "Modern revivals and reconstructions of pre-Christian religions, and Wicca."
+ },
+ {
+  "id": "nrm",
+  "name": "Other new religious movements",
+  "description": "Modern religions not derived from a single older family (UFO religions, Scientology, parody religions and others)."
+ },
+ {
+  "id": "secular",
+  "name": "Humanist and rationalist traditions",
+  "description": "Deism, religions of humanity, Ethical Culture, Humanism and secular congregations."
+ }
+]

@@ -1,0 +1,36 @@
+name: Tests
+# Runs on pull requests and by hand (Actions tab, "Run workflow"). It builds the map data and the app page from the sources, then runs every test that does not need the data folders;
+# the tests that do are listed in lamplighter/tests/ci-needs-data.txt (they pass on a copy that has texts/, similar/ and the other data folders beside Lamplighter.html).
+on:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Syntax check
+        run: |
+          for f in lamplighter/src/js/*.js lamplighter/tests/*.js lamplighter/tools/*.js; do node --check "$f" || exit 1; done
+          python3 -m py_compile lamplighter/build.py lamplighter/tools/*.py
+      - name: Build the map data and the app page
+        run: |
+          python3 -I lamplighter/tools/build_atlas.py > /dev/null
+          python3 lamplighter/build.py
+      - name: Tests
+        run: |
+          failed=""
+          for f in lamplighter/tests/*.test.js; do
+            name=$(basename "$f")
+            if grep -qx "$name" lamplighter/tests/ci-needs-data.txt; then echo "skipped (needs the data folders): $name"; continue; fi
+            if node "$f" > /tmp/test-out.txt 2>&1; then echo "ok $name"; else echo "FAILED $name"; tail -n 20 /tmp/test-out.txt; failed="$failed $name"; fi
+          done
+          if [ -n "$failed" ]; then echo "Failed:$failed"; exit 1; fi

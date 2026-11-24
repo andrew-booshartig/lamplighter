@@ -1,0 +1,22 @@
+{
+  "about": "Every Library collection as a pack of texts that a download can leave out (tools/make_release.py --without=slug,slug) or add later (the optional ones have a zip of their own). Slugs are short names for the collections in src/js/6g-library.js; tests/packs.test.js checks that every collection is listed here exactly once.",
+  "packs": [
+    {"slug": "bible", "collection": "The Bible"},
+    {"slug": "second-temple", "collection": "Second Temple and early Christian writings"},
+    {"slug": "near-east", "collection": "The ancient Near East and Egypt"},
+    {"slug": "greece-rome", "collection": "Greece and Rome"},
+    {"slug": "india", "collection": "India"},
+    {"slug": "iran-islam", "collection": "Iran and Islam"},
+    {"slug": "china-japan", "collection": "China and Japan"},
+    {"slug": "northern-europe", "collection": "Northern Europe"},
+    {"slug": "americas-africa-pacific", "collection": "The Americas, Africa and the Pacific"},
+    {"slug": "freedom", "collection": "Freedom of conscience"},
+    {"slug": "occult", "collection": "Occult and esoteric", "optional": true},
+    {"slug": "freemasonry", "collection": "Freemasonry and initiatory orders", "optional": true},
+    {"slug": "shamanic", "collection": "Shamanic and tribal traditions", "optional": true},
+    {"slug": "folklore", "collection": "Folklore, witchcraft and the fairy faith", "optional": true},
+    {"slug": "folk-tales", "collection": "Folk tales beyond Europe", "optional": true},
+    {"slug": "modern-study", "collection": "Modern movements and study aids"},
+    {"slug": "imagined", "collection": "The imagined shelf", "optional": true}
+  ]
+}

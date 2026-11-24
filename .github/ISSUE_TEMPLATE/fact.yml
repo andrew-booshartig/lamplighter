@@ -1,0 +1,29 @@
+name: A fact, date or translation looks wrong
+description: Something the app states is not what a source says.
+title: "[Fact] "
+labels: ["accuracy"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Which page, and which statement?
+      description: The name of the page or its address, and the sentence or date.
+    validations:
+      required: true
+  - type: textarea
+    id: right
+    attributes:
+      label: What do you think is right?
+      description: Say it as exactly as you can.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Where did you read it?
+      description: A book with its edition and page, a link that opens, or the name of a field's standard reference. A source we can open beats an opinion.
+  - type: input
+    id: who
+    attributes:
+      label: Your standing, if it helps (optional)
+      description: For example "I teach Mesopotamian religion". The project has had no specialist read it yet, and says so.

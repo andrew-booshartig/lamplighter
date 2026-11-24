@@ -1,0 +1,52 @@
+[
+ {
+  "id": "religion",
+  "label": "Religion",
+  "blurb": "The beginnings of traditions, and the moments when states took up a faith. Drawn from the map data, so it is the same record as the map and the tradition pages.",
+  "source": "atlas",
+  "order": 1
+ },
+ {
+  "id": "states",
+  "label": "Empires and states",
+  "blurb": "Kingdoms, empires and the large political changes.",
+  "source": "world",
+  "order": 2
+ },
+ {
+  "id": "trade",
+  "label": "Trade and migration",
+  "blurb": "Where goods, people, plants, animals and diseases travelled, and by which routes.",
+  "source": "world",
+  "order": 3
+ },
+ {
+  "id": "science",
+  "label": "Science and technology",
+  "blurb": "Writing, tools, mathematics, instruments, printing and the sciences.",
+  "source": "world",
+  "order": 4
+ },
+ {
+  "id": "ideas",
+  "label": "Ideas and arts",
+  "blurb": "Literature, law, philosophy, building and the arts.",
+  "source": "world",
+  "order": 5
+ },
+ {
+  "id": "disaster",
+  "label": "Disease and disaster",
+  "blurb": "Plagues, eruptions, earthquakes, famines and changes of climate.",
+  "source": "world",
+  "order": 6
+ },
+ {
+  "id": "conflict",
+  "label": "Conflict",
+  "blurb": "Wars, each with its parties, its causes (religious, political, economic or mixed, each graded) and, where one exists, a range for the dead. A pilot of eight; the war section will extend it.",
+  "source": "world",
+  "order": 7,
+  "pilot": 1
+ }
+]

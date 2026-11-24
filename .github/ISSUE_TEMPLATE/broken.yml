@@ -1,0 +1,22 @@
+name: Something is broken or confusing
+description: A page does not work, a button does nothing, a sentence is hard to follow, something you expected is missing.
+title: "[Broken] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+      description: Plain words are best. You can paste the note the app's Setup box writes (Setup, "Tell the maker what to change"): it has the page, your browser and your screen.
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: The page (the address in your browser, or its name)
+      placeholder: "#/history or Library, then Random"
+  - type: input
+    id: where
+    attributes:
+      label: Your device and browser
+      placeholder: "iPhone, Safari / Windows laptop, Chrome / inside the Facebook app"

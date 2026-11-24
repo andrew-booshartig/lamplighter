@@ -1,0 +1,35 @@
+// Shared by the render, integrity and fuzz tests: loads every Path module against a stub DOM.
+const fs = require('fs'); const path = require('path');
+const dir = path.join(__dirname, '../src/js');
+const rd = (f) => fs.readFileSync(path.join(dir, f), 'utf8').replace(/\nif \(typeof module !== 'undefined' && module\.exports\)[^\n]*/g, '');
+const files = ['23-data-meditation.js', ...fs.readdirSync(dir).filter((f) => /^(24|25|26|27|28|29|2[a-z])-/.test(f)).sort(), '69-path.js', '6a-intentions.js', '6b-world.js', '6c-texts.js', '6d-passage.js', '6d2-passage-filters.js', '6e-traditions.js', '6g-library.js', '6gs-shelves.js', '6k-reader.js', '6kp-source.js','6l-threads.js', '6m-search.js', '6n-palette.js', '6o-common.js', '6p-atlas.js', '6q-atlas-pages.js', '6r-calendars.js', '6s-cosmos.js', '6t-atlas-dive.js', '6u-similar.js', '6v-motifs.js', '6x-wander.js', '6w-stories.js', '6y-rites.js', '6z-hidden.js', '6zy-movements.js', '6zza-tradlist.js','6zs-plants.js','6zt-sound.js','6zu-image.js','6zv-imagined.js','6z-bibles.js', '6kr-reading.js', '6zw-words.js', '6zx-dictionary.js', '6ka-paged.js', '6kb-sheets.js', '6kl-listen.js', '6zp-offline.js', '6zf-freedom.js', '6j-glossary.js', '6zq-books.js', '6zr-local.js', '6zua-gallery.js', '6zub-sky.js', '6zze-methods.js'];
+const prefix = `
+const REFS = {}; const mem = {};
+const store = { get: (k, d) => (k in mem ? JSON.parse(mem[k]) : d), set: (k, v) => { mem[k] = JSON.stringify(v); }, del: (k) => { delete mem[k]; } };
+const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const icon = (n) => '<svg data-i="' + n + '"></svg>'; const clamp = (x, a, b) => Math.min(b, Math.max(a, x)); const isNum = (x) => typeof x === 'number' && isFinite(x);
+const isoDay = () => '2026-11-14'; const debounce = (f) => f; const download = () => {}; const toast = () => {}; const uid = () => 'x';
+const stub = { addEventListener() {}, removeEventListener() {}, value: '', click() {}, style: {}, textContent: '' };
+const sha256 = (s) => 'h' + s.length; const randInt = () => 0; const randHex = () => 'abcdef012345'; let __lcg = 12345; const randFloat = () => { __lcg = (__lcg * 1664525 + 1013904223) % 4294967296; return __lcg / 4294967296; }; const randShuffle = (a) => a.slice(); const randSeed = () => 'a'.repeat(32); const randStream = (seed) => { let a = 7 + String(seed).length; return () => { a = (a * 1664525 + 1013904223) % 4294967296; return a / 4294967296; }; }; const randCode = (x) => x; const randCodeSeed = (x) => x; const randSeedOk = (s) => /^[0-9a-f]{32}$/.test(String(s)); const RANDT = { count: 0, digest: () => '', start() {}, stop() {}, reset() {} }; const modal = async () => null; const confirmBox = async () => true;
+const fmt = { date: () => 'Nov 14, 2026' }; const prefersReducedMotion = () => false; const mem2 = {};
+const $ = (sel) => (globalThis.__q && globalThis.__q[sel]) || stub; const $$ = (sel) => (globalThis.__qa && globalThis.__qa[sel]) || [];
+const UI = { evidence: () => '<ev/>', wireInfo() {} };
+const Router = { render() {} }; const Pages = {}; const Speech = { cancel() {} };
+const fmtMin = (m) => (m === 2.5 ? '2½ min' : m + ' min');
+const MED = { prefs: () => ({}), log: () => [{ intention: 'f2', minutesActual: 12 }] }; const quickOpts = () => ({}); const runSit = async () => null; const openSheet = async () => null;
+const location = { hash: '' };
+const APP = { name: 'The Lamplighter Project', short: 'Lamplighter', legacy: ['Beatlab'], version: 'unstamped', release: null, ns: 'beatlab.v1.' };
+const h = (html) => ({ hidden: false, innerHTML: html, remove() {}, addEventListener() {}, querySelector: () => null }); const document = { body: { appendChild() {} }, documentElement: { scrollHeight: 1000 }, activeElement: null, createElement: () => ({ className: '', dataset: {}, style: {}, innerHTML: '', id: '', offsetHeight: 0, remove() {}, classList: { add() {}, remove() {}, contains: () => false, toggle() {} }, matches: () => false, contains: () => false, removeEventListener() {}, querySelector: () => null, scrollIntoView() {}, addEventListener() {}, setAttribute() {}, appendChild() {}, getBoundingClientRect: () => ({ width: 700, height: 20, left: 0, top: 0 }) }), addEventListener() {}, removeEventListener() {}, querySelector: () => null, querySelectorAll: () => [] }; const window = { addEventListener() {}, removeEventListener() {}, getSelection: () => null, scrollTo() {}, scrollBy() {}, innerWidth: 1280, innerHeight: 800 }; const innerHeight = 800; const requestAnimationFrame = () => 0;
+if (typeof libAttachTexts === 'undefined') { var libAttachTexts = function () {}; } /* the Library view calls it when the text-reader module (6c-texts.js) is not loaded in this harness */
+`;
+const M = new Function(prefix + files.map(rd).join('\n') + '\nreturn { window, document, location, pathResumeHTML, pathResumeItems, pathShelfFill, shelfItem, promptSwitch, movementsPageHTML, movFilters, movHref, movCardHTML, MOVEMENTS, MOV_BY_ID, APP, releaseLabel, releaseOk, releaseCopyLine, dictEntryHTML, dictItemHTML, dictSectionHTML, DICT, libAttachTexts, libLeftOut, libLeftOutId, leftOutControl, leftOutAllLabel, LEFTOUT_KEY, READER_NAME, OWN, srchCollOf, srchCollName, BIB, Pages, PATH, PATH_STATIONS, LIB, mem, store, location, PATH_TABS, PATH_GROUPS, STORIES, STORY_BY_ID, RITES, RITE_BY_ID, simMotifInit, ERAS, STATION_TIME, ECHO_KINDS, THEMES, PRACTICES, PATH_PRACTICES, ERA_BY_ID, PATH_DAYS, INT, ECHO_LINKS, TXT, LIB_BY_ID, TRADITIONS, TRAD_BY_ID, TRAD_OF_STATION, tradTexts, LINKS_GENERAL, LIB_COLLECTIONS, LIB_GROUPS, chronicleItems, isOtherLanguage, textMayHaveOriginals, GLOSSARY, GLOSS_TRADS, wordsFor, readerHTML, paraHTML, rtGet, THREADS, MARKS, PARALLELS, libContinueHTML, shfContext, shelfOf, shelfBtnHTML, shelvesStripHTML, shelveBox, shelfRefresh, shfMarkRead, SHELVES, pathShelvesView, shelfCardHTML, libContinueFill, libContinueLeft, threadNew, threadAddItem, threadLink, resolveParallel, srchRun, srchIds, srchOpts, srchHash, palItems, palRank, compileQuery, commonOverlap, COMMON_CONCEPTS, srchRecent, SRCH, SECTIONS, secLocate, secKey, secNavHTML, secHeadHTML, secAllKeys, BELIEFS, beliefOf, BELIEF_FEATURED, SHELF_BELIEF, shelfBelief, shelvesOfBelief, LIB_BELIEF_ORDER, rdWhoHTML, rdPlaceOf, galleryGoHTML, psgTies };')();
+const stub = { addEventListener() {}, removeEventListener() {}, value: '', click() {}, style: {}, textContent: '', scrollIntoView() {}, insertAdjacentHTML() {} };
+function render(parts, query = {}) {
+  const pbody = { innerHTML: '', querySelector: () => stub, addEventListener() {} };
+  const root = { innerHTML: '', querySelector: (s) => (s === '#pbody' ? pbody : stub), addEventListener() {}, removeEventListener() {} };
+  const cleanup = M.Pages.path.mount(root, parts, query);
+  if (typeof cleanup === 'function') cleanup();
+  return { head: root.innerHTML, body: pbody.innerHTML };
+}
+const badText = (s) => /undefined|\[object|NaN|>null</.test(s);
+module.exports = { M, render, stub, badText };

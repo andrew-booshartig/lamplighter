@@ -61,6 +61,9 @@ const METH_RELEASES = [
   { stamp: null, date: null, items: [
     'Nothing yet: the changes made after the release below are listed here when the next release is built.',
   ] },
+  { stamp: '2026-11-24-58a715', date: '2026-11-24', items: [
+    'The feedback box now has a button that opens the project’s GitHub issue page, for people with no e-mail address to write to; you still copy or save the note yourself, and the app sends nothing.',
+  ] },
   { stamp: '2026-11-24-1aaf56', date: '2026-11-24', items: [
     'Find similar was rebuilt: it now searches 445 texts (319,867 passages), the newest ones included; nine of the newest are left out because they crowded out the scriptures (the reasons are in the tools folder).',
     'A link to the site can show a name, a sentence and a picture on Facebook and in messages: the page carries a plain description, and the site builder adds a share picture and the tags those apps read.',

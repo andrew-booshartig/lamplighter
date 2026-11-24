@@ -7,6 +7,7 @@ const FEEDBACK_BETA = true;      /* the pre-release switch (the name is older th
 const feedbackStageA = () => (/^[aeiou]/i.test(FEEDBACK_STAGE) ? 'an ' : 'a ') + FEEDBACK_STAGE;      /* “an alpha”, “a beta” */
 const feedbackStageCap = () => FEEDBACK_STAGE.charAt(0).toUpperCase() + FEEDBACK_STAGE.slice(1);
 const FEEDBACK_TO = '';      /* the maker's e-mail address, if they want an “Email it” button on the page; empty: the page offers Copy and Save only */
+const FEEDBACK_ISSUES = 'https://github.com/andrew-booshartig/lamplighter/issues/new/choose';      /* where a person with no address to e-mail can send a note: the project's public issue page (a link that opens only when clicked, in a new tab; the app sends nothing). Empty: no such button. Used when FEEDBACK_TO is empty */
 const FB_KINDS = [['broken', 'Something is broken'], ['confusing', 'Something is confusing'], ['missing', 'Something is missing'], ['wrong', 'Something is wrong (a fact, a date, a translation)'], ['like', 'Something I like'], ['other', 'Something else']];
 const FB_NOTE_MAX = 4000;
 /* o = { kind, note, page (a route like #/path/library, or ''), env: null | { release, version, ua, screen, window, theme, systemTheme, reducedMotion, language, origin, storage } } */
@@ -32,4 +33,4 @@ function feedbackMailHref(to, report) {
   const body = report.length > 1500 ? report.slice(0, 1480) + '\n[shortened: use Copy or Save in the Lamplighter Project for the whole note]\n' : report;
   return 'mailto:' + to + '?subject=' + encodeURIComponent('The Lamplighter Project ' + FEEDBACK_STAGE + ' feedback') + '&body=' + encodeURIComponent(body);
 }
-if (typeof module !== 'undefined' && module.exports) module.exports = { FEEDBACK_STAGE, FEEDBACK_BETA, feedbackStageA, feedbackStageCap, FEEDBACK_TO, FB_KINDS, FB_NOTE_MAX, feedbackReport, feedbackFileName, feedbackMailHref };
+if (typeof module !== 'undefined' && module.exports) module.exports = { FEEDBACK_STAGE, FEEDBACK_BETA, feedbackStageA, feedbackStageCap, FEEDBACK_TO, FEEDBACK_ISSUES, FB_KINDS, FB_NOTE_MAX, feedbackReport, feedbackFileName, feedbackMailHref };

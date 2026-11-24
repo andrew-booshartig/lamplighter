@@ -34,7 +34,9 @@ A free library and research tool for studying human religion. It sets texts, dat
 
 ## Try it
 
-The hosted version is being prepared. Until it is up, build the app from this repository (below) and open `Lamplighter.html`: the timeline, the map, the traditions and the tools work without the data kit; the texts, the Bibles, the dictionary and Find similar come with the release kit.
+**https://lamplighter-project.pages.dev** opens the whole app, library included, on a phone or a laptop: nothing to install and no account. On an iPhone, Share, then Add to Home Screen, and it opens like an app. In the built-in browser of Facebook or Instagram it works but cannot be saved for offline use; open it in your own browser for that.
+
+To run your own copy instead, or to build it from this repository, see below.
 
 ## Run your own copy
 

@@ -1,0 +1,21 @@
+CC0 1.0 Universal: No Rights Reserved
+
+To the extent possible under law, the Lamplighter Project contributors have waived all copyright and
+related or neighbouring rights to the content written for this project: the lessons,
+stations, cards, rites, stories, hidden-currents entries, glossary, parallels, themes,
+the catalogue and map data compiled for the Atlas, and the notes and commentary around
+them. You may copy, modify, distribute and perform the work, even for commercial
+purposes, all without asking permission.
+
+Full legal text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+What this does not cover
+------------------------
+A licence cannot take a public-domain text out of the public domain, and cannot give
+rights to a text it does not own. The 487 texts in texts/ and the Bibles pack in bibles/
+each keep their own status (public domain or openly licensed English translations; the
+Universal Declaration of Human Rights keeps the United Nations' own terms of use, and the
+transcription of Madison's Memorial and Remonstrance comes from a University of Chicago
+Press site whose page is marked (c) 1987, though Madison's own words of 1785 are public domain),
+recorded with their translator and source in texts/LICENSES.txt and bibles/LICENSES.txt.
+Quotations from other works in the notes are credited where they appear.

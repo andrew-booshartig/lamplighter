@@ -70,8 +70,9 @@ def check(base, kept):
         if HOMEPATH.search(text): problems.append(f'{f} names a path on a computer ({HOMEPATH.search(text).group(0)})')
         bad = sorted({m for m in EMAIL.findall(text) if not OK_EMAIL.search(m)})
         if bad and not f.startswith('lamplighter/tools/atlas_src/') and f != 'OUTREACH.md': warnings.append(f'{f}: e-mail addresses {", ".join(bad[:3])}{" ..." if len(bad) > 3 else ""} (check they are meant to be public)')
-    for lic, rel in (('LICENSE', 'lamplighter/release/LICENSE-CODE.txt'), ('LICENSE-CONTENT.txt', 'lamplighter/release/LICENSE-CONTENT.txt')):
-        if (base / lic).exists() and (base / rel).exists() and (base / lic).read_bytes() != (base / rel).read_bytes(): problems.append(f'{lic} differs from {rel}')
+    if (base / 'LICENSE').exists() and (base / 'lamplighter/release/LICENSE-CODE.txt').exists():      # the root file is the plain MIT text (so that GitHub names the licence); the kit copy adds a paragraph about the content and the texts
+        if not (base / 'lamplighter/release/LICENSE-CODE.txt').read_text(encoding='utf8').startswith((base / 'LICENSE').read_text(encoding='utf8').rstrip()): problems.append('LICENSE is not the start of lamplighter/release/LICENSE-CODE.txt')
+    if (base / 'LICENSE-CONTENT.txt').exists() and (base / 'lamplighter/release/LICENSE-CONTENT.txt').exists() and (base / 'LICENSE-CONTENT.txt').read_bytes() != (base / 'lamplighter/release/LICENSE-CONTENT.txt').read_bytes(): problems.append('LICENSE-CONTENT.txt differs from lamplighter/release/LICENSE-CONTENT.txt')
     readme = base / 'README.md'
     if readme.exists():                                      # relative links in the landing page must point at something in the copy
         for m in re.finditer(r'(?:\]\(|src=")(?!https?:|#|mailto:)([^)"\s#]+)', readme.read_text(encoding='utf8')):

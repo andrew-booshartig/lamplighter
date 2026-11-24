@@ -8,13 +8,13 @@ notes, checks what it copied, and makes the one commit a first push needs. It ne
 
     python3 -I lamplighter/tools/make_public_repo.py [--out=DIR] [--author="Name <email>"] [--include-internal] [--no-commit] [--check]
     python3 -I lamplighter/tools/make_public_repo.py --sync=DIR [--include-internal]
-        --out=DIR            where to write (default: a folder called Lamplighter-github next to the project folder); a folder that is not empty is refused unless this tool made it (git's own folder holds the marker), and then it is made again
+        --out=DIR            where to write (default: ~/Lamplighter-github, in the home folder, NOT on the Desktop: macOS syncs the Desktop with iCloud, which makes "name 2" copies of files that are re-made quickly, in .git as well); a folder that is not empty is refused unless this tool made it (git's own folder holds the marker), and then it is made again
         --include-internal   keep the internal notes too (the public copy then holds everything the working repository holds)
         --author="Name <email>"  the commit's author and committer (default: the project's own noreply identity below); for a copy that is to be credited to a GitHub account, give that account's name and its
                              users.noreply.github.com address (github.com/settings/emails), never a personal one
         --no-commit          copy and check, but do not run git init and git commit
         --check              copy to a scratch folder, report, delete it (for the test)
-        --sync=DIR           bring a copy this tool made EARLIER up to date, after it has been pushed and has a history of its own: files that changed are copied over, files that are no longer tracked (or are now
+        --sync=DIR           bring a copy this tool made EARLIER up to date (or a fresh clone of it, with the marker added: echo ok > DIR/.git/lamplighter-public-export), after it has been pushed and has a history of its own: files that changed are copied over, files that are no longer tracked (or are now
                              internal) are removed, and nothing is committed: look at `git status` and `git diff` in DIR, then commit and push as you like
 
 The commit's author is "Lamplighter Project <noreply@lamplighter.invalid>", the one the working repository already uses, so no personal e-mail address enters the history; a person who wants the commit
@@ -109,7 +109,7 @@ def main():
         print('  nothing was committed: look at git status and git diff in that folder, then commit and push as you like')
         sys.exit(1 if problems else 0)
     check_only = '--check' in args
-    out = pathlib.Path(opt('out')).expanduser() if opt('out') else root.parent / 'Lamplighter-github'
+    out = pathlib.Path(opt('out')).expanduser() if opt('out') else pathlib.Path.home() / 'Lamplighter-github'
     if check_only:
         out = pathlib.Path(tempfile.mkdtemp(prefix='lamplighter-public-')); out.rmdir()
     if out.exists() and any(out.iterdir()):
